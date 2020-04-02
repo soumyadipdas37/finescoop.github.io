@@ -2,7 +2,7 @@
 	<div class="container mx-auto px-16 pt-10 pb-6">
 		<div class="flex flex-wrap">
 			<!-- For Businesses !-->
-			<div class="w-full md:w-1/4 text-center md:text-left">
+			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
 				<h5 class="uppercase mb-2 font-bold">Categories</h5>
 				<ul class="mb-4">
 					@foreach([
@@ -26,28 +26,23 @@
 			</div>
 			<!-- // For Businesses !-->
 
-			<!-- For individuals !-->
-			<div class="w-full md:w-1/4 text-center md:text-left">
-				<h5 class="uppercase mb-2 font-bold">For Individuals</h5>
+			<!-- Top Articles !-->
+			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
+				<h5 class="uppercase mb-2 font-bold">Top Articles</h5>
 				<ul class="mb-4">
-					@foreach([
-						['title' => 'Introduction', 'uri' => 'introduction'],
-						['title' => 'Clients', 'uri' => 'introduction'],
-						['title' => 'Inventory', 'uri' => 'introduction'],
-						['title' => 'Invoices', 'uri' => 'introduction'],
-					] as $link)
+					@foreach($posts->take(5) as $post)
 						<li class="mt-2">
-							<a href="{{ $link['uri'] }}" class="hover:underline text-secondary hover:text-orange-500 text-sm">
-								{{ $link['title'] }}
+							<a href="{{ $post->getUrl() }}" class="hover:underline text-secondary hover:text-orange-500 text-sm">
+								{{ \Illuminate\Support\Str::limit($post->title, 30) }}
 							</a>
 						</li>
 					@endforeach
 				</ul>
 			</div>
-			<!-- // For individuals !-->
+			<!-- // Top Articles !-->
 
 			<!-- Useful !-->
-			<div class="w-full md:w-1/4 text-center md:text-left">
+			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
 				<h5 class="uppercase mb-2 font-bold">Useful</h5>
 				<ul class="mb-4">
 					@foreach([
@@ -68,7 +63,7 @@
 			<!-- // Useful !-->
 
 			<!-- Newsie !-->
-			<div class="w-full md:w-1/4 text-center md:text-left">
+			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
 				<h5 class="uppercase mb-2 font-bold">{{ $page->siteName }}</h5>
 				<div class="flex flex-col">
 					<span class="text-sm">Contact: help&commat;{{ strtolower($page->siteName) }}.com</span>
