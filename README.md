@@ -1,2 +1,3 @@
-# finescoop.github.io
-# finescoop.github.io
+# Newsie
+
+Automated build process
