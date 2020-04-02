@@ -5,7 +5,7 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Newsie',
+    'siteName' => 'FineScoop',
     'siteDescription' => 'Breaking news',
 
     // collections
