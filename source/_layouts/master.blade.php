@@ -16,11 +16,8 @@
         <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="{{ $page->siteName }} Atom Feed">
         <script
             data-ad-client="ca-pub-8880749208215381"
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
             async
-        >
-            google_adtest = "on";
-        </script>
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!--begin::Fonts -->
         <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
         <script>
