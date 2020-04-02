@@ -5,6 +5,7 @@
     <meta property="og:title" content="{{ $page->title }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
+    <meta property="og:image" content="{{ $page->cover_image ?? '/assets/images/breaking.jpeg' }}"/>
     <meta property="og:description" content="{{ $page->description }}" />
 @endpush
 <!-- // Article Meta !-->
