@@ -1,6 +1,6 @@
 ---
 pagination:
-collection: posts
+    collection: posts
 ---
 @extends('_layouts.master')
 
