@@ -45,7 +45,7 @@
 {{--        @endforeach--}}
 {{--    @endif--}}
 
-    <div class="flex-wrap order-2 p-4 lg:p-0 md:pb-8 whitespace-pre-line">
+    <div class="flex-wrap p-4 lg:p-0 md:pb-8 whitespace-pre-line">
         @yield('content')
     </div>
 
