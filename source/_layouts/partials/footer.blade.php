@@ -71,8 +71,8 @@
 			<div class="w-full md:w-1/4 text-center md:text-left">
 				<h5 class="uppercase mb-2 font-bold">{{ $page->siteName }}</h5>
 				<div class="flex flex-col">
-					<span class="text-sm">Contact: help@newsie.com</span>
-					<span class="text-sm">Enquiries: enquiries@newsie.com</span>
+					<span class="text-sm">Contact: help@{{ $page->siteName }}.com</span>
+					<span class="text-sm">Enquiries: enquiries@{{ $page->siteName }}.com</span>
 				</div>
 				<div class="mt-4">
 					<i class="text-3xl mdi mdi-facebook-box"></i>
