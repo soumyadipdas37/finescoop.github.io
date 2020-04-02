@@ -22,10 +22,9 @@ pagination:
     @endcomponent
     <!-- // Breadcrumbs !-->
 
-    <div class="flex-wrap order-2 md:pb-8 whitespace-pre-line">
+    <div class="flex-wrap order-2 md:pb-8">
         @foreach ($pagination->items as $post)
             @include('_layouts.components.post-preview-inline')
-
             @if ($post != $pagination->items->last())
                 <hr class="border-b my-6">
             @endif
