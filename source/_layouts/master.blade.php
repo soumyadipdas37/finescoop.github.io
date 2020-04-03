@@ -45,12 +45,6 @@
             @include('_layouts.partials.navigation')
             <!-- // Nav !-->
 
-    {{--        <div id="vue-search" class="flex flex-1 justify-end items-center">--}}
-    {{--            <search></search>--}}
-    {{--            @include('_layouts.nav.menu')--}}
-    {{--            @include('_layouts.nav.menu-toggle')--}}
-    {{--        </div>--}}
-
             <!-- Content !-->
             <div class="pt-16">
 

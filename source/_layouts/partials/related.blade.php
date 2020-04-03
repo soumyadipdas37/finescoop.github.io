@@ -6,12 +6,14 @@
 		</h3>
 		<div class="flex flex-wrap -ml-2 justify-start items-center">
 			@foreach($posts->take(6) as $post)
-				<a href="{{ $post->getUrl() }}">
+				<a
+					href="{{ $post->getUrl() }}"
+					class="w-1/6 lg:w-1/5 max-w-tiny shadow-md block m-2 transition-normal hover:brighter"
+				>
 					<img
 						src="{{ $post->cover_image }}"
 						title="{{ $post->title }}"
 						alt="{{ $post->title }}"
-						class="w-1/6 lg:w-1/5 max-w-tiny shadow-md block m-2 transition-normal hover:brighter"
 					>
 				</a>
 			@endforeach

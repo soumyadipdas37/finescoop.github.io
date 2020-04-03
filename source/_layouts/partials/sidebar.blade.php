@@ -20,7 +20,7 @@
 				alt="home"
 				class="w-4 h-4 mr-2">
 			<a
-				href="/articles"
+				href="/"
 				class="hover:cursor-pointer text-white lg:text-darker no-underline font-medium mobile-home-trigger">
 				Latest
 			</a>
