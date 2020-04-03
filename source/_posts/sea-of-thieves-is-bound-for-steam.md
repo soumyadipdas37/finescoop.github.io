@@ -5,7 +5,7 @@ cover_image: https://cdn.mos.cms.futurecdn.net/UvZqo5xMH2XchhywCS2rwg-1024-80.jp
 title: Sea of Thieves is bound for Steam
 date: 2020-03-02
 description: The cheerful pirate sim won't be exclusive to the Windows Store anymore.
-categories: [ps4,xboxone,pc]
+categories: [ps4,xboxone,pc,steam]
 featured: true
 excerpt: The cheerful pirate sim won't be exclusive to the Windows Store anymore.
 ---

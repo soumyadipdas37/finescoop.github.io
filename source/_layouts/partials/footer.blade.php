@@ -17,6 +17,7 @@
 						'ps4',
 						'xboxone',
 						'pc',
+						'steam'
 					] as $category)
 						<li class="mt-2">
 							<a

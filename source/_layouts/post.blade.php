@@ -28,7 +28,7 @@
     @component('_layouts.partials.breadcrumb')
         @slot('breadcrumb')
             Reading now:
-            <span class="text-xs font-bold">
+            <span class="ml-2 text-xs font-bold">
                 {{ $page->title }}
             </span>
         @endslot
