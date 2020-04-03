@@ -5,13 +5,18 @@
 			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
 				<h5 class="uppercase mb-2 font-bold">Categories</h5>
 				<ul class="mb-4">
+{{--					@foreach([--}}
+{{--						'coronavirus',--}}
+{{--						'latest',--}}
+{{--						'science',--}}
+{{--						'sports',--}}
+{{--						'tv',--}}
+{{--						'world'--}}
+{{--					] as $category)--}}
 					@foreach([
-						'coronavirus',
-						'latest',
-						'science',
-						'sports',
-						'tv',
-						'world'
+						'ps4',
+						'xboxone',
+						'pc',
 					] as $category)
 						<li class="mt-2">
 							<a
