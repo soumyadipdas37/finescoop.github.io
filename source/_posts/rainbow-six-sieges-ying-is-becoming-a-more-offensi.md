@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1578/15789366/3650479-585775-animalcrossingballoonbugfix2.jpg
+cover_image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1587/15875866/3650450-ying.jpg
 title: Rainbow Six Siege's Ying Is Becoming A More Offensive Spearhead Thanks To New Patch
 date: 2020-03-02
 description: The latest Operator adjustments for Rainbow Six Siege make changes to five characters Ying, Jäger, Mozzie, Buck, and Goyo.
