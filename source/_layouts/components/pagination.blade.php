@@ -1,5 +1,5 @@
 @if ($pages->count() > 1)
-	<nav class="flex text-base my-8">
+	<nav class="flex text-base my-8 px-2 md:px-0">
 		@if ($previous = $previousPage)
 			<a
 				href="{{ $previous }}"
