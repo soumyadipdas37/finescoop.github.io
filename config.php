@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://finescoop.com',
     'production' => false,
     'siteName' => 'FineScoop',
     'siteDescription' => 'Breaking news',
