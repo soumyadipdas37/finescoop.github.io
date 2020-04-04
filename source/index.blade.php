@@ -25,7 +25,7 @@ pagination:
         @foreach ($pagination->items as $post)
             @include('_layouts.components.post-preview-inline')
             @if ($post != $pagination->items->last())
-                <hr class="border-b my-6">
+                <hr class="hidden md:block border-b my-6">
             @endif
         @endforeach
 
