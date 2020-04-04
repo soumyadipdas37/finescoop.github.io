@@ -39,7 +39,7 @@
         @yield('content')
     </div>
 
-    <nav class="flex flex-row md:flex-col justify-between text-sm text-dark mb-4">
+    <nav class="flex flex-col md:flex-row justify-between text-sm text-dark mb-4">
         <div class="w-full md:w-1/2">
             @if ($next = $page->getNext())
                 <a
