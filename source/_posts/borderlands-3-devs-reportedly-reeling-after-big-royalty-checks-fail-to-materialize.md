@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://cdn.mos.cms.futurecdn.net/NrRQ56BCWRSRctnbEhc2q9-1024-80.jpg.webp
+cover_image: https://cdn.mos.cms.futurecdn.net/NrRQ56BCWRSRctnbEhc2q9-1024-80.jpg
 title: Borderlands 3 devs reportedly reeling after big royalty checks fail to materialize
 date: 2020-03-02
 description: The profit share payout was apparently much lower than Gearbox employees expected.

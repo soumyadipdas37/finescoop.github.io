@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://cdn.mos.cms.futurecdn.net/NWfAyduB9UgYXCh3Sq3iQo-1024-80.jpg.webp
+cover_image: https://cdn.mos.cms.futurecdn.net/NWfAyduB9UgYXCh3Sq3iQo-1024-80.jpg
 title: Respawn faked the Forge character to mess with Apex Legends dataminers
 date: 2020-03-02
 description: The game's most entertaining character reveal was rooted in frustration with spoiled secrets.
