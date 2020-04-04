@@ -2,7 +2,7 @@
 	<div class="container mx-auto px-16 pt-10 pb-6">
 		<div class="flex flex-wrap">
 			<!-- For Businesses !-->
-			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
+			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left mb-4 md:mb-0">
 				<h5 class="uppercase mb-2 font-bold">Categories</h5>
 				<ul class="mb-4">
 {{--					@foreach([--}}
@@ -33,7 +33,7 @@
 			<!-- // For Businesses !-->
 
 			<!-- Top Articles !-->
-			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
+			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left mb-4 md:mb-0">
 				<h5 class="uppercase mb-2 font-bold">Top Articles</h5>
 				<ul class="mb-4">
 					@foreach($posts->take(5) as $post)
@@ -48,7 +48,7 @@
 			<!-- // Top Articles !-->
 
 			<!-- Useful !-->
-			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
+			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left mb-4 md:mb-0">
 				<h5 class="uppercase mb-2 font-bold">Useful</h5>
 				<ul class="mb-4">
 					@foreach([
@@ -69,7 +69,7 @@
 			<!-- // Useful !-->
 
 			<!-- Newsie !-->
-			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left">
+			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left mb-4 md:mb-0">
 				<h5 class="uppercase mb-2 font-bold">{{ $page->siteName }}</h5>
 				<div class="flex flex-col">
 					<span class="text-sm">Contact: help&commat;{{ strtolower($page->siteName) }}.com</span>
