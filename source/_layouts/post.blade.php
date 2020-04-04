@@ -40,7 +40,7 @@
     </div>
 
     <nav class="flex flex-col md:flex-row justify-between text-sm text-dark mb-4 mx-2">
-        <div class="w-full md:w-1/2 mb-3 mx-1">
+        <div class="w-full md:w-1/2 mb-3 mx-4">
             @if ($next = $page->getNext())
                 <a
                     href="{{ $next->getUrl() }}"
@@ -51,7 +51,7 @@
             @endif
         </div>
 
-        <div class="w-full md:w-1/2 mx-1">
+        <div class="w-full md:w-1/2 mx-4">
             @if ($previous = $page->getPrevious())
                 <a
                     href="{{ $previous->getUrl() }}"
