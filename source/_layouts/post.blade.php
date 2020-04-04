@@ -40,7 +40,7 @@
     </div>
 
     <nav class="flex justify-between text-sm text-dark mb-4">
-        <div>
+        <div class="px-1">
             @if ($next = $page->getNext())
                 <a
                     href="{{ $next->getUrl() }}"
@@ -51,7 +51,7 @@
             @endif
         </div>
 
-        <div>
+        <div class="px-1">
             @if ($previous = $page->getPrevious())
                 <a
                     href="{{ $previous->getUrl() }}"
