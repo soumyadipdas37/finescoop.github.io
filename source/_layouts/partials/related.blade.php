@@ -11,7 +11,7 @@
 					class="w-1/6 lg:w-1/5 max-w-tiny shadow-md block m-2 transition-normal hover:brighter"
 				>
 					<img
-						src="{{ $post->cover_image }}"
+						src="{{ $post->image }}"
 						title="{{ $post->title }}"
 						alt="{{ $post->title }}"
 					>
@@ -27,7 +27,7 @@
 			<a href="{{ $post->getUrl() }}">
 				<div class="flex items-start mt-2">
 					<img
-						src="{{ $post->cover_image }}"
+						src="{{ $post->image }}"
 						alt="read"
 						class="w-1/6 lg:w-1/5 max-w-tiny shadow-md block transition-normal hover:brighter">
 					<div class="ml-3">

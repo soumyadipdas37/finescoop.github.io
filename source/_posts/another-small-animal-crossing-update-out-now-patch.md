@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1578/15789366/3650479-585775-animalcrossingballoonbugfix2.jpg
+image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1578/15789366/3650479-585775-animalcrossingballoonbugfix2.jpg
 title: Another Small Animal Crossing Update Out Now, Patch Notes Detailed
 date: 2020-03-02
 description: Balloons should be fixed so you can complete your New Horizons Bunny Day challenges.

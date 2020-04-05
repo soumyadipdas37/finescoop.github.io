@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1585/15855271/3650389-eusmvwbucaejmfa-orig.jpg
+image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1585/15855271/3650389-eusmvwbucaejmfa-orig.jpg
 title: Call Of Duty Modern Warfare Season 3 Start Date Confirmed For Next Week
 date: 2020-03-02
 description: Activision has dropped the date and a teaser image for the next season of Call of Duty Modern Warfare content.

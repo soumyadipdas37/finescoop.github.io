@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://cdn.mos.cms.futurecdn.net/KQhpbDwhPAWj6ocARUJ3AG-1200-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/KQhpbDwhPAWj6ocARUJ3AG-1200-80.jpg
 title: Valorant’s impactful hero abilities are an exciting departure from CSGO
 date: 2020-03-02
 description: Here's the moment that Valorant finally clicked for me we were on match point attacking site A of Bind, a compact, two-lane map with teleporters that connect its objective sites together. After losing myself and two other teammates to an entrenched sniper, our Sage narrowly planted the bomb and retreated to Showers unscathed. As she reached safety, she used her ultimate ability to revive me. We could see the bomb from our positions, so all we had to do was defend. Fortunately I was playing Cypher, a covert spy with the best kit for the job. 

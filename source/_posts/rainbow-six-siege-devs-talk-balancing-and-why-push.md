@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1587/15875866/3650430-siege.jpg
+image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1587/15875866/3650430-siege.jpg
 title: Rainbow Six Siege Devs Talk Balancing And Why Pushing Players "Out Of Their Comfort Zone" Can Be Good 
 date: 2020-03-02
 description: In response to an earlier statement, Ubisoft is clarifying its position on its thought process when balancing Operators in Rainbow Six Siege.

@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1585/15855271/3649866-ellie.jpg
+image: https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1585/15855271/3649866-ellie.jpg
 title: Sony Delays The Last Of Us 2 Indefinitely, Citing "Global Crisis"
 date: 2020-03-02
 description: The Last of Us 2's release date has been pushed back indefinitely, with sony saying the global pandemic crisis is preventing "the launch experience players deserve."

@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://cdn.mos.cms.futurecdn.net/VGPuAasjJpttMo9d4vGLVT-1024-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/VGPuAasjJpttMo9d4vGLVT-1024-80.jpg
 title: Riot reveals Jett, Valorant's knife-wielding speedster
 date: 2020-04-02
 description: Valorant's series of weekly character teasers continued today with Jett, a fast-moving fighter who relies on speed and agility to flank enemies and take them out with precision attacks before they have a chance to react.

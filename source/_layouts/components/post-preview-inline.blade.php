@@ -2,7 +2,7 @@
     <div class="lg:my-4 w-full lg:flex">
         <div
             class="h-48 lg:h-auto lg:w-64 flex-none bg-cover text-center overflow-hidden"
-            style="background-image: url('{{ $post->cover_image }}')"
+            style="background-image: url('{{ $post->image }}')"
             title="Woman holding a mug">
         </div>
         <div class="border border-primary bg-white flex flex-col justify-between leading-normal">

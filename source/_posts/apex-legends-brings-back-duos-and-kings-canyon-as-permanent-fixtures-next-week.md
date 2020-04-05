@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://cdn.mos.cms.futurecdn.net/NWfAyduB9UgYXCh3Sq3iQo-1024-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/NWfAyduB9UgYXCh3Sq3iQo-1024-80.jpg
 title: Apex Legends brings back Duos mode and Kings Canyon as permanent fixtures next week
 date: 2020-03-02
 description: A new lore event is dropping for Apex Legends next week, on April 7, but forget about that for a minute—there's more important things happening on that day. The real headline here is the permanent addition of two new (by which I mean returning) features.

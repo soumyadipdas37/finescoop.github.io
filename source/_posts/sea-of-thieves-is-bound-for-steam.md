@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-cover_image: https://cdn.mos.cms.futurecdn.net/UvZqo5xMH2XchhywCS2rwg-1024-80.jpg
+image: https://cdn.mos.cms.futurecdn.net/UvZqo5xMH2XchhywCS2rwg-1024-80.jpg
 title: Sea of Thieves is bound for Steam
 date: 2020-03-02
 description: The cheerful pirate sim won't be exclusive to the Windows Store anymore.
