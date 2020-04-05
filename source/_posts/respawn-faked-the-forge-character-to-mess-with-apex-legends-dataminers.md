@@ -7,7 +7,6 @@ date: 2020-03-02
 description: The game's most entertaining character reveal was rooted in frustration with spoiled secrets.
 categories: [ps4,xboxone,pc,steam]
 featured: true
-excerpt: The game's most entertaining character reveal was rooted in frustration with spoiled secrets.
 ---
 
 The reveal of the Apex Legends character Revenant was weird, interesting, and a lot of fun. It actually began with an entirely different character, Forge, who first came to light in late 2019 courtesy of dataminers, before being officially revealed in January. He had lore and character abilities and the whole nine yards, and looked 100 percent legit—until Revenant offed him in the middle of an animated interview.

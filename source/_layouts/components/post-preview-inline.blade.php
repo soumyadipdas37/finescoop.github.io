@@ -11,7 +11,7 @@
                     {{ $post->title }}
                 </div>
                 <p class="text-light font-normal text-sm">
-                    {!! $post->getExcerpt(100) !!}
+                    {!! $post->description !!}
                 </p>
             </div>
         </div>

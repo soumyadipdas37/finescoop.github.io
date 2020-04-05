@@ -35,7 +35,7 @@
 							{{ \Illuminate\Support\Str::limit($post->title, 33) }}
 						</p>
 						<p class="text-indigo text-xs mt-1">
-							{{ \Illuminate\Support\Str::limit($post->excerpt, 60) }}
+							{{ \Illuminate\Support\Str::limit($post->description, 60) }}
 						</p>
 					</div>
 				</div>

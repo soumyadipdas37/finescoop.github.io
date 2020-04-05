@@ -7,7 +7,6 @@ date: 2020-03-02
 description: The Last of Us 2's release date has been pushed back indefinitely, with sony saying the global pandemic crisis is preventing "the launch experience players deserve."
 categories: [ps4,xboxone]
 featured: true
-excerpt: The Last of Us 2's release date has been pushed back indefinitely, with sony saying the global pandemic crisis is preventing "the launch experience players deserve."
 ---
 
 Sony has announced it is delaying the launch of The Last of Us 2 indefinitely, saying in a tweet that the global crisis caused by the coronavirus is "preventing us from providing the launch experience our players deserve."

@@ -7,7 +7,6 @@ date: 2020-04-02
 description: Valorant's series of weekly character teasers continued today with Jett, a fast-moving fighter who relies on speed and agility to flank enemies and take them out with precision attacks before they have a chance to react.
 categories: [ps4,xboxone,pc,steam]
 featured: true
-excerpt: Valorant's series of weekly character teasers continued today with Jett, a fast-moving fighter who relies on speed and agility to flank enemies and take them out with precision attacks before they have a chance to react.
 ---
 
 Valorant's series of weekly character teasers continued today with Jett, a fast-moving fighter who relies on speed and agility to flank enemies and take them out with precision attacks before they have a chance to react.

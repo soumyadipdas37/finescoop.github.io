@@ -7,7 +7,6 @@ date: 2020-03-02
 description: The cheerful pirate sim won't be exclusive to the Windows Store anymore.
 categories: [ps4,xboxone,pc,steam]
 featured: true
-excerpt: The cheerful pirate sim won't be exclusive to the Windows Store anymore.
 ---
 
 Sea of Thieves has been a Windows Store exclusive since its launch in early 2018, but that's about to change: the game is coming to Steam. Rare made the announcement today, and while there's no release date as yet, there's already a store page. 

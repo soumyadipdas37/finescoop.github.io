@@ -7,7 +7,6 @@ date: 2020-03-02
 description: The latest Operator adjustments for Rainbow Six Siege make changes to five characters Ying, Jäger, Mozzie, Buck, and Goyo.
 categories: [ps4,xboxone,pc]
 featured: true
-excerpt: The latest Operator adjustments for Rainbow Six Siege make changes to five characters Ying, Jäger, Mozzie, Buck, and Goyo.
 ---
 
 Ubisoft has revealed the Operator changes for Rainbow Six Siege in Update Y5S1.2. In this update, five Operators are being adjusted--Ying, Jäger, Mozzie, Buck, and Goyo--with Ying getting a noticeable buff to up her utility in combat. A few guns are getting balance changes too.

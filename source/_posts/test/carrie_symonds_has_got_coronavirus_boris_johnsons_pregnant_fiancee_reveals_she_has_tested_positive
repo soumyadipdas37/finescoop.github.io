@@ -1,0 +1,11 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/04/04/17/26809762-0-image-a-26_1586017388481.jpg 
+title: Carrie Symonds has got coronavirus: Boris Johnson's pregnant fiancee reveals she has tested positive 
+description: Ms Symonds said: 'I've spent the past week in bed with the main symptoms of Coronavirus. I haven't needed to be tested and, after seven days of rest, I feel stronger and I'm on the mend.' 
+date: 2020-03-02 
+categories: [ps4] 
+featured: true 
+--- 
+adverts.addToArray({"pos":"leader_wide"})Advertisement

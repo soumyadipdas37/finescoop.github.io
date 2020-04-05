@@ -7,7 +7,6 @@ date: 2020-03-02
 description: The profit share payout was apparently much lower than Gearbox employees expected.
 categories: [ps4,xboxone,pc]
 featured: true
-excerpt: The profit share payout was apparently much lower than Gearbox employees expected.
 ---
 
 Borderlands 3 was a hit, moving five million copies in the first five days of release to become the fastest-selling game in the history of publisher 2K Games. But despite that success, multiple sources have told Kotaku that employees at Gearbox will be receiving much smaller bonuses than they expected.

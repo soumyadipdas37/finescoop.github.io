@@ -15,7 +15,7 @@
     @component('_layouts.partials.header', [
         'image' => $page->cover_image,
         'title' => $page->title,
-        'description' => $page->excerpt,
+        'description' => $page->description,
     ])
     @endcomponent
 @endpush

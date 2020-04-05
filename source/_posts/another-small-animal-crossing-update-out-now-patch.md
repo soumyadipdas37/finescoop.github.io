@@ -7,7 +7,6 @@ date: 2020-03-02
 description: Balloons should be fixed so you can complete your New Horizons Bunny Day challenges.
 categories: [ps4,xboxone,pc]
 featured: true
-excerpt: Balloons should be fixed so you can complete your New Horizons Bunny Day challenges.
 ---
 
 A day after dropping an update for Animal Crossing: New Horizons on Switch, Nintendo has released another smaller patch for the life-sim. Though it may be a tiny update, you can check out the patch notes below.

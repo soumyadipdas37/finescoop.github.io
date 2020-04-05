@@ -7,7 +7,6 @@ date: 2020-03-02
 description: A new lore event is dropping for Apex Legends next week, on April 7, but forget about that for a minute—there's more important things happening on that day. The real headline here is the permanent addition of two new (by which I mean returning) features.
 categories: [ps4,xboxone,pc,steam]
 featured: true
-excerpt: A new lore event is dropping for Apex Legends next week, on April 7, but forget about that for a minute—there's more important things happening on that day. The real headline here is the permanent addition of two new (by which I mean returning) features.
 ---
 
 A new lore event is dropping for Apex Legends next week, on April 7, but forget about that for a minute—there's more important things happening on that day. The real headline here is the permanent addition of two new (by which I mean returning) features.
