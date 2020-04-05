@@ -38,7 +38,7 @@ class Scrape
      */
     private function createAndSave(array $article)
     {
-        $location = 'source/_posts/test/' . $this->fileName($article['title']);
+        $location = 'source/_posts/test/' . $this->fileName($article['title']) . '.md';
 
         // create markdown
         $markdown = $this->createMarkdown($article);
