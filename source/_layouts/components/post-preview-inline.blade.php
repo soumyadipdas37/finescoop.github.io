@@ -1,4 +1,8 @@
-<a href="{{ $post->getUrl() }}" title="Read more - {{ $post->title }}">
+<a
+    href="{{ $post->getUrl() }}"
+    title="Read more - {{ $post->title }}"
+    class="article-post"
+>
     <div class="lg:my-4 w-full lg:flex">
         <div
             class="h-48 lg:h-auto lg:w-64 flex-none bg-cover text-center overflow-hidden"

@@ -1,0 +1,13 @@
+#name: Build & Publish
+#on:
+#    schedule:
+#        -   cron:  '* * * * *'
+#jobs:
+#    build-site:
+#        runs-on: ubuntu-latest
+#        steps:
+#            -   uses: actions/checkout@v2
+#            -   name: Install Composer Dependencies
+#                run: composer install --no-ansi --no-interaction --no-scripts --no-suggest --no-progress --prefer-dist
+#            -   name: Install NPM Dependencies
+#                run: npm install
