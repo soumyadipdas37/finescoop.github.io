@@ -7,6 +7,9 @@
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
     <meta property="og:image" content="{{ $page->image ?? '/assets/images/breaking.jpg' }}"/>
     <meta property="og:description" content="{{ $page->description }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@finescoop" />
+    <meta name="twitter:creator" content="@finescoop" />
 @endpush
 <!-- // Article Meta !-->
 

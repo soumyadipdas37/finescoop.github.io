@@ -47,20 +47,26 @@ class Find
     private function getArticles()
     {
         // Get the content
-        $dom = $this->getContent($this->uri);
-
+        $dom   = $this->getContent($this->uri);
         $xpath = new \DOMXPath($dom);
 
         // Loops through items, and create array of articles
-        $items = $xpath->query("//*[@class=\"article-post\"]");
-        foreach($items as $item) {
-            $title = $xpath->query("descendant::*[@class='article-title']", $item);
-            $description = $xpath->query("descendant::*[@class='article-description']", $item);
-            var_dump($title);
+        $items = $xpath->query('//*[@class="article-post"]');
+        foreach ($items as $item) {
+            $title       = $xpath->query('descendant::div[contains(@class, "article-title")]', $item);
+            $description = $xpath->query('descendant::p[contains(@class, "article-description")]', $item);
+            $article     = [
+                'uri'         => $item->getAttribute("href"),
+                'title'       => trim($title[0]->textContent),
+                'description' => trim($description[0]->textContent),
+            ];
+
+            var_dump($article);
         }
 
+        exit;
         return [
-            'title' => $title,
+            'title'        => $title,
             '$description' => $description,
         ];
     }
@@ -74,6 +80,7 @@ class Find
     private function getContent(string $uri)
     {
         $dom = new \DOMDocument();
+        libxml_use_internal_errors(true);
         $dom->loadHTMLFile($uri);
 
         return $dom;
@@ -82,5 +89,8 @@ class Find
 
 // Autoload scrape classes
 require __DIR__ . '/../../vendor/autoload.php';
+
+$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+$dotenv->load();
 
 (new Find)->run();

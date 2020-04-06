@@ -11,22 +11,22 @@ class Post
     /**
      * @var string
      */
-    private $API_KEY = "0IWHDqoKrJbHlfkRNrrkUj4Dw";
+    private $API_KEY = "";
 
     /**
      * @var string
      */
-    private $API_SECRET = "OnToe4zd77sxGxG7McCj1kTmY7myNMuQ4NoCzhFnLKMuZq7S6r";
+    private $API_SECRET = "";
 
     /**
      * @var string
      */
-    private $ACCESS_TOKEN = "1245530453903388677-sj6MPgen4HgvsHWasgKppMAGhSbyoC";
+    private $ACCESS_TOKEN = "";
 
     /**
      * @var string
      */
-    private $ACCESS_TOKEN_SECRET = "CC1YeO3tUoRKkWi9bcd098ZXx4aCiIGkYFZ5mhQhIfGUQ";
+    private $ACCESS_TOKEN_SECRET = "";
 
     /**
      * Post constructor.
