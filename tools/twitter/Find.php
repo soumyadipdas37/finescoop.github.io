@@ -5,6 +5,7 @@ namespace Tools\Twitter;
 use DOMDocument;
 use DOMXPath;
 use Tools\Twitter\Post;
+use function array_push;
 use function var_dump;
 
 class Find
@@ -34,15 +35,24 @@ class Find
      */
     public function run()
     {
-        $articles = $this->getArticles();
+        while(true) {
 
-        var_dump($articles);
+            // get articles for first page
+            $articles = $this->getArticles();
+
+            // loop through and check if posted
+            foreach($articles as $article) {
+                $post = "{$article['title']} {$article['uri']}";
+                print($post);
+            }
+            // check for page 2
+        }
     }
 
     /**
      * Get all the articles
      *
-     * @return \DOMNodeList|false
+     * @return array
      */
     private function getArticles()
     {
@@ -51,6 +61,7 @@ class Find
         $xpath = new \DOMXPath($dom);
 
         // Loops through items, and create array of articles
+        $articles = [];
         $items = $xpath->query('//*[@class="article-post"]');
         foreach ($items as $item) {
             $title       = $xpath->query('descendant::div[contains(@class, "article-title")]', $item);
@@ -60,15 +71,10 @@ class Find
                 'title'       => trim($title[0]->textContent),
                 'description' => trim($description[0]->textContent),
             ];
-
-            var_dump($article);
+            array_push($articles, $article);
         }
 
-        exit;
-        return [
-            'title'        => $title,
-            '$description' => $description,
-        ];
+        return $articles;
     }
 
     /**
@@ -89,8 +95,5 @@ class Find
 
 // Autoload scrape classes
 require __DIR__ . '/../../vendor/autoload.php';
-
-$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
-$dotenv->load();
 
 (new Find)->run();
