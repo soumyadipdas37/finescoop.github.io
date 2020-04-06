@@ -1,6 +1,6 @@
 <?php
 
-namespace Scrape;
+namespace Tools\Scrape;
 
 class Feed
 {

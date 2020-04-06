@@ -6,7 +6,8 @@
     "autoload": {
         "psr-4": {
             "App\\Listeners\\": "listeners/",
-            "Scrape\\": "scrape/"
+            "Tools\\Scrape\\": "tools/scrape/",
+            "Tools\\Twitter\\": "tools/twitter/"
         }
     }
 }

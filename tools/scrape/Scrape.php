@@ -1,6 +1,6 @@
 <?php
 
-namespace Scrape;
+namespace Tools\Scrape;
 
 use function get_class;
 use function get_resource_type;
@@ -29,17 +29,17 @@ class Scrape
     ];
 
     /**
-     * @var \Scrape\Article
+     * @var \Tools\Scrape\Article
      */
     private $article;
 
     /**
-     * @var \Scrape\Markdown
+     * @var \Tools\Scrape\Markdown
      */
     private $markdown;
 
     /**
-     * @var \Scrape\Feed
+     * @var \Tools\Scrape\Feed
      */
     private $feed;
 
@@ -83,6 +83,6 @@ class Scrape
 }
 
 // Autoload scrape classes
-require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/../../vendor/autoload.php';
 
 (new Scrape())->parseRssFeed();

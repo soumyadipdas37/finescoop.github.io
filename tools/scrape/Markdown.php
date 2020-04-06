@@ -1,6 +1,6 @@
 <?php
 
-namespace Scrape;
+namespace Tools\Scrape;
 
 use function file_put_contents;
 use function var_dump;
