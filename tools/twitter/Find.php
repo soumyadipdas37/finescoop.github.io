@@ -6,6 +6,7 @@ use DOMDocument;
 use DOMXPath;
 use Tools\Twitter\Post;
 use function array_push;
+use function implode;
 use function var_dump;
 
 class Find
@@ -27,7 +28,7 @@ class Find
      */
     public function __construct()
     {
-        $this->post = new Post();
+        $this->post = new Post;
     }
 
     /**
@@ -37,27 +38,42 @@ class Find
     {
         while(true) {
 
-            // get articles for first page
-            $articles = $this->getArticles();
-
-            // loop through and check if posted
-            foreach($articles as $article) {
-                $post = "{$article['title']} {$article['uri']}";
-                print($post);
+            // Get the trends for the day
+            $trends = $this->post->trends();
+            $tags = "";
+            foreach($trends as $key => $value) {
+                $tags .= "#{$key} ";
             }
-            // check for page 2
+            
+            // Loops through pages and post to twitter
+            for($page = 1; $page < 4; $page++) {
+
+                // Page url to scrape
+                $uri = $page === 1 ? $this->uri : "{$this->uri}/{$page}/";
+
+                // get articles
+                $articles = $this->getArticles($uri);
+
+                // loop through and check if posted
+                foreach ($articles as $article) {
+                    $post = "{$article['title']} {$article['uri']} {$tags}";
+                    $this->post->post($post);
+                    sleep(180);
+                }
+            }
         }
     }
 
-    /**
-     * Get all the articles
-     *
-     * @return array
-     */
-    private function getArticles()
+        /**
+         * Get all the articles
+         *
+         * @param string $uri
+         * @return array
+         */
+    private function getArticles(string $uri)
     {
         // Get the content
-        $dom   = $this->getContent($this->uri);
+        $dom   = $this->getContent($uri);
         $xpath = new \DOMXPath($dom);
 
         // Loops through items, and create array of articles

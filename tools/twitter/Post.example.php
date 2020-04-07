@@ -6,7 +6,7 @@ use Abraham\TwitterOAuth\TwitterOAuth;
 use function getenv;
 use function var_dump;
 
-class Post
+class PostExample
 {
     /**
      * @var string
@@ -39,26 +39,17 @@ class Post
             $this->ACCESS_TOKEN,
             $this->ACCESS_TOKEN_SECRET
         );
-
-        $content = $this->connection->get("account/verify_credentials");
     }
 
-    public function check()
+    /**
+     * Post a status
+     *
+     * @param string $status
+     * @return array|object
+     */
+    public function post(string $status)
     {
-
-    }
-
-    public function post()
-    {
-        $statues = $this->connection->post("statuses/update", ["status" => "hello world"]);
-
-        var_dump($statues);
+        return $this->connection->post("statuses/update", ["status" => $status]);
     }
 }
-
-// Autoload scrape classes
-require __DIR__ . '/../../vendor/autoload.php';
-
-(new Post())->post();
-
 
