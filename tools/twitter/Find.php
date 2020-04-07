@@ -44,7 +44,7 @@ class Find
             foreach($trends as $key => $value) {
                 $tags .= "#{$key} ";
             }
-            
+
             // Loops through pages and post to twitter
             for($page = 1; $page < 4; $page++) {
 
@@ -56,7 +56,7 @@ class Find
 
                 // loop through and check if posted
                 foreach ($articles as $article) {
-                    $post = "{$article['title']} {$article['uri']} {$tags}";
+                    $post = "{$article['title']} {$tags} {$article['uri']}";
                     $this->post->post($post);
                     sleep(180);
                 }
