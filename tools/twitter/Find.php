@@ -7,6 +7,7 @@ use DOMXPath;
 use Tools\Twitter\Post;
 use function array_push;
 use function implode;
+use function sleep;
 use function var_dump;
 
 class Find
@@ -38,13 +39,6 @@ class Find
     {
         while(true) {
 
-            // Get the trends for the day
-            $trends = $this->post->trends();
-            $tags = "";
-            foreach($trends as $key => $value) {
-                $tags .= "#{$key} ";
-            }
-
             // Loops through pages and post to twitter
             for($page = 1; $page < 4; $page++) {
 
@@ -56,9 +50,13 @@ class Find
 
                 // loop through and check if posted
                 foreach ($articles as $article) {
-                    $post = "{$article['title']} {$tags} {$article['uri']}";
-                    $this->post->post($post);
-                    sleep(180);
+                    $post = "{$article['title']} {$article['uri']}";
+
+                    // Check if already posted
+                    if($this->post->check($post)) {
+                        //$this->post->post($post);
+                        //sleep(450);
+                    }
                 }
             }
         }
