@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-image: 
+image: https://cdn.mos.cms.futurecdn.net/6FDn6xy3qyUQf2ToUCq59c-1024-80.jpg
 title: Dordogne is a promising watercolour adventure game with a stunning trailer
 date: 2020-03-02
 description: It made me a little emotional, this beautiful trailer for Dordogne an upcoming adventure game that seems to be deeply in love with nature and the outside world. You remember the outside, I hope, a place of stunning watercolour scenery and childhood adventuring, or at least, it is in the distinctly French Dordogne.
