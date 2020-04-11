@@ -1,3 +1,3 @@
 # Newsie
 
-Automated build process
+Automated build process 
