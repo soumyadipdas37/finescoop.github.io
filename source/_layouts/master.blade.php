@@ -61,9 +61,6 @@
                     </div>
                     @include('_layouts.partials.related')
                 </div>
-
-
-
             </div>
             <!-- // Content !-->
 

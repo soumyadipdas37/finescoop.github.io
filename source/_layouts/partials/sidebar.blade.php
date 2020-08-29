@@ -36,20 +36,14 @@
 				</div>
 			</div>
 			<ul class="text-grey lg:text-dark list-reset leading-loose mt-2">
-{{--				@foreach([--}}
-{{--    				'coronavirus',--}}
-{{--    				'latest',--}}
-{{--    				'science',--}}
-{{--    				'sports',--}}
-{{--    				'tv',--}}
-{{--    				'world'--}}
-{{--				] as $category)--}}
-					@foreach([
-						'ps4',
-						'xboxone',
-						'pc',
-						'steam'
-					] as $category)
+				@foreach([
+    				'coronavirus',
+    				'latest',
+    				'science',
+    				'sports',
+    				'tv',
+    				'world'
+				] as $category)
 				<li
 					class="
 						hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-primary pl-4
