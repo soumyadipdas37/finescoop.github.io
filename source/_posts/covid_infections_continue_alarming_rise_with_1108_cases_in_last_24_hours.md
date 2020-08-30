@@ -20,18 +20,18 @@ Matt Hancock also hinted that restrictions may not be eased over Christmas to av
 He said countries in others parts of the world were already experiencing a second wave, adding it was \'a very serious threat\', while fellow Tory Tobias Ellwood said \'draconian action\' could be needed if the public do not stick to social distancing rules.
 It comes as SAGE - the government\'s advisory group on scientific emergencies - has estimated up to 81,000 people could die from Covid-19 this winter in the very worst case scenario. 
 In other British coronavirus news today 
+Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
-\'Illegal rave\' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed Otto Aviation Group LLC
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
+Russian war planes get unnervingly close to American B-52
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Cop KICKS man in the BACK as he stands with his hands on his head
 
 
 
@@ -108,29 +108,29 @@ And on an official watchlist published by Public Health England, only three out 
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
-Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
+Cop KICKS man in the BACK as he stands with his hands on his head
 Officials confirmed eight boroughs across the North of England, including Trafford, will be released from lockdown next week. Pictured, Altrincham\'s George Street - Altrincham is a town in the borough of Trafford
 Lancashire’s director of public health Dr Sakthi Karunanithi confirmed the news that Burnley (pictured) and Hyndburn would be removed from lockdown but warned residents that the lifting of additional restrictions \'should not lead to complacency\'
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
-Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
+Cop KICKS man in the BACK as he stands with his hands on his head
 
 WHAT IS R0?
 Every infectious disease is given a reproduction number, which is known as R0 - pronounced \'R nought\'.

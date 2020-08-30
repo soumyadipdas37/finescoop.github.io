@@ -79,18 +79,18 @@ Despite these strong denials, the Palace has never explained why Andrew was in t
 Nor has it provided a narrative to counter the claim that flight logs appear to place Andrew and Ms Roberts together at the times and in the locations she alleges the sex sessions took place.
 Worryingly, Andrew featured in Epstein’s notorious black book of high society contacts which became public in 2015. 
 There were 16 phone numbers for him, including a Palace one marked ex-directory, one for Balmoral and one for Sandringham, as well as a personal mobile number. There were 18 numbers for Sarah Ferguson.
+Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
-\'Illegal rave\' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed Otto Aviation Group LLC
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
+Russian war planes get unnervingly close to American B-52
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Cop KICKS man in the BACK as he stands with his hands on his head
 Despite the denials, the story would not go away, and the embers that had been ominously smouldering burst into life again in July last year, when Epstein was re-arrested and charged with sex-trafficking. 
 One of the statements read out in court came from Ms Roberts. Another, in a deposition from a Johanna Sjoberg, then 21, accused Andrew of putting his hand on her breast.
 Epstein’s death in prison last year, however, did not relieve the pressure on Andrew. Footage emerged of him inside Epstein’s New York apartment, while the Palace issued ever shriller denials.
@@ -112,15 +112,15 @@ But the real damage was done in a BBC interview with Emily Maitlis. In it, Andre
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
+\'Illegal rave\' in Banwen South Wales sees crowds dancing in field
 Russian war planes get unnervingly close to American B-52
-Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
+Cop KICKS man in the BACK as he stands with his hands on his head
 He said he had no recollection of ever meeting Virginia Roberts, despite the photograph.
 The fallout from the car-crash interview included renewed pressure on Scotland Yard to explain why it had not pursued complaints about Prince Andrew’s alleged engagement with Ms Roberts, and specifically the allegation that she had been trafficked to Britain to have sex with Andrew at the home of Ghislaine Maxwell.
 It also forced Andrew to move his office out of Buckingham Palace and to stand down from all 230 of his patronages, a decision he presented as a temporary move.

@@ -27,15 +27,15 @@ One man says \'This is a political agenda to commit mass genocide on the populat
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
-Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
+Cop KICKS man in the BACK as he stands with his hands on his head
 Jeremy Corbyn\'s brother Piers was yesterday arrested at a mass-gathering of Covid-19 conspiracy theorists who took to the streets of London to demonstrate against lockdown restrictions and vaccination programmes
 The former Labour leader\'s older brother was filmed being taken away from Trafalgar Square by a gaggle of mask-wearing police officers who hauled him into a van
 More than 10,000 Covid-19 conspiracy theorists who believe the virus is a hoax gathered in London\'s Trafalgar Square to protest against lockdown restrictions and vaccination programmes
@@ -57,15 +57,15 @@ A protester is pushed back by mask-wearing police at the Unite for Freedom prote
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
+\'Illegal rave\' in Banwen South Wales sees crowds dancing in field
 Russian war planes get unnervingly close to American B-52
-Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
+Cop KICKS man in the BACK as he stands with his hands on his head
 Anti-mask protesters participate in the Unite for Freedom demonstration outside Downing Street on Saturday. Participants are calling for a return to \'normal\'
 Signs reading \'masks are muzzles\' and \'new normal = new fascism\' were brandished by protesters during the demonstration on Saturday
 An anti-mask protester speaks to police during the Unite for Freedom protest in Trafalgar Square on Saturday
@@ -85,18 +85,18 @@ Those in attendance believe the pandemic is a hoax and dozens held signs critici
 Different conspiracy theory groups were in attendance and urged others to distrust the Government in London
 The demonstration featured speakers and lecturers talking about their campaign to urge the Government to ease restrictions
 The gathering in Trafalgar Square is one of several demonstrations taking place across the world with others in Berlin
+Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
-\'Illegal rave\' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed Otto Aviation Group LLC
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
+Russian war planes get unnervingly close to American B-52
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Cop KICKS man in the BACK as he stands with his hands on his head
 David Icke is the notorious conspiracy theorist who often makes headlines for his controversial comments.
 Born in 1952, the 68-year-old former professional footballer has written more than 20 books and once tried his hand at punditry and sports reporting.
 In 1991, he appeared on Sir Terry Wogan\'s TV chat show where he declared himself as the son of God in a now-infamous clip which he describes as a \'defining moment\'.
@@ -155,15 +155,15 @@ Groups of protesters could be heard asking police why they were wearing masks at
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
-Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
+Cop KICKS man in the BACK as he stands with his hands on his head
 Anti-mask protesters are seen at the Unite for Freedom protest in Trafalgar Square, London, on Saturday
 Protesters gathered in a bid to urge the Government to ease the lockdown restrictions and abandon their emergency powers
 Many of those in attendance argue the restrictions put in place during the pandemic are a violation of human rights
@@ -201,15 +201,15 @@ A demonstrator gestures in front of German riot police during Saturday\'s demons
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
-MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
-Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&A
 Hordes of Trump fans drive into Portland and face off with BLM
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
+Cop KICKS man in the BACK as he stands with his hands on his head
 Thousands gathered around the Victory Column in Berlin as they protested against restrictions. Germany recorded 1,500 new cases yesterday as fears of a second wave of the virus increase
 A demonstrator bellow as supporters through a megaphone as he calls for an end to coronavirus restrictions
 A protester drinks from a bottle as he wears a hat with a Danish flag and a placard reading \'Revolutions news\' at a demonstration against the use of face masks and other Covid-19 related restrictions near the Danish parliament building 

@@ -50,14 +50,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
-\'Illegal rave\' in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
-Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
-Kenosha shooting victim seen in video confronting armed men
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Boris Johnson and Dr Jenny Harries host back to school Q&A
+Hordes of Trump fans drive into Portland and face off with BLM
+Cop KICKS man in the BACK as he stands with his hands on his head
 Waves slam against the pier at Roker Lighthouse in Sunderland, yesterday afternoon, as clouds roll in from the North Sea
 Waves were seen crashing against the seafront at Scarborough, North Yorkshire, earlier yesterday, as Britain faces a Bank Holiday washout
 Despite the grey and blustery weather, people were still seen walking along the windy seafront at Scarborough, North Yorkshire, yesterday
