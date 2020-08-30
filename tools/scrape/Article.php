@@ -65,7 +65,7 @@ class Article
 
 		// Return the article
 		foreach($entry as $p) {
-			$html .= $p->textContent . "\n";
+			$html .= $p->textContent . "\n\n\n";
 		}
 
 		return $html;
