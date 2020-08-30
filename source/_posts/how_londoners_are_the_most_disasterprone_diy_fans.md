@@ -12,4 +12,4 @@ The most disaster-prone DIY fans are Londoners, according to a survey.
 And men are more likely to bungle a job around the home, with 15 per cent fouling up in the past year, compared with ten per cent of women.
 Among the most common blunders were collapsing shelves, flooding a bathroom, cutting through electrical wires and falling through a roof.
 Men are more likely to bungle a job around the home, with 15 per cent fouling up in the past year, compared with ten per cent of women (file image)
-‘These mistakes can be very expensive, with the average cost being around £1,000,’ said a spokesman for Rated People, which analysed 820,000 job queries on its website over the past year. 
+&lsquo;These mistakes can be very expensive, with the average cost being around &pound;1,000,&rsquo; said a spokesman for Rated People, which analysed 820,000 job queries on its website over the past year.&nbsp;
