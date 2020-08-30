@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569056-0-image-a-4_1598800322089.jpg 
 title: Lara Trump Donald Trump wants to meet with Jacob Blake's family when he visits Kenosha on Tuesday 
 description: Donald Trump has reached out to Jacob Blake's family and is trying to set up a meeting with them during his visit to Kenosha, Wisconsin on Tuesday following the police shooting last week. 
-date: 2020-08-30-19-41-51 
+date: 2020-08-30-19-44-15 
 categories: [latest] 
 featured: true 
 --- 

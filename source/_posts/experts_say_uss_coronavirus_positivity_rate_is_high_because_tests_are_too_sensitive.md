@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573206-0-image-a-33_1598813640772.jpg 
 title: Experts say US's coronavirus positivity rate is high because tests are 'too sensitive' 
 description: Health experts say COVID-19 testing should be more widespread and adjusted to a lower PCR cycle threshold to rule out people with 'relatively insignificant amounts' of the virus. 
-date: 2020-08-30-19-41-45 
+date: 2020-08-30-19-44-06 
 categories: [latest] 
 featured: true 
 --- 

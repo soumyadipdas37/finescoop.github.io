@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569228-0-image-a-23_1598800873116.jpg 
 title: Woman who 'caught husband having sex with his mother' says she suspected something between them 
 description: Lori Lavoie (seen left with her husband, Tony Lavoie, 43) of Fitchburg, Massachusetts, told police that she long suspected her husband was having sex with his mother, Cheryl Lavoie (right), 64. 
-date: 2020-08-30-19-41-05 
+date: 2020-08-30-19-44-31 
 categories: [latest] 
 featured: true 
 --- 

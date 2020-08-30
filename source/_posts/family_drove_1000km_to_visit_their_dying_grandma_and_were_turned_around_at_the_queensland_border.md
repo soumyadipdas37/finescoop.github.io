@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/00/32550540-0-image-a-10_1598744483488.jpg 
 title: Family drove 1,000km to visit their dying grandma and were turned around at the Queensland border 
 description: Sharon Star had an exemption to visit her 101-year-old grandmother Freda Aughton in Queensland, but once she got to the border on Saturday police turned her away. 
-date: 2020-08-30-19-41-42 
+date: 2020-08-30-19-44-02 
 categories: [latest] 
 featured: true 
 --- 

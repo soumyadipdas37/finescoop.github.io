@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/09/32560790-0-image-a-2_1598777605457.jpg 
 title: Man hunted for attempted murder after stabbing young mother out walking with her five-year-old son 
 description: A mother, 24, was walking with her son in Withington, south Manchester, when a man approached her with a knife and stabbed her in a 'vicious and unprovoked attack'. 
-date: 2020-08-30-19-41-32 
+date: 2020-08-30-19-43-54 
 categories: [latest] 
 featured: true 
 --- 

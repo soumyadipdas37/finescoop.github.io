@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569210-0-image-a-53_1598800670706.jpg 
 title: Kerry Katona is ENGAGED! Boyfriend Ryan Mahoney proposes during family holiday in Spain 
 description: When Kerry, 39, weds her new fiancé Ryan, 31, it will be her fourth marriage as she was previously married to Brian McFadden, Mark Croft and George Kay 
-date: 2020-08-30-19-41-04 
+date: 2020-08-30-19-44-29 
 categories: [latest] 
 featured: true 
 --- 

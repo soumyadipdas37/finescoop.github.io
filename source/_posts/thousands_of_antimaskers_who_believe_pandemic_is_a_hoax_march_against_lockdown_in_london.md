@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/00/32550862-0-image-a-41_1598744856409.jpg 
 title: Thousands of anti-maskers who believe pandemic is a HOAX march against lockdown in London  
 description: Jeremy Corbyn's older brother Piers was filmed being taken away from Trafalgar Square by a gaggle of mask-wearing police officers who hauled him into a van. 
-date: 2020-08-30-19-41-39 
+date: 2020-08-30-19-43-59 
 categories: [latest] 
 featured: true 
 --- 

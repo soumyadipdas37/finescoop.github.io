@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/18/31323778-0-The_Earth_was_originally_covered_by_60_million_square_kilometres-a-16_1598809112377.jpg 
 title: Loss of biodiversity through the destruction of the world's forests will 'unleash more pandemics' 
 description: Scientists will warn a UN summit on biodiversity, being held in New York next month, that there is evidence of a strong link between environmental destruction and deadly new diseases. 
-date: 2020-08-30-19-40-58 
+date: 2020-08-30-19-44-21 
 categories: [latest] 
 featured: true 
 --- 

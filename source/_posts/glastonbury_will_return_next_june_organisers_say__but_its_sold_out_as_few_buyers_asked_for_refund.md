@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32574220-0-image-a-30_1598812621009.jpg 
 title: Glastonbury WILL return next June, organisers say - but it's sold out as few buyers asked for refund 
 description: Glastonbury co-organiser Emily Eavis said they have 'no plans' to move the event from June to September 2021. Founder  Michael Eavis previously said the 2021 event was 'wishful thinking'. 
-date: 2020-08-30-19-41-48 
+date: 2020-08-30-19-44-12 
 categories: [latest] 
 featured: true 
 --- 

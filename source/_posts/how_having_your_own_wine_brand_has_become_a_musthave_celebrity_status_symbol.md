@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/09/32531880-0-image-a-5_1598691438310.jpg 
 title: How having your own wine brand has become a must-have celebrity status symbol 
 description: Andy Barr, owner of 10 Yetis PR agency, says celebrities could stand to make around £1million off the back of new wine deals - as the Australian singer launches her £18 Côtes de Provence Rosé. 
-date: 2020-08-30-19-41-34 
+date: 2020-08-30-19-43-55 
 categories: [latest] 
 featured: true 
 --- 

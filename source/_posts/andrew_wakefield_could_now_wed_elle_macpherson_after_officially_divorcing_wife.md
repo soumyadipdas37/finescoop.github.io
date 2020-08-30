@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/02/32552488-0-image-a-63_1598749796162.jpg 
 title: Andrew Wakefield could now wed Elle Macpherson after officially divorcing wife 
 description: Carmel Wakefield, 62, filed for divorce from controversial anti-vaccine doctor Andrew Wakefield in January 2019, but The Mail on Sunday can reveal it has now been granted by a court in Austin, Texas. 
-date: 2020-08-30-19-41-27 
+date: 2020-08-30-19-43-49 
 categories: [latest] 
 featured: true 
 --- 

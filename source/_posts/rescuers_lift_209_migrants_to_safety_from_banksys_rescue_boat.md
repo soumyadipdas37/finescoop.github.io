@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/00/32550954-0-image-a-37_1598745065667.jpg 
 title: Rescuers lift 209 migrants to safety from Banksy's rescue boat 
 description: Some 209 migrants were transferred from the MV Louise Michel on to another rescue boat, after its crew put out a series of mayday alerts saying the vessel could not move due to an overcrowded deck. 
-date: 2020-08-30-19-41-38 
+date: 2020-08-30-19-43-59 
 categories: [latest] 
 featured: true 
 --- 
