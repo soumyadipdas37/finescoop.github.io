@@ -43,7 +43,7 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
-Bystander films person being shot dead during Portland protests
+Trump caravan trucks drive through protesters in Portland
 Impressive duck flies 60mph on the motorway with traffic
 French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
@@ -79,7 +79,7 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+Trump caravan trucks drive through protesters in Portland
 Impressive duck flies 60mph on the motorway with traffic
 French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
@@ -94,7 +94,7 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
-Bystander films person being shot dead during Portland protests
+Trump caravan trucks drive through protesters in Portland
 Impressive duck flies 60mph on the motorway with traffic
 French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
@@ -161,7 +161,7 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
-Bystander films person being shot dead during Portland protests
+Trump caravan trucks drive through protesters in Portland
 Impressive duck flies 60mph on the motorway with traffic
 French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
@@ -183,7 +183,7 @@ KENOSHA, WISCONSIN Protesters marched with Blake's family towards the Kenosha Co
 KENOSHA, WISCONSIN People march in support of Jacob Blake and his family to the Kenosha County Courthouse
 KENOSHA, WISCONSIN Jacob Blake Sr (pictured) gave an impassioned call for changing a system
 During the rally earlier, Blake's father, Jacob Blake Sr, called on protesters to refrain from looting and vandalism, which had overshadowed peaceful protests before a tense calm set in the past three nights. 
-'Good people of this city understand. If we tear it up we have nothing, Blake Sr said. 'Stop it. Show 'em for one night we don't have to tear up nothing.' 
+'Good people of this city understand. If we tear it up we have nothing,' Blake Sr said. 'Stop it. Show 'em for one night we don't have to tear up nothing.' 
 He gave an impassioned call for changing a system he described as fostering police brutality and racial inequities.
 'There were seven bullets put in my son's back... Hell yeah, I'm mad,' said Blake Sr. 'What gave [police] the right to attempted murder on my child? What gave them the right to think that my son was an animal? 
 'What gave them the right to take something that was not theirs? I'm tired of this,' he added.  

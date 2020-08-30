@@ -18,7 +18,7 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
-Bystander films person being shot dead during Portland protests
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Impressive duck flies 60mph on the motorway with traffic
 French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
