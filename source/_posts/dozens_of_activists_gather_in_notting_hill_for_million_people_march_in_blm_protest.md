@@ -2,12 +2,8 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/14/32566306-0-image-a-181_1598793806284.jpg 
-title: 
-	Dozens of activists gather in Notting Hill for Million People March in BLM protest
-       
-description: 
-	Dozens of Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration.
-       
+title: Dozens of activists gather in Notting Hill for Million People March in BLM protest 
+description: Dozens of Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration. 
 date: 2020-03-02 
 categories: [latest] 
 featured: true 
@@ -61,7 +57,7 @@ Impressive duck flies 60mph on the motorway with traffic
 Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
 French director colourises footage of a Victorian seaside
-Musk&#039;s Neuralink venture unveils pig with computer chip in brain
+Cops called on NFL star Brandon Marshall moving into new home
 Members of the Nation of Islam take part in the Million People anti-racism march in Notting Hill, west London this afternoon
 Protesters in Notting Hill in west London for an anti-racism demonstration. One of the placards says &#039;White Silence = White Violence&#039;
 Black Lives Matter protesters sit on the road in Notting Hill during the &#039;Million People March&#039; through central London today

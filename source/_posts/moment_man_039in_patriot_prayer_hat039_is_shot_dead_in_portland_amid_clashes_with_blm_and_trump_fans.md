@@ -2,19 +2,15 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32570910-0-image-a-27_1598804218749.jpg 
-title: 
-	Moment man &#039;in Patriot Prayer hat&#039; is shot dead in Portland amid clashes with BLM and Trump fans
-       
-description: 
-	Disturbing video appears to show the moment an unidentified man was gunned down in Portland on Saturday night. Witnesses said the victim had been macing people prior to the shooting.
-       
+title: Moment man &#039;in Patriot Prayer hat&#039; is shot dead in Portland amid clashes with BLM and Trump fans 
+description: Disturbing video appears to show the moment an unidentified man was gunned down in Portland on Saturday night. Witnesses said the victim had been macing people prior to the shooting. 
 date: 2020-03-02 
 categories: [latest] 
 featured: true 
 --- 
 Disturbing video shows the moment a man wearing a Patriot Prayer baseball cap was shot and killed in Portland as tensions between pro-Trump supporters and Black Lives Matter counter-protesters boiled over.&nbsp;&nbsp;
 In the footage, recorded by videographer Justin Dunlap, the victim appears to be following two other people down a street before two gunshots ring out and a cloud of smoke erupts at the source.&nbsp;&nbsp;&nbsp;
-The person who appeared to fire the shots and a handful of other people nearby then fled out of view as the victim staggered for a few feet and collapsed on the ground.&nbsp;
+The person who appeared to fire the shots and a handful of other people nearby then flee out of view as the victim staggers for a few feet and collapses on the ground.&nbsp;
 Several people are seen rushing over when a car turns a corner and skids to a stop in front of the victim.&nbsp;
 It remains unclear if the shooting at was linked to fights that broke out as a caravan of about 600 vehicles was confronted by counter-demonstrators in the city&#039;s downtown area.
 Police said the caravan had left the area around 8.30pm, and officers heard gunshots around 15 minutes later and arrived at the shooting scene &#039;within a minute&#039;.&nbsp;
@@ -104,7 +100,7 @@ Impressive duck flies 60mph on the motorway with traffic
 Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
 French director colourises footage of a Victorian seaside
-Musk&#039;s Neuralink venture unveils pig with computer chip in brain
+Cops called on NFL star Brandon Marshall moving into new home
 The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
 Saturday&#039;s rally was intended to follow a route circling around Portland and avoiding the downtown area, but cars diverted&nbsp;
 Attendees were encouraged to bring their guns, and conceal-carry them, in a video Kyzik posted previewing the event.
@@ -171,7 +167,7 @@ Impressive duck flies 60mph on the motorway with traffic
 Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
 French director colourises footage of a Victorian seaside
-Tokyo flying car makes test flight with hopes of launch by 2023
+Cops called on NFL star Brandon Marshall moving into new home
 KENOSHA, WISCONSIN A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 Officers were seen deploying tear gas grenades and using flash bang devices to disperse crowds.
 Videos shared on social media showed some protesters retaliating, with some throwing projectiles at officers or playing loud music. In one clip, one man was seen picking up a tear gas canister and hurling it back at police.&nbsp;

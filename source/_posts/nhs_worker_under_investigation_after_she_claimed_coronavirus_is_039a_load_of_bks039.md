@@ -2,12 +2,8 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/11/32562498-0-image-a-149_1598783213570.jpg 
-title: 
-	NHS worker under investigation after she claimed coronavirus is &#039;a load of bks&#039;
-       
-description: 
-	Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for &#039;making a difference to patients&#039; amid the virus outbreak.
-       
+title: NHS worker under investigation after she claimed coronavirus is &#039;a load of bks&#039; 
+description: Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for &#039;making a difference to patients&#039; amid the virus outbreak. 
 date: 2020-03-02 
 categories: [latest] 
 featured: true 
@@ -28,7 +24,7 @@ Impressive duck flies 60mph on the motorway with traffic
 Private bullet plane revealed Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
 French director colourises footage of a Victorian seaside
-Tokyo flying car makes test flight with hopes of launch by 2023
+Musk&#039;s Neuralink venture unveils pig with computer chip in brain
 Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for &#039;making a difference to patients&#039; amid the virus outbreak
 Ms Hampton has since posted a selfie while on the way to London to join more than 10,000 anti-lockdown protesters who believe coronavirus is a hoax at the &#039;Unite for Freedom&#039; rally on Saturday (pictured&nbsp;&nbsp;Protesters march towards Westminster from Trafalgar Square during a demonstration organised by a group called &#039;Stand Up X&#039;, in London on Saturday)
 Health Secretary Matt Hancock said yesterday he believed that a backlog of cancer patients awaiting treatment would clear &#039;within a matter of months.&#039;
