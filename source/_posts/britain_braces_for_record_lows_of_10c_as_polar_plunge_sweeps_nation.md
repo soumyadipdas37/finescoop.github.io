@@ -39,18 +39,18 @@ Frank Saunders, chief meteorologist at the Met Office, said: ‘We’ve seen a r
 ‘With high pressure on the way this weekend we’re going to end the month with much more settled weather, with plenty of late summer sunshine for many. It’ll be a dry weekend for most areas too.’
 The mixed forecast for the weekend follows heavy rain and thunder as 5.6 million motorists were expected to take to the roads for the bank holiday getaway.
 There was flash flooding in Devon, Cornwall and Hampshire on Friday morning as more than half a month’s rain fell in 12 hours.
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
-Kenosha shooting victim seen in video confronting armed men
-French director colourises footage of a Victorian seaside
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
+Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-Russian war planes get unnervingly close to American B-52
-Cop KICKS man in the BACK as he stands with his hands on his head
-Anti-lockdown protesters gather in Trafalgar Square
 Waves slam against the pier at Roker Lighthouse in Sunderland, yesterday afternoon, as clouds roll in from the North Sea
 Waves were seen crashing against the seafront at Scarborough, North Yorkshire, earlier yesterday, as Britain faces a Bank Holiday washout
 Despite the grey and blustery weather, people were still seen walking along the windy seafront at Scarborough, North Yorkshire, yesterday

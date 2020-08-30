@@ -20,18 +20,18 @@ Mayor Ted Wheeler said in a text message to Oregon Public Broadcasting that he w
 'Gathering information now,' he continued. 'Will be transparent with public. Asking for people to remain calm and not add to this tragedy.'
 A man was shot and killed in Portland on Saturday night amid deadly clashes between Trump fans and BLM activists
 Medics tried unsuccessfully to save the man, who was shot on the corner of Southwest 3rd Avenue and Alder Street
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
-Kenosha shooting victim seen in video confronting armed men
-French director colourises footage of a Victorian seaside
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
+Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-Russian war planes get unnervingly close to American B-52
-Cop KICKS man in the BACK as he stands with his hands on his head
-Anti-lockdown protesters gather in Trafalgar Square
 As the convoy of Trump vehicles entered the city center, Trump supporters sitting in the back of pick ups used pepper spray on counter-protesters. Eggs were thrown at their trucks and cars, and the Trump supporters retaliated by turning paintball guns on the crowd, allegedly firing ball bearings. 
 A reporter was among those shot by the paintball guns. 
 Two bare-chested men were filmed punching each other as the violence spread. Riot police swarmed into the center and began making arrests. 
@@ -51,33 +51,33 @@ Saturday's pro-Trump demonstration was organized on Facebook, and 2,500 people s
 A New York Times reporter on the scene estimated that around 1,000 people showed up at Clackamas Town Center at 4pm.
 'We would like to get some fellow American patriots together for a Trump 2020 Cruise rally to support our great president,' wrote Alex Kyzik, one of the organizers.
 Trump supporters were seen driving around and spraying the crowd with what some claimed were ball bearings
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
-Kenosha shooting victim seen in video confronting armed men
-French director colourises footage of a Victorian seaside
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
+Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-Russian war planes get unnervingly close to American B-52
-Cop KICKS man in the BACK as he stands with his hands on his head
-Anti-lockdown protesters gather in Trafalgar Square
 Supporters of Donald Trump met in Clackamas town center on Saturday at 4pm, to drive around Portland
 The convoy numbered around 600 vehicles, with Trump supporters flying flags as they cruised through Portland
 Most were in trucks and cars, but some motorcyclists also came along for the ride - one with his bike decorated with Trump
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
-Kenosha shooting victim seen in video confronting armed men
-French director colourises footage of a Victorian seaside
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
+Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-Russian war planes get unnervingly close to American B-52
-Cop KICKS man in the BACK as he stands with his hands on his head
-Anti-lockdown protesters gather in Trafalgar Square
 The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
 Saturday's rally was intended to follow a route circling around Portland and avoiding the downtown area, but cars diverted 
 Attendees were encouraged to bring their guns, and conceal-carry them, in a video Kyzik posted previewing the event.
@@ -91,18 +91,18 @@ A crowd of Black Lives Matter activists turned up to meet them, waving their pla
 One Trump supporter ripped off his jacket, squaring up for a fight, before he was escorted away by other Trump supporters.
 A Black Lives Matter activist was pepper sprayed in another melee.
 Alex Kyzik, one of the organizers of the Portland rally, said people should not show their guns, but conceal carry was fine
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
-Kenosha shooting victim seen in video confronting armed men
-French director colourises footage of a Victorian seaside
-Shocking moment Russian Su-27 crosses in front of US B-52
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
+Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-Cop KICKS man in the BACK as he stands with his hands on his head
-Anti-lockdown protesters gather in Trafalgar Square
 Counter-protesters and Black Lives Matter supporters confronted the Trump supporters in downtown Portland
 Black Lives Matter activists showed their displeasure as the convoy wove its way towards downtown Portland
 Black Lives Matter activists confronted the pro-Trump demonstrators in Clackamas on Saturday
@@ -134,18 +134,18 @@ Members of the Metropolitan Police Department were out in force as demonstrators
 Shortly before midnight, tensions between protesters and law enforcement boiled over, as police officers in riot gear began charging at crowds to move them out of the area. 
 Scroll down for video 
 Police clashed with BLM protesters in Washington, D.C. on Saturday during another night of unrest
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
-Kenosha shooting victim seen in video confronting armed men
-French director colourises footage of a Victorian seaside
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
+Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-Russian war planes get unnervingly close to American B-52
-Cop KICKS man in the BACK as he stands with his hands on his head
-Anti-lockdown protesters gather in Trafalgar Square
 KENOSHA, WISCONSIN: A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 Officers were seen deploying tear gas grenades and using flash bang devices to disperse crowds.
 Videos shared on social media showed some protesters retaliating, with some throwing projectiles at officers or playing loud music. In one clip, one man was seen picking up a tear gas canister and hurling it back at police. 

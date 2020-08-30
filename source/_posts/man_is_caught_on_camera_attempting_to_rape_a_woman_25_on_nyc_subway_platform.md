@@ -8,18 +8,18 @@ date: 2020-03-02
 categories: [latest] 
 featured: true 
 --- 
-A man was caught on video pushing a 25-year-old woman to the ground on an Upper East Side subway platform and attempting to rape her in broad daylight in New York City, police say.
+A man was caught on video pushing a 25-year-old woman to the ground on an Upper East Side subway platform and attempting to rape her in New York City, police say.
 The horrific attack took place at the Q train subway station at Lexington Avenue and East 63 Street around 11am on Saturday.
 The woman said she was waiting for the train when the man approached her and pushed her to the ground. 
 'The individual then climbed on top of the female and attempted to rape her, but he stopped when a crowd of bystanders formed,' New York Police said. 
 A man was caught on video pushing a 25-year-old woman to the ground on an Upper East Side subway platform and attempting to rape her in broad daylight in New York City, police say. Suspect pictured above
+'The individual then climbed on top of the female and attempted to rape her, but he stopped when a crowd of bystanders formed,' New York Police said. He got up and left when a group of bystanders gathered and yelled at him to leave the woman alone
 Videos were taken by witnesses and show the man on top of the woman on the ground. 
 The woman was reportedly heard screaming and bystanders yelled and shouted at the suspect to get off of her. 
 'Hey get off her,' a person yelled at the attacker in video of the incident. 
-In a clip released by the NYPD he finally got off her and shrugged as if he did nothing wrong, picked up his sunglasses off the ground, and walked away. 
+In a clip released by the NYPD, he finally got off her and shrugged as if he'd done nothing wrong, picked up his sunglasses off the ground, and walked away. 
 Police were called to the scene and the assailant ran away.
-The victim suffered minor injuries to her body but refused medical attention.
-'The individual then climbed on top of the female and attempted to rape her, but he stopped when a crowd of bystanders formed,' New York Police said. He got up and left when a group of bystanders gathered and yelled at him to leave the woman alone
+The victim suffered minor injuries but refused medical attention.
 The horrific attack took place at the Q train subway station at Lexington Avenue and East 63 Street around 11am on Saturday
 Police are still looking for the suspect, who was last seen wearing sunglasses, a black long sleeve shirt, dark cargo pants and brown shoes. 
 The NYPD is asking for the public's assistance identifying the individual as he is wanted for questioning in connection to an attempted rape. 

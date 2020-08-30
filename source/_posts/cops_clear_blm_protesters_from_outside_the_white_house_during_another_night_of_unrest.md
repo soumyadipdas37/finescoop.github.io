@@ -14,18 +14,18 @@ Members of the Metropolitan Police Department were out in force as demonstrators
 Shortly before midnight, tensions between protesters and law enforcement boiled over, as police officers in riot gear began charging at protesters to move them out of the area. 
 Scroll down for video 
 WASHINGTON, DC: Chaos erupted outside the White House on Saturday after police officers in riot gear deployed tear gas canisters and fired rubber bullets at protesters as it they moved to disperse crowds 
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
-Kenosha shooting victim seen in video confronting armed men
-French director colourises footage of a Victorian seaside
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
+Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-Cop KICKS man in the BACK as he stands with his hands on his head
-Anti-lockdown protesters gather in Trafalgar Square
-Cops fire tear gas as protesters are forced away from the White House
 Police charge at protesters to move them out of the area. They’ve detonated at least 8 stun grenades so far and used chemical irritant. You can see an officer shoving protester to the ground here: pic.twitter.com/8NcrrDi6DF
 Protests 2 blocks from White House. Police continue charging at protesters, using what appears to be tear gas, smoke + stun grenades. pic.twitter.com/j8fPp5i4f8
 Officers were seen deploying tear gas grenades, pepper spray and using flash bang devices to disperse crowds.  
@@ -109,15 +109,15 @@ Meanwhile, Banks theorized that Antifa was behind a lot of the rioting. 
  
  
  
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
-Kenosha shooting victim seen in video confronting armed men
-French director colourises footage of a Victorian seaside
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
+Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-Cop KICKS man in the BACK as he stands with his hands on his head
-Anti-lockdown protesters gather in Trafalgar Square
-Cops fire tear gas as protesters are forced away from the White House
