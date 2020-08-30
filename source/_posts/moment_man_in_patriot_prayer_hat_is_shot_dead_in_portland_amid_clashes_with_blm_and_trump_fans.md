@@ -92,12 +92,12 @@ Most were in trucks and cars, but some motorcyclists also came along for the rid
 Bystander films man attempting to rape woman on subway platform
 Girl swept up in the air by kite during Taiwan's festival
 Million People March gathers in Hyde Park
-Bystander films person being shot dead during Portland protests
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Dozens of caravans parked on field for Wellingborough horse fair
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
+Black Panther star Chadwick Boseman dies after battle with cancer
 Trump caravan trucks drive through protesters in Portland
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Impressive duck flies 60mph on the motorway with traffic
@@ -117,12 +117,12 @@ Alex Kyzik, one of the organizers of the Portland rally, said people should not 
 Bystander films man attempting to rape woman on subway platform
 Girl swept up in the air by kite during Taiwan's festival
 Million People March gathers in Hyde Park
+Bystander films person being shot dead during Portland protests
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Dozens of caravans parked on field for Wellingborough horse fair
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
 Private bullet plane revealed: Otto Aviation Group LLC
-Black Panther star Chadwick Boseman dies after battle with cancer
 Trump caravan trucks drive through protesters in Portland
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Impressive duck flies 60mph on the motorway with traffic
