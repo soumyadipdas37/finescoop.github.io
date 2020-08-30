@@ -54,8 +54,9 @@ class Find
 
                     // Check if already posted
                     if($this->post->check($post)) {
-                        //$this->post->post($post);
-                        //sleep(450);
+                        $this->post->post($post);
+                        echo "Posted: {$post}";
+                        sleep(450);
                     }
                 }
             }

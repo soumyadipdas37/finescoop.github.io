@@ -22,11 +22,10 @@ Police were called to the scene and the assailant ran away.
 The victim suffered minor injuries but refused medical attention.
 The horrific attack took place at the Q train subway station at Lexington Avenue and East 63 Street around 11am on Saturday
 Police are still looking for the suspect, who was last seen wearing sunglasses, a black long sleeve shirt, dark cargo pants and brown shoes. 
-The NYPD is asking for the public's assistance identifying the individual as he is wanted for questioning in connection to an attempted rape. 
+The NYPD is asking for the public's assistance identifying the individual to question him in connection to an attempted rape. 
 New York City has been reeling from a crime wave this year that has forced the police department to increase weekend patrols citywide.
 Officials have linked the rise in crime to the pandemic, a surge in unemployment, civil unrest, and protests. 
-There was a 162 per cent increase in the number of shooting victims and a 166 per cent increase in the number of shooting incidents during the four-week period that ended on August 23 compared to the same period last year, police data shows.
-From January 1 through August 23, there was a 95 per cent increase in the number of shooting victims and 87 per cent increase in shootings compared to the same period in 2019.
+There was a 162 per cent increase in the number of shooting victims and a 166 per cent increase in the number of shooting incidents during the four-week period that ended on August 23 compared to the same period last year, police data shows. 
 During the four-week period ending on August 23, the city recorded 48 homicides - a 50 per cent increase from the 32 homicides that were recorded during the same period last year.
 Residents of New York City’s Upper West Side are considering suing the city after hordes of homeless people were placed in luxury hotels in the neighborhood due to the coronavirus crisis
 A man rests on a park bench on the Upper West Side in the Manhattan borough of New York City on August 10

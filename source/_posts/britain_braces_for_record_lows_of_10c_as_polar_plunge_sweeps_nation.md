@@ -1,22 +1,24 @@
 ---
 extends: _layouts.post
 section: content
-image: https://i.dailymail.co.uk/1s/2020/08/30/08/32559174-0-image-a-5_1598773435486.jpg 
+image: https://i.dailymail.co.uk/1s/2020/08/30/15/32568296-0-image-a-3_1598798504656.jpg 
 title: Britain braces for record lows of 10C as 'polar plunge' sweeps nation 
-description: Britons have been told to dust off their coats for the first time since winter as temperatures are set to plummet as a 500-mile wide 'polar plunge' engulfs the UK. 
+description: Families were seen enjoying beaches and campsites in Dorset despite the dipping temperatures. A 500-mile wide polar front has hit the UK, causing the mercury to plummet. 
 date: 2020-03-02 
 categories: [latest] 
 featured: true 
 --- 
-Britons have been told to dust off their coats for the first time since winter as temperatures are set to plummet below 10C in parts of the UK - 5C below the seasonal average.
-A 500-mile wide 'polar plunge' has swept in for the August bank holiday making it feel colder, but also bringing drier weather and a reduced chance of rain. Temperatures are forecast to drop as low as 10C in Balmoral, Scotland.
+Staycationers determined to make the most of the August bank holiday have packed out beaches and campsites despite forecasters warning that temperatures could plummet below 10C.
+Families flooded onto beaches in Lyme Regis, Dorset, but many had cautiously decided to don trousers and coats, while others made the most of campsites in the region.
+Britons were advised to dust off their coats for the first time since winter this morning amid warnings a 500-mile 'polar plunge' had swept in, dragging temperatures to unseasonal lows. There was a silver lining, however, as forecasters also predicted a spike of drier weather and a reduced chance of rain. 
 
 Huge downpours and 80mph winds from Storm Francis battered the UK earlier this week, with cold northerly winds gripping the country over the next few days.
 But party-goers were out in force on Friday as they celebrated the start of the long bank holiday weekend despite the wet and windy conditions.
-Temperatures are set to plunge as low as 10C in parts of the UK - as much as 5C below the average. Pictured are a pair walking through the early morning sunshine in Lose Hill, Peak District
+Staycationers lined the beach on Dorset's Jurassic Coast today as they tried to make the most of the unseasonably chilly bank holiday weather. Some were, however, seen dressed head-to-toe in trousers, jumpers and coats
 
 The seafront in Lyme Regis, Dorset, looked less busy than usual this morning, possibly due to the cold temperatures
 Groups set up windbreaks on the beach for themselves to sit behind, or sat down on deckchairs dressed in coats and trousers
+Temperatures are set to plunge as low as 10C in parts of the UK - as much as 5C below the average. Pictured are a pair walking through the early morning sunshine in Lose Hill, Peak District
 The polar air (pictured) has caused temperatures to drop across the UK, France, Spain and Portugal. But it will be pushed to one side later in the week as a body of tropical air rides up the gulf stream
 Wind speeds and directions here show the movement of air currents helping to determine the current weather
  The Met Office said it will be a drier and sunnier today compared to yesterday, but it will also be noticeably colder in many areas - keeping less hardy beachgoers away from the coast.
@@ -27,7 +29,12 @@ Tonight countryside temperatures will fall as low as 2C (35F) in the north, abou
 In the south the mercury will fall to up to 4C (39F) tonight in the countryside and 8C (46F) in the cities, below the average temperature of 10C (50F) for the time of year.
 Last night temperatures dropped as low as 0C (32F) in Catesbridge, Northern Ireland, with a scattering of light frost appearing on the ground.
 'There is a possibility of frost in the glens of Scotland,' said Mr Dewhurst, 'but it won't be in towns and cities. There is still some warmth left over in them'. 
-'Stray' showers are also expected along the East Anglia and Kent coastlines tonight, with further showers expected for some coastal towns today. 
+'Stray' showers are also expected along the East Anglia and Kent coastlines tonight, with further showers expected for some coastal towns today.
+The cliff fall happened at approximately 6.30am on the Jurassic coast. The cliffs are said to be unstable due to rainfall
+The cliff collapsed on a stretch of coast between Hive beach and Freshwater beach. No injuries were reported
+Rescuers raced to the Jurassic Coast yesterday after fears people may have been trapped by a cliff-fall as tonnes of rock tumbled onto the coast between Hive beach and Freshwater beach, Burton Bradstock
+Firefighters arrived but no one was found under the rubble. Recent heavy rainfall had made cliffs unstable, and authorities have warned that further rockfalls could happen at any time. 
+The fall happened at approximately 6.30am yesterday. Geologists have previously warned that the strip of coast remains 'totally unpredictable'.
 The lowest temperature recorded yesterday was 3.4C (48F) in Swyddffynnon, Wales, as the polar front swept in
 The Met Office said it is expected to be a dry day due to the polar front and sunnier, but it will also be colder
 Hundreds of caravan-owners camping at Freshwater Beach Holiday Park in Burton Bradstock, Dorset. The Met Office said it would be sunny but that temperatures would plummet

@@ -32,14 +32,15 @@ Protesters in Notting Hill in west London for an anti-racism demonstration. The 
 Numbers on the Million People march started at just a few dozen but swelled to around 300 as demonstrators made their way down Bayswater Road.
 The march stopped outside Hyde Park and broke into a rendition of Redemption Song by Bob Marley as demonstrators raised their fists.
 Organisers say the movement plans to push a Race Offenders Register, to prosecute those committing race offences. 
-Prior to the bank holiday weekend police said a pan-London operation was in place to keep people safe.  
-The force said they were aware of a number of planned demonstrations and events taking place across London, and have been liaising with the organisers, advising them to carefully consider the Health Protection Regulations regarding gatherings. 
-Contravening this legislation could result in anyone involved in the holding of a large gathering (over 30 people) being subjected to a fine up to £10,000. 
-Commander Bas Javid, said: 'Our approach to policing London during this time has been to engage, explain, encourage and only then enforce, and this will continue across what we believe will be a busy long weekend. 
+It comes a day after a mass-gathering of Covid-19 conspiracy theorists who took to the streets of London yesterday to demonstrate against lockdown restrictions and vaccination programmes.
+More than 10,000 anti-lockdown protesters who believe coronavirus is a hoax gathered for the 'Unite for Freedom' rally which started at noon in the capital on Saturday. 
 Protesters in Notting Hill in west London for an anti-racism demonstration. One of the placards says 'White Silence = White Violence'
 Black Lives Matter protesters sit on the road in Notting Hill during the "Million People March" through central London today
 A group of protesters marching through central London today. Many of the protesters today could be seen wearing masks, but some did not, and social distancing was not always being complied with
 People hold up placards as they take part in the inaugural Million People March march from Notting Hill to Hyde Park in London today
+Prior to the bank holiday weekend police said a pan-London operation was in place to keep people safe. The force said they were aware of a number of planned demonstrations and events taking place across London, and have been liaising with the organisers, advising them to carefully consider the Health Protection Regulations regarding gatherings. 
+Contravening this legislation could result in anyone involved in the holding of a large gathering (over 30 people) being subjected to a fine up to £10,000. 
+Commander Bas Javid, said: 'Our approach to policing London during this time has been to engage, explain, encourage and only then enforce, and this will continue across what we believe will be a busy long weekend. 
 'We know people will want to be out celebrating the holiday, and we want them to do so safely reminding people of the restrictions which are in place to keep them safe.
 'Throughout this week, officers have been travelling in a Met engagement bus across London, working in conjunction with local authorities and other blue light services to meet with communities, reminding them of the Government health restrictions, and explaining our policing style and operation.
 'Watch the celebration of Carnival from the comfort of your own home, online. We urge people to not come into the traditional area to celebrate; there are no events. Where there are large gatherings of people, officers will be deployed to interact with those gathered.
