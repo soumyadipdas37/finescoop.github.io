@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573206-0-image-a-33_1598813640772.jpg 
 title: Experts say US's coronavirus positivity rate is high because tests are 'too sensitive' 
 description: Up to 90 percent of people tested for COVID-19 in Massachusetts, New York and Nevada in July carried barely any traces of the virus, a new report says. 
-date: 2020-08-30-20-52-25 
+date: 2020-08-30-21-06-05 
 categories: [latest] 
 featured: true 
 --- 

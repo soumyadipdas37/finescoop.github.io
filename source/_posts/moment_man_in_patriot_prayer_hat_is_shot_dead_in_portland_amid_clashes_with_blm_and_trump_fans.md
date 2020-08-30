@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32570910-0-image-a-27_1598804218749.jpg 
 title: Moment man 'in Patriot Prayer hat' is shot dead in Portland amid clashes with BLM and Trump fans 
 description: Disturbing video appears to show the moment an unidentified man was gunned down in Portland on Saturday night. Witnesses said the victim had been macing people prior to the shooting. 
-date: 2020-08-30-20-52-37 
+date: 2020-08-30-21-06-21 
 categories: [latest] 
 featured: true 
 --- 
@@ -65,6 +65,8 @@ Mayor Ted Wheeler said in a text message to Oregon Public Broadcasting that he w
 Medics and police officers stand over the unidentified man who was shot dead in the street in Portland on Saturday night
 
 Medics tried unsuccessfully to save the man, who was shot on the corner of Southwest 3rd Avenue and Alder Street
+
+A man has been shot in downtown Portland. Ambulance and police are attending. pic.twitter.com/lKjPO2bbLK
 
 Girl swept up in the air by kite during Taiwan's festival
 

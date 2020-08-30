@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/15/32567274-0-image-a-205_1598797692061.jpg 
 title: Internet users across the world report problems with accessing websites in major global outage  
 description: Website Down Detector, which tracks the status of websites, reveals a spike in outages across several sites and online services - including eBay, Twitter, Xbox Live and PlayStation Network. 
-date: 2020-08-30-20-53-00 
+date: 2020-08-30-21-06-46 
 categories: [latest] 
 featured: true 
 --- 

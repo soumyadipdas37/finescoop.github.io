@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/12/32564448-0-image-a-159_1598787653928.jpg 
 title: Hate preacher Abu Hamza is suing US authorities over 'cruel and degrading' conditions in prison 
 description: Hamza, the former imam of north London's Finsbury Park mosque, says he isn't getting enough sunlight in his cell - and being deprived of his hooks means he has to tear open packets of food with teeth. 
-date: 2020-08-30-20-53-09 
+date: 2020-08-30-21-06-53 
 categories: [latest] 
 featured: true 
 --- 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/14/32566210-0-image-a-28_1598794187054.jpg 
 title: Boris Johnson 'tries to recruit Riz Lateef to front government's daily press conferences' 
 description: Riz Lateef is the prime minister's top choice for the job from 9 Downing Street, according to senior Tory sources, which comes with a salary of at least £100,000. 
-date: 2020-08-30-20-53-01 
+date: 2020-08-30-21-06-47 
 categories: [latest] 
 featured: true 
 --- 

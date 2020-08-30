@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/15/32568296-0-image-a-3_1598798504656.jpg 
 title: Britain braces for record lows of 10C as 'polar plunge' sweeps nation 
 description: Families were seen enjoying beaches and campsites in Dorset despite the dipping temperatures. A 500-mile wide polar front has hit the UK, causing the mercury to plummet. 
-date: 2020-08-30-20-52-58 
+date: 2020-08-30-21-06-44 
 categories: [latest] 
 featured: true 
 --- 

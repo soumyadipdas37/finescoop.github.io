@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/12/32564360-0-image-a-53_1598787706520.jpg 
 title: BBC presenter Lauren Mahon says late podcast co-host Rachael Bland left instructions before she died 
 description: BBC presenter Lauren Mahon, 35, from London, spoke candidly to The Telegraph about dating with cancer, and said going through the menopause left her 'depressed about it all' 
-date: 2020-08-30-20-53-05 
+date: 2020-08-30-21-06-50 
 categories: [latest] 
 featured: true 
 --- 

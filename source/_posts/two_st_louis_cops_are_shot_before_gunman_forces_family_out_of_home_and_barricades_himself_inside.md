@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/06/32557116-0-image-a-32_1598766862358.jpg 
 title: Two St. Louis cops are shot before gunman forces family out of home and barricades himself inside 
 description: One police officer is in a critical condition after being shot in the head while responding to a report of a shooting in the south side of St. Louis. Another officer was shot in the leg. 
-date: 2020-08-30-20-52-15 
+date: 2020-08-30-20-53-24 
 categories: [latest] 
 featured: true 
 --- 

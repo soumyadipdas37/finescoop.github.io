@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32570586-0-image-a-69_1598803634710.jpg 
 title: Former PM David Cameron joins hoards of tourists on chilly beach in Cornwall 
 description: Former Prime Minister David Cameron, 53, was spotted on Thursday wearing a shortie wetsuit and taking to the waves at Polzeath. He was carrying a bodyboard as he strolled the beach 
-date: 2020-08-30-20-52-43 
+date: 2020-08-30-21-06-28 
 categories: [latest] 
 featured: true 
 --- 

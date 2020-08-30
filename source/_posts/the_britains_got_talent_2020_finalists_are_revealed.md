@@ -1,10 +1,10 @@
 ---
 extends: _layouts.post
 section: content
-image: https://i.dailymail.co.uk/1s/2020/08/30/20/32572986-0-image-a-6_1598815611333.jpg 
+image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575764-0-image-a-27_1598817182510.jpg 
 title: The Britain's Got Talent 2020 finalists are revealed! 
 description: The final 40 Britain's Got Talent acts have been unveiled, after viewers were forced to wait an unusually lengthy four months to find out who was through to the 2020 semi-finals. 
-date: 2020-08-30-20-52-24 
+date: 2020-08-30-21-06-04 
 categories: [latest] 
 featured: true 
 --- 
@@ -40,9 +40,9 @@ Gordon Ramsay shows off dance moves as he struts next to car
 
 Megan Thee Stallion stuns as she shows off her twerking skills
 
-'Illegal rave' in Banwen South Wales sees crowds dancing in field
+Private bullet plane revealed: Otto Aviation Group LLC
 
-Police turn up at quarantine breaking house party in Leeds
+Tokyo flying car makes test flight with hopes of launch by 2023
 
 Musk's Neuralink venture unveils pig with computer chip in brain
 

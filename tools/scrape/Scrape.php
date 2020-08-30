@@ -77,7 +77,8 @@ class Scrape
                 }
             }
 
-        }
+            $output = shell_exec('git add .; git commit -m \'articles\'; git push origin HEAD');
+				}
 
     }
 }

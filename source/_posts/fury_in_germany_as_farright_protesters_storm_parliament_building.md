@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/18/32572728-0-image-a-13_1598808067469.jpg 
 title: Fury in Germany as far-right protesters storm parliament building 
 description: Hundreds of protesters breached a security barrier and raced up the steps outside Berlin's parliament building late on Saturday before being stopped and dispersed by police. 
-date: 2020-08-30-20-52-39 
+date: 2020-08-30-21-06-25 
 categories: [latest] 
 featured: true 
 --- 

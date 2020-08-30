@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/18/32571674-0-image-a-16_1598807048710.jpg 
 title: Terrifying moment three-year-old girl whisked 100 feet into air by giant kite at Taiwanese festival 
 description: A three-year-old girl was caught up by a giant orange kite and lifted up from the ground. The youngster was out at a kite festival in Nanliao, Taiwan, earlier today when the shocking video was taken. 
-date: 2020-08-30-20-52-42 
+date: 2020-08-30-21-06-26 
 categories: [latest] 
 featured: true 
 --- 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569912-0-image-a-37_1598802126223.jpg 
 title: Mutated coronavirus strain '10 times more infectious' but less deadly is discovered in Indonesia 
 description: Indonesia reported 2,858 new infections on Sunday, below the previous day's record of 3,308 but above the past month's daily average, data by the health ministry showed. 
-date: 2020-08-30-20-52-52 
+date: 2020-08-30-21-06-38 
 categories: [latest] 
 featured: true 
 --- 

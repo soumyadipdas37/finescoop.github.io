@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/23/32549124-0-image-a-43_1598741130173.jpg 
 title: BBC Symphony Orchestra held meeting over fears it was 'institutionally racist' weeks before Proms 
 description: After the Zoom summit, an emergency action plan was brought in to tackle so-called 'unconscious bias' within the world-renowned orchestra, which plays at the Last Night Of The Proms every year. 
-date: 2020-08-30-20-52-09 
+date: 2020-08-30-21-07-06 
 categories: [latest] 
 featured: true 
 --- 
