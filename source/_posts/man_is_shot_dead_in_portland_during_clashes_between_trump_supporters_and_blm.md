@@ -55,13 +55,13 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
-&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
 Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 Supporters of Donald Trump met in Clackamas town center on Saturday at 4pm, to drive around Portland
 The convoy numbered around 600 vehicles, with Trump supporters flying flags as they cruised through Portland
