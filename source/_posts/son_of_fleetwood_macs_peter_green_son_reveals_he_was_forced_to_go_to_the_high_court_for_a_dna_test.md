@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32568736-0-image-a-147_1598799651367.jpg 
 title: Son of Fleetwood Mac's Peter Green son reveals he was forced to go to the High Court for a DNA test 
 description: The secret son of late Fleetwood Mac legend Peter Green has revealed he went to court for a DNA test to prove his paternity, after the rocker refused to acknowledge him. 
-date: 2020-08-30-21-06-28 
+date: 2020-08-30-21-07-37 
 categories: [latest] 
 featured: true 
 --- 

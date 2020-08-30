@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/23/32548298-0-image-a-3_1598738627343.jpg 
 title: Capita will shut up to 100 offices in devastating blow to PM's campaign 
 description: Capita - the giant Government contractor that collects the BBC licence fee and provides key public services - is preparing to shutter more than a third of its 250 offices across Britain. 
-date: 2020-08-30-21-07-12 
+date: 2020-08-30-21-08-21 
 categories: [latest] 
 featured: true 
 --- 

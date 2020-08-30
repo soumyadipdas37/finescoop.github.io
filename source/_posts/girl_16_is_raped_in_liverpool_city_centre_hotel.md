@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573736-0-image-a-18_1598811103274.jpg 
 title: Girl, 16, 'is raped' in Liverpool city centre hotel 
 description: Police rushed to an apartment inside the Uno building on Temple Court, Liverpool at around 4.30am today after the alleged attack took place. 
-date: 2020-08-30-21-06-13 
+date: 2020-08-30-21-07-26 
 categories: [latest] 
 featured: true 
 --- 

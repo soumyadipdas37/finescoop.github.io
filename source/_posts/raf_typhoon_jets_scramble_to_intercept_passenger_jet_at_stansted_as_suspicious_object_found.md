@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32574796-0-image-a-9_1598814622251.jpg 
 title: RAF Typhoon jets scramble to intercept passenger jet at Stansted as 'suspicious object' found 
 description: Two RAF Typhoon jets were scrambled to escort a passenger jet flying into Stansted airport this evening. The jets were scrambled just after 7pm to fly alongside the plane. 
-date: 2020-08-30-21-06-03 
+date: 2020-08-30-21-07-19 
 categories: [latest] 
 featured: true 
 --- 

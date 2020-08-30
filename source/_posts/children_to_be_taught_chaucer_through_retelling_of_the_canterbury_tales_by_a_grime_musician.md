@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/12/32564348-0-image-a-30_1598787423322.jpg 
 title: Children to be taught Chaucer through retelling of The Canterbury Tales by a Grime musician 
 description: A new curriculum developed as a plan B in case schools have to close again will see pupils learning about the Canterbury Tales through the voice of a grime musician. 
-date: 2020-08-30-21-06-51 
+date: 2020-08-30-21-07-58 
 categories: [latest] 
 featured: true 
 --- 

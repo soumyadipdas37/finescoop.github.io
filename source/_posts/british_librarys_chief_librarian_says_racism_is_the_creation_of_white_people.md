@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/11/32561634-0-image-a-8_1598783186137.jpg 
 title: British Library's chief librarian says 'racism is the creation of white people' 
 description: Liz Jolly, who has been the institution's chief librarian since 2018, is urging white members of staff at the British Library to support the Anti Racism action plan as the institution addresses 'colonial origins' 
-date: 2020-08-30-21-06-27 
+date: 2020-08-30-21-07-36 
 categories: [latest] 
 featured: true 
 --- 

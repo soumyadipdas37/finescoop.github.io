@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32568692-0-image-a-46_1598801248902.jpg 
 title: Notting Hill streets that would be bustling with revellers lie deserted after carnival was cancelled 
 description: While usually the streets of west London are bustling with musicians, live performances and revellers, this year the streets are deserted as the festival has moved online due to the pandemic. 
-date: 2020-08-30-21-06-40 
+date: 2020-08-30-21-07-48 
 categories: [latest] 
 featured: true 
 --- 

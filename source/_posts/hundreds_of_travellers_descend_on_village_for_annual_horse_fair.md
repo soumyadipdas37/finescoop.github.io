@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569202-0-image-a-36_1598800730552.jpg 
 title: Hundreds of travellers descend on village for annual horse fair 
 description: Dozens of caravans were seen parked on a field for the Wellingborough Horse Fair near Wollaston, Northamptonshire. Some of the attendees were also seen dancing together. 
-date: 2020-08-30-21-06-29 
+date: 2020-08-30-21-07-38 
 categories: [latest] 
 featured: true 
 --- 
@@ -20,7 +20,9 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Bystander films person being shot dead during Portland protests
+Thousands evacuated as wildfire ravages Andalusia
+
+Million People March gathers in Hyde Park
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
@@ -30,13 +32,11 @@ Russian war planes get unnervingly close to American B-52
 
 Dozens of caravans parked on field for Wellingborough horse fair
 
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
+
 Private bullet plane revealed: Otto Aviation Group LLC
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
-
-Trump caravan trucks drive through protesters in Portland
 
 LeBron James pays tribute to Black Panther star Chadwick Boseman
 
@@ -52,7 +52,9 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Bystander films person being shot dead during Portland protests
+Thousands evacuated as wildfire ravages Andalusia
+
+Million People March gathers in Hyde Park
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
@@ -62,13 +64,11 @@ Russian war planes get unnervingly close to American B-52
 
 Dozens of caravans parked on field for Wellingborough horse fair
 
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
+
 Private bullet plane revealed: Otto Aviation Group LLC
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
-
-Trump caravan trucks drive through protesters in Portland
 
 LeBron James pays tribute to Black Panther star Chadwick Boseman
 

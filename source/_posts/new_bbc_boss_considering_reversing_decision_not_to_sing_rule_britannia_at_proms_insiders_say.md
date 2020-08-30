@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/08/32559482-0-image-a-45_1598773618468.jpg 
 title: New BBC boss 'considering reversing decision not to sing Rule Britannia! at Proms' insiders say  
 description: Tim Davie, who takes over on Tuesday, is understood to believe his predecessor Lord Tony Hall's move wreaked 'terrible damage' to the BBC, insiders have said as anger mounts about the decision. 
-date: 2020-08-30-21-06-48 
+date: 2020-08-30-21-07-55 
 categories: [latest] 
 featured: true 
 --- 

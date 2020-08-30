@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32571660-0-image-a-21_1598806210993.jpg 
 title: Chadwick Boseman's posthumous tweet makes history as the most 'liked' post in Twitter history 
 description: Chadwick Boseman, 43, passed on Friday August 29 after his secret four year battle with colon cancer. The tweet announcing his passing is the most liked tweet in the site's history. 
-date: 2020-08-30-21-06-26 
+date: 2020-08-30-21-07-35 
 categories: [latest] 
 featured: true 
 --- 
