@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/14/32566232-0-image-a-2_1598793456749.jpg 
 title: Devout Shiite Muslims mark day of Ashura in Iraqi holy city of Najaf 
 description: GRAPHIC CONTENT Shiite pilgrims were left covered in blood as they struck themselves with swords during the procession to mark the day of Ashura. 
-date: 2020-08-30-19-44-39 
+date: 2020-08-30-19-49-51 
 categories: [latest] 
 featured: true 
 --- 

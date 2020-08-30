@@ -3,8 +3,8 @@ extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573206-0-image-a-33_1598813640772.jpg 
 title: Experts say US's coronavirus positivity rate is high because tests are 'too sensitive' 
-description: Health experts say COVID-19 testing should be more widespread and adjusted to a lower PCR cycle threshold to rule out people with 'relatively insignificant amounts' of the virus. 
-date: 2020-08-30-19-44-06 
+description: Up to 90 percent of people tested for COVID-19 in Massachusetts, New York and Nevada in July carried barely any traces of the virus, a new report says. 
+date: 2020-08-30-20-51-03 
 categories: [latest] 
 featured: true 
 --- 
@@ -75,6 +75,8 @@ The Food and Drug Administration said that it does not specify the cycle thresho
 The Centers for Disease Control and Prevention said it is examining the use of cycle threshold measures for 'policy decision'.
 
 The CDC said its own calculations suggest its extremely hard to detect a live virus in a sample above a threshold of 33 cycles.  
+
+Healthcare workers check patients in to a city-run COVID-19 testing location in New York on July 21
 
 
 

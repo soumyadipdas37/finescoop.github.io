@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32571144-0-image-a-60_1598804683202.jpg 
 title: Brawl breaks out in Glasgow beer garden as drunk thugs throw punches and ice bucket across a table 
 description: Punches were thrown and an ice bucket hurled across a table at the Sanctuary nightclub's beer garden yesterday in Glasgow after a mass brawl broke out leaving bystanders screaming. 
-date: 2020-08-30-19-44-11 
+date: 2020-08-30-19-50-35 
 categories: [latest] 
 featured: true 
 --- 

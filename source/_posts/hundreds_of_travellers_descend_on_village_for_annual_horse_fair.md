@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569202-0-image-a-36_1598800730552.jpg 
 title: Hundreds of travellers descend on village for annual horse fair 
 description: Dozens of caravans were seen parked on a field for the Wellingborough Horse Fair near Wollaston, Northamptonshire. Some of the attendees were also seen dancing together. 
-date: 2020-08-30-19-44-28 
+date: 2020-08-30-19-50-55 
 categories: [latest] 
 featured: true 
 --- 
@@ -20,25 +20,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Hundreds of travellers crowded to Wollaston, Northamptonshire, for the annual horse fair despite coronavirus fears
 
@@ -52,25 +52,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Businesses and pubs in nearby villages have closed their doors while hundreds of travellers enjoy themselves at the site - which features a beer tent, food and disco.
 

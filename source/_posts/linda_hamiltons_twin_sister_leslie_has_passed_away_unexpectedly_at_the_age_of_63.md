@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/05/32555626-0-image-a-116_1598761481058.jpg 
 title: Linda Hamilton's twin sister Leslie has passed away 'unexpectedly' at the age of 63 
 description: Linda Hamilton is mourning the loss of her twin sister Leslie H. Freas, who died last Saturday in Mount Laurel, New Jersey.  
-date: 2020-08-30-19-44-43 
+date: 2020-08-30-19-49-55 
 categories: [latest] 
 featured: true 
 --- 

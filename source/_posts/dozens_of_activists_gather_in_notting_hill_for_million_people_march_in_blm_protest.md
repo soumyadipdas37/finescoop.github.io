@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575252-0-image-a-27_1598815460745.jpg 
 title: Dozens of activists gather in Notting Hill for Million People March in BLM protest 
 description: Dozens of Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration. 
-date: 2020-08-30-19-44-07 
+date: 2020-08-30-20-51-04 
 categories: [latest] 
 featured: true 
 --- 
@@ -48,25 +48,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 The Million People March is protesting against systemic racism and is taking place in lieu of this year's Notting Hill carnival
 
@@ -90,25 +90,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Members of the Nation of Islam take part in the Million People anti-racism march in Notting Hill, west London this afternoon
 

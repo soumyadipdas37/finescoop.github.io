@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/00/32550862-0-image-a-41_1598744856409.jpg 
 title: Thousands of anti-maskers who believe pandemic is a HOAX march against lockdown in London  
 description: Jeremy Corbyn's older brother Piers was filmed being taken away from Trafalgar Square by a gaggle of mask-wearing police officers who hauled him into a van. 
-date: 2020-08-30-19-43-59 
+date: 2020-08-30-19-50-26 
 categories: [latest] 
 featured: true 
 --- 
@@ -44,25 +44,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Jeremy Corbyn's brother Piers was yesterday arrested at a mass-gathering of Covid-19 conspiracy theorists who took to the streets of London to demonstrate against lockdown restrictions and vaccination programmes
 
@@ -104,25 +104,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Anti-mask protesters participate in the Unite for Freedom demonstration outside Downing Street on Saturday. Participants are calling for a return to 'normal'
 
@@ -166,25 +166,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 David Icke is the notorious conspiracy theorist who often makes headlines for his controversial comments.
 
@@ -300,25 +300,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Anti-mask protesters are seen at the Unite for Freedom protest in Trafalgar Square, London, on Saturday
 
@@ -392,25 +392,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Thousands gathered around the Victory Column in Berlin as they protested against restrictions. Germany recorded 1,500 new cases yesterday as fears of a second wave of the virus increase
 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/21/32545758-0-image-a-18_1598732717722.jpg 
 title: Extinction Rebellion demonstrations get underway across the country after group promised bedlam 
 description: Multiple demonstrations are getting underway across the country this weekend as environmental campaign group Extinction Rebellion gears up for a new 'uprising'. 
-date: 2020-08-30-19-44-01 
+date: 2020-08-30-19-50-27 
 categories: [latest] 
 featured: true 
 --- 
@@ -28,25 +28,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Three women were arrested in Brighton following a day of environmental protests organised by Extinction Rebellion
 
@@ -82,25 +82,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Extinction Rebellion protesters in Leeds city centre, ahead of their 'Ride the Noise' protest against the expansion of Leeds Bradford Airport, as a weekend of Extinction Rebellion action begins across the country
 

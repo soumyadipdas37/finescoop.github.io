@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/09/32560040-0-image-a-89_1598775274708.jpg 
 title: Not very socially distant! Revellers ignore Covid guidelines to hit pubs and bars across Britain 
 description: Revellers were lining up outside of clubs in tightly-packed groups in Manchester - where coronavirus-related restrictions are being lifted next week. 
-date: 2020-08-30-19-43-41 
+date: 2020-08-30-19-50-05 
 categories: [latest] 
 featured: true 
 --- 

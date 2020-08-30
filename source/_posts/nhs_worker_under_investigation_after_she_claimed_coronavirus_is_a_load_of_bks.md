@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/11/32562498-0-image-a-149_1598783213570.jpg 
 title: NHS worker under investigation after she claimed coronavirus is 'a load of bks' 
 description: Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for 'making a difference to patients' amid the virus outbreak. 
-date: 2020-08-30-19-44-17 
+date: 2020-08-30-19-50-40 
 categories: [latest] 
 featured: true 
 --- 
@@ -28,25 +28,25 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Black Panther star Chadwick Boseman dies after battle with cancer
-
 Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
-
 Impressive duck flies 60mph on the motorway with traffic
 
 Trump caravan trucks drive through protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for 'making a difference to patients' amid the virus outbreak
 

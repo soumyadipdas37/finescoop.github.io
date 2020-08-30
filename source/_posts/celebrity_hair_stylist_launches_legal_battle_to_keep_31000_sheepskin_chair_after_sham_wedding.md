@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/07/32557910-0-image-a-33_1598769250164.jpg 
 title: Celebrity hair stylist launches legal battle to keep $31,000 sheepskin CHAIR after 'sham wedding' 
 description: William Jordan Blackmore, 37,  tied the knot to longtime girlfriend Andi Potamkin, 31, in a star-studded ceremony back in 2015, only to learn  three years later that they were not legally wed. 
-date: 2020-08-30-19-43-56 
+date: 2020-08-30-19-50-22 
 categories: [latest] 
 featured: true 
 --- 

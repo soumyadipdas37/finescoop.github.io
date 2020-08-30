@@ -2,6 +2,8 @@
 
 namespace Tools\Scrape;
 
+use function date;
+use function date_default_timezone_set;
 use function var_dump;
 
 class Article
@@ -15,12 +17,16 @@ class Article
      */
     public function build(\SimpleXMLElement $item, array $feed)
     {
-        // Get the page content and set the xpath
-        $content = $this->getPageContent($item->{$feed['items']['link']});
-        $xpath   = new \DOMXPath($content);
+    		// set the current time
+				date_default_timezone_set('Europe/London');
 
-        return [
-            'date'        => date("Y-m-d-H-i-s"),
+				// Get the page content and set the xpath
+        $content 		 = $this->getPageContent($item->{$feed['items']['link']});
+        $xpath   		 = new \DOMXPath($content);
+        $currentTime = date("Y-m-d-H-i-s");
+
+				return [
+            'date'        => $currentTime,
             'category'    => $feed['category'],
             'title'       => (string) $this->safeString($item->{$feed['items']['title']}),
             'description' => (string) $this->safeString($item->{$feed['items']['description']}),

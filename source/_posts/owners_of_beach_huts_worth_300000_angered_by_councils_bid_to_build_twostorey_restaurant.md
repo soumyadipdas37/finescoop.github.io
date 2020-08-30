@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/10/32561854-0-image-a-28_1598780893711.jpg 
 title: Owners of beach huts worth £300,000 angered by council's bid to build two-storey restaurant 
 description: Officials at the council tabled the £1million scheme for Mudeford Spit, Dorset, on the site of a cafe that burned down two years ago. Residents have ordered the council to 'take notice of our feelings' 
-date: 2020-08-30-19-44-49 
+date: 2020-08-30-19-50-02 
 categories: [latest] 
 featured: true 
 --- 
