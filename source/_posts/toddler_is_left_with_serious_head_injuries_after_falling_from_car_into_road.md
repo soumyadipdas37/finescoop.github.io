@@ -16,7 +16,7 @@ Officers were called around 3pm yesterday to reports of an incident at the junct
 Two men, believed to be the driver and a passenger in the Toyota, were arrested by police.
 The driver of the Peugeot, a woman in her 50s, was not injured and has not been arrested.
 Detectives are appealing for information and urging any witnesses to come forward.
-Det Insp Paul Langley, of Lancashire Police, said: 'We are appealing for any witnesses following a road traffic accent in Accrington.
+Det Insp Paul Langley, of Lancashire Police, said 'We are appealing for any witnesses following a road traffic accent in Accrington.
 'A 20-month-old girl is believed to have fallen from inside a yellow Toyota Prius into the road before being involved in a collision with another vehicle.
 'The girl is currently receiving medical treatment to establish the seriousness of the injuries.
 'We would appeal for any witnesses who may have seen what happened or who have dash cam footage of the incident. Furthermore, if you saw the yellow Prius in the car park before the collision, please get in touch.'

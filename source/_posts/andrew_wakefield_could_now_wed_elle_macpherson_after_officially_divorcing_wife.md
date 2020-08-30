@@ -16,7 +16,7 @@ Mrs Wakefield stood by her husband throughout his scandal-hit career, moving wit
 His claims contributed to a sharp fall in vaccination rates and a rise in cases of measles, mumps and rubella on both sides of the Atlantic. He was struck off by the General Medical Council in 2010.
 The terms of the divorce including the division of their estate have been kept secret after the court sealed the file at Mrs Wakefield’s request.
 A court official said only the couple and their lawyers can obtain copies, but confirmed the case is closed after the divorce was granted. The judge signed an order to seal the case on August 10.
-Asked for comment, Wakefield, 63, said: ‘No, thanks very much.’ He hung up when asked whether he would marry Ms Macpherson.
+Asked for comment, Wakefield, 63, said ‘No, thanks very much.’ He hung up when asked whether he would marry Ms Macpherson.
 In 2017, Mrs Wakefield defended her husband in a documentary called The Pathological Optimist. Ms Macpherson split from her billionaire property developer husband Jeffrey Soffer that year.
 Carmel Wakefield, 62, (pictured with Andrew) filed for divorce in January last year, but The Mail on Sunday can reveal it has now been granted by a court in Austin, Texas
 Wakefield and the 56-year-old model were spotted kissing at a farmers’ market in Miami in 2018.

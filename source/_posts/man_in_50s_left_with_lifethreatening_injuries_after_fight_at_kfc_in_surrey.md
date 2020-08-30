@@ -16,7 +16,7 @@ A man in his 50s has been left with life-threatening injuries after a fight brok
 He was taken to hospital with life-threatening head injuries and police have said that his next of kin have been contacted about his condition. 
 The two other men, in their 20s, fled from the area but were later arrested on suspicion of grievous bodily harm.
 Both men remain in custody and police are now appealing for any witnesses to come forward.
-Detective Sergeant Antony Preston, who is leading the investigation, said: 'The restaurant and surrounding streets would have been extremely busy, and it is imperative that we speak to everybody who was in KFC at the time, or who saw or heard the commotion outside.
+Detective Sergeant Antony Preston, who is leading the investigation, said 'The restaurant and surrounding streets would have been extremely busy, and it is imperative that we speak to everybody who was in KFC at the time, or who saw or heard the commotion outside.
 The victim was taken to hospital with life-threatening head injuries and police have said that his next of kin have been contacted about his condition (stock image)
 'I am also keen to speak to anyone who was driving past the scene, and any delivery drivers collecting orders from KFC, as it is likely that their dashcam or helmet cam may have captured what happened.'
 He also said that members of the public might notice n increased police presence in the area because of the investigation.

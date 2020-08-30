@@ -18,7 +18,7 @@ He said that, although he is right-handed, he writes with his left hand and uses
 Hamilton said that, although he is right-handed, he writes with his left hand and uses his right hand as a guide after losing his right thumb during childhood
 Andy Hamilton is best known for creating the TV series Outnumbered and says that if handwriting disappears, there will be a loss of intimacy 
 Longhand will be released on Thursday September 3
-Hamilton told The Times: 'This feels like the moment when we're waving goodbye to handwriting. 
+Hamilton told The Times 'This feels like the moment when we're waving goodbye to handwriting. 
 'The age of global digitalness is fully upon us. And I think that if handwriting does disappear, it will be a loss - a loss of intimacy.' 
 The novel is about a character called Malcolm George Galbraith who is forced to leave the woman he loves behind and writes her a handwritten note to explain why. 
 In this note, he starts from the beginning and tells her the whole story of his life, with the different names he has gone by and the other places he has lived.  

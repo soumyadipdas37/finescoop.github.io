@@ -50,7 +50,7 @@ River Island floral midi dress (now reduced to £25)
                                         
 According to the Sun, sources say the Queen spent time with her great-grandchildren while outside on the royal estate.
 Prince Edward, Sophie of Wessex and Princess Anne were also reportedly at the 50,000-acre estate this weekend. 
-The source told The Sun: 'Like every family, they've been desperate to get back together and over the moon it was possible this weekend.
+The source told The Sun 'Like every family, they've been desperate to get back together and over the moon it was possible this weekend.
 'They've all been up there for a few days and although there are very strict procedures with social distancing, they've been able to find ways of seeing each other outside.
 'It's obviously been a difficult year for the Queen and Duke of Edinburgh seeing the country dealing with the pandemic, so they were all keen to go there to show their support.'    
 The Queen, 94, and the Duke of Edinburgh, 99, have been in Scotland since August 4.
@@ -81,5 +81,5 @@ Prince William has revealed his patience has been tested while homeschooling his
 Prince George is in his final year of infant school at Thomas's Battersea, in south west London.
 His little sister Princess Charlotte joined him in September and is currently in the reception class. 
 But the royal children have been homeschooled since the start of the coronavirus pandemic, which Prince William admits has been a struggle.  
-Speaking on BBC Radio 5 Lives That Peter Crouch Podcast, which was recorded partially via Zoom and partially at Kensington Palace in March, the heir said: 'I've found it pretty testing, not going to lie, trying to keep the children engaged in some kind of work, it's been an interesting few months.
+Speaking on BBC Radio 5 Lives That Peter Crouch Podcast, which was recorded partially via Zoom and partially at Kensington Palace in March, the heir said 'I've found it pretty testing, not going to lie, trying to keep the children engaged in some kind of work, it's been an interesting few months.
 'I've learned through homeschooling that my patience is a lot shorter than I thought it was, that's probably been the biggest eye opener for me, and that my wife has super patience,' the duke revealed. 

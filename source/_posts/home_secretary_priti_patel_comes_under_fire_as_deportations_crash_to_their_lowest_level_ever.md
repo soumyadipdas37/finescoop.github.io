@@ -12,7 +12,7 @@ Deportations have plummeted to their lowest level on record, putting Priti Pate
 Figures show that the number of illegal immigrants, visa overstayers and foreign criminals leaving the UK fell by an astonishing 34 per cent last year.
 The figures were quietly released last week and could fall even further after it emerged Home Office lawyers are discreetly dropping challenges to dozens of asylum and immigration cases before they are even heard by judges. 
 There are now fresh calls for the Home Secretary to clamp down on the record number of migrants making the treacherous trip across the Channel.
-Sir John Hayes, chairman of the new Common Sense Group of Tory parliamentarians, said last night Ms Patel was ‘trying to do the right thing’, but added: ‘She needs the support of Parliament to deliver on what the public expect – a radical change of the law on asylum and immigration.
+Sir John Hayes, chairman of the new Common Sense Group of Tory parliamentarians, said last night Ms Patel was ‘trying to do the right thing’, but added ‘She needs the support of Parliament to deliver on what the public expect – a radical change of the law on asylum and immigration.
 Figures show that the number of illegal immigrants, visa overstayers and foreign criminals leaving the UK fell by an astonishing 34 per cent last year. Pictured, a group of people thought to be migrants being brought into Dover on August 27
 ‘People are sick and tired of our borders – which we voted to take back control of – being seen to be porous.’ Sir John said Britain must continue to offer asylum to those fleeing war, but that many migrants were being exploited by criminal gangs to reach Britain.
 He added that legislation was needed to tackle the problem of migrants being encouraged by lawyers to ‘game the system’ and keep launching legal attempts to avoid deportation even if their asylum claims failed.
@@ -26,7 +26,7 @@ Last week, the department became embroiled in a row over a Dad’s Army-style vi
 Ms Patel was said to be furious after legal challenges forced the Home Office to abandon a charter flight to Spain carrying 23 migrants who had reached Britain by boat.
 Their lawyers successfully argued that they were risks to themselves or others in detention, so the plane never took off.
 Ms Patel in Dover on August 10. She has admitted the system is ‘broken’ and has privately told Tory MPs she is devising ways to prevent migrants claiming asylum in the UK that will ‘send the Left into meltdown’
-Alp Mehmet, vice-chairman of pressure group Migration Watch UK, said: ‘This is not something that has happened just because of coronavirus.
+Alp Mehmet, vice-chairman of pressure group Migration Watch UK, said ‘This is not something that has happened just because of coronavirus.
 ‘The Home Office has been doing less and less to return people over the years, and even when they have jumped through hoops to return a small number, their efforts have been thwarted in the courts.’
 Ms Patel has admitted the system is ‘broken’ and has privately told Tory MPs she is devising ways to prevent migrants claiming asylum in the UK that will ‘send the Left into meltdown’.
-The Home Office said: ‘We are committed to removing dangerous foreign national offenders and those with no right to be in the UK and who do not comply with our immigration laws.’
+The Home Office said ‘We are committed to removing dangerous foreign national offenders and those with no right to be in the UK and who do not comply with our immigration laws.’

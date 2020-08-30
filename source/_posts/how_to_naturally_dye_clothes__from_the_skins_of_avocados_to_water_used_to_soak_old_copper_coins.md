@@ -11,7 +11,7 @@ featured: true
 In the world of fast fashion, it's often easy to ignore old clothes that sit in your drawers and snap up brand new versions instead. 
 However, Ireland-based online magazine MetDaan Fashion has come up 11 DIY home dyes - using ingredients you might have in your cupboard or fridge - that promise to breathe new life into tired garments.
 The expert tips help people dye clothes using natural resources, including drawing out colours from herbs, spices and berries to get a hue that sticks to clothes. 
-Here's how to do it:  
+Here's how to do it  
 COPPER COINS FOR BLUE
 Soaking copper pennies or cents in water releases a blue dye which can be poured over clothing to transform it.
 Once added to the coins, the water will begin to turn blue and leaving them in there for as long as week can create a brighter colour. 

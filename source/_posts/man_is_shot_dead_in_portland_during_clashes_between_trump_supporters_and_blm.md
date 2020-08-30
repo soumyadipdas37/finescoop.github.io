@@ -26,7 +26,7 @@ Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed: Otto Aviation Group LLC
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
@@ -57,7 +57,7 @@ Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed: Otto Aviation Group LLC
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
@@ -72,7 +72,7 @@ Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed: Otto Aviation Group LLC
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
@@ -83,7 +83,7 @@ Saturday's rally was intended to follow a route circling around Portland and avo
 Attendees were encouraged to bring their guns, and conceal-carry them, in a video Kyzik posted previewing the event.
 Some of those at the start, however, were openly flaunting their assault rifles.
 'I know for the most part, everyone here is gonna be pretty civilized. We're all gonna support the president in safe way,' said Brandon Beck, who was attending his first Trump rally. 
-He told Oregon Public Broadcasting: 'Obviously we're all gonna be in cars, none of us are gonna be burning, looting, or anything. We're just trying to have fun and stay safe today.' 
+He told Oregon Public Broadcasting 'Obviously we're all gonna be in cars, none of us are gonna be burning, looting, or anything. We're just trying to have fun and stay safe today.' 
 Joe Reminar told the site that he was a veteran of Trump rallies, and Saturday's was the fifth or sixth he had attended. 
 'Today is about freedom and showing that Antifa doesn't have the full chokehold on Portland and that we're taxpaying citizens and we don't want s**t tore up,' he said.
 'We're gonna be a major parade and showing strength for our president. Which we appreciate all that he's done, keeping the economy going, fighting China on this virus, keeping us free and saving our Second Amendment.'
@@ -97,7 +97,7 @@ Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed: Otto Aviation Group LLC
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
@@ -106,7 +106,7 @@ Organizer of pro-Trump Portland rally encourages concealed weapons
 Counter-protesters and Black Lives Matter supporters confronted the Trump supporters in downtown Portland
 Black Lives Matter activists showed their displeasure as the convoy wove its way towards downtown Portland
 Black Lives Matter activists confronted the pro-Trump demonstrators in Clackamas on Saturday
-Fans of the president in their red MAGA hat held up a sign reading: 'All Lives Matter', taunting the BLM crowd
+Fans of the president in their red MAGA hat held up a sign reading 'All Lives Matter', taunting the BLM crowd
 The convoy set off, with Clackamas County Sheriff's Office vehicles blocking intersections around the Town Center mall to allow the parade of vehicles to pass through.
 A heavy presence of Oregon state troopers was seen along Highway 224, the pro-Trump caravan's primary route to Portland.
 The caravan was intended to avoid downtown, but as night fell many of the cars strayed from the intended route and headed into the city center.
@@ -140,13 +140,13 @@ Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed: Otto Aviation Group LLC
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
-KENOSHA, WISCONSIN: A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
+KENOSHA, WISCONSIN A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 Officers were seen deploying tear gas grenades and using flash bang devices to disperse crowds.
 Videos shared on social media showed some protesters retaliating, with some throwing projectiles at officers or playing loud music. In one clip, one man was seen picking up a tear gas canister and hurling it back at police. 
 In Kenosha, protests over the police shooting of Jacob Blake remained largely peaceful on Saturday night, following a day of demonstrations that saw thousands of people march to the county courthouse to denounce police brutality and racism. 
@@ -155,11 +155,11 @@ Earlier in the day, crowds took to the streets chanting, 'seven bullets, seven d
 But unlike last week's demonstrations, most people on Saturday dispersed from the protest before the 7pm curfew. 
 More than an hour later, law enforcement officers, including some wearing U.S. Marshals Service identification, surrounded about a dozen people who remained outside the courthouse and made several arrests. 
 As night fell, National Guard troops and police officers in riot gear remained outside the fenced area surrounding several government buildings that have been at the center of the unrest over the past week. 
-KENOSHA, WISCONSIN: Law enforcement officers are seen standing guard as several people were arrested after the start of a city-wide curfew outside of the Kenosha County Courthouse on Saturday
-KENOSHA, WISCONSIN: About 1,000 people joined a mile-long march in Kenosha on Saturday, chanting 'Black Lives Matter' and 'No Justice, No Peace', a week after the police shooting of Jacob Blake 
-KENOSHA, WISCONSIN: Protesters marched with Blake's family towards the Kenosha County Courthouse where speakers encouraged the crowd to vote for change in November, and to push for legislation in Wisconsin that would lead to police reform
-KENOSHA, WISCONSIN: People march in support of Jacob Blake and his family to the Kenosha County Courthouse
-KENOSHA, WISCONSIN: Jacob Blake Sr (pictured) gave an impassioned call for changing a system
+KENOSHA, WISCONSIN Law enforcement officers are seen standing guard as several people were arrested after the start of a city-wide curfew outside of the Kenosha County Courthouse on Saturday
+KENOSHA, WISCONSIN About 1,000 people joined a mile-long march in Kenosha on Saturday, chanting 'Black Lives Matter' and 'No Justice, No Peace', a week after the police shooting of Jacob Blake 
+KENOSHA, WISCONSIN Protesters marched with Blake's family towards the Kenosha County Courthouse where speakers encouraged the crowd to vote for change in November, and to push for legislation in Wisconsin that would lead to police reform
+KENOSHA, WISCONSIN People march in support of Jacob Blake and his family to the Kenosha County Courthouse
+KENOSHA, WISCONSIN Jacob Blake Sr (pictured) gave an impassioned call for changing a system
 During the rally earlier, Blake's father, Jacob Blake Sr, called on protesters to refrain from looting and vandalism, which had overshadowed peaceful protests before a tense calm set in the past three nights. 
 'Good people of this city understand. If we tear it up we have nothing, Blake Sr said. 'Stop it. Show 'em for one night we don't have to tear up nothing.' 
 He gave an impassioned call for changing a system he described as fostering police brutality and racial inequities.

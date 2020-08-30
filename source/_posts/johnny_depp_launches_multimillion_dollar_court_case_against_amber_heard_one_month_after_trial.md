@@ -16,7 +16,7 @@ Mr Depp denies the claims and says his ex-wife was violent towards him.
 Depp, who gave days of vivid evidence at London’s High Court in July, is already taking action against the 34-year-old actress in the US state of Virginia over a column that she wrote for the Washington Post newspaper in December 2018.
 While the article did not mention Depp by name, she described herself as becoming ‘a public figure representing domestic abuse’ – which his lawyers argue had the effect of falsely portraying him as wife beater.
 Amber Heard, pictured, is bracing herself for a second bruising court battle with her ex-husband Johnny Depp
-A source close to the actress said: ‘Amber’s team are super nervous about him suing again, this time in the States. It seems that he will stop at nothing to ruin her.
+A source close to the actress said ‘Amber’s team are super nervous about him suing again, this time in the States. It seems that he will stop at nothing to ruin her.
 ‘No matter what the outcome [of Depp’s case against The Sun], Amber is preparing for round two, but if Johnny wins his case against The Sun then that’s it, he will go and go. This could go on for years to come.’
 This weekend, Miss Heard – now in a relationship with Bianca Butti – posted social media photographs from her break in Turkey, including one of her holding a glass of red wine while sitting on the front of a boat.
 Another snap was taken at Cappadocia, known for its ‘fairy chimneys’ of tall, cone-shaped rock formations.

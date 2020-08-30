@@ -9,14 +9,14 @@ categories: [latest]
 featured: true 
 --- 
 Pablo Escobar's son has revealed he is furious with a man who claims to be his brother as he says there are 'holes in his story'. 
-Sebastian Marroquin, 43, says that Phillip Witcomb, 55, is 'the third guy in the world who claims to be the first-born'. He added: 'I’m used to this kind of crazy guy.'  
+Sebastian Marroquin, 43, says that Phillip Witcomb, 55, is 'the third guy in the world who claims to be the first-born'. He added 'I’m used to this kind of crazy guy.'  
 Mr Witcomb, a painter, now lives in Mallorca and says his original name is Roberto Sendoya Escobar. 
 Sebastian Marroquin (pictured), 43, says that Phillip Witcomb, 55, is 'the third guy in the world who claims to be the first-born'
 Mr Marroquin, who has met around 150 families of his father’s victims to ask for their forgiveness, told The Mirror that his father told him there are no sons outside of his marriage. 
 He said Escobar told him 'he'd forced the abortion of one of his mistresses'. 
 Mr Witcomb said he found out about his birth father in 1989 in what he described as 'an extraordinary moment'.  
 Mr Witcomb (pictured) said he found out about his birth father in 1989 in what he described as 'an extraordinary moment'
-Under his birth name, Mr Witcomb wrote a novel titled Son Of Escobar: First Born which was published earlier this month. 
+Under his birth name, Mr Witcomb wrote a novel titled Son Of Escobar First Born which was published earlier this month. 
 Mr Marroquin said Escobar (pictured) wasn't the head of a cartel then, but was a farmer and student
 In an interview at the beginning of this month, Mr Witcomb said his adoptive father regularly took him, as a young boy, to visit Escobar in Medellin. 
 He said this was to keep the drug lord on board and to track his movements for MI6.  

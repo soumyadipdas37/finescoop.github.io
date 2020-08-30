@@ -16,7 +16,7 @@ Conor McGregor, 32, and his girlfriend Dee Devlin, 32, were joined by Princess C
 The MMA fighter dressed up for the occasion, wearing a dark green polo shirt with a pair of smart trousers, and posed for pictures with his girlfriend Dee (left) and Prince Albert II of Monaco (right)
 The former UFC joined the Monaco royal family again this week, this time in the royal cavalcade for the launch of the renowned race - in its 107th year. 
 He shared his look for the event - wearing a dark green polo shirt and smart trousers - on Instagram, informing his followers he was off to the event which was delayed due to the coronavirus pandemic. 
-Sharing a snap, he wrote: 'In the royal cavalcade headed to the launch of the Tour De France 2020.' 
+Sharing a snap, he wrote 'In the royal cavalcade headed to the launch of the Tour De France 2020.' 
 And speaking on the Tour de France Twitter, he said it was an honour to be at the event to witness the 'amazing athletes' take part in the world-famous race.  
 The Monaco royals, Princess Charlene and Prince Albert were seen enthusiastically cheering on the cyclists at the launch of the world famous event in Nice, France
 McGregor shared a snap of his look for the event with his followers on Instagram, informing them he was invited to be part of the royal cavalcade for the Tour de France launch
@@ -27,12 +27,12 @@ The 32-year-old fighter has been embroiled in a string of controversies, includi
 McGregor has spent some of his time with the royals while holidaying in France, with other snaps showing McGregor posing topless with Prince Albert II, 62, and standing with his arms around the royal couple alongside Dee, the mother of his two children. 
 It appears the royal connection may go back several years, with McGregor first meeting Princess Charlene of Monaco's brother, Gareth Wittstock, in May 2016. 
 McGregor and Dee pose with their arms around Charlene and Albert of Monaco last month, pictured
-Posting a snap on Facebook at the time, he wrote: 'The Court of Monaco and his team dropped by the beach house last week! Nice to meet you Gareth my man!'   
+Posting a snap on Facebook at the time, he wrote 'The Court of Monaco and his team dropped by the beach house last week! Nice to meet you Gareth my man!'   
 McGregor, Dee and children Conor Jr, three, and Croia, 10 month, were seen enjoying family time on a beach in nearby south of France last month. 
 McGregor announced late last month he will be among the athletes taking part in a 24 hour charity water bike race in September. 
 The challenge, which takes place on 12 and 13 September, will see two teams of four internationally renowned athletes take turns to 'cycle' 180km from Calvi, in Corsica, to Monaco.  
 Put 'em up! McGregor poses with Prince Albert II of Monaco in Monte Carlo last month. McGregor was on hand to challenge Charlene to a water bike race
-Sharing his excitement at taking part, McGregor posted: 'A Great day racing the water bikes with Princess Charlene of Monaco. A phenomenal athlete and Olympian, we are teaming up for a 180km voyage in September to raise awareness in water safety. I cannot wait! 
+Sharing his excitement at taking part, McGregor posted 'A Great day racing the water bikes with Princess Charlene of Monaco. A phenomenal athlete and Olympian, we are teaming up for a 180km voyage in September to raise awareness in water safety. I cannot wait! 
 'We will be utilising my training under the McGregor F.A.S.T program to excel on these mounted water bike devices, which are incredibly good! It is like Freedom out there! Thank you for the great day for my family Your Highness.'
 The event will benefit the Princess Charlene of Monaco Foundation and raise awareness of its programmes including 'Learn to Swim' and 'Water Safety', which have been implemented around the world.   
 Since the creation of the Princess Charlene Foundation in 2012, more than 730,000 people, particularly children, have benefited from these three programmes in 34 countries. 

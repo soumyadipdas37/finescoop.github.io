@@ -21,10 +21,10 @@ Revellers try out a punchbag while grabbing some food in Munchies takeaway as th
 Revellers enjoy a Saturday night on the town in Newcastle's Bigg Market last night, making the most of the Bank Holiday weekend in spite of the cold weather
 in Sheffield, a group of young men dressed up as medieval knights as they ventured out for the evening
 Revellers make the most of the Bank Holiday weekend on West Street in Sheffield, August 29
-Sheffield: Two young women are seen walking along West Street during a night out in the August Bank Holiday Weekend
+Sheffield Two young women are seen walking along West Street during a night out in the August Bank Holiday Weekend
 Revellers were lining up outside of clubs in tightly-packed groups in Manchester - where coronavirus-related restrictions are being lifted next week 
 Police are pictured by a van in Manchester as revellers enjoy nights out across the country on the Bank Holiday Weekend 
-Chair-do: One reveller is seen carrying a seat on their head while walking along the street in Soho on the Bank Holiday Weekend
+Chair-do One reveller is seen carrying a seat on their head while walking along the street in Soho on the Bank Holiday Weekend
 Revellers made the most of the Bank Holiday Weekend and partied across Manchester 
 In Leeds, people were hugging and dancing together as buskers played music in the street over the Bank Holiday Weekend 
 Revellers are seen lining up outside a venue in Leeds, seemingly paying no mind to social distancing rules this weekend

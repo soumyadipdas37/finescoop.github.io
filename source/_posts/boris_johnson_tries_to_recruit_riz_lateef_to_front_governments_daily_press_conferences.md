@@ -12,7 +12,7 @@ Boris Johnson wants to recruit BBC London presenter Riz Lateef as the face of th
 Lateef is the prime minister's top choice for the job, according to senior Tory sources, which comes with a salary of at least £100,000.   
 Work is already underway to create a television studio at 9 Downing Street, a former colonial courtroom, where the new spokesperson will host a daily tea time briefing.  
 Lateef was known for giving Boris Johnson a tough time in interviews during his time as London Mayor.
-The presenter, 40, is seen as 'fair' and a 'straight shooter' by Johnson, with a source telling the Times: 'Riz Lateef was Boris's first thought.'
+The presenter, 40, is seen as 'fair' and a 'straight shooter' by Johnson, with a source telling the Times 'Riz Lateef was Boris's first thought.'
 Riz Lateef was known for giving Boris Johnson a tough time in interviews during his time as London Mayor
 The presenter, 40, is seen as 'fair' and a 'straight shooter' by Johnson and was understood to be the PM's favourite for the spokesperson role
 However, it is understood that she was flattered to be considered for the job but turned it down. 

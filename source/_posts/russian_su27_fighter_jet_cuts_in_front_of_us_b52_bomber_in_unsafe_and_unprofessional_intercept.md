@@ -36,9 +36,9 @@ The incident is the latest indicator of increased military tensions between the 
 The Russian military on Thursday blamed US troops for a collision of Russian and US military vehicles in Syria's northeast.
 US officials said Wednesday that a Russian vehicle sideswiped a light-armored US military vehicle, injuring four Americans, while two Russian helicopters flew overhead, one as close as 70 feet from the US vehicle. 
 On Friday, the US military flew B-52 bombers over all 30 NATO member countries in what is perceived by observers as a show of force meant to dispel doubts about Washington's commitment to the alliance.
-High-speed confrontation: This is the moment before the Russian vehicle from which the video footage came hits the US armored vehicle as the two patrols move fast across a field in the east of Syria with a Russian military helicopter flying low overhead
-Rammed: The Russian video captures the moment the Kremlin's armored vehicle hits its U.S. equivalent. Four American troops were injured, with minor concussions
-Russian presence: One still from the video shows how the Russian armored vehicle which rammed the American troop-carrier was not alone - at the right is another armored Russian vehicle
+High-speed confrontation This is the moment before the Russian vehicle from which the video footage came hits the US armored vehicle as the two patrols move fast across a field in the east of Syria with a Russian military helicopter flying low overhead
+Rammed The Russian video captures the moment the Kremlin's armored vehicle hits its U.S. equivalent. Four American troops were injured, with minor concussions
+Russian presence One still from the video shows how the Russian armored vehicle which rammed the American troop-carrier was not alone - at the right is another armored Russian vehicle
 'Six US Air Force B-52 Stratofortress strategic bombers will fly over all 30 NATO nations in Europe and North America on August 28,' US European Command said in a statement Friday.
 Meanwhile, the Russian navy conducted major war games near Alaska involving dozens of ships and aircraft, the military said on Friday, the biggest such drills in the area since Soviet times. 
 Russia's navy chief, Adm. Nikolai Yevmenov, said that more than 50 warships and about 40 aircraft were taking part in the exercise in the Bering Sea, which involved multiple practice missile launches.

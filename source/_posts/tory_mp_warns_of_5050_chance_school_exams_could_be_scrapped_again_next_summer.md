@@ -16,10 +16,10 @@ Conservative MP Robert Halfon has warned students taking exams next summer are f
 Ofqual chairman Roger Taylor is to face questions from MPs as pupils return to classrooms this week, when he appears before the committee on Wednesday.
 Mr Williamson is then set to be grilled about the A-level and GCSE results fiasco on September 16.
 The Conservative MP argued the decision on next year's exams should be made quickly so teachers can prepare.
-He said: 'It is 50:50 that exams go ahead next summer. Schools, the Department of Education and Ofsted need to work out…how much disruption there will be to pupils' learning in the coming year.
+He said 'It is 5050 that exams go ahead next summer. Schools, the Department of Education and Ofsted need to work out…how much disruption there will be to pupils' learning in the coming year.
 'Serious analysis needs to be done and then they need to make an announcement about exams within the next few weeks.'
 He warned that students may have fallen too far behind due to months out of school and raised fears that a second wave could force pupils back to home learning. 
-An Ofqual spokeswoman said: 'There are no plans to cancel either GCSEs or A-levels in 2021. There are also currently no plans to curtail programmes of study.
+An Ofqual spokeswoman said 'There are no plans to cancel either GCSEs or A-levels in 2021. There are also currently no plans to curtail programmes of study.
 'But we keep all plans constantly under review because the progress of the pandemic is uncertain.'
 It comes days after Boris Johnson fired the top civil servant at the Department for Education today saying 'fresh official leadership' was needed after the A-Level and GCSE exam fiasco.
 Jonathan Slater has been effectively removed from his post and will leave on September 1, it was announced today, 24 hours after Ofqual chief executive Sally Collier resigned from her post in the wake of the grading U-turn.
@@ -38,9 +38,9 @@ Mr Williamson last night issued a warning that parents who do not send their chi
 In an open letter to parents, the Education Secretary acknowledged that some parents may have concerns about their children attending school in England for the first time since March, with millions set to return to the classroom from next week.
 However, he insisted that schools are safe, detailing measures which have been put in place to minimise infection, while reassuring parents that the health risk posed to children by Covid-19 is 'extremely low'. 
 In an open letter to parents, the Education Secretary acknowledged that some parents may have concerns about their children attending school in England
-In the open letter last night, Mr Williamson told parents: 'If a child is not in school, they stand to lose far more than just a few months of learning. It could well put a huge dent in their future life chances.
+In the open letter last night, Mr Williamson told parents 'If a child is not in school, they stand to lose far more than just a few months of learning. It could well put a huge dent in their future life chances.
 'Education is a birthright, so let's make sure we get all children back - back to learning, back to playing and back to being kids again.'
-He also told The Sun: 'For every day they are out of school, we don't get that day back.
+He also told The Sun 'For every day they are out of school, we don't get that day back.
 'I've seen it with my kids, how much they've missed school, missed their friends, missed learning.'
 It comes after teaching unions condemned the Government for releasing last-minute guidance for secondary schools in lockdown areas, which includes a 'rota system' limiting the number of students in attendance at any one time.
 Published by the Department for Education (DfE) on Friday evening, it was released just before the bank holiday weekend and only days away from the start of autumn term.

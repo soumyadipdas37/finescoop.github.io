@@ -22,11 +22,11 @@ Urban planner Lauren, 49, refused to raise her fist despite her dining companion
 'When she heard it was Black Lives Matter she explained that she totally supported them and had marched in several protests.
 Even young children were made to raise their fists by protesters at several outdoor restaurants
 'Lauren's friend raised her fist but Lauren didn't want to be intimidated into raising her hand. She said, 'I'm on your side but I won't be pressured.' '
-One protester screamed: 'Are you a Christian?' But Mrs Victor last night said: 'What did that have to do with anything? Lauren says she wasn't afraid at any point that they would harm her. It was only a couple in the crowd who were aggressively confronting her.
+One protester screamed 'Are you a Christian?' But Mrs Victor last night said 'What did that have to do with anything? Lauren says she wasn't afraid at any point that they would harm her. It was only a couple in the crowd who were aggressively confronting her.
 'The easy thing for her to do would be to raise her fist and it would be over. But she was a little taken aback by their anger and vehemence and would not be intimidated. It's one of those things that shouldn't have happened. She wishes the whole group had just passed her by.'
-Lauren declined to comment at her home in Washington DC, but moments after the incident she told a local reporter she felt 'under attack', adding: 'It just felt overwhelming to have all of those people come at you.
+Lauren declined to comment at her home in Washington DC, but moments after the incident she told a local reporter she felt 'under attack', adding 'It just felt overwhelming to have all of those people come at you.
 Protesters walked through Washington DC on Monday to protest the shooting of Jacob Blake
 'To have a crowd – with all that energy – demand that you do this thing. On one level my best guess was no one was going to hurt me but those things turn on a dime.' The crowd were protesting the shooting of Jacob Blake, a black father who was shot seven times in the back in front of his three children in Kenosha, Wisconsin.
 Last night, it emerged a 17-year-old vigilante who allegedly shot dead two men in the city during the subsequent riots may have been 'goaded' by one of his victims.
-Kyle Rittenhouse faces murder charges for shooting dead Joseph Rosenbaum, 36, and Anthony Huber, 26, but footage showed Mr Rosenbaum confronting a group of armed militia and shouting: 'Shoot me, n*****'.
+Kyle Rittenhouse faces murder charges for shooting dead Joseph Rosenbaum, 36, and Anthony Huber, 26, but footage showed Mr Rosenbaum confronting a group of armed militia and shouting 'Shoot me, n*****'.
 It is not known if Rittenhouse was among the men.

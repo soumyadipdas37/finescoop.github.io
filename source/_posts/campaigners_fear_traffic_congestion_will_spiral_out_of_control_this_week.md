@@ -12,15 +12,15 @@ Campaigners have voiced concerns that congestion on roads across the country cou
 The beginning of the new school year comes alongside the drive for workers to return to the office and motoring organisations claim the situation is a perfect storm, according to The Telegraph.
 Roadworks have plagued Britain's roads in the last month as councils move ahead with widening pavements and constructing cycle paths as part of Transport Secretary Grant Shapps' £250million 'Green Revolution'.
 Plans launched by Grant Shapps (pictured) in May are aimed at boosting greener methods of transport across the country but the AA and RAC claim that roadworks could cause traffic flow to grind to a halt
-The beginning of the new school year comes alongside the drive for workers to return to the office and motoring organisations claim the situation is a perfect storm as works continue to be carried out by local councils. Pictured: Traffic builds because of a new one-way system being installed in Bradford-upon-Avon on August 26
+The beginning of the new school year comes alongside the drive for workers to return to the office and motoring organisations claim the situation is a perfect storm as works continue to be carried out by local councils. Pictured Traffic builds because of a new one-way system being installed in Bradford-upon-Avon on August 26
 AA's head of roads policy Jack Cousens has warned that congestion could reach its peak upon the return of the school run.
-He told the Telegraph: 'There has been an ongoing backlash from residents, businesses, taxis and traders, but while councils have introduced restrictions with the best of intentions, the lack of consultation has been very poor.
+He told the Telegraph 'There has been an ongoing backlash from residents, businesses, taxis and traders, but while councils have introduced restrictions with the best of intentions, the lack of consultation has been very poor.
 'We understand why councils wanted to increase space coming out of lockdown to allow social distancing, but now we appear to have reached the point where that is becoming impractical as schools and workers try to return to normality.'
 According to the AA's website, there are 1,193 roadworks currently being undertaken in England, Wales, Scotland and Northern Ireland. 
-According to the AA's website there are 1,193 roadworks currently being undertaken in England, Wales, Scotland and Northern Ireland. Pictured: The roadworks in place in central London as of today
-Pop-up bike lanes with protected space for cycling, wider pavements, and cycle and bus-only corridors are part of the £250 million scheme. Pictured: Roadworks on London Bridge on May 18
+According to the AA's website there are 1,193 roadworks currently being undertaken in England, Wales, Scotland and Northern Ireland. Pictured The roadworks in place in central London as of today
+Pop-up bike lanes with protected space for cycling, wider pavements, and cycle and bus-only corridors are part of the £250 million scheme. Pictured Roadworks on London Bridge on May 18
 RAC's own head of roads policy Nicholas Lyes has said that ironically, the measures put in place by councils to reduce traffic disruption could cause a greater level of congestion.
-He said: 'Councils should be monitoring schemes closely and should be prepared to make change if gridlock ensues.'
+He said 'Councils should be monitoring schemes closely and should be prepared to make change if gridlock ensues.'
 A recent AA survey found that as many as one fifth of parents won't allow their children on public transport because of coronavirus and this could see an increase in traffic of up to 10 per cent. 
 A Government spokesperson also confirmed that £40million has been given to local councils to expand capacity outside of public transport.
 The plans launched by Grant Shapps in May are aimed at boosting greener methods of transport across the country.
@@ -28,7 +28,7 @@ Angry residents in Crystal Palace, South London, protest against road closures e
 Pop-up bike lanes with protected space for cycling, wider pavements, and cycle and bus-only corridors are part of the £250 million scheme.
 Earlier this month it was also reported  that there was also growing unrest over the changes to street landscapes in areas such as Oxfordshire, Cambridgeshire and Crystal Palace in South London.
 Islington Council intends to turn a third of its roads into 'people friendly streets' by the end of 2020 using bollards, no entry signs and cameras to close 'rat-runs'.
-Responding to claims the road closures were 'anti working class', Islington Council leader Richard Watts tweeted: 'Car ownership in inner-London is linked to income.
+Responding to claims the road closures were 'anti working class', Islington Council leader Richard Watts tweeted 'Car ownership in inner-London is linked to income.
 'The richer you are, the more likely you are to own a car. Truth is we're stopping affluent people polluting working class communities.
 Roadworks on London Bridge are pictured on May 18 as the lockdown began to be eased
 'The protests on Upper Street are being coordinated by an outside group and many of the attendees aren't Islington residents.

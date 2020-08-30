@@ -21,7 +21,7 @@ Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Private bullet plane revealed: Otto Aviation Group LLC
+Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
@@ -38,9 +38,10 @@ Protesters in Notting Hill in west London for an anti-racism demonstration. One 
 Black Lives Matter protesters sit on the road in Notting Hill during the "Million People March" through central London today
 A group of protesters marching through central London today. Many of the protesters today could be seen wearing masks, but some did not, and social distancing was not always being complied with
 People hold up placards as they take part in the inaugural Million People March march from Notting Hill to Hyde Park in London today
+An anti-racism activist holds a placard as she takes part in a march in London today
 Prior to the bank holiday weekend police said a pan-London operation was in place to keep people safe. The force said they were aware of a number of planned demonstrations and events taking place across London, and have been liaising with the organisers, advising them to carefully consider the Health Protection Regulations regarding gatherings. 
 Contravening this legislation could result in anyone involved in the holding of a large gathering (over 30 people) being subjected to a fine up to £10,000. 
-Commander Bas Javid, said: 'Our approach to policing London during this time has been to engage, explain, encourage and only then enforce, and this will continue across what we believe will be a busy long weekend. 
+Commander Bas Javid, said 'Our approach to policing London during this time has been to engage, explain, encourage and only then enforce, and this will continue across what we believe will be a busy long weekend. 
 'We know people will want to be out celebrating the holiday, and we want them to do so safely reminding people of the restrictions which are in place to keep them safe.
 'Throughout this week, officers have been travelling in a Met engagement bus across London, working in conjunction with local authorities and other blue light services to meet with communities, reminding them of the Government health restrictions, and explaining our policing style and operation.
 'Watch the celebration of Carnival from the comfort of your own home, online. We urge people to not come into the traditional area to celebrate; there are no events. Where there are large gatherings of people, officers will be deployed to interact with those gathered.

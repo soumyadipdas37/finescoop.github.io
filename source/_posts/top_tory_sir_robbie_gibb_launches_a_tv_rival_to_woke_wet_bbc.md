@@ -18,11 +18,11 @@ Pressure on the BBC will further increase with the development of a second rival
 Sir Robbie’s channel will use standard digital platforms such as Freeview, and has already been given a licence by broadcasting regulator Ofcom.
 The rival projects are likely to ensure a turbulent start to the tenure of the BBC’s new director-general Tim Davie, who takes up his position on Tuesday. 
 Pressure on the BBC will further increase with the development of a second rival news channel from Rupert Murdoch’s News UK company, likely to be streamed online in a similar way to Netflix
-Before Sir Robbie Gibb switched careers to become Theresa May’s No 10 director of communications, he was that most elusive of creatures: a pro-Conservative, pro-Brexit BBC executive.
+Before Sir Robbie Gibb switched careers to become Theresa May’s No 10 director of communications, he was that most elusive of creatures a pro-Conservative, pro-Brexit BBC executive.
 He bookended his two decades at the Corporation, where he rose to become the head of BBC Westminster, with stints in the thick of Eurosceptic Tory politics.
 During the 1990s, Gibb, below, was a die-hard Brexiteer long before it became fashionable, networking with the Maastricht rebels as John Major’s Premiership limped to a close and socialising with free-marketeers at the Thatcherite Adam Smith Institute.
 In 2001 he joined Michael Portillo’s abortive leadership campaign, regarding him as the Tory Party’s ‘great Eurosceptic hope’.
-A fellow member of the campaign once recalled: ‘Robbie’s bald and middle-aged now, but then he had the glint in his eye. He really cared. It wasn’t just political games’.
+A fellow member of the campaign once recalled ‘Robbie’s bald and middle-aged now, but then he had the glint in his eye. He really cared. It wasn’t just political games’.
 Gibb made his jump to Downing Street in the wake of Mrs May’s disastrous 2017 Election because he feared the loss of her Commons majority would jeopardise the Brexit project; he wanted to ‘get it across the line’.
 Gibb, now 56, whose brother Nick is the Schools Minister at the centre of the A-level debacle, was so dedicated to the cause that he spent his evenings touring Tory associations trying to persuade them to back the deal. Colleagues recall his ‘exasperation’ at what he regarded as the BBC’s institutionalised pro-Brussels metropolitan bias.
 The Wakefield-raised Leeds United supporter, who read economics and public administration at the University of London, has two grown-up daughters with wife Liz, a teacher.
@@ -35,36 +35,36 @@ He said the lyrics had been dropped from the patriotic songs at Last Night Of Th
 Lord Hall added that he and Mr Davie had jointly approved the move to play orchestral versions, which he insisted was ‘the right creative decision’.
 Sir Robbie’s venture comes amid growing tensions between No 10 and the BBC, with Downing Street saying the Corporation speaks only to a ‘pro-Remain metropolitan bubble’ and Boris Johnson accusing the BBC of ‘cringing embarrassment about our history’.
 The Government periodically boycotts flagship news programmes such as Radio 4’s Today, while Downing Street is also considering accelerating its plans to decriminalise non-payment of the £157.50-a-year licence fee
-Last night a source close to GB News said: ‘The channel will be a truly impartial source of news, unlike the woke, wet BBC. It will deliver the facts, not opinion dressed up as news.
+Last night a source close to GB News said ‘The channel will be a truly impartial source of news, unlike the woke, wet BBC. It will deliver the facts, not opinion dressed up as news.
 'Everyone who works for GB News will have total commitment to quality journalism, to factual reporting and to impartiality.’
 Broadcasters including Andrew Neil – whose show was axed by the BBC last month – and Julia Hartley-Brewer are understood to have been approached about working for both channels.
-A TV insider said: ‘Andrew is due to resume talks with the BBC next week. They need to realise he is not short of options.
+A TV insider said ‘Andrew is due to resume talks with the BBC next week. They need to realise he is not short of options.
 'He is in talks with other broadcasters including GB News and News UK. Andrew would prefer to stay with the BBC.
 'But the BBC needs to come up with the right offer and the right schedule slot. It is all about respect. I don’t think it’s a surprise that he feels that he’s being treated with disrespect.’
 David Rhodes, a former executive for Murdoch’s US-based Fox News, is running the News UK project from its London base, under the auspices of chief executive Rebekah Brooks.
 Sources close to the project are at pains to deny that it is intended to be a British version of the right-wing Fox News, instead likening it a ‘TV version of TalkRadio, TalkSport and Times Radio’ – all of which are already part of the News UK stable.
 Sources close to GB News are also keen to distance themselves from Fox News and from claims that Nigel Farage would be involved.
 Sir Robbie, 56, who is understood to have helped raise ‘tens of millions of pounds’ for his new venture, believes that anger over the BBC has created a gap in the market for ‘quality journalism’.
-Earlier this month, Sir Robbie, whose brother Nick is a schools Minister, criticised BBC Newsnight’s policy editor Lewis Goodall for writing an article for the New Statesman headlined: ‘Failed. How the Government’s ineptitude created a lost generation’.
+Earlier this month, Sir Robbie, whose brother Nick is a schools Minister, criticised BBC Newsnight’s policy editor Lewis Goodall for writing an article for the New Statesman headlined ‘Failed. How the Government’s ineptitude created a lost generation’.
 Broadcasters including Andrew Neil – whose show was axed by the BBC last month – and Julia Hartley-Brewer are understood to have been approached about working for both channels
-Sir Robbie said: ‘Is there anyone more damaging to the BBC’s reputation for impartiality than Lewis Goodall?’
+Sir Robbie said ‘Is there anyone more damaging to the BBC’s reputation for impartiality than Lewis Goodall?’
 GB News will be run by All Perspectives, linked to US billionaire John Malone, chairman of Virgin Media owner Liberty Global.
 Andrew Cole, who is on the board of Liberty Global and is one of the co-founders of GB News, has described the BBC as ‘possibly the most biased propaganda machine in the world’.
 Sir Robbie and News UK both declined to comment. 
-Revealed: BBC Symphony Orchestra held a panicked meeting over fears it was 'institutionally racist' just weeks before the Last Night of the Proms row
+Revealed BBC Symphony Orchestra held a panicked meeting over fears it was 'institutionally racist' just weeks before the Last Night of the Proms row
 By Scarlet Howes for the Mail on Sunday 
 The BBC Symphony Orchestra held a panicked meeting over fears it was ‘institutionally racist’ just weeks before the Last Night Of The Proms row, it emerged last night.
 The allegation – employing the same phrase used to describe Scotland Yard following its failures in the Stephen Lawrence murder case – left some members ‘astonished and disturbed’.
 After the Zoom summit, an emergency action plan was brought in to tackle so-called ‘unconscious bias’ within the world-renowned orchestra, which plays at the Last Night Of The Proms every year.
 Classical music website Slipped Disc reported that at the meeting, which took place after the rise of the Black Lives Matter movement, the orchestra decided to forge close links with Chineke! – the first professional orchestra in Europe to be made up mainly of black and minority ethnic musicians.
-The BBC Symphony Orchestra held a panicked meeting over fears it was ‘institutionally racist’ just weeks before the Last Night Of The Proms row, it emerged last night. Pictured: Last year's Last Night of the Proms
+The BBC Symphony Orchestra held a panicked meeting over fears it was ‘institutionally racist’ just weeks before the Last Night Of The Proms row, it emerged last night. Pictured Last year's Last Night of the Proms
 They also vowed to bring in guest speakers to ‘elucidate the problems of under-representation and... unconscious bias’. One insider described the move as a ‘tedious exercise in virtue signalling’.
 A BBC source last night told The Mail on Sunday that there was a ‘culture war’ at the national broadcaster that had come to the fore with the row over Rule, Britannia and Land Of Hope And Glory
-The source said: ‘The new director general, Tim Davie, will have his work cut out to deal with the opposing factions. 
+The source said ‘The new director general, Tim Davie, will have his work cut out to deal with the opposing factions. 
 'There is a feeling in some quarters that the rush to back the Black Lives Matter movement has led to some questionable decisions.
 'There is a concern that the majority of licence payers, while opposing racism, are nonetheless dumbfounded by some of the decisions being taken’.
-A BBC spokesman said the patriotic songs will be sung next year assuming audiences will be allowed back in the Royal Albert Hall, adding: ‘Given we’re in a global pandemic, we’re very lucky that we can stage the Proms at all.’
-DAVID BLUNKETT: Angst-ridden and middle-class, the BBC ignores the values of those who pay their salaries
+A BBC spokesman said the patriotic songs will be sung next year assuming audiences will be allowed back in the Royal Albert Hall, adding ‘Given we’re in a global pandemic, we’re very lucky that we can stage the Proms at all.’
+DAVID BLUNKETT Angst-ridden and middle-class, the BBC ignores the values of those who pay their salaries
 On Radio Four last Tuesday night, a heavily-promoted programme tackled yet another phrase in the lexicon of today's grievance culture.
 It was called 'Code-Switching' – a term used by some ethnic minority citizens to explain why they feel oppressed on the basis of how they speak, how they present themselves and how they behave. 
 Code-switching originally comes from linguistics and refers to the practice of alternating between two or more languages during conversation.
@@ -96,19 +96,19 @@ As part of her argument, the Radio Four presenter – a young journalist who has
 She explained how it was vital in his work to be able to code-switch between the language of clients such as rap artists and the language of a judge in court. I would just call this presenting yourself in a professional manner, and being understood. 
 The lesson I drew from Radio Four's programme was more about the angst going on inside the BBC. It is clear middle-class programme-makers are desperate to prove they are 'in tune'
 To his credit, the barrister acknowledged that changing his language to suit the circumstances was necessary, rather than an imposition.
-He said: 'My overall ambition was to make sure I was in a position to represent young black men and I was willing to make a sacrifice in order to get there. I was willing to speak in a particular way. I was willing to dress a particular way.'
+He said 'My overall ambition was to make sure I was in a position to represent young black men and I was willing to make a sacrifice in order to get there. I was willing to speak in a particular way. I was willing to dress a particular way.'
 I've made such adjustments all my life. I've endeavoured to be the voice of the community that I represented both on Sheffield City Council and in Parliament. But I haven't lost my accent and I've done everything possible not to lose my roots. 
 Admittedly, I'm not from an ethnic minority but I am from a deprived background. Yet I don't feel a victim and don't consider that I've ever 'code-switched'. 
 What I have done, though, is to ensure that I presented the best possible advocacy, professionalism and clear communication. I understood from my early days that patronising the people I grew up with was never going to work. They always wanted me to look smart, to be confident and to be true to myself.
 The lesson I drew from Radio Four's programme was more about the angst going on inside the BBC. It is clear middle-class programme-makers are desperate to prove they are 'in tune'. 
-The consequence is very simple. They are ignoring the working class – such as the people who I very rarely hear on radio or television: those from Yorkshire, the people I grew up with.
+The consequence is very simple. They are ignoring the working class – such as the people who I very rarely hear on radio or television those from Yorkshire, the people I grew up with.
 It just might, just might, occur to those running the BBC that the most recent statistics about the different socio-economic groups who tune into the Corporation's radio and television programmes, show an unequivocal bias in terms of the middle class. 
 Programmes such as Code-Switching will only antagonise many and make social cohesion more difficult.
-DAVID MELLOR: As a Minister, I defended the BBC against Margaret Thatcher - now I'd abolish the licence fee
+DAVID MELLOR As a Minister, I defended the BBC against Margaret Thatcher - now I'd abolish the licence fee
 The BBC is one of the world's most over-managed organisations. So at times of crisis, the cry goes up from the upper echelons of Broadcasting House, 'Assistant Heads must roll!' That surely won't be enough this time.
 The row over the Last Night Of The Proms calls in to question the BBC's ability to make political, patriotic and even musical decisions. And this time, they have been wrong on every count.
 It seems the BBC employs executives who have total contempt for the public they serve because they so readily confuse internet huff and puff with the will of the British people.
-For ordinary Brits, patriotism matters, and Land Of Hope And Glory and Rule, Britannia are a core part of our national musical history. The BBC really do need to ask themselves a hard question: why couldn't they find within their ranks anyone who really understands licence fee-payers values?
+For ordinary Brits, patriotism matters, and Land Of Hope And Glory and Rule, Britannia are a core part of our national musical history. The BBC really do need to ask themselves a hard question why couldn't they find within their ranks anyone who really understands licence fee-payers values?
 Patriotism matters, and Land Of Hope And Glory and Rule, Britannia are a core part of our national musical history. Pictured, audience enjoying BBC's Last Night of the Proms in 2014
 In a poll published on Friday, only five per cent agreed with the decision to scrap the words and to play only an orchestral version of the songs.
 Sadly though, that five per cent seems to include every senior BBC figure who played a part in this fiasco.
@@ -122,7 +122,7 @@ Take the case of Tory peer Lord McAlpine, falsely implicated in child abuse by B
 Two years later the BBC saw fit to fly a helicopter over the home of Sir Cliff Richard and broadcast live footage during a police raid as part of an investigation into historical child sex allegations. 
 Sir Cliff was never even arrested, let alone charged. Like Lord McAlpine, he was entirely innocent and was eventually awarded damages totalling £2 million.
 In 2016, a review by Dame Janet Smith concluded that the BBC missed opportunities to stop 'monstrous' abuse by Jimmy Savile and presenter Stuart Hall. BBC culture 'was deeply deferential', she said. 
-The BBC really do need to ask themselves a hard question: why couldn't they find within their ranks anyone who really understands licence fee-payers values? (file photo)
+The BBC really do need to ask themselves a hard question why couldn't they find within their ranks anyone who really understands licence fee-payers values? (file photo)
 But perhaps most significant was the blindness, not to an individual, but to a whole population. This was an organisation that failed to understand or reflect the fact that millions of its core viewers were Brexit supporters, a stance clearly seen as undesirable by the BBC's generally metropolitan – and Remain supporting – executives.
 So I'm not alone in thinking that the Corporation – cumbersome, deferential, institutionally stupid – has completely lost its way.
 Farcical as it might seem, the Proms debacle tells you much of what you need to know about the BBC today, where incompetence is blended with presumption and a near-obsessive wish to placate the twin gods of Yoof and Inclusion.
@@ -138,13 +138,13 @@ Conducting the Last Night Of The Proms is an honour only generally afforded to d
 So who is Dalia Stasevska, this year's conductor? In truth, the 36-year-old Finn is a mere beginner, almost totally unknown in this country. She was Davey's tokenistic choice – based on only one previous concert with the orchestra – to become the BBC Symphony's Principal Guest Conductor.
 Talk about being thrown in at the deep end. So she miscalculated by uttering a lot of woke nonsense about Black Lives Matter, when she should have kept her mouth shut, and merely waved her baton at the appropriate time. 
 Now she's deeply upset about the reaction she got and blames the BBC. Well, since everyone else blames the BBC for this sorry farce, I guess that at least is understandable.
-They should take a leaf out of John Drummond's book and release her. Because one thing is certain: if this sorry shambles continues, it can only get worse for her.
+They should take a leaf out of John Drummond's book and release her. Because one thing is certain if this sorry shambles continues, it can only get worse for her.
 The person I feel most sorry for is Edward Elgar, who set the music to Land Of Hope And Glory. Because his life suggests that he could be called a trailblazer for the Black Lives Matter campaign.
 Elgar mentored another composer, Samuel Coleridge-Taylor, who was the son of a British mother and a black doctor from Sierra Leone. Elgar did his best to promote his exceptional talent.
 As it happens, Elgar much preferred the orchestral version of the big tune in Land Of Hope And Glory – formally, his Pomp And Circumstance March No 1 – to the choral version. But the BBC can't even get that right. 
 They are not planning to play Elgar's brilliantly orchestrated March (without the words) but, in another piece of tiresome tokenism, they have asked an obscure woman composer to re-orchestrate it. What a mess.
 As for this shoddy behind-closed-doors performance of the Last Night, it should surely be dumped right now before more damage is done to the BBC's flagging reputation. 
-PETER HITCHENS: We rant about the BBC Proms... yet make ourselves slaves
+PETER HITCHENS We rant about the BBC Proms... yet make ourselves slaves
 Why are arguments about the love of country always held between BBC-type Britain-hating pinkoes, embarrassed by their own nation, and shouty jingoes, who never think about what patriotism really means?
 Here we all are in a state of rage about whether the words of Rule, Britannia should be sung at the Last Night Of The Proms. 
 Yet the same people who claim to be exercised about this meekly submit to compulsory masks, house arrest, the suppression of Parliament, compulsory family separation and a catalogue of outrages against our liberty that only a slavish mind would accept.

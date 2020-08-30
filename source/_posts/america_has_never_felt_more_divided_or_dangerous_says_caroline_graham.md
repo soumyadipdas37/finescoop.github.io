@@ -21,7 +21,7 @@ The teenage vigilante alleged to have killed two men in Kenosha, Wisconsin
 What is any normal person to make of the 17-year-old vigilante who, armed with a semi-automatic rifle, allegedly shot and killed two men during protests in Kenosha, Wisconsin?
 These protests in turn had been provoked by an act of inexplicable violence when yet another unarmed black man, Jacob Blake, was shot and paralysed by the police in front of his three children.
 There were bizarre scenes outside a restaurant in Washington DC when a baying mob was filmed yelling and screaming at diner Lauren Victor simply because she refused to raise her fist in solidarity with the Black Lives Matter movement.
-It’s a particular irony that Victor, a 49-year-old urban planner, is a staunch supporter of the BLM movement. But she felt ‘under attack’, and no wonder, explaining: ‘I’ve been marching with them for weeks and weeks and weeks.
+It’s a particular irony that Victor, a 49-year-old urban planner, is a staunch supporter of the BLM movement. But she felt ‘under attack’, and no wonder, explaining ‘I’ve been marching with them for weeks and weeks and weeks.
 ‘It just felt overwhelming to have all those people come at you. To have a crowd… demand that you do this thing. In the moment, it didn’t feel right.’
 With just 64 days until November’s presidential election, this country has never felt more divided – or dangerous.
 Over the years, I have witnessed some terrible things. Too many school shootings to count.
@@ -39,10 +39,10 @@ Americans no longer feel optimistic or hopeful. The American Dream has died. I�
 Friends of mine are fleeing big cities like LA and New York, heading for the apparent safety of rural areas like Montana and the hills of South Dakota.
 One girlfriend had her gold chain ripped from her neck as she jogged through the once-safe streets of Santa Monica. She has since built a £10,000 ‘panic room’ in her house.
 My own night-time encounter was enough to prompt me to spend £3,500 on a ‘ring of steel’ security system, including night-vision cameras and a monthly fee for an ‘armed response’ if the alarm goes off
- The woman who sold it to me confessed: ‘Business is booming.’ Meanwhile, gun dealers coast-to-coast have reported a dramatic spike in sales as people seek to protect themselves and embrace their Second Amendment right to bear arms.
+ The woman who sold it to me confessed ‘Business is booming.’ Meanwhile, gun dealers coast-to-coast have reported a dramatic spike in sales as people seek to protect themselves and embrace their Second Amendment right to bear arms.
 And all of it, of course, could be great news for President Trump.
 As he formally accepted the Republican nomination in the grounds of the White House on Thursday night, Trump, a former TV reality star used to framing his political ideologies in snappy slogans (‘Make America Great Again’), made it clear law and order – far more than Covid-19, jobs, healthcare or the economy – is at the heart of his re-election campaign.
-Denouncing Democratic rival Joe Biden as a member of the ‘radical Left who will defund police departments all across America’, Trump said: ‘No one will be safe in Biden’s America. There is violence and danger in the streets of Democratic-run cities throughout America.
+Denouncing Democratic rival Joe Biden as a member of the ‘radical Left who will defund police departments all across America’, Trump said ‘No one will be safe in Biden’s America. There is violence and danger in the streets of Democratic-run cities throughout America.
 Donald Trump and Joe Biden are currently campaigning in the 2020 elections in the United States
 'Your vote will decide whether we protect law-abiding Americans or whether we give free rein to violent anarchists, agitators and criminals.’
 Trump’s victory in the 2016 election was largely down to appealing to white, working class American men by promising to bring back blue collar jobs lost to countries like China and Mexico.
@@ -55,7 +55,7 @@ A tearful Mrs Dorn wept as she told how her husband David, who was black, had hi
 ‘This isn’t a video game where you can commit mayhem and then hit reset and bring all the characters back to life. David is never coming back.’
 Cissie Graham Lynch, granddaughter of Rev. Billy Graham, speaks from Washington, during the second night of the Republican National Convention on Tuesday 
 Cissie Graham, the granddaughter of evangelist Billy Graham – a powerful figure in Right-wing Christian America – was equally adamant Trump was the only one who would protect ‘faith and family’.
-Patricia McCloskey, a lawyer from St Louis who was photographed beside her husband waving guns at protesters who walked through their gated community, said: ‘It seems as if the Democrats no longer view the Government’s job as protecting honest citizens from criminals but rather protecting criminals from honest citizens.
+Patricia McCloskey, a lawyer from St Louis who was photographed beside her husband waving guns at protesters who walked through their gated community, said ‘It seems as if the Democrats no longer view the Government’s job as protecting honest citizens from criminals but rather protecting criminals from honest citizens.
 'They want to abolish the suburbs altogether by ending single-family home zoning – bringing crime, lawlessness and low-quality apartments into thriving suburban neighbourhoods.’
 Democrat voters already understand how widely these feelings are shared – particularly among the swing voters.
 One of my friends, a staunch Democrat who hosted Hollywood fundraisers for Trump’s opponent Hillary Clinton last time around, fears the Trumpettes could be as effective as the ‘Make America Great’ slogan and ‘crooked Hillary’ barbs were during the last election.
@@ -68,14 +68,14 @@ More than 68 people were arrested during protests in Louisville, Kentucky, on Tu
 Federal law enforcement officers confront Black Lives Matter supporters outside the U.S. Immigration and Customs Enforcement building in Portland this week
 In Dallas, a shop owner was beaten so brutally as he tried to defend his store, he has been left with permanent brain damage.
 And the stress of the pandemic, combined with an acrimonious presidential election, is only likely to escalate the violence further.
-Lance Arnold, the police chief in Weatherford, Texas, where clashes erupted between far-Right militia and demonstrators seeking to tear down a Confederate statue, said: ‘It seems like we as a country have moved right past the discussion phase of things and now we are at the stage of conflict, being at odds, distrust and disbelief. This is not who we, as Americans, are.’
+Lance Arnold, the police chief in Weatherford, Texas, where clashes erupted between far-Right militia and demonstrators seeking to tear down a Confederate statue, said ‘It seems like we as a country have moved right past the discussion phase of things and now we are at the stage of conflict, being at odds, distrust and disbelief. This is not who we, as Americans, are.’
 Social media has poured fuel on the flames of discord. The 17-year-old vigilante who is alleged to have shot two men in Wisconsin was a member of an online police-support group called Blue Lives Matter.
-A new protest group called Take America Back Texas has seen membership soar to 10,000 in two months. One of its members is Wendi Rees, a suburban mother from Tyler, Texas, who said: ‘Our constitutional rights are being threatened.
+A new protest group called Take America Back Texas has seen membership soar to 10,000 in two months. One of its members is Wendi Rees, a suburban mother from Tyler, Texas, who said ‘Our constitutional rights are being threatened.
 ‘So people like me, we have had enough and we are not going to sit back and let it happen any more.’
 Members are encouraged to show up at protests wearing patriotic red, white and blue clothing and wrap orange tape around their arms ‘to make it easier for the police to identify us as patriots’.
 The Trump camp has admitted the chaos is in its favour.
-Trump’s retiring special adviser and proud Trumpette Kellyanne Conway said: ‘The more chaos and anarchy and vandalism and violence reigns, the better it is for the very clear choice on who’s best on public safety and law and order.’
-Trump’s retiring special adviser and proud Trumpette Kellyanne Conway said: ‘The more chaos and anarchy and vandalism and violence reigns, the better it is for the very clear choice on who’s best on public safety and law and order.’
+Trump’s retiring special adviser and proud Trumpette Kellyanne Conway said ‘The more chaos and anarchy and vandalism and violence reigns, the better it is for the very clear choice on who’s best on public safety and law and order.’
+Trump’s retiring special adviser and proud Trumpette Kellyanne Conway said ‘The more chaos and anarchy and vandalism and violence reigns, the better it is for the very clear choice on who’s best on public safety and law and order.’
 But the President’s political rival has accused him of ‘rooting for violence’ to win votes.
 Biden, whose Democratic National Convention two weeks ago attracted an illustrious cast of speakers including former President Barack Obama and wife Michelle, claims Trump is trying to deflect attention away from his ‘appalling’ handling of the Covid-19 crisis which has already cost 180,000 American lives.
 Biden has cast the election as a choice between his promise of calm, experienced leadership and Trump’s desire to inflame an America already on the brink.

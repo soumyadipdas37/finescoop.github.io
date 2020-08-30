@@ -10,8 +10,8 @@ featured: true
 --- 
 BBC presenter and breast cancer survivor Lauren Mahon has spoken candidly about dating with the disease, revealing her late co-host Rachael Bland left instructions to the team to 'make sure she gets a fella' before she died in 2018. 
 Instagram star Lauren Mahon, 35, from London, was first diagnosed with breast cancer in August 2016, aged 31, and is a presenter on BBC Radio 5's You, Me & The Big C podcast.  
-Speaking to The Telegraph, Lauren said Rachael left instructions for the team, revealing: 'She said to everyone: "Make sure Lauren gets a fella, she has been single long enough and she deserves to be loved."'
-Lauren said that dating since her diagnosis hasn't been straightforward, because she is seeking a partner who is willing to go through IVF treatment with her by using eggs she froze before chemotherapy, revealing: 'It’s going to be a little bit more complex [for me to have a baby], so it’s just finding someone who’s willing to go through that. If my cancer diagnosis is too much to handle, you can f*** off.'
+Speaking to The Telegraph, Lauren said Rachael left instructions for the team, revealing 'She said to everyone "Make sure Lauren gets a fella, she has been single long enough and she deserves to be loved."'
+Lauren said that dating since her diagnosis hasn't been straightforward, because she is seeking a partner who is willing to go through IVF treatment with her by using eggs she froze before chemotherapy, revealing 'It’s going to be a little bit more complex [for me to have a baby], so it’s just finding someone who’s willing to go through that. If my cancer diagnosis is too much to handle, you can f*** off.'
 BBC presenter and breast cancer survivor Lauren Mahon, 35, from London, has spoken candidly about dating with the disease, revealing her late co-host Rachael Bland left instructions to the team to 'make sure she gets a fella' before she died in 2018
 In May 2016 she discovered a mass in her breast but ignored it for a few weeks in the hope that it would go away. 
 While at Glastonbury festival she asked her friend to touch it and they said she should go to the doctors to have it looked over. 

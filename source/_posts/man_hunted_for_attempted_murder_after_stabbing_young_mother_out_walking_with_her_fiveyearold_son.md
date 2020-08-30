@@ -17,7 +17,7 @@ Her son was assessed at the scene by emergency services but had no visible injur
 The man fleeing the scene after stabbing a woman, 24, as she walked with her son in Manchester 
 Greater Manchester Police were called at 1.30pm on Saturday following reports of a stabbing in Withington, south Manchester
 Police have distributed an image of a man they believe to be the suspect and are treating the case as an attempted murder.
-Detective Inspector John Robb, from GMP's City of Manchester district, said: 'This was a vicious and unprovoked attack and we are currently treating it as a case of attempted murder.
+Detective Inspector John Robb, from GMP's City of Manchester district, said 'This was a vicious and unprovoked attack and we are currently treating it as a case of attempted murder.
 'I understand that this will cause concern among the local community and residents, but I want to reassure the public that we are doing everything in our powers to trace the man responsible and ensure he is brought to justice.
 
 The woman was taken to hospital with stab wounds and is in a stable condition. Her son was assessed at the scene by emergency services but had no visible injuries

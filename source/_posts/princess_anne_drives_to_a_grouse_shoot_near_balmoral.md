@@ -28,11 +28,11 @@ It was the first face-to-face meeting involving the Duke and Duchess of Cambridg
 According to the Sun, sources say the Queen spent time with her great-grandchildren while outside on the royal estate.
 Prince Edward and Sophie of Wessex were also reportedly at the 50,000-acre estate this weekend. 
 It comes after reports emerged that the Queen had held her first face-to-face meeting involving the Duke and Duchess of Cambridge, Prince George, Princess Charlotte and Prince Louis since lockdown began in March
-The source told The Sun: 'Like every family, they've been desperate to get back together and over the moon it was possible this weekend.
+The source told The Sun 'Like every family, they've been desperate to get back together and over the moon it was possible this weekend.
 'They've all been up there for a few days and although there are very strict procedures with social distancing, they've been able to find ways of seeing each other outside. 
 Previous reports suggested Balmoral staff have been banned from social activity and the annual Ghillies Ball has also been cancelled due to coronavirus.
 An insider told the Mail on Sunday 'stir-crazy' aides are staying in the New Block, a dull granite building with a dozen bedrooms outside near the castle.
-The insider said: 'Without all the normal facilities which make a stay pleasant for staff, everyone's saying it's like being in Colditz, the prisoner of war camp.
+The insider said 'Without all the normal facilities which make a stay pleasant for staff, everyone's saying it's like being in Colditz, the prisoner of war camp.
 The Queen and the Duke of Edinburgh arrived in Scotland for the start of their summer holiday. The couple travelled by private jet from RAF Northolt, in west London, to Aberdeen airport where they were met by driver, pictured
 The Queen and the Duke of Edinburgh, 99, have been in Scotland since August 4.
 The couple, who were previously isolating at Windsor Castle, travelled by car to RAF Northolt, in west London, where they boarded a private jet to Aberdeen airport, where they were met by a driver and whisked off to Balmoral, roughly an hour away.

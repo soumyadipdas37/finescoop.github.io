@@ -13,10 +13,10 @@ Prince Harry, 35, and Meghan Markle, 39, both wearing face coverings, distribute
 A new video released by the charity on Instagram shows the relaxed couple handing supplies in through the windows of vehicles at Dr Owen Lloyd Knox Elementary School in South LA on Wednesday.
 The couple cut casual figures, with Meghan sporting loose khaki shorts with a white shirt and trainers, and Harry going for a similar look plus a baseball cap.
  We were thrilled to have The Duke and Duchess of Sussex join our team last week for a back to school distribution, spending time with students returning to remote learning due to COVID-19. Thank you for putting smiles on the faces of the children and families we serve and helping us provide the supplies, basic hygiene and clothing every child deserves.
-A post shared by  Baby2Baby (@baby2baby) on Aug 28, 2020 at 8:34am PDT
+A post shared by  Baby2Baby (@baby2baby) on Aug 28, 2020 at 834am PDT
 The Duke, 35, and Duchess of Sussex, 39, appear relaxed in a new video clip released of their first charity outing since lockdown 
 In the video clip, which was shared on the Baby2baby Instagram page, Prince Harry could be seen filling children's backpacks with supplies 
-Sharing the clip online, the charity posted: 'We were thrilled to have The Duke and Duchess of Sussex join our team last week for a back to school distribution, spending time with students returning to remote learning due to COVID-19. 
+Sharing the clip online, the charity posted 'We were thrilled to have The Duke and Duchess of Sussex join our team last week for a back to school distribution, spending time with students returning to remote learning due to COVID-19. 
 'Thank you for putting smiles on the faces of the children and families we serve and helping us provide the supplies, basic hygiene and clothing every child deserves.' 
 While the couple have made multiple virtual appearances during the coronavirus pandemic, the occasion marked their first in person engagement since March. 
 It was also their first charity appearance since moving to California earlier this year, with the couple currently living in a $14 million Santa Barbara mansion.  
@@ -71,10 +71,10 @@ Omid Scobie, co-author of bombshell biography Finding Freedom, said the Duke, 35
 Photos were released last week as the Duke and Duchess  volunteered at a back-to-school charity event in Los Angeles 
 A series of photos show the couple handing supplies in through the windows of vehicles at Dr Owen Lloyd Knox Elementary School in South LA (pictured)
 A masked Harry and Meghan have been handing out school supplies, clothing and nappies to families in need at a drive-thru event in Los Angeles. Organised by charity baby2baby
-Speaking on the Heirpod podcast, Omid said: 'In March, we have the Invictus Games, which has been rescheduled, in the Hague. In June, we have Trooping the Colour, which I imagine Prince Harry and Meghan would like to still be at, and July 1, we have the unveiling of the [Princess Diana] statue.'
+Speaking on the Heirpod podcast, Omid said 'In March, we have the Invictus Games, which has been rescheduled, in the Hague. In June, we have Trooping the Colour, which I imagine Prince Harry and Meghan would like to still be at, and July 1, we have the unveiling of the [Princess Diana] statue.'
 Prince Harry and Meghan have been living in the US since announcing their plans to step back from royal duty in January, and recently bought a sprawling nine-bedroom and 16-bathroom mansion in upscale Santa Barbara for $14.65million, making them neighbors with celebrities Oprah Winfrey and Ellen DeGeneres.
-Speaking on the podcast, Omid revealed: 'I would not be surprised if we saw the Sussexes spend an extended period of time in the UK next year.'
-He went on to discuss several engagements for the couple spanning across the spring and summer period, including appearances in The Hague and the UK, before adding: 'There are many reasons for them to be based in the UK for that period, depending on whether travel will be back to normal.' 
+Speaking on the podcast, Omid revealed 'I would not be surprised if we saw the Sussexes spend an extended period of time in the UK next year.'
+He went on to discuss several engagements for the couple spanning across the spring and summer period, including appearances in The Hague and the UK, before adding 'There are many reasons for them to be based in the UK for that period, depending on whether travel will be back to normal.' 
 The couple volunteered at charity Baby2Baby, which provides basic necessities for families in need. Pictured, Prince Harry handing supplies through vehicle windows
 The biographer had previously claimed the couple would return to the UK to resume their charity work once lockdown travel restrictions ease. 
 Speaking to Royal Central, Scobie said the couple 'love to get out there and be active in the field'.
@@ -82,7 +82,7 @@ Speaking to Royal Central, Scobie said the couple 'love to get out there and be 
 'While their base will be in the US, I think once travel restrictions ease we will see them moving around again and undertaking trips to the UK, both privately and professionally.'
 Meghan Markle opted for loose khaki shorts with a white shirt and trainers, while Prince Harry donned a similar look plus a baseball cap
 Baby2Baby provides basic necessities like diapers, wipes and clothes, to kids and families in need and has distributed over 30 million critical items to hundreds of thousands of children across the US since March. Pictured, Prince Harry and Meghan Markle
-He added: 'A lot of the work they already started, including all four of Meghan’s patronages, are right here on British soil.'
+He added 'A lot of the work they already started, including all four of Meghan’s patronages, are right here on British soil.'
 But despite Scobie pointing out the Queen has told the couple, who stepped down as senior members of the Firm in March, that the door 'is open', he said he doesn't believe they'll return to the UK as full-time working royals.  
-He said: 'The Sussexes are more engaged in the issues that matter to them than ever, the work on Archewell–their non-profit organisation–continues, and, as we have recently seen, they have established a permanent family base in California.
+He said 'The Sussexes are more engaged in the issues that matter to them than ever, the work on Archewell–their non-profit organisation–continues, and, as we have recently seen, they have established a permanent family base in California.
 'The UK will always be important to them, but I don’t think we’ll ever see that happen again as working royals.' 

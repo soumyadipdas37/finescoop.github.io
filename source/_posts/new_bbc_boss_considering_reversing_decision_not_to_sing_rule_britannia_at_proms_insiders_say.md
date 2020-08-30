@@ -14,7 +14,7 @@ The Last Night of the Proms has been hit with controversy surrounding the BBC's 
 Classical-music enthusiasts have to watch the show from their sofas this year due to coronavirus restrictions as performers remained spaced out in a socially-distanced arrangement. 
 The BBC's incoming director general Tim Davie is understood to be considering reversing the unpopular decision to perform Rule Britannia and Land of Hope and Glory without lyrics
 Ex-marketing executive Davie could immediately change the policy on not singing the lyrics at this year's Proms when he takes up the role this week.
-An insider told the Sun: 'Tim's immediate priority will be to undo the terrible damage done by Tony.
+An insider told the Sun 'Tim's immediate priority will be to undo the terrible damage done by Tony.
 'Tim has a chance to do a big, crowd-pleasing U-turn on a policy that is wildly unpopular.
 'Tim has already insisted on an announcement making clear that Rule Britannia will be sung at next year's Proms.' 
 As it stands, the patriotic songs will be played by an orchestra only on September 12, supposedly because the lack of an audience will diminish their impact.
@@ -23,12 +23,12 @@ Two thirds of voters in an exclusive Daily Mail poll wanted the £157.50 televis
 Critics have accused outgoing BBC boss Lord Tony Hall, pictured, of 'walking into a completely unnecessary and absurd row about culture' after the decision about the Proms was announced
 The 1902 lyrics of Land of Hope and Glory are associated with Cecil Rhodes – the British imperialist whose statue is being removed from an Oxford college.
 The decision to use instrumental versions of the patriotic anthems for the summer festival has drawn widespread anger - with staff at the corporation also venting their frustration at bosses' apparent submission to 'woke' activists who find the anthems offensive.
-One senior insider said: 'This is another example of the BBC walking into a completely unnecessary and absurd row about culture.
+One senior insider said 'This is another example of the BBC walking into a completely unnecessary and absurd row about culture.
 'It makes a lot of us despair when this kind of thing happens again and again.
 'There's lots of things you can say about both of the songs and they are not up to the minute. But that's the case with 99 per cent of our culture one way or the other.'
 And ex-BBC chairman Michael Grade launched a blistering attack on the corporation, calling the decision 'idiotic' and a 'ghastly mistake' by bosses who have 'lost touch' with the British public.
 Meanwhile, Prime Minister Boris Johnson earlier this week opposed the BBC's decision.
-He said: 'I think it's time we stopped our cringing embarrassment about our history.'
+He said 'I think it's time we stopped our cringing embarrassment about our history.'
 The 1902 lyrics of Land of Hope and Glory traditionally performed are associated with Cecil Rhodes – the British imperialist whose statue is being removed from an Oxford college
 The compromise was drawn up after incoming director general Tim Davie - who takes over on 1 September - intervened to insist both Rule Britannia and Land of Hope and Glory were performed in some form.
 It comes as an exclusive Daily Mail poll reveals growing public discontent with the broadcaster. 
@@ -41,9 +41,9 @@ He will also allegedly be taking an iron fist to the broadcaster's social media 
 The expected move is believed to be part of Davies vision of putting impartiality at the heart of the BBC and ensuring it is worthy of the expensive £157.50 annual licence fee.
 It follows accusations the broadcaster has become a victim of 'woke group-think' and the broadcast station for Black Lives Matter.
 He will reportedly crack down on presenters taking extra work. Naga Munchetty was criticised after she agreed to appear in a corporate video for Aston Martin last month
-A source close to Davies told the Sunday Times: 'Tim sees impartiality as the cornerstone of the BBC. 
+A source close to Davies told the Sunday Times 'Tim sees impartiality as the cornerstone of the BBC. 
 'We need to think about whether there are things that happen with outside interests and on social media that can erode trust and confidence.'
-Another added: 'Outside work causes BBC managers major headaches and often they'll turn a blind eye. I've always thought it could be our version of the MPs' expenses scandal.' 
+Another added 'Outside work causes BBC managers major headaches and often they'll turn a blind eye. I've always thought it could be our version of the MPs' expenses scandal.' 
 BBC Breakfast presenter Naga Munchetty, the North America editor Jon Sopel, Question Time host Fiona Bruce and business editor Simon Jack have all been criticised for taking top ups to their hefty salaries.
 They are all required to request approval from line managers before taking on extra work outside the corporation. 
 Jon Sopel, North America editor, was slammed last year for speaking at a tobacco conference
@@ -59,8 +59,8 @@ Newsnight's policy editor Lewis Goodall came under pressure when he was accused 
 Goodall claimed his article looked at the handling of exams by all political parties. 
 Davies is also set to address allegations of bias levelled at the corporation in his maiden speech on Thursday, after Lord Hall stands aside.
 The Sunday Telegraph says he will touch on the findings of an internal review by former director of Global News Richard Sambrook, which raised concerns about a 'small minority' of journalsits working for the corporation whose conduct online had triggered complaints.
-A source told the newspaper last night: 'Tim buys into the idea of impartiality properly and you are going to hear a lot more about that in the coming months.'
-A second added: 'It would be surprising if an incoming director general did not set out his broad aims and objectives when he takes over the reigns. It would be surprising if he did not touch on the issue of impartiality, given it is such a live issue.'
+A source told the newspaper last night 'Tim buys into the idea of impartiality properly and you are going to hear a lot more about that in the coming months.'
+A second added 'It would be surprising if an incoming director general did not set out his broad aims and objectives when he takes over the reigns. It would be surprising if he did not touch on the issue of impartiality, given it is such a live issue.'
 Newsnight Policy editor Lewis Goodall came under pressure when he was accused of 'off the scale' bias for writing an article critical of the government in a left-wing magazine
 As many as 14 Conservative MPs have written to the corporation to call on it to fulfil its role of being impartial.
 The government previously boycotted BBC Radio 4's Today programme amid allegations of bias.

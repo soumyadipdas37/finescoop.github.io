@@ -23,7 +23,7 @@ Blake's father, who is also named Jacob Blake, had a different opinion than the 
 Following an hourlong conversation earlier this week with Biden and running mate Kamala Harris, Blake Sr. said it was like 'speaking to my uncle and one of my sisters.' 
 'They were so comforting that you almost forgot how the situation was really playing out,' Blake Sr. told CNN Friday. 'It was like I was speaking to my uncle and one of my sisters – literally, literally.'
 When asked by CNN in a separate interview Friday if he wanted to hear from Trump, Blake Sr. said, 'It is too late. He should have called four days ago.'
-When asked if Trump had tried to reach out, Blake had replied: 'That's a negative.'
+When asked if Trump had tried to reach out, Blake had replied 'That's a negative.'
 The visit is certain to exacerbate tensions in the city, where a crowd of about 1,000 demonstrators gathered outside a courthouse Saturday to denounce police violence.
 Lara Trump, who is married to the president's son Eric, said that the riots have likely changed some voters' minds.
 She was responding to Kellyanne Conway's remarks that 'the more chaos and anarchy and vandalism and violence reigns, the better it is' for her father-in-law getting reelected.

@@ -13,7 +13,7 @@ Prince Harry, 35, and Meghan Markle, 39, who are currently living in their $14 m
 The streaming giant, which is worth £22bn, are hoping to sign the royal couple following the success of The Michelle Obama podcast, which launched last month, and has been a huge ratings hit. 
 Sources told the Mirror that money is 'no object' for Spotify and Meghan would be able to 'more or less name her price'.  
 Prince Harry, 35, and Meghan Markle, 39, are reportedly set to be offered a seven figure deal to produce podcasts for Spotify (They are pictured on Zoom call last month)
-An insider said: 'The Duke and Duchess have been on their hit list for a while and a detailed proposal is set to be presented to Meghan's US agent in a matter of weeks.'
+An insider said 'The Duke and Duchess have been on their hit list for a while and a detailed proposal is set to be presented to Meghan's US agent in a matter of weeks.'
 Rumors of Harry and Meghan seeking to gain a foothold in Hollywood have run rampant ever since the couple announced their plans to quit as senior royals, seek financial independence and move to North America in January.  
 The couple, who are breaking away from the monarchy to earn their own money in the US, have had to ditch using Sussex Royal as their brand name.  
 The Sussexes already have some experience in podcasts and radio appearances.
@@ -30,7 +30,7 @@ The decision to work in podcasts would be another  move reminiscent of former U
 Earlier this week Meghan took part in an online chat with Gloria Steinem hosted by Makers Women, to discuss feminism, oppression and the importance of voting in the upcoming US election 
 In January, sources confirmed the couple had discussed their plans with the former US president and his wife and wanted to mimic the way they had managed to build a successful, but dignified, life for themselves after the White House.
 Since leaving the White House, the Obamas have earned a small fortune by selling rights to their autobiographies and setting up their own production company, which has bagged a lucrative deal with Netflix. 
-A source said: ‘They have found huge commercial success without actually looking like they are getting their hands dirty, to put it bluntly, and retaining their popularity.
+A source said ‘They have found huge commercial success without actually looking like they are getting their hands dirty, to put it bluntly, and retaining their popularity.
 ‘In fact it is fair to say that their star has soared since leaving the White House, particularly Michelle’s, and this is something Meghan admires very, very much.’   
 The move would be reminiscent of Michelle Obama, who has also launched a podcast on Spotify. It focused on meaningful relationships and debuted on July 29
 Sources previously revealed how the duke and duchess want to follow in the footsteps of former US President Barack Obama and his wife Michelle
