@@ -42,22 +42,22 @@ Countryside temperatures in Dorset could drop as low as 4C tonight, making a chi
 Some of the weekend&rsquo;s coldest daytime temperatures are likely to be in the north Pennines, where some areas might only reach a chilly 10C (50F) today.&nbsp;
 Meanwhile, Scarborough, North Yorks, is likely to hit a maximum of 13C (55F) this afternoon, which will feel like 8-9C (46-48F) due to strong northerly winds reaching 28mph.
 The Meteorological Office said high pressure is due to build through the weekend bringing &lsquo;plenty of sunshine&rsquo; and lessening winds.
-Frank Saunders, chief meteorologist at the Met Office, said &lsquo;We&rsquo;ve seen a real mix of weather this August - with a heatwave earlier this month and in the last week we&rsquo;ve had two named storms bringing very wet and windy weather across the country.
+Frank Saunders, chief meteorologist at the Met Office, said: &lsquo;We&rsquo;ve seen a real mix of weather this August - with a heatwave earlier this month and in the last week we&rsquo;ve had two named storms bringing very wet and windy weather across the country.
 &lsquo;With high pressure on the way this weekend we&rsquo;re going to end the month with much more settled weather, with plenty of late summer sunshine for many. It&rsquo;ll be a dry weekend for most areas too.&rsquo;
 The mixed forecast for the weekend follows heavy rain and thunder as 5.6 million motorists were expected to take to the roads for the bank holiday getaway.
 There was flash flooding in Devon, Cornwall and Hampshire on Friday morning as more than half a month&rsquo;s rain fell in 12 hours.
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
 Trump caravan trucks drive through protesters in Portland
-&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
+Impressive duck flies 60mph on the motorway with traffic
+Private bullet plane revealed: Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
-Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
-Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
-Cop KICKS man in the BACK as he stands with his hands on his head
+Musk&#039;s Neuralink venture unveils pig with computer chip in brain
 Waves slam against the pier at Roker Lighthouse in Sunderland, yesterday afternoon, as clouds roll in from the North Sea
 Waves were seen crashing against the seafront at Scarborough, North Yorkshire, earlier yesterday, as Britain faces a Bank Holiday washout
 Despite the grey and blustery weather, people were still seen walking along the windy seafront at Scarborough, North Yorkshire, yesterday

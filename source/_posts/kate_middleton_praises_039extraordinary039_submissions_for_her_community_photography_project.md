@@ -11,7 +11,7 @@ featured: true
 The Duchess of Cambridge&nbsp;has revealed she has been &#039;overwhelmed&#039; by the public&#039;s response to her community photography exhibition, saying it was&nbsp; &#039;so hard&#039; to whittle the images down to a top 100.
 Kate Middleton, 38, was joined by a panel of five judges to select the best images from more than 31,000 submitted for the nation-wide contest.
 In a video posted on the Kensington Royal Instagram account this morning, Kate said &#039;it&#039;s been great&#039; to work on the project as she joined her fellow judges on a Zoom call.&nbsp;&nbsp;&nbsp;
-As the Duchess, who spearheaded the campaign and is a keen amateur photographer, discussed choosing the top 100 images, she joked &#039;It&#039;s going to be so difficult to edit this down.&#039;&nbsp;&nbsp;
+As the Duchess, who spearheaded the campaign and is a keen amateur photographer, discussed choosing the top 100 images, she joked: &#039;It&#039;s going to be so difficult to edit this down.&#039;&nbsp;&nbsp;
 The Duchess of Cambridge, 38, joined a panel of five judges to select the top 100 images for her Hold Still photography contest. Pictured is&nbsp;&nbsp;Nicholas Cullinan, Director of the National Portrait Gallery (top left),&nbsp;&nbsp;Ruth May, Chief Nursing Officer for England (top right),&nbsp;Maryam Wahid, photographer (bottom left), and&nbsp;Lemn Sissay MBE, writer and poet (bottom right)
 
                         
@@ -48,9 +48,9 @@ Boohoo floral dress
                                             Buy now
                                         
 Joining her was Nicholas Cullinan, Director of the National Portrait Gallery, Lemn Sissay MBE, writer and poet, Ruth May, Chief Nursing Officer for England and Maryam Wahid, photographer, to chose the top 100 entries.&nbsp;
-The royal appeared in high spirits in the clip, asking the group of judges &#039;What&#039;s going to happen next?&#039; as she laughed and joked with the panel.&nbsp;&nbsp;&nbsp;
-Announcing that the top 100 images had been selected, the Duchess said &#039;I&#039;ve been so overwhelmed by the public&#039;s response to Hold Still, the quality of the images has been extraordinary, and the poignancy and the stories behind the images have been equally as moving as well.&#039;
-She continued &#039;So I wanted to say a huge thank you to everyone who has entered and taken part.&nbsp;
+The royal appeared in high spirits in the clip, asking the group of judges: &#039;What&#039;s going to happen next?&#039; as she laughed and joked with the panel.&nbsp;&nbsp;&nbsp;
+Announcing that the top 100 images had been selected, the Duchess said: &#039;I&#039;ve been so overwhelmed by the public&#039;s response to Hold Still, the quality of the images has been extraordinary, and the poignancy and the stories behind the images have been equally as moving as well.&#039;
+She continued: &#039;So I wanted to say a huge thank you to everyone who has entered and taken part.&nbsp;
 This is one of the photos selected by the Duchess of Cambridge ahead of showcasing the final 100 images in a digital exhibition from September 14
 &#039;And a big thank you to my fellow judges. I hugely appreciate the time and dedication that they have shown towards the project.&#039;&nbsp;
 A snapshot of the Duchess on a video call with the other judges was also shared.&nbsp;
@@ -58,16 +58,16 @@ In the clip, the royal appeared elegant in a forest green top, which was emblazo
 Kate wore her hair in a relaxed side parting, and opted for a set of drop earrings for the occasion.
 This is one of the photos selected by the Duchess of Cambridge ahead of showcasing the final 100 images in a digital exhibition from September 14
 This is one of the photos selected by the Duchess of Cambridge ahead of showcasing the final 100 images in a digital exhibition from September 14
-Meanwhile Lemn said the experience had been surprisingly emotional, revealing &#039;I didn&#039;t expect the judging process to be so emotional.&nbsp;
+Meanwhile Lemn said the experience had been surprisingly emotional, revealing: &#039;I didn&#039;t expect the judging process to be so emotional.&nbsp;
 &#039;As I studied the portraits in this most public crisis I was drawn into the most private moments.
 &#039;A nation through portraiture. Intimacy and inspiration, bravery and hope, determination and love and loss and laughter...&nbsp;
 &#039;We have been in this together and in these portraits of private struggles and victories, the quiet moments, the tears and laughter are caught on camera for ever in Hold Still.&#039;
 Kate Middleton, who is a keen amateur photographer, launched the community contest during lockdown to capture the mood of the nation
 The news comes after the Duchess teased the final 100 portraits had been chosen with an email screengrab, which was posted on Twitter&nbsp;&nbsp;
-She added that the collection of portraits &#039;made her proud to be British&#039;, saying &#039;It made me proud of my fellow citizen. It made me remember who we are and what we have been through. I didn&#039;t really know until now.&#039;
+She added that the collection of portraits &#039;made her proud to be British&#039;, saying: &#039;It made me proud of my fellow citizen. It made me remember who we are and what we have been through. I didn&#039;t really know until now.&#039;
 It comes days after&nbsp;Kate&nbsp;used the initial of her first name Catherine to sign off an email to judges of her Hold Still portrait contest.
 Taking to Kensington Royal&nbsp;Twitter account, Kate shared an email teasing the final 100 photographs picked to feature in the Hold Still exhibition - a campaign she spearheaded which aims to capture a snapshot of the UK amid the coronavirus&nbsp;pandemic.&nbsp;
-Alongside the caption &#039;An email was sent yesterday... Eyes#HoldStill2020,&#039; the contents of the email read &#039;Dear judges, I am thrilled we have chosen the final 100 portraits. I thought you might like to see the images all together so please find them attached.&nbsp;
+Alongside the caption: &#039;An email was sent yesterday... Eyes#HoldStill2020,&#039; the contents of the email read: &#039;Dear judges, I am thrilled we have chosen the final 100 portraits. I thought you might like to see the images all together so please find them attached.&nbsp;
 Throughout the pandemic, the Duchess highlighted a selection of her favourite submissions, including this one titled Rainbow
 This moving image submitted to the project shows a hospital worker on the floor in despair. It&#039;s titled Heartbroken Hero
 &#039;I couldn&#039;t have done it without you so thank you so much for your help. C.&#039;&nbsp;

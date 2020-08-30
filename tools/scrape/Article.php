@@ -2,6 +2,7 @@
 
 namespace Tools\Scrape;
 
+use function trim;
 use function var_dump;
 
 class Article
@@ -92,6 +93,6 @@ class Article
      */
     private function safeString(string $string)
     {
-		return htmlentities(str_replace([':', '*'], '', trim($string)), ENT_QUOTES);
+		return htmlentities(trim($string), ENT_QUOTES, 'UTF-8');
     }
 }

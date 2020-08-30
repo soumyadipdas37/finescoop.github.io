@@ -5,7 +5,7 @@
 				href="{{ $page->baseUrl }}{{ $pagination->first }}"
 				title="First Page"
 				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
-			>first</a>
+			>&LeftArrow;&LeftArrow; first</a>
 			<a
 				title="Previous Page"
 				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
@@ -17,12 +17,12 @@
 				href="{{ $page->baseUrl }}/{{ $next }}"
 				title="Next Page"
 				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
-			>&RightArrow; next</a>
+			>next &RightArrow;</a>
 			<a
 				href="{{ $page->baseUrl }}/{{ $pagination->last }}"
 				title="Last Page"
 				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
-			>&RightArrow;&RightArrow; last</a>
+			>last &RightArrow;&RightArrow;</a>
 		@endif
 	</nav>
 @endif

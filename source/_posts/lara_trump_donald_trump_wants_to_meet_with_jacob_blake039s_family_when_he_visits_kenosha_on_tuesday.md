@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569056-0-image-a-4_1598800322089.jpg 
-title: Lara Trump Donald Trump wants to meet with Jacob Blake&#039;s family when he visits Kenosha on Tuesday 
+title: Lara Trump: Donald Trump wants to meet with Jacob Blake&#039;s family when he visits Kenosha on Tuesday 
 description: Donald Trump has reached out to Jacob Blake&#039;s family and is trying to set up a meeting with them during his visit to Kenosha, Wisconsin on Tuesday following the police shooting last week. 
 date: 2020-03-02 
 categories: [latest] 
@@ -13,24 +13,28 @@ The president&#039;s daughter-in-law Lara Trump revealed to Fox News Sunday&#039
 &#039;He&#039;s reached to the Blake family. I don&#039;t know if they were able to connect yet. And I don&#039;t know for sure if that&#039;s on the agenda,&#039; Trump said during her interview Sunday morning. &#039;I&#039;m sure, given the opportunity, he&#039;ll be more than happy to do that. But I haven&#039;t gotten that information just yet.&#039;&nbsp;
 The White House announced Saturday that Trump will visit Kenosha on Tuesday following days of protests in the city after another police shooting of a black man.
 Trump is already scheduled to meet with &#039;law enforcement and survey damage from recent riots&#039;, White House spokesman Judd Deere told reporters aboard Air Force One Saturday.
-He did not say at the time if the president will meet the family of Blake, who was left paralyzed from the waist down after he was shot multiple times in the back by police officers.
-Blake&#039;s mother told CNN Thursday that they did not support the violent riots that have overtaken Kenosha, and other parts of the country, since their son was shot following a tussle with police.
+He did not say at the time if the president will meet the family of Blake, who was left paralyzed from the waist down after he was shot multiple times in the back by police officers.&nbsp;
+Lara Trump said of the upcoming trip: &#039;Well, I think the message is that he cares about each and every American. And, you know, this is a situation where you&#039;ve seen, sadly, that throughout this country, in Democrat-run cities, there &ndash; the people that are in charge, the mayors of these cities have let their citizens down. They have not upheld the laws. They have not protected their citizens. They have not protected small businesses.&#039;
+She claimed Trump&#039;s intention in the trip is to make known that &#039;he cares about every single American in this country.&#039;&nbsp;
 Lara Trump, President Donald Trump&#039;s daughter-in-law and adviser, said Sunday that the president has reached out to Jacob Blake&#039;s family to set up a meeting as he visits Kenosha, Wisconsin on Tuesday
+Blake&#039;s mother,&nbsp;Julia Jackson (left), said earlier this week that she missed a call from the president. She also said she does not blame President Trump for the unrest and said she &#039;has the utmost respect&#039; for him
+&#039;I think all these mayors, the Democratic mayors that are playing politics instead of looking out for the safety of their citizens should look to this and say, hey, the president has offered all of us this opportunity and they should take it,&#039; she said of mobilizing the National Guard to settle the situation.
+Blake&#039;s mother told CNN Thursday that they did not support the violent riots that have overtaken Kenosha, and other parts of the country, since their son was shot following a tussle with police.&nbsp;
 &#039;To use my child or any other mother or fathers&#039; child &ndash; our tragedy &ndash; to react in that manner is just not acceptable and it&#039;s not helping Jacob,&#039; Blake&#039;s mother, Julia Jackson, said.
 &#039;For President Trump, I&#039;m sorry I missed your call,&#039; she continued in her interview with Don Lemon on Thursday. &#039;I&#039;m not mad at you, at all. I have the utmost respect for you as the leader of our country. Like I said before, and I&#039;m not saying this to him directly, we should always get the details from the right source before we start throwing bricks.&#039;&nbsp;
 Democratic presidential nominee Joe Biden is also set to travel to an undisclosed location on Monday to &#039;condemn violence, and to note that chaos has unfolded&#039; on Trump&#039;s watch, the New York Times reported.
 While details of Biden&#039;s travel plans are not yet known, some have speculated that he could be headed to Kenosha as well.
 Blake&#039;s father, who is also named Jacob Blake, had a different opinion than the victim&#039;s mother, suggested it was too late for Trump to asked for a meeting with him after this son was shot seven times in the back by a white police officer and has been left paralyzed from the waist down &ndash; it is still unclear if the paralysis is permanent.
+The White House announced Saturday that Trump visit Wisconsin on Tuesday to &#039;meet with law enforcement and survey damage from recent riots&#039; in the fallout from Blake&#039;s shooting in Kenosha
 Following an hourlong conversation earlier this week with Biden and running mate Kamala Harris, Blake Sr. said it was like &#039;speaking to my uncle and one of my sisters.&#039;&nbsp;
 &#039;They were so comforting that you almost forgot how the situation was really playing out,&#039; Blake Sr. told CNN Friday. &#039;It was like I was speaking to my uncle and one of my sisters &ndash; literally, literally.&#039;
 When asked by CNN in a separate interview Friday if he wanted to hear from Trump, Blake Sr. said, &#039;It is too late. He should have called four days ago.&#039;
-When asked if Trump had tried to reach out, Blake had replied &#039;That&#039;s a negative.&#039;
+When asked if Trump had tried to reach out, Blake had replied: &#039;That&#039;s a negative.&#039;
 The visit is certain to exacerbate tensions in the city, where a crowd of about 1,000 demonstrators gathered outside a courthouse Saturday to denounce police violence.
 Lara Trump, who is married to the president&#039;s son Eric, said that the riots have likely changed some voters&#039; minds.
 She was responding to Kellyanne Conway&#039;s remarks that &#039;the more chaos and anarchy and vandalism and violence reigns, the better it is&#039; for her father-in-law getting reelected.
 &#039;It certainly paints a very clear picture,&#039; she said.
 Trump has been running his reelection campaign on a law-and-order mantle, denouncing protesters as &#039;thugs&#039; while voicing his support for police.
-Trump will visit Kenosha on Tuesday to &#039;meet with law enforcement and survey damage from recent riots&#039;, the White House said 
 Protesters march with the family of Jacob Blake during a rally against racism and police brutality in Kenosha on Saturday
 He has also repeatedly offered to send in the National Guard or federal assistance to&nbsp; quell the unrest.&nbsp;
 Blake, 29, took at least half a dozen shots in the back in front of his small children as he tried to get into his car last Sunday, in an incident that triggered an outpouring of anger over yet another shooting of a black man by white police.&nbsp;

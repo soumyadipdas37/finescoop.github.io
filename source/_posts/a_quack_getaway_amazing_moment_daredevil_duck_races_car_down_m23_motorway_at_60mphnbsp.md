@@ -14,10 +14,10 @@ Bowler was so shocked to see the duck keep pace with the flow of traffic that he
 Roland Bowler, 33, from Strood in Kent, spotted the bird flying along the M23 near Gatwick Airport while sitting in his friend&#039;s van on August 19
 At the start of the footage, the duck is seen joining the motorway from the side of the road, already in flight.
 The bird narrowly dodges a black van and enters the outside lane of the motorway.
-In the video Roland is heard saying &#039;Look at him go. What&rsquo;s he doing? 60 miles per hour. Go on boy. He&rsquo;s having it. You&rsquo;ve got to respect him.&rsquo;
+In the video Roland is heard saying: &#039;Look at him go. What&rsquo;s he doing? 60 miles per hour. Go on boy. He&rsquo;s having it. You&rsquo;ve got to respect him.&rsquo;
 The duck continued heading down the motorway, maintaining its 60mph speed before eventually leaving the road again unharmed and heading off to some farmland.&nbsp;
 The bird narrowly dodges a black van and enters the outside lane of the motorway before steadily travelling along at 60mph
-The Metro reports that Rowland, who described the scene as something like from from Wacky Races, said &lsquo;It got bored and decided, &ldquo;France sounds better&rdquo;. That&rsquo;s no doubt where it was going.
+The Metro reports that Rowland, who described the scene as something like from from Wacky Races, said: &lsquo;It got bored and decided, &ldquo;France sounds better&rdquo;. That&rsquo;s no doubt where it was going.
 &lsquo;This duck was having a laugh, it wasn&rsquo;t in trouble. You know when a bird is in trouble because it&rsquo;s trying to pull away from the motorway. This one was having the time of its life.
 &lsquo;It didn&rsquo;t have a care in the world. Some people were saying that the duck was scared, but trust me, that duck wasn&rsquo;t scared.&#039;
 The video was originally shared on social media two weeks ago and received more than 22,000 like ratings and shares.&nbsp;

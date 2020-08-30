@@ -1,38 +1,61 @@
 ---
 extends: _layouts.post
 section: content
-image: https://i.dailymail.co.uk/1s/2020/08/30/06/32556876-0-image-a-130_1598766397799.jpg 
-title: Man is shot dead in Portland during clashes between Trump supporters and BLM 
-description: A man was shot dead in Portland on Saturday night as ugly scenes unfolded amid clashes between Trump supporters and BLM. The Facebook page behind the Trump caravan encouraged gun carrying. 
+image: https://i.dailymail.co.uk/1s/2020/08/30/17/32570910-0-image-a-27_1598804218749.jpg 
+title: Moment man &#039;in Patriot Prayer hat&#039; is shot dead in Portland amid clashes with BLM and Trump fans 
+description: Disturbing video appears to show the moment an unidentified man was gunned down in Portland on Saturday night. Witnesses said the victim had been macing people prior to the shooting. 
 date: 2020-03-02 
 categories: [latest] 
 featured: true 
 --- 
-One person was shot dead in Portland on Saturday night as tensions between pro-Trump supporters and Black Lives Matter counter-protesters boiled over.
-The victim was pictured lying on the ground wearing a Patriot Prayer baseball cap, appearing to show support for the far-Right group which is frequently present during Portland protests.&nbsp;
-The Portland protest was one of many that&nbsp;Donald Trump&#039;s supporters staged across the country on Saturday, with hundreds of people congregating in Los Angeles, Georgia and beyond to celebrate their president and rally for his re-election.&nbsp;
-In Washington DC, Black Lives Matter protesters were tear gassed to push them away from the White House, while in Kenosha, Wisconsin - where Jacob Blake was shot on August 23 - protests continued, but were largely peaceful.
-The White House announced that Trump is scheduled to visit Kenosha on Tuesday - which many fear could exacerbate tensions in the city.&nbsp; &nbsp;
-In Portland - where there have been 95 nights of unrest in the wake of the May 25 shooting of George Floyd&nbsp;- more than 600 cars flying Trump flags and banners set off in a convoy around and through the city, after tense scenes at their meeting point and clashes with counter-protesters.
-The shooting took place on Southwest 3rd Avenue and Alder Street - along the main throughfare which runs through the heart of Portland, past Portland State University.&nbsp;&nbsp;
-Police told Oregon Live that the victim had died.&nbsp;&nbsp;
+Disturbing video shows the moment a man wearing a Patriot Prayer baseball cap was shot and killed in Portland as tensions between pro-Trump supporters and Black Lives Matter counter-protesters boiled over.&nbsp;&nbsp;
+In the footage, recorded by videographer Justin Dunlap, the victim appears to be following two other people down a street before two gunshots ring out and a cloud of smoke erupts at the source.&nbsp;&nbsp;&nbsp;
+The person who appeared to fire the shots and a handful of other people nearby then fled out of view as the victim staggered for a few feet and collapsed on the ground.&nbsp;
+Several people are seen rushing over when a car turns a corner and skids to a stop in front of the victim.&nbsp;
+It remains unclear if the shooting at was linked to fights that broke out as a caravan of about 600 vehicles was confronted by counter-demonstrators in the city&#039;s downtown area.
+Police said the caravan had left the area around 8.30pm, and officers heard gunshots around 15 minutes later and arrived at the shooting scene &#039;within a minute&#039;.&nbsp;
+The victim, who has not yet been identified, was shot in the chest and died at the scene.&nbsp;&nbsp;
+An Associated Press freelance photographer who heard three gunshots and then observed police medics attending to the victim said it was a white man wearing a hat with the insignia of Patriot Prayer, a right-wing group whose members have frequently clashed with protesters in Portland in the past.
+Scroll down for video&nbsp;
+Disturbing video shows the moment an unidentified man wearing a Patriot Prayer baseball cap (center in a black shirt and light shorts) was shot and killed in Portland on Saturday night&nbsp;
+The victim is seen collapsed in the street after he tried to walk away from the person who shot him
+Street medics and protesters rushed over to help the man after he was shot in the chest by an unidentified suspect
+Police arrived on the scene &#039;within a minute&#039; of when gunshots rang out. The victim is seen wearing a hat with the insignia of Patriot Prayer, a right-wing group whose members have frequently clashed with protesters in Portland in the past
+Portland police hold back a man who was with the victim of Saturday night&#039;s fatal shooting minutes after the incident
+Detectives have yet to release any information about the shooting suspect and said they are still looking for more evidence.&nbsp;
+Police acknowledged that several images and videos have been posted on social media - including Dunlap&#039;s - but did not say whether they&#039;d been verified.&nbsp;&nbsp;
+Dunlap claimed that the victim had been macing people prior to the shooting.&nbsp;
+In his video someone could be heard shouting that the man was a &#039;motherf**ker who has been pushing people and jumping people the entire time&#039;.
+&#039;That guy has been f**king with people the entire time,&#039; the witness shouted.&nbsp;
+The shooting took place on Southwest 3rd Avenue and Alder Street - along the main throughfare which runs through the heart of Portland, past Portland State University.
+Police cautioned the public against drawing conclusion about what sparked the violence.&nbsp;&nbsp;
+&#039;It is important for detectives get a full and accurate picture of what happened before, during, and after the shooting,&#039; a police statement said.&nbsp;
+&#039;If anyone was a witness, has video, or has information about the homicide, they&#039;re asked to contact the primary detectives.&#039;
+Police Chief Chuck Lovell added: &#039;I ask everyone to give the detectives time to do their important work before drawing conclusions about what took place.
+&#039;This violence is completely unacceptable and we are working diligently to find and apprehend the individual or individuals responsible.&#039;&nbsp;
 Mayor Ted Wheeler said in a text message to Oregon Public Broadcasting that he was &#039;aware of the situation.&#039;
 &#039;Gathering information now,&#039; he continued. &#039;Will be transparent with public. Asking for people to remain calm and not add to this tragedy.&#039;
-A man was shot and killed in Portland on Saturday night amid deadly clashes between Trump fans and BLM activists
+Medics and police officers stand over the unidentified man who was shot dead in the street in Portland on Saturday night
 Medics tried unsuccessfully to save the man, who was shot on the corner of Southwest 3rd Avenue and Alder Street
+A man has been shot in downtown Portland. Ambulance and police are attending. pic.twitter.com/lKjPO2bbLK
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
 Trump caravan trucks drive through protesters in Portland
-&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
+Impressive duck flies 60mph on the motorway with traffic
+Private bullet plane revealed: Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
-Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
-Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
-Cop KICKS man in the BACK as he stands with his hands on his head
-As the convoy of Trump vehicles entered the city center, Trump supporters sitting in the back of pick ups used pepper spray on counter-protesters. Eggs were thrown at their trucks and cars, and the Trump supporters retaliated by turning paintball guns on the crowd, allegedly firing ball bearings.&nbsp;
+Musk&#039;s Neuralink venture unveils pig with computer chip in brain
+Saturday marked the 95th night of unrest in Portland since the police killing of George Floyd in Minneapolis.&nbsp;
+More than 600 cars flying Trump flags and banners set off in a convoy around and through the city as the sun began to set, after tense scenes at their meeting point and clashes with counter-protesters.
+It came as Trump supporters staged similar gatherings around the country, with hundreds of people congregating in Los Angeles, Georgia and elsewhere to celebrate their president and rally for his re-election.
+In Washington DC, Black Lives Matter protesters were tear gassed to push them away from the White House, while in Kenosha, Wisconsin - where Jacob Blake was shot on August 23 - protests continued, but were largely peaceful.
+The White House announced that Trump is scheduled to visit Kenosha on Tuesday - which many fear could exacerbate tensions in the city.&nbsp; &nbsp;
+As the convoy of Trump vehicles entered Portland&#039;s city center, supporters sitting in the back of pick ups used pepper spray on counter-protesters. Eggs were thrown at their trucks and cars, and the Trump supporters retaliated by turning paintball guns on the crowd, allegedly firing ball bearings.&nbsp;
 A reporter was among those shot by the paintball guns.&nbsp;
 Two bare-chested men were filmed punching each other as the violence spread. Riot police swarmed into the center and began making arrests.&nbsp;
 A block away from the scene of the shooting, a black man in a face mask was pictured in an animated discussion with Joey Gibson, a Right-wing political activist and founder of Patriot Prayer.&nbsp;
@@ -54,38 +77,38 @@ Trump supporters were seen driving around and spraying the crowd with what some 
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
-Black Panther star Chadwick Boseman dies after battle with cancer
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+Black Panther star Chadwick Boseman dies after battle with cancer
+Trump caravan trucks drive through protesters in Portland
 MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
+Impressive duck flies 60mph on the motorway with traffic
+Private bullet plane revealed: Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
-Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
-Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
-Cop KICKS man in the BACK as he stands with his hands on his head
+Musk&#039;s Neuralink venture unveils pig with computer chip in brain
 Supporters of Donald Trump met in Clackamas town center on Saturday at 4pm, to drive around Portland
 The convoy numbered around 600 vehicles, with Trump supporters flying flags as they cruised through Portland
 Most were in trucks and cars, but some motorcyclists also came along for the ride - one with his bike decorated with Trump
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
 Trump caravan trucks drive through protesters in Portland
-&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
+Impressive duck flies 60mph on the motorway with traffic
+Private bullet plane revealed: Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
-Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
-Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
-Cop KICKS man in the BACK as he stands with his hands on his head
+Cops called on NFL star Brandon Marshall moving into new home
 The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
 Saturday&#039;s rally was intended to follow a route circling around Portland and avoiding the downtown area, but cars diverted&nbsp;
 Attendees were encouraged to bring their guns, and conceal-carry them, in a video Kyzik posted previewing the event.
 Some of those at the start, however, were openly flaunting their assault rifles.
 &#039;I know for the most part, everyone here is gonna be pretty civilized. We&#039;re all gonna support the president in safe way,&#039; said Brandon Beck, who was attending his first Trump rally.&nbsp;
-He told&nbsp;Oregon Public Broadcasting &#039;Obviously we&#039;re all gonna be in cars, none of us are gonna be burning, looting, or anything. We&#039;re just trying to have fun and stay safe today.&#039;&nbsp;
+He told&nbsp;Oregon Public Broadcasting: &#039;Obviously we&#039;re all gonna be in cars, none of us are gonna be burning, looting, or anything. We&#039;re just trying to have fun and stay safe today.&#039;&nbsp;
 Joe Reminar told the site that he was a veteran of Trump rallies, and Saturday&#039;s was the fifth or sixth he had attended.&nbsp;
-&#039;Today is about freedom and showing that Antifa doesn&#039;t have the full chokehold on Portland and that we&#039;re taxpaying citizens and we don&#039;t want st tore up,&#039; he said.
+&#039;Today is about freedom and showing that Antifa doesn&#039;t have the full chokehold on Portland and that we&#039;re taxpaying citizens and we don&#039;t want s**t tore up,&#039; he said.
 &#039;We&#039;re gonna be a major parade and showing strength for our president. Which we appreciate all that he&#039;s done, keeping the economy going, fighting China on this virus, keeping us free and saving our Second Amendment.&#039;
 A crowd of Black Lives Matter activists turned up to meet them, waving their placards and engaging in tense confrontations.
 One Trump supporter ripped off his jacket, squaring up for a fight, before he was escorted away by other Trump supporters.
@@ -94,19 +117,19 @@ Alex Kyzik, one of the organizers of the Portland rally, said people should not 
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Black Panther star Chadwick Boseman dies after battle with cancer
 Trump caravan trucks drive through protesters in Portland
-&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
+Impressive duck flies 60mph on the motorway with traffic
+Private bullet plane revealed: Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
-Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
-Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
-Cop KICKS man in the BACK as he stands with his hands on his head
+Musk&#039;s Neuralink venture unveils pig with computer chip in brain
 Counter-protesters and Black Lives Matter supporters confronted the Trump supporters in downtown Portland
 Black Lives Matter activists showed their displeasure as the convoy wove its way towards downtown Portland
 Black Lives Matter activists confronted the pro-Trump demonstrators in Clackamas on Saturday
-Fans of the president in their red MAGA hat held up a sign reading &#039;All Lives Matter&#039;, taunting the BLM crowd
+Fans of the president in their red MAGA hat held up a sign reading: &#039;All Lives Matter&#039;, taunting the BLM crowd
 The convoy set off, with&nbsp;Clackamas County Sheriff&#039;s Office vehicles blocking intersections around the Town Center mall to allow the parade of vehicles to pass through.
 A heavy presence of Oregon state troopers was seen along Highway 224, the pro-Trump caravan&#039;s primary route to Portland.
 The caravan was intended to avoid downtown, but as night fell many of the cars strayed from the intended route and headed into the city center.
@@ -132,21 +155,20 @@ And&nbsp;outside the White House, chaotic scenes unfolded following another nigh
 Hundreds of protesters had gathered at Black Lives Matter Plaza to rally against police brutality and racial injustice.&nbsp;
 Members of the Metropolitan Police Department were out in force as demonstrators marched to the White House chanting, &#039;No cops, no KKK, no fascists&#039;.
 Shortly before midnight, tensions between protesters and law enforcement boiled over, as police officers in riot gear began charging at crowds to move them out of the area.&nbsp;
-Scroll down for video&nbsp;
 Police clashed with BLM protesters in Washington, D.C. on Saturday during another night of unrest
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
-Black Panther star Chadwick Boseman dies after battle with cancer
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+Black Panther star Chadwick Boseman dies after battle with cancer
+Trump caravan trucks drive through protesters in Portland
 MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
+Impressive duck flies 60mph on the motorway with traffic
+Private bullet plane revealed: Otto Aviation Group LLC
 Windsurfer rescued after telescope user spotted him in difficulty
-Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
-Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
-Cop KICKS man in the BACK as he stands with his hands on his head
-KENOSHA, WISCONSIN A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
+Musk&#039;s Neuralink venture unveils pig with computer chip in brain
+KENOSHA, WISCONSIN: A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 Officers were seen deploying tear gas grenades and using flash bang devices to disperse crowds.
 Videos shared on social media showed some protesters retaliating, with some throwing projectiles at officers or playing loud music. In one clip, one man was seen picking up a tear gas canister and hurling it back at police.&nbsp;
 In Kenosha, protests over the police shooting of Jacob Blake remained largely peaceful on Saturday night, following a day of demonstrations that saw thousands of people march to the county courthouse to denounce police brutality and racism.&nbsp;
@@ -155,11 +177,11 @@ Earlier in the day, crowds took to the streets chanting, &#039;seven bullets, se
 But unlike last week&#039;s demonstrations, most&nbsp;people on Saturday dispersed from the protest before the 7pm curfew.&nbsp;
 More than an hour later, law enforcement officers, including some wearing U.S. Marshals Service identification, surrounded about a dozen people who remained outside the courthouse and made several arrests.&nbsp;
 As night fell, National Guard troops and police officers in riot gear remained outside the fenced area surrounding several government buildings that have been at the center of the unrest over the past week.&nbsp;
-KENOSHA, WISCONSIN Law enforcement officers are seen standing guard as several people were arrested after the start of a city-wide curfew outside of the Kenosha County Courthouse on Saturday
-KENOSHA, WISCONSIN About 1,000 people joined a mile-long march in Kenosha on Saturday, chanting &#039;Black Lives Matter&#039; and &#039;No Justice, No Peace&#039;, a week after the police shooting of Jacob Blake&nbsp;
-KENOSHA, WISCONSIN Protesters marched with Blake&#039;s family towards the Kenosha County Courthouse where speakers&nbsp;encouraged the crowd to vote for change in November, and to push for legislation in Wisconsin that would lead to police reform
-KENOSHA, WISCONSIN&nbsp;People march in support of Jacob Blake and his family to the Kenosha County Courthouse
-KENOSHA, WISCONSIN Jacob Blake Sr (pictured) gave an impassioned call for changing a system
+KENOSHA, WISCONSIN: Law enforcement officers are seen standing guard as several people were arrested after the start of a city-wide curfew outside of the Kenosha County Courthouse on Saturday
+KENOSHA, WISCONSIN: About 1,000 people joined a mile-long march in Kenosha on Saturday, chanting &#039;Black Lives Matter&#039; and &#039;No Justice, No Peace&#039;, a week after the police shooting of Jacob Blake&nbsp;
+KENOSHA, WISCONSIN: Protesters marched with Blake&#039;s family towards the Kenosha County Courthouse where speakers&nbsp;encouraged the crowd to vote for change in November, and to push for legislation in Wisconsin that would lead to police reform
+KENOSHA, WISCONSIN:&nbsp;People march in support of Jacob Blake and his family to the Kenosha County Courthouse
+KENOSHA, WISCONSIN: Jacob Blake Sr (pictured) gave an impassioned call for changing a system
 During the rally earlier, Blake&#039;s father, Jacob Blake Sr, called on protesters to refrain from looting and vandalism, which had overshadowed peaceful protests before a tense calm set in the past three nights.&nbsp;
 &#039;Good people of this city understand. If we tear it up we have nothing, Blake Sr said. &#039;Stop it. Show &#039;em for one night we don&#039;t have to tear up nothing.&#039;&nbsp;
 He gave an impassioned call for changing a system he described as fostering police brutality and racial inequities.
