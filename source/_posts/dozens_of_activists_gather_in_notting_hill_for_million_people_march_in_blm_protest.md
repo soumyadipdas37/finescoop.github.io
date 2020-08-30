@@ -38,6 +38,18 @@ Organisers say the movement plans to push a Race Offenders Register, to prosecut
 &#039;We don&#039;t just want tokenistic promises, we don&#039;t want it to come from a hegemonic standpoint. We want it to be for the people.&#039;
 It comes a day after&nbsp;a mass-gathering of Covid-19 conspiracy theorists who took to the streets of London yesterday to demonstrate against lockdown restrictions and vaccination programmes.
 More than 10,000 anti-lockdown protesters who believe coronavirus is a hoax gathered for the &#039;Unite for Freedom&#039; rally which started at noon in the capital on Saturday.&nbsp;
+Bystander films man attempting to rape woman on subway platform
+Shocking moment Russian Su-27 crosses in front of US B-52
+Trump caravan trucks drive through protesters in Portland
+Black Panther star Chadwick Boseman dies after battle with cancer
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
+Russian war planes get unnervingly close to American B-52
+Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
+Hordes of Trump fans drive into Portland and face off with BLM
+Cop KICKS man in the BACK as he stands with his hands on his head
 Protesters in Notting Hill in west London for an anti-racism demonstration. One of the placards says &#039;White Silence = White Violence&#039;
 Black Lives Matter protesters sit on the road in Notting Hill during the &#039;Million People March&#039; through central London today
 A group of protesters marching through central London today. Many of the protesters today could be seen wearing masks, but some did not, and social distancing was not always being complied with

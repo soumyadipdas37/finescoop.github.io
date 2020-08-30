@@ -18,15 +18,15 @@ A march named &#039;Procession for the Planet&#039; is underway in Lewes, featur
 Activists in Brighton are planning an &#039;epic voyage of rebellion&#039; in which they will march from the seafront to London with a &#039;Lightship&#039; named after climate activist Greta Thunberg.
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 Three women were arrested in Brighton following a day of environmental protests organised by Extinction Rebellion
 The protesters scaled the West Beach cafe on the seafront and were escorted down by specialist officers&nbsp;
@@ -45,15 +45,15 @@ Extinction Rebellion was responsible for two weeks of protests last summer, whic
 Protests this weekend are due to include roadblocks, marches, sit-ins, bike rides and picnics, with organisers emphasising their ethos of &#039;non-violent direct action&#039;.
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 Extinction Rebellion protesters in Leeds city centre, ahead of their &#039;Ride the Noise&#039; protest against the expansion of Leeds Bradford Airport, as a weekend of Extinction Rebellion action begins across the country
 Cyclists gathered in Leeds City Centre and road to Leeds Bradford Airport to protest against its expansion in move dubbed &#039;Ride the Noise&#039; as one of the first Extinction Rebellion protests to get underway on Bank Holiday Saturday

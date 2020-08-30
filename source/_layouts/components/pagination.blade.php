@@ -8,13 +8,13 @@
 			>&LeftArrow;</a>
 		@endif
 
-		@foreach ($pages as $pageNumber => $path)
-			<a
-				href="{{ $page->baseUrl }}/{{ $path }}"
-				title="Go to Page {{ $pageNumber }}"
-				class="bg-gray-200 hover:bg-gray-400 text-blue-700 rounded mr-3 px-5 py-3 {{ $currentPage == $pageNumber ? 'text-blue-600' : '' }}"
-			>{{ $pageNumber }}</a>
-		@endforeach
+{{--		@foreach ($pages as $pageNumber => $path)--}}
+{{--			<a--}}
+{{--				href="{{ $page->baseUrl }}/{{ $path }}"--}}
+{{--				title="Go to Page {{ $pageNumber }}"--}}
+{{--				class="bg-gray-200 hover:bg-gray-400 text-blue-700 rounded mr-3 px-5 py-3 {{ $currentPage == $pageNumber ? 'text-blue-600' : '' }}"--}}
+{{--			>{{ $pageNumber }}</a>--}}
+{{--		@endforeach--}}
 
 		@if ($next = $nextPage)
 			<a

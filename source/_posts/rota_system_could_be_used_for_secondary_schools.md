@@ -20,15 +20,15 @@ A third concerned parent wrote &#039;I can&#039;t see my employer (NHS) being pa
 A &#039;rota system&#039; limiting the number of pupils going to secondary schools at any one time could be used for local lockdown zones
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 
 Unions were also left frustrated by the timing of the announcement.
@@ -138,15 +138,15 @@ Secondaries are encouraging pupils to walk or cycle to school where possible to 
 Education Secretary Gavin Williamson has urged parents to &#039;drop their children off and then get on with all the tasks of their day&#039;.
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 ASSEMBLIES AXED AND ONE WAY ONLY
 MORE than 80 per cent of schools will have one-way systems in corridors to make sure children aren&#039;t charging into each other.&nbsp;
