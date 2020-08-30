@@ -12,7 +12,7 @@ class Markdown
      *
      * @var string
      */
-    private $location = __DIR__ . '/../source/_posts/test';
+    private $location = __DIR__ . '/../../source/_posts/';
 
     /**
      * Save the article as a markdown

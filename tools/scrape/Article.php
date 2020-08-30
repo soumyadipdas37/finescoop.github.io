@@ -2,9 +2,11 @@
 
 namespace Tools\Scrape;
 
+use function var_dump;
+
 class Article
 {
-    /**
+	/**
      * Build the article array
      *
      * @param \SimpleXMLElement $item
@@ -57,11 +59,16 @@ class Article
     private function getArticleBody(\DOMXPath $xpath)
     {
         // Search dom for the article div
-        $query = "//*[@id=\"js-article-text\"]/div[2]";
+        $query = "//*[@itemprop=\"articleBody\"]//p";
         $entry = $xpath->query($query);
+		$html = '';
 
-        // Return the article
-        return $entry[0]->nodeValue;
+		// Return the article
+		foreach($entry as $p) {
+			$html .= $p->textContent . "\n";
+		}
+
+		return $html;
     }
 
     /**
