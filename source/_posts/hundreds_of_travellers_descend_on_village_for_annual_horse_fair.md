@@ -16,14 +16,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Hundreds of travellers crowded to Wollaston, Northamptonshire, for the annual horse fair despite coronavirus fears
 They have been seen gathered together with no apparent regard for social distancing and failing to use face masks
 Above are a group enjoying the annual horse fair in the field. Local businesses have closed due to the risk
@@ -32,14 +32,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Businesses and pubs in nearby villages have closed their doors while hundreds of travellers enjoy themselves at the site - which features a beer tent, food and disco.
 Police said there had been no reports of any crimes - but footage has emerged on social media appearing to show dancing punters crammed into a tent 'like sardines'.
 One local resident, who did not want to be named, said 'We cannot believe this event has been allowed to go ahead.

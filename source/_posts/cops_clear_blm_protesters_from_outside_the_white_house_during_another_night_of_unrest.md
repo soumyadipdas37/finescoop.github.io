@@ -16,16 +16,16 @@ Scroll down for video 
 WASHINGTON, DC Chaos erupted outside the White House on Saturday after police officers in riot gear deployed tear gas canisters and fired rubber bullets at protesters as it they moved to disperse crowds 
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
+Bystander films person being shot dead during Portland protests
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-Bystander films person being shot dead during Portland protests
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+Trump caravan trucks drive through protesters in Portland
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
 Police charge at protesters to move them out of the area. They’ve detonated at least 8 stun grenades so far and used chemical irritant. You can see an officer shoving protester to the ground here pic.twitter.com/8NcrrDi6DF
 Protests 2 blocks from White House. Police continue charging at protesters, using what appears to be tear gas, smoke + stun grenades. pic.twitter.com/j8fPp5i4f8
 Officers were seen deploying tear gas grenades, pepper spray and using flash bang devices to disperse crowds.  
@@ -113,11 +113,11 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Trump caravan trucks drive through protesters in Portland
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park

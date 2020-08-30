@@ -20,14 +20,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-Bystander films person being shot dead during Portland protests
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Three women were arrested in Brighton following a day of environmental protests organised by Extinction Rebellion
 The protesters scaled the West Beach cafe on the seafront and were escorted down by specialist officers 
 Extinction Rebellion protesters on Lewes High Street in East Sussex, carry out a 'funeral march' as part of UK-wide protests
@@ -47,14 +47,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Extinction Rebellion protesters in Leeds city centre, ahead of their 'Ride the Noise' protest against the expansion of Leeds Bradford Airport, as a weekend of Extinction Rebellion action begins across the country
 Cyclists gathered in Leeds City Centre and road to Leeds Bradford Airport to protest against its expansion in move dubbed 'Ride the Noise' as one of the first Extinction Rebellion protests to get underway on Bank Holiday Saturday
 As part of nationwide demonstrations this weekend, protesters gathered in Leeds to campaign against airport expansion

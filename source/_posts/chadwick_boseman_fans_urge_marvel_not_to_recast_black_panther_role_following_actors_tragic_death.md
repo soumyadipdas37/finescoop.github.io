@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/00/32548960-0-image-a-4_1598742691773.jpg 
 title: Chadwick Boseman Fans urge Marvel not to recast Black Panther role following actor's tragic death 
-description: 'Please retire the character out of respect, and have him live as a legend within the world. Like Universal did with Paul Walker in Fast & Furious. Please please please, don't recast this icon.' 
+description: Please retire the character out of respect, and have him live as a legend within the world. Like Universal did with Paul Walker in Fast & Furious. Please please please, don't recast this icon.
 date: 2020-03-02 
 categories: [latest] 
 featured: true 

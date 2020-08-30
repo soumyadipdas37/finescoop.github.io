@@ -50,14 +50,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Trump caravan trucks drive through protesters in Portland
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Waves slam against the pier at Roker Lighthouse in Sunderland, yesterday afternoon, as clouds roll in from the North Sea
 Waves were seen crashing against the seafront at Scarborough, North Yorkshire, earlier yesterday, as Britain faces a Bank Holiday washout
 Despite the grey and blustery weather, people were still seen walking along the windy seafront at Scarborough, North Yorkshire, yesterday

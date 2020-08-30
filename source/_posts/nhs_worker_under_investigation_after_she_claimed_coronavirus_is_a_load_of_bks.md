@@ -17,14 +17,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for 'making a difference to patients' amid the virus outbreak
 Ms Hampton has since posted a selfie while on the way to London to join more than 10,000 anti-lockdown protesters who believe coronavirus is a hoax at the 'Unite for Freedom' rally on Saturday (pictured  Protesters march towards Westminster from Trafalgar Square during a demonstration organised by a group called 'Stand Up X', in London on Saturday)
 Health Secretary Matt Hancock said yesterday he believed that a backlog of cancer patients awaiting treatment would clear 'within a matter of months.'

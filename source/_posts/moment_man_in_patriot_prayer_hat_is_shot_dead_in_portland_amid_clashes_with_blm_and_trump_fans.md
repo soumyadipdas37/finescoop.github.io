@@ -42,14 +42,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-Trump caravan trucks drive through protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Saturday marked the 95th night of unrest in Portland since the police killing of George Floyd in Minneapolis. 
 More than 600 cars flying Trump flags and banners set off in a convoy around and through the city as the sun began to set, after tense scenes at their meeting point and clashes with counter-protesters.
 It came as Trump supporters staged similar gatherings around the country, with hundreds of people congregating in Los Angeles, Georgia and elsewhere to celebrate their president and rally for his re-election.
@@ -78,14 +78,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-Trump caravan trucks drive through protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Supporters of Donald Trump met in Clackamas town center on Saturday at 4pm, to drive around Portland
 The convoy numbered around 600 vehicles, with Trump supporters flying flags as they cruised through Portland
 Most were in trucks and cars, but some motorcyclists also came along for the ride - one with his bike decorated with Trump
@@ -93,14 +93,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-Trump caravan trucks drive through protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
 Saturday's rally was intended to follow a route circling around Portland and avoiding the downtown area, but cars diverted 
 Attendees were encouraged to bring their guns, and conceal-carry them, in a video Kyzik posted previewing the event.
@@ -118,14 +118,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 Counter-protesters and Black Lives Matter supporters confronted the Trump supporters in downtown Portland
 Black Lives Matter activists showed their displeasure as the convoy wove its way towards downtown Portland
 Black Lives Matter activists confronted the pro-Trump demonstrators in Clackamas on Saturday
@@ -160,14 +160,14 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Black Panther star Chadwick Boseman dies after battle with cancer
-Trump caravan trucks drive through protesters in Portland
-Impressive duck flies 60mph on the motorway with traffic
-French director colourises footage of a Victorian seaside
 Dozens of caravans parked on field for Wellingborough horse fair
-Windsurfer rescued after telescope user spotted him in difficulty
+Black Panther star Chadwick Boseman dies after battle with cancer
 Private bullet plane revealed Otto Aviation Group LLC
-Revellers enjoy an illegal rave in Banwen Wales
+Girl swept up in the air by kite during Taiwan's festival
+Impressive duck flies 60mph on the motorway with traffic
+Windsurfer rescued after telescope user spotted him in difficulty
+French director colourises footage of a Victorian seaside
+Million People March gathers in Hyde Park
 KENOSHA, WISCONSIN A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 Officers were seen deploying tear gas grenades and using flash bang devices to disperse crowds.
 Videos shared on social media showed some protesters retaliating, with some throwing projectiles at officers or playing loud music. In one clip, one man was seen picking up a tear gas canister and hurling it back at police. 

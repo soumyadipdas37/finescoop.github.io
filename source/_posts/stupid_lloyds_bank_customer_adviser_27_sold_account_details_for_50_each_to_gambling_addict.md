@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/17/32541338-0-image-a-2_1598720187919.jpg 
-title: 'Stupid' Lloyds Bank customer adviser, 27, sold account details for £50 each to gambling addict 
+title: Stupid Lloyds Bank customer adviser, 27, sold account details for £50 each to gambling addict 
 description: Jaspreet Marwaha, from Birmingham, gave the information of more than 80 accounts to Mohammed Saif Maqsood who swiped between £82,000 and £92,000 from them. 
 date: 2020-03-02 
 categories: [latest] 
