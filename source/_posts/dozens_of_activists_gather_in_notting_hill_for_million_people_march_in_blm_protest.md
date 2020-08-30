@@ -19,13 +19,13 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
+Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 The Million People March is protesting against systemic racism and is taking place in lieu of this year&#039;s Notting Hill carnival
 Protesters in Notting Hill in west London for an anti-racism demonstration. The carnival has been cancelled but replaced by demonstrators against systemic racism
@@ -42,13 +42,13 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
+Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Protesters in Notting Hill in west London for an anti-racism demonstration. One of the placards says &#039;White Silence = White Violence&#039;
 Black Lives Matter protesters sit on the road in Notting Hill during the &#039;Million People March&#039; through central London today

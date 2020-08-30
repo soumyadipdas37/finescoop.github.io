@@ -22,11 +22,11 @@ Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
 Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Businesses and pubs in nearby villages have closed their doors while hundreds of travellers enjoy themselves at the site - which features a beer tent, food and disco.
 Police said there had been no reports of any crimes - but footage has emerged on social media appearing to show dancing punters crammed into a tent &#039;like sardines&#039;.

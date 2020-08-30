@@ -28,5 +28,5 @@ Lauren declined to comment at her home in Washington DC, but moments after the i
 Protesters walked through Washington DC on Monday to protest the shooting of Jacob Blake
 &#039;To have a crowd &ndash; with all that energy &ndash; demand that you do this thing. On one level my best guess was no one was going to hurt me but those things turn on a dime.&#039; The crowd were protesting the shooting of Jacob Blake, a black father who was shot seven times in the back in front of his three children in Kenosha, Wisconsin.
 Last night, it emerged a 17-year-old vigilante who allegedly shot dead two men in the city during the subsequent riots may have been &#039;goaded&#039; by one of his victims.
-Kyle Rittenhouse faces murder charges for shooting dead Joseph Rosenbaum, 36, and Anthony Huber, 26, but footage showed Mr Rosenbaum confronting a group of armed militia and shouting &#039;Shoot me, n*****&#039;.
+Kyle Rittenhouse faces murder charges for shooting dead Joseph Rosenbaum, 36, and Anthony Huber, 26, but footage showed Mr Rosenbaum confronting a group of armed militia and shouting &#039;Shoot me, n&#039;.
 It is not known if Rittenhouse was among the men.

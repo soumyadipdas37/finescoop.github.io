@@ -2,17 +2,17 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/11/32562498-0-image-a-149_1598783213570.jpg 
-title: NHS worker under investigation after she claimed coronavirus is &#039;a load of b*****ks&#039; 
+title: NHS worker under investigation after she claimed coronavirus is &#039;a load of bks&#039; 
 description: Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for &#039;making a difference to patients&#039; amid the virus outbreak. 
 date: 2020-03-02 
 categories: [latest] 
 featured: true 
 --- 
-An NHS worker who said she did &#039;f*** all&#039; during the pandemic and claimed coronavirus was a &#039;load of b******s&#039; is now being investigated.&nbsp;&nbsp;
+An NHS worker who said she did &#039;f all&#039; during the pandemic and claimed coronavirus was a &#039;load of bs&#039; is now being investigated.&nbsp;&nbsp;
 Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for &#039;making a difference to patients&#039; amid the virus outbreak.&nbsp;
-In the clip, posted to her Facebook page, she says&nbsp;&#039;I&#039;m an actual NHS worker and apparently I worked really hard during Covid. Did I b*****ks. That&#039;s why it&#039;s a certificate of b*****ks.
-&#039;Our service was dead. We weren&#039;t getting the calls, it was dead. Covid is a load of b*****ks, so this is my certificate of b*****ks.
-&#039;I didn&#039;t clap for the NHS, I didn&#039;t clap for myself. Because why would I clap for myself when I did f*** all?&#039;
+In the clip, posted to her Facebook page, she says&nbsp;&#039;I&#039;m an actual NHS worker and apparently I worked really hard during Covid. Did I bks. That&#039;s why it&#039;s a certificate of bks.
+&#039;Our service was dead. We weren&#039;t getting the calls, it was dead. Covid is a load of bks, so this is my certificate of bks.
+&#039;I didn&#039;t clap for the NHS, I didn&#039;t clap for myself. Because why would I clap for myself when I did f all?&#039;
 Ms Hampton has since posted a selfie while on the way to London to join more than&nbsp;10,000 anti-lockdown protesters who&nbsp;believe coronavirus is a hoax at the &#039;Unite for Freedom&#039; rally on Saturday.
 Care UK employee Louise Hampton recorded a video criticising a certificate she had been given thanking her for &#039;making a difference to patients&#039; amid the virus outbreak
 Ms Hampton has since posted a selfie while on the way to London to join more than 10,000 anti-lockdown protesters who believe coronavirus is a hoax at the &#039;Unite for Freedom&#039; rally on Saturday (pictured&nbsp;&nbsp;Protesters march towards Westminster from Trafalgar Square during a demonstration organised by a group called &#039;Stand Up X&#039;, in London on Saturday)

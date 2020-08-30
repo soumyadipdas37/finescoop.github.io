@@ -18,5 +18,5 @@ The RAF Club in Piccadilly, which counts the Queen as its patron, is also allowi
 But there is some good news for traditionalists in blazers and ties &ndash; sandals, flip-flops and sportswear are still banned.
 He is well-known for being one of the brashest people in showbiz world, but celebrity photographer Rankin now cringes at his past behaviour.&nbsp;
 &#039;I just want to apologise to a lot of people if I was ever offensive to them,&#039; says the man who has snapped everyone from David Bowie to Kate Moss.&nbsp;
-&#039;I&#039;ve been a bit of a d***.&#039;&nbsp;
+&#039;I&#039;ve been a bit of a d.&#039;&nbsp;
 That&#039;s one way of putting it!

@@ -30,7 +30,7 @@ Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 As the convoy of Trump vehicles entered the city center, Trump supporters sitting in the back of pick ups used pepper spray on counter-protesters. Eggs were thrown at their trucks and cars, and the Trump supporters retaliated by turning paintball guns on the crowd, allegedly firing ball bearings.&nbsp;
 A reporter was among those shot by the paintball guns.&nbsp;
@@ -55,42 +55,17 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
-&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Supporters of Donald Trump met in Clackamas town center on Saturday at 4pm, to drive around Portland
 The convoy numbered around 600 vehicles, with Trump supporters flying flags as they cruised through Portland
 Most were in trucks and cars, but some motorcyclists also came along for the ride - one with his bike decorated with Trump
-Bystander films man attempting to rape woman on subway platform
-Shocking moment Russian Su-27 crosses in front of US B-52
-Russian war planes get unnervingly close to American B-52
-Black Panther star Chadwick Boseman dies after battle with cancer
-&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
-Windsurfer rescued after telescope user spotted him in difficulty
-Private bullet plane revealed Otto Aviation Group LLC
-French director colourises footage of a Victorian seaside
-Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
-Cop KICKS man in the BACK as he stands with his hands on his head
-The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
-Saturday&#039;s rally was intended to follow a route circling around Portland and avoiding the downtown area, but cars diverted&nbsp;
-Attendees were encouraged to bring their guns, and conceal-carry them, in a video Kyzik posted previewing the event.
-Some of those at the start, however, were openly flaunting their assault rifles.
-&#039;I know for the most part, everyone here is gonna be pretty civilized. We&#039;re all gonna support the president in safe way,&#039; said Brandon Beck, who was attending his first Trump rally.&nbsp;
-He told&nbsp;Oregon Public Broadcasting &#039;Obviously we&#039;re all gonna be in cars, none of us are gonna be burning, looting, or anything. We&#039;re just trying to have fun and stay safe today.&#039;&nbsp;
-Joe Reminar told the site that he was a veteran of Trump rallies, and Saturday&#039;s was the fifth or sixth he had attended.&nbsp;
-&#039;Today is about freedom and showing that Antifa doesn&#039;t have the full chokehold on Portland and that we&#039;re taxpaying citizens and we don&#039;t want s**t tore up,&#039; he said.
-&#039;We&#039;re gonna be a major parade and showing strength for our president. Which we appreciate all that he&#039;s done, keeping the economy going, fighting China on this virus, keeping us free and saving our Second Amendment.&#039;
-A crowd of Black Lives Matter activists turned up to meet them, waving their placards and engaging in tense confrontations.
-One Trump supporter ripped off his jacket, squaring up for a fight, before he was escorted away by other Trump supporters.
-A Black Lives Matter activist was pepper sprayed in another melee.
-Alex Kyzik, one of the organizers of the Portland rally, said people should not show their guns, but conceal carry was fine
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
@@ -101,7 +76,32 @@ Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
+Hordes of Trump fans drive into Portland and face off with BLM
+Cop KICKS man in the BACK as he stands with his hands on his head
+The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
+Saturday&#039;s rally was intended to follow a route circling around Portland and avoiding the downtown area, but cars diverted&nbsp;
+Attendees were encouraged to bring their guns, and conceal-carry them, in a video Kyzik posted previewing the event.
+Some of those at the start, however, were openly flaunting their assault rifles.
+&#039;I know for the most part, everyone here is gonna be pretty civilized. We&#039;re all gonna support the president in safe way,&#039; said Brandon Beck, who was attending his first Trump rally.&nbsp;
+He told&nbsp;Oregon Public Broadcasting &#039;Obviously we&#039;re all gonna be in cars, none of us are gonna be burning, looting, or anything. We&#039;re just trying to have fun and stay safe today.&#039;&nbsp;
+Joe Reminar told the site that he was a veteran of Trump rallies, and Saturday&#039;s was the fifth or sixth he had attended.&nbsp;
+&#039;Today is about freedom and showing that Antifa doesn&#039;t have the full chokehold on Portland and that we&#039;re taxpaying citizens and we don&#039;t want st tore up,&#039; he said.
+&#039;We&#039;re gonna be a major parade and showing strength for our president. Which we appreciate all that he&#039;s done, keeping the economy going, fighting China on this virus, keeping us free and saving our Second Amendment.&#039;
+A crowd of Black Lives Matter activists turned up to meet them, waving their placards and engaging in tense confrontations.
+One Trump supporter ripped off his jacket, squaring up for a fight, before he was escorted away by other Trump supporters.
+A Black Lives Matter activist was pepper sprayed in another melee.
+Alex Kyzik, one of the organizers of the Portland rally, said people should not show their guns, but conceal carry was fine
+Bystander films man attempting to rape woman on subway platform
+Shocking moment Russian Su-27 crosses in front of US B-52
+Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+Trump caravan trucks drive through protesters in Portland
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+Windsurfer rescued after telescope user spotted him in difficulty
+Private bullet plane revealed Otto Aviation Group LLC
+French director colourises footage of a Victorian seaside
+Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Counter-protesters and Black Lives Matter supporters confronted the Trump supporters in downtown Portland
 Black Lives Matter activists showed their displeasure as the convoy wove its way towards downtown Portland
@@ -138,13 +138,13 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
-&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 KENOSHA, WISCONSIN A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 Officers were seen deploying tear gas grenades and using flash bang devices to disperse crowds.

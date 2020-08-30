@@ -43,7 +43,7 @@ So far this year, 550 migrants have died trying to cross the 300- mile stretch b
 The Louise Michel&#039;s passengers were mainly African men believed to have set off from the Libyan coast in flimsy dinghies &ndash; but also include women and children.
 One of the dinghies carrying the migrants also had a dead body, which was taken on board and then placed on a life raft, covered by a white sheet. The life raft was then attached to the Louise Michel.&nbsp;
 
-Appealing for help, Lea Reisner, head of operations for the Louise Michel, said &#039;The people have sat in a mix of salt water and fuel for days. It is night and European states are not doing their f****** job. They deny responsibility while we are trying to keep everyone alive.&#039;&nbsp;
+Appealing for help, Lea Reisner, head of operations for the Louise Michel, said &#039;The people have sat in a mix of salt water and fuel for days. It is night and European states are not doing their f job. They deny responsibility while we are trying to keep everyone alive.&#039;&nbsp;
 But Alp Mehmet, chairman of campaign group Migration Watch, said &#039;Although Banksy may think what he is doing is helping, his actions are only serving to encourage this evil trade of migrant trafficking.
 These people only care about making money and profit from others&#039; misery.
 &#039;By launching this search and rescue operation in the Mediterranean, traffickers will be able to convince more migrants to attempt the perilous crossing.&#039;&nbsp;

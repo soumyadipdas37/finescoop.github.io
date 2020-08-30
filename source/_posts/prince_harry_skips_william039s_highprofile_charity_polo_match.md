@@ -27,7 +27,7 @@ It comes as the Duke appeared in a new video call to promote his latest project 
 While weddings are restricted to 30 people, there is enough space at the secret venue for this year&#039;s match to allow 48 spectators and still maintain social distancing.
 But that&#039;s well down on the 400 or so celebrities who usually attend, raising fortunes for the brothers&#039; charities such as Tusk Trust and Sentebale.
 The restricted guest list will make the event the hottest ticket in town &ndash; especially as it is never short of drama. At the 2017 competition, held at Andrew Lloyd Webber&#039;s Watership Down estate in Berkshire, bolshie Australian polo player Beau Skerrett labelled Harry a &#039;spoilt brat&#039; after clashing on the field.
-He boasted about giving the fiery Royal a dressing down after telling him to &#039;f*** off in front of a crowd that pay &pound;5,000 to shake his hand&#039;.&nbsp;
+He boasted about giving the fiery Royal a dressing down after telling him to &#039;f off in front of a crowd that pay &pound;5,000 to shake his hand&#039;.&nbsp;
 In contrast, he called William &#039;the perfect gentleman&#039;. One thing&#039;s for sure &ndash; at least with Harry on the other side of the Atlantic, the brothers won&#039;t be the ones throwing choice words at each other.
 Earlier today, Harry said that he &#039;definitely would have been back&#039; to the UK were it not for Covid-19 in a new video released to mark Rugby League&#039;s 125th birthday.&nbsp;
 The Duke joined a virtual call alongside staff and volunteers from the Rugby Football League from his $14million mansion in Santa Barbara where he is currently living with Meghan, 39.&nbsp;
