@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/18/32573406-0-image-a-27_1598809997567.jpg 
 title: Lloyd's of London reopens with temperature scanner and ban on inside dining 
 description: Lloyd's of London will welcome staff back to its grand offices on September 1 with a variety of safety measures in place - including social distancing floor markers and antibacterial misting. 
-date: 2020-08-30-21-10-08 
+date: 2020-08-30-21-11-17 
 categories: [latest] 
 featured: true 
 --- 

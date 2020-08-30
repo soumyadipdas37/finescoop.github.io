@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/26/03/32390236-0-image-a-11_1598408715186.jpg 
 title: How a Sydney wine detective tried to buy Stalin's personal cellar after it was hidden for 60 years 
 description: Two decades ago John Baker got a tip about a mythical wine collection said to have been assembled by the last tsar of Russia, and later fallen into the hands of Soviet dictator Josef Stalin. 
-date: 2020-08-30-21-10-42 
+date: 2020-08-30-21-12-15 
 categories: [latest] 
 featured: true 
 --- 

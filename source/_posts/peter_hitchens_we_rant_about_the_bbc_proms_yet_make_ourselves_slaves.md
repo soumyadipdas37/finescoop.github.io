@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/23/32548696-0-image-a-45_1598740083432.jpg 
 title: PETER HITCHENS We rant about the BBC Proms... yet make ourselves slaves 
 description: PETER HITCHENS Why are arguments about the love of country always held between BBC-type Britain-hating pinkoes, who never think about what patriotism really means? 
-date: 2020-08-30-21-10-50 
+date: 2020-08-30-21-12-24 
 categories: [latest] 
 featured: true 
 --- 

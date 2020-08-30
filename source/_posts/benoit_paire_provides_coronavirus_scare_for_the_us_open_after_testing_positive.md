@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32568942-0-image-a-60_1598799936311.jpg 
 title: Benoit Paire provides coronavirus scare for the US Open after testing positive 
 description: Several of his compatriots, such as Richard Gasquet, were immediately told to confine themselves to their hotel rooms after the test was discovered. 
-date: 2020-08-30-21-10-16 
+date: 2020-08-30-21-11-31 
 categories: [latest] 
 featured: true 
 --- 

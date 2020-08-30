@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32570910-0-image-a-27_1598804218749.jpg 
 title: Moment man 'in Patriot Prayer hat' is shot dead in Portland amid clashes with BLM and Trump fans 
 description: Disturbing video appears to show the moment an unidentified man was gunned down in Portland on Saturday night. Witnesses said the victim had been macing people prior to the shooting. 
-date: 2020-08-30-21-09-53 
+date: 2020-08-30-21-11-06 
 categories: [latest] 
 featured: true 
 --- 

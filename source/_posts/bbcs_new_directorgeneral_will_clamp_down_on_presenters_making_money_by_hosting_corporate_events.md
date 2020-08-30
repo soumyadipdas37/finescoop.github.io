@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/13/32565408-0-image-a-19_1598791197892.jpg 
 title: BBC's new director-general 'will clamp down on presenters making money by hosting corporate events' 
 description: The reported move is thought to be part of Tim Davie's vision of putting impartiality back at the heart of what the BBC does and ensure it is worthy of the £157.50 compulsory licence fee. 
-date: 2020-08-30-21-10-33 
+date: 2020-08-30-21-11-56 
 categories: [latest] 
 featured: true 
 --- 

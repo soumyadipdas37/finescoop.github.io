@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573904-0-image-a-5_1598812885388.jpg 
 title: Wildfire forces over 3,100 to evacuate in Spain's Andalusia 
 description: The blaze started in the mountains near the town of Almonaster la Real, 120 kilometers (75 miles) northwest of the city of Seville and has already scorched 100 square kilometers of land. 
-date: 2020-08-30-21-09-59 
+date: 2020-08-30-21-11-11 
 categories: [latest] 
 featured: true 
 --- 
