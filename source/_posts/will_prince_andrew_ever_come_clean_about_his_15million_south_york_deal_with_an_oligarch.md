@@ -109,15 +109,15 @@ Andrew’s strategy last autumn was to avoid any legal entanglement and, instead
 He even suggested that the incriminating photo of him with his arm round Ms Roberts’s midriff could be a fake. 
 Few were convinced, especially not Ms Roberts, who took to the airwaves to label him ‘an abuser’.
 But the real damage was done in a BBC interview with Emily Maitlis. In it, Andrew admitted he had been a guest of Epstein on many occasions, and had been to his private island and on his private plane, but maintained he never witnessed or suspected anything untoward. 
-Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Russian war planes get unnervingly close to American B-52
 Private bullet plane revealed: Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons

@@ -24,7 +24,7 @@ class Article
             'category'    => $feed['category'],
             'title'       => (string) $this->safeString($item->{$feed['items']['title']}),
             'description' => (string) $this->safeString($item->{$feed['items']['description']}),
-            'body'        => $this->getArticleBody($xpath),
+            'body'        => $this->safeString($this->getArticleBody($xpath)),
             'image'       => $this->getArticleImage($xpath),
         ];
     }

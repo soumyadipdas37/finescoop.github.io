@@ -20,9 +20,10 @@ The woman was reportedly heard screaming and bystanders yelled and shouted at th
 In a clip released by the NYPD, he finally got off her and shrugged as if he'd done nothing wrong, picked up his sunglasses off the ground, and walked away. 
 Police were called to the scene and the assailant ran away.
 The victim suffered minor injuries but refused medical attention.
-The horrific attack took place at the Q train subway station at Lexington Avenue and East 63 Street around 11am on Saturday
 Police are still looking for the suspect, who was last seen wearing sunglasses, a black long sleeve shirt, dark cargo pants and brown shoes. 
-The NYPD is asking for the public's assistance identifying the individual to question him in connection to an attempted rape. 
+The suspect pictured on top of the woman on the floor of the train station Saturday
+The horrific attack took place at the Q train subway station at Lexington Avenue and East 63 Street around 11am on Saturday
+The NYPD is asking for the public's assistance identifying the individual to question him in connection to the attempted rape. 
 New York City has been reeling from a crime wave this year that has forced the police department to increase weekend patrols citywide.
 Officials have linked the rise in crime to the pandemic, a surge in unemployment, civil unrest, and protests. 
 There was a 162 per cent increase in the number of shooting victims and a 166 per cent increase in the number of shooting incidents during the four-week period that ended on August 23 compared to the same period last year, police data shows. 

@@ -24,7 +24,7 @@ A 25-year-old man was arrested for a public order offence at the demonstration o
 David Icke attended yesterday's protest and urged police to 'stop serving the psychopaths' and join those protesting in a speech addressing the cheering crowd. 
 Video from the scene showed organisers label the Government 'terrorists who are waging a war on the people of this country'. 
 One man says: 'This is a political agenda to commit mass genocide on the population. That is their agenda.' 
-Bystander films man attempting to rape woman on subway platform
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
@@ -152,7 +152,7 @@ It goes on to remind the public that it is their responsibility to ensure they a
 ' We all need to continue to do our part to prevent the spread of the virus.'
 The Met published an open letter to organisers of mass demonstrations this weekend urging the public to do their part
 Groups of protesters could be heard asking police why they were wearing masks at the demonstration in London
-Bystander films man attempting to rape woman on subway platform
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
@@ -198,7 +198,7 @@ More than 18,000 anti-coronavirus protesters have descended on Berlin on Saturda
 Police officers moved to break up the demonstration after people refused to socially distance and wear masks
 Here a group is pictured chanting as they take part in the protests against coronavirus restrictions in Berlin
 A demonstrator gestures in front of German riot police during Saturday's demonstration by coronavirus sceptics in Berlin
-Bystander films man attempting to rape woman on subway platform
+Shocking moment Russian Su-27 crosses in front of US B-52
 MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer

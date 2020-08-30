@@ -119,15 +119,15 @@ Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
 Officials confirmed eight boroughs across the North of England, including Trafford, will be released from lockdown next week. Pictured, Altrincham's George Street - Altrincham is a town in the borough of Trafford
 Lancashire’s director of public health Dr Sakthi Karunanithi confirmed the news that Burnley (pictured) and Hyndburn would be removed from lockdown but warned residents that the lifting of additional restrictions 'should not lead to complacency'
-Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
 Windsurfer rescued after telescope user spotted him in difficulty
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
-Russian war planes get unnervingly close to American B-52
 Private bullet plane revealed: Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
+Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
 Boris Johnson and Dr Jenny Harries host back to school Q&A
 Organizer of pro-Trump Portland rally encourages concealed weapons
