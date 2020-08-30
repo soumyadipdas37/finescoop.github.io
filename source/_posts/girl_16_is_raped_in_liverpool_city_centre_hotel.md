@@ -18,7 +18,7 @@ Two men, both 20, were arrested on suspicion of rape and four others were arres
 
 Police rushed to an apartment inside the Uno building on Temple Court, Liverpool at around 4.30am today after the alleged attack took place. Pictured: The scene today
 
-Witnesses reported seeing a number of young men being escorted out of the hotel and put into separate police vans this morning.
+Witnesses reported seeing a number of young men being escorted out of the hotel and put into separate police vans.
 
 The teenager, from Merseyside, is receiving specialist support and forensic examinations were today ongoing at the scene, Merseyside Police said. 
 

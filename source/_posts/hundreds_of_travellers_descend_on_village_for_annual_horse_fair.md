@@ -26,19 +26,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Hundreds of travellers crowded to Wollaston, Northamptonshire, for the annual horse fair despite coronavirus fears
 
@@ -58,19 +58,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Businesses and pubs in nearby villages have closed their doors while hundreds of travellers enjoy themselves at the site - which features a beer tent, food and disco.
 

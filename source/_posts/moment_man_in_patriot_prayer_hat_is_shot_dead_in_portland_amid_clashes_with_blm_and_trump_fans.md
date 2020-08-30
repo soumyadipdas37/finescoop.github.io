@@ -78,19 +78,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Saturday marked the 95th night of unrest in Portland since the police killing of George Floyd in Minneapolis. 
 
@@ -150,19 +150,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Supporters of Donald Trump met in Clackamas town center on Saturday at 4pm, to drive around Portland
 
@@ -180,19 +180,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
 
@@ -230,19 +230,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Counter-protesters and Black Lives Matter supporters confronted the Trump supporters in downtown Portland
 
@@ -314,19 +314,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 KENOSHA, WISCONSIN: A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 

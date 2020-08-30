@@ -52,19 +52,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 The Million People March is protesting against systemic racism and is taking place in lieu of this year's Notting Hill carnival
 
@@ -94,19 +94,19 @@ Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
+Dozens of caravans parked on field for Wellingborough horse fair
+
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
 Trump caravan trucks drive through protesters in Portland
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
 
-Hordes of Trump fans drive into Portland and face off with BLM
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Members of the Nation of Islam take part in the Million People anti-racism march in Notting Hill, west London this afternoon
 
