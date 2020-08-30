@@ -16,15 +16,15 @@ Scroll down for video&nbsp;
 WASHINGTON, DC Chaos erupted outside the White House on Saturday after police officers in riot gear deployed tear gas canisters and fired rubber bullets at protesters as it they moved to disperse crowds&nbsp;
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 Police charge at protesters to move them out of the area. They&rsquo;ve detonated at least 8 stun grenades so far and used chemical irritant. You can see an officer shoving protester to the ground here pic.twitter.com/8NcrrDi6DF
 Protests 2 blocks from White House. Police continue charging at protesters, using what appears to be tear gas, smoke + stun grenades. pic.twitter.com/j8fPp5i4f8
@@ -111,13 +111,13 @@ Meanwhile, Banks theorized that Antifa was behind a lot of the rioting.&nbsp;
 &nbsp;
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head

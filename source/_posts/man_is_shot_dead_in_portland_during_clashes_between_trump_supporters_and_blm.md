@@ -22,15 +22,15 @@ A man was shot and killed in Portland on Saturday night amid deadly clashes betw
 Medics tried unsuccessfully to save the man, who was shot on the corner of Southwest 3rd Avenue and Alder Street
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 As the convoy of Trump vehicles entered the city center, Trump supporters sitting in the back of pick ups used pepper spray on counter-protesters. Eggs were thrown at their trucks and cars, and the Trump supporters retaliated by turning paintball guns on the crowd, allegedly firing ball bearings.&nbsp;
 A reporter was among those shot by the paintball guns.&nbsp;
@@ -53,30 +53,30 @@ A New York Times reporter on the scene estimated that around 1,000 people showed
 Trump supporters were seen driving around and spraying the crowd with what some claimed were ball bearings
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 Supporters of Donald Trump met in Clackamas town center on Saturday at 4pm, to drive around Portland
 The convoy numbered around 600 vehicles, with Trump supporters flying flags as they cruised through Portland
 Most were in trucks and cars, but some motorcyclists also came along for the ride - one with his bike decorated with Trump
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
 Saturday&#039;s rally was intended to follow a route circling around Portland and avoiding the downtown area, but cars diverted&nbsp;
@@ -93,15 +93,15 @@ A Black Lives Matter activist was pepper sprayed in another melee.
 Alex Kyzik, one of the organizers of the Portland rally, said people should not show their guns, but conceal carry was fine
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 Counter-protesters and Black Lives Matter supporters confronted the Trump supporters in downtown Portland
 Black Lives Matter activists showed their displeasure as the convoy wove its way towards downtown Portland
@@ -136,15 +136,15 @@ Scroll down for video&nbsp;
 Police clashed with BLM protesters in Washington, D.C. on Saturday during another night of unrest
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 KENOSHA, WISCONSIN A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 Officers were seen deploying tear gas grenades and using flash bang devices to disperse crowds.

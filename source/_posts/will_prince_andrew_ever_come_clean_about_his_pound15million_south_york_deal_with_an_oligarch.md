@@ -81,15 +81,15 @@ Worryingly, Andrew featured in Epstein&rsquo;s notorious black book of high soci
 There were 16 phone numbers for him, including a Palace one marked ex-directory, one for Balmoral and one for Sandringham, as well as a personal mobile number. There were 18 numbers for Sarah Ferguson.
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 Despite the denials, the story would not go away, and the embers that had been ominously smouldering burst into life again in July last year, when Epstein was re-arrested and charged with sex-trafficking.&nbsp;
 One of the statements read out in court came from Ms Roberts. Another, in a deposition from a Johanna Sjoberg, then 21, accused Andrew of putting his hand on her breast.
@@ -111,15 +111,15 @@ Few were convinced, especially not Ms Roberts, who took to the airwaves to label
 But the real damage was done in a BBC interview with Emily Maitlis. In it, Andrew admitted he had been a guest of Epstein on many occasions, and had been to his private island and on his private plane, but maintained he never witnessed or suspected anything untoward.&nbsp;
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-Trump caravan trucks drive through protesters in Portland
-Black Panther star Chadwick Boseman dies after battle with cancer
-MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
+Black Panther star Chadwick Boseman dies after battle with cancer
+&#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Hordes of Trump fans drive into Portland and face off with BLM
+Anti-lockdown protesters gather in Trafalgar Square
+Police turn up at quarantine breaking house party in Leeds
 Cop KICKS man in the BACK as he stands with his hands on his head
 He said he had no recollection of ever meeting Virginia Roberts, despite the photograph.
 The fallout from the car-crash interview included renewed pressure on Scotland Yard to explain why it had not pursued complaints about Prince Andrew&rsquo;s alleged engagement with Ms Roberts, and specifically the allegation that she had been trafficked to Britain to have sex with Andrew at the home of Ghislaine Maxwell.

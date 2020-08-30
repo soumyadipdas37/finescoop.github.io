@@ -12,11 +12,11 @@ featured: true
 Devout Shiite pilgrims were left covered in blood as they struck themselves with swords and chains during the mourning procession to mark the day of Ashura in the holy city of Najaf.&nbsp;
 Ashura, on the 10th day of the mourning month of Muharram, commemorates the killing of the Prophet Mohammed&#039;s grandson Hussein at the Battle of Karbala in 680 AD - the defining moment of Islam&#039;s confessional schism.
 Typically, millions of Shiites from around the world flock to the golden-domed shrine where Hussein&#039;s remains are buried, to pray and cry, shoulder-to-shoulder. But with coronavirus numbers spiking across the globe, this year&#039;s commemoration is subdued.&nbsp;
-Yesterday some followers took part in a self-flagellation ritual used during the public processions, with small groups of the mourners covered in blood.&nbsp;And today,&nbsp;thousands of tearful pilgrims wearing gloves and face masks flooded Iraq&#039;s holy city of Karbala.
+Some followers took part in a self-flagellation ritual used during the public processions, with small groups of the mourners covered in blood in the city of Najaf.&nbsp;And thousands of tearful pilgrims wearing gloves and face masks flooded Iraq&#039;s holy city of Karbala.
 Shiite Muslim worshippers gather to commemorate the martyrdom of Prophet Mohammad&#039;s grandson Imam Hussein, during the Islamic month of Muharram in Iraq&#039;s holy city of Najaf yesterday
 Iraqi Shi&#039;ite Muslims bleed after hitting their foreheads with swords and beating themselves during a ceremony marking Ashura, the holiest day on the Shi&#039;ite Muslim calendar, amid the spread of the coronavirus disease 
 A Shi&#039;ite Muslim man bleed after hitting his forehead with sword and beating themselves during a ceremony marking Ashura
-
+Iraqi Shi&#039;ite Muslims bleed after hitting their foreheads with swords and beating themselves during a ceremony marking Ashura, the holiest day on the Shi&#039;ite Muslim calendar
 Small clusters of pilgrims gathered in the vast courtyards outside the main mosque in Karbala, wearing the customary mourning colour of black and the new addition of medical masks and gloves.
 Wading through the crowds were teams of shrine employees spraying disinfectant mist through long, thin hoses or distributing masks to any bare-faced visitor.
 To be allowed into the shrine, people must first have their temperatures taken at grey gates that resemble metal detectors.

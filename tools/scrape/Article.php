@@ -92,6 +92,6 @@ class Article
      */
     private function safeString(string $string)
     {
-		return htmlentities(str_replace(':', '', trim($string)), ENT_QUOTES);
+		return htmlentities(str_replace([':', '*'], '', trim($string)), ENT_QUOTES);
     }
 }
