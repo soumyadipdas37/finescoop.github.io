@@ -92,6 +92,6 @@ class Article
      */
     private function safeString(string $string)
     {
-        return str_replace([':', '.'], '', trim($string));
+        return addslashes(str_replace(':', '', trim($string)));
     }
 }

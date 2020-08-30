@@ -2,162 +2,162 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/00/32551052-0-image-a-54_1598745338543.jpg 
-title: Furious business chiefs and MPs slam Rishi Sunak's £30billion tax raid 
-description: Treasury officials are said to be drawing up plans to target the better off, businesses and pensions to plug the gap in the nation's finances 
+title: Furious business chiefs and MPs slam Rishi Sunak\'s £30billion tax raid 
+description: Treasury officials are said to be drawing up plans to target the better off, businesses and pensions to plug the gap in the nation\'s finances. 
 date: 2020-03-02 
 categories: [latest] 
 featured: true 
 --- 
-Furious business chiefs and MPs have slammed the Chancellor's planned £30billion tax raid on the wealthy to help pay for the massive cost of coronavirus 
-Treasury officials are said to be drawing up plans to target the better off, businesses and pensions to plug the gap in the nation's finances
-Capital gains tax and corporation tax would both be raised in proposals reportedly set to play a central part of Rishi Sunak's Budget in November
-The proposals have received short shrift this morning from backbench MPs and business leaders who described the planned tax rises as 'no way to help the UK economy restart'
-Marcus Fysh, MP for Yeovil, said on Twitter 'Tax rises are the wrong response to the current situation and Number 10 @BorisJohnson is right to resist them if the Sunday papers have the story right 
-'We need to help the economy not strangle it These mixed messages are in themselves damaging and must stop'
-And Adam Marshall, Director General at the British Chambers of Commerce tweeted  'Hammering businesses, entrepreneurs & investors w/ big tax rises is no way to help the UK economy restart, rebuild and renew ⁦ @RishiSunak must consider risks to our still-fragile recovery'  
-The Chancellor is specifically understood to be looking at hiking corporation tax from 19 per cent to 24 per cent to raise £12billion next year and £17billion in 2023/24
-Mr Marshall added that any hike in company tax 'may play well to a focus group, but it would be a brake on investment and growth as the Brexit transition ends'
-Chief Secretary to the Treasury Stephen Barclay has refused to be drawn on reports on the tax hikes this morning
-In other developments in Britain's coronavirus crisis 
+Furious business chiefs and MPs have slammed the Chancellor\'s planned £30billion tax raid on the wealthy to help pay for the massive cost of coronavirus. 
+Treasury officials are said to be drawing up plans to target the better off, businesses and pensions to plug the gap in the nation\'s finances.
+Capital gains tax and corporation tax would both be raised in proposals reportedly set to play a central part of Rishi Sunak\'s Budget in November.
+The proposals have received short shrift this morning from backbench MPs and business leaders who described the planned tax rises as \'no way to help the UK economy restart.\'
+Marcus Fysh, MP for Yeovil, said on Twitter \'Tax rises are the wrong response to the current situation and Number 10 @BorisJohnson is right to resist them if the Sunday papers have the story right. 
+\'We need to help the economy not strangle it. These mixed messages are in themselves damaging and must stop.\'
+And Adam Marshall, Director General at the British Chambers of Commerce tweeted  \'Hammering businesses, entrepreneurs & investors w/ big tax rises is no way to help the UK economy restart, rebuild and renew. ⁦ @RishiSunak must consider risks to our still-fragile recovery.\'  
+The Chancellor is specifically understood to be looking at hiking corporation tax from 19 per cent to 24 per cent to raise £12billion next year and £17billion in 2023/24.
+Mr Marshall added that any hike in company tax \'may play well to a focus group, but it would be a brake on investment and growth as the Brexit transition ends.\'
+Chief Secretary to the Treasury Stephen Barclay has refused to be drawn on reports on the tax hikes this morning.
+In other developments in Britain\'s coronavirus crisis 
 The Chancellor is specifically understood to be looking at hiking corporation tax from 19 per cent to 24 per cent to raise £12billion next year and £17billion in 2023/24
 The Office for National Statistics said the UK had been harder hit in the first half of the year than any other G7 economy - with only Spain enduring a worse downturn
- Treasury officials are understood to be currently making plans to 'simplify' UK inheritance tax as the Government attempts to force well-off Britons to finance its Covid bailouts
-Adam Marshall, Director General of the British Chamber of Commerce, sent a number of tweets critical of the Chancellor's plans
+ Treasury officials are understood to be currently making plans to \'simplify\' UK inheritance tax as the Government attempts to force well-off Britons to finance its Covid bailouts
+Adam Marshall, Director General of the British Chamber of Commerce, sent a number of tweets critical of the Chancellor\'s plans
 
 
 Tory MP Marcus Fysh criticised the reports that Rishi Sunak is planning tax rises
-Mr Barclay told Times Radio 'Treasury ministers don't get into what a Budget will or will not do
-'And particularly on tax measures ahead of that, that's for the Chancellor, the Budget'
-Mr Barclay said 'There is always four moving parts to this The key objective within the Treasury is to get growth
-'There is then a balance between the other three moving parts of debt, of spending, spending feeding into that, and tax
-'And what's your trade-off then between your spending measures and your tax measures The real objective is to reduce the economic scarring from Covid' 
-Treasury officials are also said to be looking at slashing billions from pensions tax relief which assists higher-tax payers to save for their retirement 
-Six million furloughed workers broke the rules by doing their jobs from home during lockdown, according to a major report
-Almost two-thirds of the 94 million people whose salaries were paid by the Government worked during April and May, despite businesses being banned from claiming for employees who did so
-Chancellor Rishi Sunak's £30 billion scheme, which pays 80 per cent of salaries for furloughed staff up to a maximum of £2,500 a month, was introduced to save millions of jobs But a study by academics at Oxford, Cambridge and Zurich universities reveals widespread abuse of the furlough system
-Former Cabinet minister Damian Green, who served as then prime minister Theresa May's de facto deputy, said he was wary about any changes to the so-called pensions 'triple lock'
-The lock means the state pension increases each year in line with either wages, inflation or 25%, depending on which of the three figures is highest
-Mr Green told Times Radio 'I would be very wary of the Government going down that route
-'It was a manifesto commitment to keep it I think this raft of things feels like a standard pre-Budget, Treasury kite-flying to see what people will make of this
-'Clearly the Chancellor faces some unpalatable options because he's rightly spent many, many billions of pounds supporting the economy and individual workers over the past few months
-'The other one on that list that I particularly wince at is the thought of breaking the commitment on foreign aid
-'I'm proud of the fact that Britain is one of the few countries that meets its commitment to have a small part, 07% of our GDP, spent on foreign aid and I would certainly want to see that continued' 
-In the proposals second-home owners would also be hit under proposals to require people to pay capital gains tax at the same rate as they pay income tax
-That would involve people who own second homes and buy-to-let properties paying capital gains tax at 40 per cent or 45 per cent as opposed to the current 28 per cent when they sell the properties 
-But the tax moves are likely to spark a furious reaction from businesses still reeling from the impact of the pandemic and from Tory MPs in the party's heartlands 
-Labour's shadow business minister Lucy Powell said they would go down a different route and spend more money now to keep people in work
-Appearing on Sky News, she said 'I think the main focus of the government right now should be ensuring that the hole on the public finances is as small as possible, and how do they do that?
-'It's by making sure that we protect people in work and keep people in jobs today and keep those businesses going today so in the medium term the structural deficit in the economy is as small as possible 
-'As high levels of unemployment that could last for many months and years is what will do the most damage to the public finances and balancing the books so to speak
-'As usual the government's priorities just aren't focused on the task at hand and this is the main worry for businesses at the moment that the government is now looking ahead to the future and almost kind of saying its ok there is going to be really high unemployment and its how we manage that 
-'Where as I think what businesses want to see is the government focusing all of its energy on protecting jobs of today and thats the best thing we could do right now' 
-Mr Sunak is set on unveiling a number of 'soak-the-rich' measures to get control of the public finances, The Sunday Times reported
-A Tory ally told the newspaper 'The political reality is that the only place you can get the money is from the better-off The polling shows this would be popular'
-Family businesses that live off company dividends rather than a salary could also see their taxes rise  
-Meanwhile the Chancellor is said to be conscious of the need to 'address the balance' between online retail giants like Amazon and independent High Street businesses crippled by the Government's Covid-inspired lockdown 
-The Treasury is looking to rectify the perceived unfairness by pressing ahead with an online sales tax
-However, the proposals are opposed by business groups which fear it will leave the UK 'out of kilter' with other countries and deal a hammer blow to Britain's international competitiveness, The Sunday Telegraph reported     
-Last night there were reports that though no decisions had yet been made, No 10 was putting up fierce opposition to the tax-hike plans, with some officials demanding to know why reining in Whitehall departments' spending was not being considered instead
+Mr Barclay told Times Radio \'Treasury ministers don\'t get into what a Budget will or will not do.
+\'And particularly on tax measures ahead of that, that\'s for the Chancellor, the Budget.\'
+Mr Barclay said \'There is always four moving parts to this. The key objective within the Treasury is to get growth.
+\'There is then a balance between the other three moving parts of debt, of spending, spending feeding into that, and tax.
+\'And what\'s your trade-off then between your spending measures and your tax measures. The real objective is to reduce the economic scarring from Covid.\' 
+Treasury officials are also said to be looking at slashing billions from pensions tax relief which assists higher-tax payers to save for their retirement. 
+Six million furloughed workers broke the rules by doing their jobs from home during lockdown, according to a major report.
+Almost two-thirds of the 9.4 million people whose salaries were paid by the Government worked during April and May, despite businesses being banned from claiming for employees who did so.
+Chancellor Rishi Sunak\'s £30 billion scheme, which pays 80 per cent of salaries for furloughed staff up to a maximum of £2,500 a month, was introduced to save millions of jobs. But a study by academics at Oxford, Cambridge and Zurich universities reveals widespread abuse of the furlough system.
+Former Cabinet minister Damian Green, who served as then prime minister Theresa May\'s de facto deputy, said he was wary about any changes to the so-called pensions \'triple lock\'.
+The lock means the state pension increases each year in line with either wages, inflation or 2.5%, depending on which of the three figures is highest.
+Mr Green told Times Radio \'I would be very wary of the Government going down that route.
+\'It was a manifesto commitment to keep it. I think this raft of things... feels like a standard pre-Budget, Treasury kite-flying to see what people will make of this.
+\'Clearly the Chancellor faces some unpalatable options because he\'s rightly spent many, many billions of pounds supporting the economy and individual workers over the past few months.
+\'The other one on that list that I particularly wince at is the thought of breaking the commitment on foreign aid.
+\'I\'m proud of the fact that Britain is one of the few countries that meets its commitment to have a small part, 0.7% of our GDP, spent on foreign aid and I would certainly want to see that continued.\' 
+In the proposals second-home owners would also be hit under proposals to require people to pay capital gains tax at the same rate as they pay income tax.
+That would involve people who own second homes and buy-to-let properties paying capital gains tax at 40 per cent or 45 per cent as opposed to the current 28 per cent when they sell the properties. 
+But the tax moves are likely to spark a furious reaction from businesses still reeling from the impact of the pandemic and from Tory MPs in the party\'s heartlands. 
+Labour\'s shadow business minister Lucy Powell said they would go down a different route and spend more money now to keep people in work.
+Appearing on Sky News, she said \'I think the main focus of the government right now should be ensuring that the hole on the public finances is as small as possible, and how do they do that?
+\'It\'s by making sure that we protect people in work and keep people in jobs today and keep those businesses going today so in the medium term the structural deficit in the economy is as small as possible. 
+\'As high levels of unemployment that could last for many months and years is what will do the most damage to the public finances and balancing the books so to speak.
+\'As usual the government\'s priorities just aren\'t focused on the task at hand and this is the main worry for businesses at the moment that the government is now looking ahead to the future and almost kind of saying its ok there is going to be really high unemployment and its how we manage that. 
+\'Where as I think what businesses want to see is the government focusing all of its energy on protecting jobs of today and thats the best thing we could do right now.\' 
+Mr Sunak is set on unveiling a number of \'soak-the-rich\' measures to get control of the public finances, The Sunday Times reported.
+A Tory ally told the newspaper \'The political reality is that the only place you can get the money is from the better-off. The polling shows this would be popular.\'
+Family businesses that live off company dividends rather than a salary could also see their taxes rise.  
+Meanwhile the Chancellor is said to be conscious of the need to \'address the balance\' between online retail giants like Amazon and independent High Street businesses crippled by the Government\'s Covid-inspired lockdown. 
+The Treasury is looking to rectify the perceived unfairness by pressing ahead with an online sales tax.
+However, the proposals are opposed by business groups which fear it will leave the UK \'out of kilter\' with other countries and deal a hammer blow to Britain\'s international competitiveness, The Sunday Telegraph reported.     
+Last night there were reports that though no decisions had yet been made, No 10 was putting up fierce opposition to the tax-hike plans, with some officials demanding to know why reining in Whitehall departments\' spending was not being considered instead.
 However, Boris Johnson (pictured with Lord Jonathan Marland at the Churchillian Award Dinner while the PM was Mayor of London) has been adamant about not returning to austerity, pledging to create jobs and boost spending on major infrastructure schemes
 
-Earlier this month, Mr Sunak hinted at tax rises to pay for the massive Government borrowing that has helped fund the fightback against the pandemic but which has led to the national debt topping £2trillion for the first time
-Government borrowing of over £150billion in just four months has funded emergency measures – which the Chancellor said had helped support millions of jobs In an interview, he warned that 'difficult decisions' lay ahead 
-He said 'Over the medium term, we must – and we will – get our finances back on a sustainable footing to avoid debt soaring, and we need to be honest with people that this will require difficult decisions  
-'We can't continue to provide this level of support indefinitely, so as the economy reopens and more people can return to work safely, it's right the nature of our support changes'
-However, the Prime Minister has been adamant about not returning to austerity, pledging to create jobs and boost spending on major infrastructure schemes  
+Earlier this month, Mr Sunak hinted at tax rises to pay for the massive Government borrowing that has helped fund the fightback against the pandemic but which has led to the national debt topping £2trillion for the first time.
+Government borrowing of over £150billion in just four months has funded emergency measures – which the Chancellor said had helped support millions of jobs. In an interview, he warned that \'difficult decisions\' lay ahead. 
+He said \'Over the medium term, we must – and we will – get our finances back on a sustainable footing to avoid debt soaring, and we need to be honest with people that this will require difficult decisions.  
+\'We can\'t continue to provide this level of support indefinitely, so as the economy reopens and more people can return to work safely, it\'s right the nature of our support changes.\'
+However, the Prime Minister has been adamant about not returning to austerity, pledging to create jobs and boost spending on major infrastructure schemes.  
 
-Official figures showed GDP grew by 18 per cent in May, although it is still nearly a quarter lower than before the draconian coronavirus restrictions were imposed In this chart 100 represents the size of the economy in 2016
-The UK's debt pile is bigger than GDP for the first time in decades due to the impact of the coronavirus crisis The chart shows that the debt-GDP ratio has been much higher in the past
+Official figures showed GDP grew by 1.8 per cent in May, although it is still nearly a quarter lower than before the draconian coronavirus restrictions were imposed. In this chart 100 represents the size of the economy in 2016
+The UK\'s debt pile is bigger than GDP for the first time in decades due to the impact of the coronavirus crisis. The chart shows that the debt-GDP ratio has been much higher in the past
 Pictured, graph showing debt as a percentage of gross national product from 1994 until 2020
-And last night, senior Tories said Mr Sunak was now resigned to what they admitted were 'soak-the-rich' measures to attempt to regain control of nation's finances 
-One was quoted as saying 'The political reality is that the only place you get the money is from the better-off' Polling has shown this was 'popular', he added 
-However, the Chancellor is also reportedly targeting the foreign aid budget to find extra cash although deep cuts would involve repealing legislation that states that the UK must pay 07 per cent of national income on overseas aid 
-Mr Sunak ordered a review earlier this summer of how to reform capital gains His officials are now understood to be examining plans to 'equalise' capital gains and income tax  
-Responding to the Treasury proposals, Paul Johnson, director of the Institute for Fiscal Studies, told The Sunday Telegraph 'We'll need tax rises eventually but this budget seems unlikely to be the moment when they'll be announced, at least for 2021, because of the uncertainty over the state of the economy
-'Secondly, the scale of the deficit and the respective spending demands are such that tinkering with small tax rises isn't going to cut the mustard in the next four or five years 
-'It's going to have to be real substantive change
-'The trick they need to play in this budget is to get the right level of stimulus as opposed to the reverse, whilst persuading people that they are taking seriously the need to deal with the deficit in the medium run' 
-The OBR's downside scenario sees unemployment rising to more than four million next year - with a rate higher than seen in the 1980s
-Public debt will soar as the UK reels from the coronavirus crisis, according to the watchdog's central scenario By 2023-4 the liabilities will be £660billion higher than forecast in March 
-Output might not return to last year's level until 2025, according to OBR estimates Accounting for inflation, the UK will be 6 per cent poorer in 2025 in the gloomiest outcome
+And last night, senior Tories said Mr Sunak was now resigned to what they admitted were \'soak-the-rich\' measures to attempt to regain control of nation\'s finances. 
+One was quoted as saying \'The political reality is that the only place you get the money is from the better-off.\' Polling has shown this was \'popular\', he added. 
+However, the Chancellor is also reportedly targeting the foreign aid budget to find extra cash although deep cuts would involve repealing legislation that states that the UK must pay 0.7 per cent of national income on overseas aid. 
+Mr Sunak ordered a review earlier this summer of how to reform capital gains. His officials are now understood to be examining plans to \'equalise\' capital gains and income tax.  
+Responding to the Treasury proposals, Paul Johnson, director of the Institute for Fiscal Studies, told The Sunday Telegraph \'We\'ll need tax rises eventually but this budget seems unlikely to be the moment when they\'ll be announced, at least for 2021, because of the uncertainty over the state of the economy.
+\'Secondly, the scale of the deficit and the respective spending demands are such that tinkering with small tax rises isn\'t going to cut the mustard in the next four or five years. 
+\'It\'s going to have to be real substantive change.
+\'The trick they need to play in this budget is to get the right level of stimulus as opposed to the reverse, whilst persuading people that they are taking seriously the need to deal with the deficit in the medium run.\' 
+The OBR\'s downside scenario sees unemployment rising to more than four million next year - with a rate higher than seen in the 1980s
+Public debt will soar as the UK reels from the coronavirus crisis, according to the watchdog\'s central scenario. By 2023-4 the liabilities will be £660billion higher than forecast in March 
+Output might not return to last year\'s level until 2025, according to OBR estimates. Accounting for inflation, the UK will be 6 per cent poorer in 2025 in the gloomiest outcome
 The OBR suggested the national debt will be bigger than the whole economy in all but the most optimistic scenario
 A shocking longer forecast from the OBR suggests that national debt will be more than five times the size of the economy by 2070
 £500billion cost of ghost town Britain Staggering hit to economy in next four years if workers stay away from office, study finds
 By Dan Atkinson, Financial Mail on Sunday 
-Almost half a trillion pounds could be wiped off the UK economy over the next four years if workers fail to return to offices, analysis for The Mail on Sunday shows 
-Douglas McWilliams, the former chief economic adviser to the Confederation of British Industry, warns that if home working continues in its current form the economy will not return to its pre-pandemic size until 2025 That would mean £480billion of lost output, or possibly more 
-Home working has become controversial as firms such as PwC and Schroders unveil flexible working plans that would see most staff never return to the office full-time 
+Almost half a trillion pounds could be wiped off the UK economy over the next four years if workers fail to return to offices, analysis for The Mail on Sunday shows. 
+Douglas McWilliams, the former chief economic adviser to the Confederation of British Industry, warns that if home working continues in its current form the economy will not return to its pre-pandemic size until 2025. That would mean £480billion of lost output, or possibly more. 
+Home working has become controversial as firms such as PwC and Schroders unveil flexible working plans that would see most staff never return to the office full-time. 
 Empty streets Thousands of small businesses rely on urban centres being full of employees spending freely
-Today The Mail on Sunday reveals that giant Government contractor Capita, which employs 45,000 people in the UK and provides key services such as collecting the BBC licence fee, is set to close nearly 100 of its 250 UK offices Staff will work partly from home and partly from a smaller number of local 'hubs' 
-McWilliams said the damage from a permanent shift to home working would be severe because the economic activity generated by commuting and socialising could not be replicated by people working from home 
-Thousands of small businesses – from sandwich bars such as Pret a Manger, which is shedding 2,890 jobs, to pubs, newsagents and dry cleaners – rely on urban centres being full of employees and professionals accustomed to spending freely during lunch breaks, on their journeys to and from work, and in the evening 
-Rail and bus operators will also run up huge losses if there is no return to large-scale commuting While spending by people working from home, for example buying more groceries, would in part make up for loss of trade for bars, restaurants and sandwich counters, it could not compensate for the hit to the vital services sector, McWilliams said 
-Health Secretary Matt Hancock has been slammed for 'scaremongering' talk about a second lockdown that risks 'untold damage' to businesses trying to recover from the first one
-The under-fire Minister told The Times yesterday that England could face nationwide restrictions and very extensive local lockdowns in the event of a second wave of Covid-19 this winter
-In an interview he warned countries in others parts of the world were already experiencing a second wave and claimed it was 'a very serious threat'
-Mr Hancock also hinted that if a vaccine is not ready soon, grandparents would be unable to hug their grandchildren this Christmas
+Today The Mail on Sunday reveals that giant Government contractor Capita, which employs 45,000 people in the UK and provides key services such as collecting the BBC licence fee, is set to close nearly 100 of its 250 UK offices. Staff will work partly from home and partly from a smaller number of local \'hubs\'. 
+McWilliams said the damage from a permanent shift to home working would be severe because the economic activity generated by commuting and socialising could not be replicated by people working from home. 
+Thousands of small businesses – from sandwich bars such as Pret a Manger, which is shedding 2,890 jobs, to pubs, newsagents and dry cleaners – rely on urban centres being full of employees and professionals accustomed to spending freely during lunch breaks, on their journeys to and from work, and in the evening. 
+Rail and bus operators will also run up huge losses if there is no return to large-scale commuting. While spending by people working from home, for example buying more groceries, would in part make up for loss of trade for bars, restaurants and sandwich counters, it could not compensate for the hit to the vital services sector, McWilliams said. 
+Health Secretary Matt Hancock has been slammed for \'scaremongering\' talk about a second lockdown that risks \'untold damage\' to businesses trying to recover from the first one.
+The under-fire Minister told The Times yesterday that England could face nationwide restrictions and very extensive local lockdowns in the event of a second wave of Covid-19 this winter.
+In an interview he warned countries in others parts of the world were already experiencing a second wave and claimed it was \'a very serious threat\'.
+Mr Hancock also hinted that if a vaccine is not ready soon, grandparents would be unable to hug their grandchildren this Christmas.
  
-The British Chambers of Commerce (BCC), which represents 75,000 firms, today warns that Britain is in the 'eye of a storm' that will strike this autumn unless Ministers find a way of getting the economy to function more normally again 
-On Tuesday, the Government will start winding up the job retention scheme, reducing the amount it contributes for furloughed staff from 80 per cent of wages (up to a maximum of £2,500 a month) to 70 per cent (up to a maximum of £2,18750) 
-Meanwhile, the Chancellor's Eat Out to Help Out discount scheme – which has propped up restaurants and pubs during August – will also end tomorrow 
-Writing for The Mail on Sunday, BCC director Adam Marshall calls on Ministers to boost the UK economy by providing clearer workplace safety guidance; tax relief for money spent on making offices Covid-19 secure; a better test and trace system in case staff fall ill; and better access to safe transport and childcare as schools reopen 
-'This sunny summer is the eye of the storm,' Marshall writes 'As autumn approaches, we must shake off this national somnolence The UK has weathered the first leg of a Category Five economic hurricane Yet beyond lies the second leg, which is invariably more destructive, savage and life-changing than the first' 
-Last week, the head of the Confederation of British Industry, Dame Carolyn Fairbairn, warned that city centres would become 'ghost towns' if people failed to return to their places of work 
-McWilliams, who is now deputy chairman of the Centre for Economics and Business Research, stressed that a flat refusal by everyone to return to workplaces was not the consultancy's central forecast, adding 'These predictions are based on nothing changing, but we think it more likely they will' 
-He said a no-change scenario would see gross domestic product, currently just 90 per cent of its 2019 level, creep back to last year's total of £221trillion only by 2025, assuming growth of 2 per cent a year, though the figure could be as low as 1 per cent 
-This week is likely to see the last of the good news in terms of economic statistics for a while On Tuesday, data provider IHS Markit will publish the results of its latest survey of the intentions of purchasing managers in manufacturing, and on Wednesday of those in the services sector 
-Any reading above 50 suggests economic expansion, and signs are that manufacturing will come in at 553 and services at 601 
-Peter Dixon, global strategist at Commerzbank, said 'The problem is what happens to the labour market when the job retention scheme is finally wound up on October 31 
+The British Chambers of Commerce (BCC), which represents 75,000 firms, today warns that Britain is in the \'eye of a storm\' that will strike this autumn unless Ministers find a way of getting the economy to function more normally again. 
+On Tuesday, the Government will start winding up the job retention scheme, reducing the amount it contributes for furloughed staff from 80 per cent of wages (up to a maximum of £2,500 a month) to 70 per cent (up to a maximum of £2,187.50). 
+Meanwhile, the Chancellor\'s Eat Out to Help Out discount scheme – which has propped up restaurants and pubs during August – will also end tomorrow. 
+Writing for The Mail on Sunday, BCC director Adam Marshall calls on Ministers to boost the UK economy by providing clearer workplace safety guidance; tax relief for money spent on making offices Covid-19 secure; a better test and trace system in case staff fall ill; and better access to safe transport and childcare as schools reopen. 
+\'This sunny summer is the eye of the storm,\' Marshall writes. \'As autumn approaches, we must shake off this national somnolence. The UK has weathered the first leg of a Category Five economic hurricane. Yet beyond lies the second leg, which is invariably more destructive, savage and life-changing than the first.\' 
+Last week, the head of the Confederation of British Industry, Dame Carolyn Fairbairn, warned that city centres would become \'ghost towns\' if people failed to return to their places of work. 
+McWilliams, who is now deputy chairman of the Centre for Economics and Business Research, stressed that a flat refusal by everyone to return to workplaces was not the consultancy\'s central forecast, adding \'These predictions are based on nothing changing, but we think it more likely they will.\' 
+He said a no-change scenario would see gross domestic product, currently just 90 per cent of its 2019 level, creep back to last year\'s total of £2.21trillion only by 2025, assuming growth of 2 per cent a year, though the figure could be as low as 1 per cent. 
+This week is likely to see the last of the good news in terms of economic statistics for a while. On Tuesday, data provider IHS Markit will publish the results of its latest survey of the intentions of purchasing managers in manufacturing, and on Wednesday of those in the services sector. 
+Any reading above 50 suggests economic expansion, and signs are that manufacturing will come in at 55.3 and services at 60.1. 
+Peter Dixon, global strategist at Commerzbank, said \'The problem is what happens to the labour market when the job retention scheme is finally wound up on October 31. 
 Driving the economy into recession is killing more people than Covid ever could Risk management expert PHILIP THOMAS says the greatest danger to Britain is our empty shops, offices and factories
 By Philip Thomas for the Daily Mail
-Today, millions remain too frightened to leave their homes, spooked into a hermit-like existence
-Meanwhile, Health Secretary Matt Hancock stokes the flames of fear, raising the prospect of a 'second wave' - for which there is little evidence - while warning of extensive local lockdowns, even over Christmas
-This level of concern is wholly disproportionate because by driving the economy into deep recession, it is killing people more surely than Covid ever could, even if we let it rip
-There is plenty of good news emerging Take the latest figures from the Office for National Statistics (ONS) showing that the death toll has dropped dramatically
-Respected analysts say Britain's Covid infection continues to shrink, that hospitalisation rates have plummeted and that those who do require urgent treatment are mostly making full recoveries
-Pictured A view of Wolverhampton city centre from Queen's Square early in the morning with no traffic and no people walking around
-Yes, lives are at stake but today, the greatest danger is our empty shops, offices and factories And the misery, ill-health and loss of life that are the inevitable consequence of our deep-freeze economy It is essential that we get back to work
-The economy not only binds us together, it keeps us living longer A new analytical method - the Judgement or J-value method - developed at Bristol explains why children born in some poorer, sub-Saharan states will survive to an average age of only 55, while those born in wealthier Japan live three decades longer
+Today, millions remain too frightened to leave their homes, spooked into a hermit-like existence.
+Meanwhile, Health Secretary Matt Hancock stokes the flames of fear, raising the prospect of a \'second wave\' - for which there is little evidence - while warning of extensive local lockdowns, even over Christmas.
+This level of concern is wholly disproportionate because by driving the economy into deep recession, it is killing people more surely than Covid ever could, even if we let it rip.
+There is plenty of good news emerging. Take the latest figures from the Office for National Statistics (ONS) showing that the death toll has dropped dramatically.
+Respected analysts say Britain\'s Covid infection continues to shrink, that hospitalisation rates have plummeted and that those who do require urgent treatment are mostly making full recoveries.
+Pictured A view of Wolverhampton city centre from Queen\'s Square early in the morning with no traffic and no people walking around
+Yes, lives are at stake but today, the greatest danger is our empty shops, offices and factories. And the misery, ill-health and loss of life that are the inevitable consequence of our deep-freeze economy. It is essential that we get back to work.
+The economy not only binds us together, it keeps us living longer. A new analytical method - the Judgement or J-value method - developed at Bristol explains why children born in some poorer, sub-Saharan states will survive to an average age of only 55, while those born in wealthier Japan live three decades longer.
 Philip Thomas (pictured) is Professor of Risk Management at the University of Bristol
-It explains the year-on-year rise in life expectancy in Britain as GDP per head increased over the decades before the 2007-2009 Financial Crash, when GDP per head fell by six per cent It also accounts for the fact that the growth in UK life stalled two years later
-With national debt rising above £2trillion for the first time, the plight of our economy is worse than 2007-2009 This means that thousands of us - now and in the future - will be condemned to a shorter, more miserable existence
-Don't think the coming recession will only affect older people Closing down the economy means people of all ages will die prematurely
-The government is obsessed with keeping the R value (the rate at which the virus spreads) below 10, which means that each infected person will then infect less than one other person and Covid will die away Such a tight rein, however, is incompatible with getting business - and life - up and running properly
-We must change tack and aim for a halfway house, where we accept a controlled spread of Covid-19, of up to an R rate of around 14
-This is the price to be paid avoiding the loss of even more lives to national impoverishment
-But the key is that we now face the consequences of the actions we are taking Pictured stock photo of a store closing
-We now know that Covid-19 represents a very small risk to healthy adults under 40 The risk to teenagers and children is lower still 
-The average age of people succumbing to Covid-19 is 79 years, 7 months
-Only five in 10,000 people in England and Wales are currently infected, so the chances of encountering someone with coronavirus are very low
-Even herd immunity now seems more achievable Antibody tests indicate that between 10 per cent and 16 per cent of London's population is immune
-But, recent results from Sweden's Karolinska Institute suggest twice as many people develop immunity from T-cells as from antibodies
-For London, the crisis may well be over already
-Our laboratories should begin verifying T-cell immunity as a matter of urgency
-But the key is that we now face the consequences of the actions we are taking By failing to reopen the economy, we are killing people 
-Conservatives and Labour are now LEVEL in new opinion poll with just half of voters backing the Government's handling of coronavirus
+It explains the year-on-year rise in life expectancy in Britain as GDP per head increased over the decades before the 2007-2009 Financial Crash, when GDP per head fell by six per cent. It also accounts for the fact that the growth in UK life stalled two years later.
+With national debt rising above £2trillion for the first time, the plight of our economy is worse than 2007-2009. This means that thousands of us - now and in the future - will be condemned to a shorter, more miserable existence.
+Don\'t think the coming recession will only affect older people. Closing down the economy means people of all ages will die prematurely.
+The government is obsessed with keeping the R value (the rate at which the virus spreads) below 1.0, which means that each infected person will then infect less than one other person and Covid will die away. Such a tight rein, however, is incompatible with getting business - and life - up and running properly.
+We must change tack and aim for a halfway house, where we accept a controlled spread of Covid-19, of up to an R rate of around 1.4.
+This is the price to be paid avoiding the loss of even more lives to national impoverishment.
+But the key is that we now face the consequences of the actions we are taking. Pictured stock photo of a store closing
+We now know that Covid-19 represents a very small risk to healthy adults under 40. The risk to teenagers and children is lower still. 
+The average age of people succumbing to Covid-19 is 79 years, 7 months.
+Only five in 10,000 people in England and Wales are currently infected, so the chances of encountering someone with coronavirus are very low.
+Even herd immunity now seems more achievable. Antibody tests indicate that between 10 per cent and 16 per cent of London\'s population is immune.
+But, recent results from Sweden\'s Karolinska Institute suggest twice as many people develop immunity from T-cells as from antibodies.
+For London, the crisis may well be over already.
+Our laboratories should begin verifying T-cell immunity as a matter of urgency.
+But the key is that we now face the consequences of the actions we are taking. By failing to reopen the economy, we are killing people. 
+Conservatives and Labour are now LEVEL in new opinion poll with just half of voters backing the Government\'s handling of coronavirus
 by Jack Wright for MailOnline
-The Conservative Party and Labour are now level in a shock new opinion poll which is likely to set alarm bells off in Boris Johnson's rattled camp 
-The snapshot survey by pollster Opinium puts both political parties on 40 per cent each when it comes to voting intentions
-It marks the first time the Conservatives have not been ahead of Sir Keir Starmer's Labour Party in an Opinium survey for 13 months
-The new poll follows criticism of the Government's handling of the coronavirus crisis, including its failed Test and Trace system and the exams fiasco
-The Conservative Party and Labour are now level in a new opinion poll which is likely to set alarm bells off in Boris Johnson's rattled camp (pictured the Prime Minister meeting veterans on the 75th anniversary of VJ Day in Alrewas, August 15, 2020)
-The snapshot survey by pollster Opinium puts both political parties on 40 per cent each when it comes to voting intentions It marks the first time the Conservatives have not been ahead of Sir Keir Starmer's Labour Party in an Opinium survey for 13 months (credit Opinium)
-Nearly half of voters, 4 per cent, disapprove of the Government's handling of coronavirus, compared to less than a third, 31 per cent, who approve (credit Opinium)
-It comes as MPs prepare to return to Westminster on Tuesday, with furious Conservatives accusing the Government of being rudderless
-Charles Walker, vice-chair of the 1922 Committee of Tory backbenchers, said a string of U-turns had led to despair among the party rank-and-file
-'Too often it looks like this government licks its finger and sticks it in the air to see which way the wind is blowing This is not a sustainable way to approach the business of governing and government,' he told The Observer
-'It is becoming increasingly difficult for backbenchers now to promote and defend government policy as so often that policy is changed or abandoned without notice Whether this approach is by design or by accident, the climate of uncertainty it creates is unsustainable and erodes morale'  
-Nearly half of voters, 4 per cent, disapprove of the Government's handling of coronavirus, compared to less than a third, 31 per cent, who approve
-With English schools reopening next week, 63 per cent of parents with school age children say it is safe for primary schools to do so And 60 per cent back pupils returning to secondary schools, according to the poll
-Adam Drummond of Opinium said 'This is the first time Labour have drawn level since July 2019 when both main parties were in freefall and losing votes to the Brexit party and the Liberal Democrats' (pictured Labour leader Sir Keir Starmer, August 6, 2020)
-Nearly half of voters, 4 per cent, disapprove of the Government's handling of coronavirus, compared to less than a third, 31 per cent, who approve (credit Opinium)
-Boris Johnson's approval rating has gone down since he left hospital in April (credit Opinium)
+The Conservative Party and Labour are now level in a shock new opinion poll which is likely to set alarm bells off in Boris Johnson\'s rattled camp. 
+The snapshot survey by pollster Opinium puts both political parties on 40 per cent each when it comes to voting intentions.
+It marks the first time the Conservatives have not been ahead of Sir Keir Starmer\'s Labour Party in an Opinium survey for 13 months.
+The new poll follows criticism of the Government\'s handling of the coronavirus crisis, including its failed Test and Trace system and the exams fiasco.
+The Conservative Party and Labour are now level in a new opinion poll which is likely to set alarm bells off in Boris Johnson\'s rattled camp (pictured the Prime Minister meeting veterans on the 75th anniversary of VJ Day in Alrewas, August 15, 2020)
+The snapshot survey by pollster Opinium puts both political parties on 40 per cent each when it comes to voting intentions. It marks the first time the Conservatives have not been ahead of Sir Keir Starmer\'s Labour Party in an Opinium survey for 13 months (credit Opinium)
+Nearly half of voters, 4 per cent, disapprove of the Government\'s handling of coronavirus, compared to less than a third, 31 per cent, who approve (credit Opinium)
+It comes as MPs prepare to return to Westminster on Tuesday, with furious Conservatives accusing the Government of being rudderless.
+Charles Walker, vice-chair of the 1922 Committee of Tory backbenchers, said a string of U-turns had led to despair among the party rank-and-file.
+\'Too often it looks like this government licks its finger and sticks it in the air to see which way the wind is blowing. This is not a sustainable way to approach the business of governing and government,\' he told The Observer.
+\'It is becoming increasingly difficult for backbenchers now to promote and defend government policy as so often that policy is changed or abandoned without notice. Whether this approach is by design or by accident, the climate of uncertainty it creates is unsustainable and erodes morale.\'  
+Nearly half of voters, 4 per cent, disapprove of the Government\'s handling of coronavirus, compared to less than a third, 31 per cent, who approve.
+With English schools reopening next week, 63 per cent of parents with school age children say it is safe for primary schools to do so. And 60 per cent back pupils returning to secondary schools, according to the poll.
+Adam Drummond of Opinium said \'This is the first time Labour have drawn level since July 2019 when both main parties were in freefall and losing votes to the Brexit party and the Liberal Democrats\' (pictured Labour leader Sir Keir Starmer, August 6, 2020)
+Nearly half of voters, 4 per cent, disapprove of the Government\'s handling of coronavirus, compared to less than a third, 31 per cent, who approve (credit Opinium)
+Boris Johnson\'s approval rating has gone down since he left hospital in April (credit Opinium)
 Opinium carried out the survey of 2,002 UK adults between August 26-28 (credit Opinium)
-But pupils aged between 14 and 15 appear most concerned about returning to class as 45 per cent of parents with children in this age group say their child is worried, against to 48 per cent who say they are not 
-More than half of adults surveyed, 52 per cent, support making face masks compulsory for children in school, with 22 per cent neither supporting nor opposing, and 19 per cent against such a move
-When it comes to the parents of school age children, 42 per cent back the idea, and 22 per cent oppose it
-The survey has bad news for under-fire Education Secretary Gavin Williamson as 48 per cent disapprove of the way he is handling his job, and 40 per cent say he is most responsible for the recent exam results fiasco 
-Adam Drummond of Opinium said 'This is the first time Labour have drawn level since July 2019 when both main parties were in freefall and losing votes to the Brexit party and the Liberal Democrats
-'Since Boris Johnson became prime minister the Tories typically had a double digit lead, peaking in March/April this year when they were seen to be handling the pandemic and lockdown fairly well while Labour changed leader 
-'In the five months since that peak, the lead has gradually declined from 26 per cent to 0 per cent now'
-Opinium carried out an online survey of 2,002 UK adults between August 26-28  
+But pupils aged between 14 and 15 appear most concerned about returning to class as 45 per cent of parents with children in this age group say their child is worried, against to 48 per cent who say they are not. 
+More than half of adults surveyed, 52 per cent, support making face masks compulsory for children in school, with 22 per cent neither supporting nor opposing, and 19 per cent against such a move.
+When it comes to the parents of school age children, 42 per cent back the idea, and 22 per cent oppose it.
+The survey has bad news for under-fire Education Secretary Gavin Williamson as 48 per cent disapprove of the way he is handling his job, and 40 per cent say he is most responsible for the recent exam results fiasco. 
+Adam Drummond of Opinium said \'This is the first time Labour have drawn level since July 2019 when both main parties were in freefall and losing votes to the Brexit party and the Liberal Democrats.
+\'Since Boris Johnson became prime minister the Tories typically had a double digit lead, peaking in March/April this year when they were seen to be handling the pandemic and lockdown fairly well while Labour changed leader. 
+\'In the five months since that peak, the lead has gradually declined from 26 per cent to 0 per cent now.\'
+Opinium carried out an online survey of 2,002 UK adults between August 26-28.  
