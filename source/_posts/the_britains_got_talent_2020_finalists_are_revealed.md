@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575764-0-image-a-27_1598817182510.jpg 
 title: The Britain's Got Talent 2020 finalists are revealed! 
 description: The final 40 Britain's Got Talent acts have been unveiled, after viewers were forced to wait an unusually lengthy four months to find out who was through to the 2020 semi-finals. 
-date: 2020-08-30-21-11-05 
+date: 2020-08-30-21-12-38 
 categories: [latest] 
 featured: true 
 --- 
@@ -44,11 +44,11 @@ Simon Cowell and David Walliams argue over T-Rex playing keyboard
 
 Gordon Ramsay shows off dance moves as he struts next to car
 
-Aftermath of hotel fire in Spain's Costa del Sol
+Aubameyang Pierre-Emerick straps in Community Shield with seat belt
+
+Cop KICKS man in the BACK as he stands with his hands on his head
 
 Musk's Neuralink venture unveils pig with computer chip in brain
-
-ULA shows off 3D projection of Delta IV Heavy Rocket
 
 Debate: After bickering about keyboard-playing dinosaurs and terrifying contortion acts, the judges called each of the auditionees and told them who'd made the cut [pictured L-R are David Walliams, Alesha Dixon, Amanda Holden and Simon Cowell]
 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573640-0-image-a-5_1598810815642.jpg 
 title: Lewis Hamilton dedicates Belgian GP win to late Black Panther actor Chadwick Boseman 
 description: The esteemed star died this weekend aged just 43 after a tragic, and secretive, battle with colon cancer - and Hamilton has joined a flood of high-profile sports stars to have penned heartfelt respects. 
-date: 2020-08-30-21-11-15 
+date: 2020-08-30-21-12-54 
 categories: [latest] 
 featured: true 
 --- 

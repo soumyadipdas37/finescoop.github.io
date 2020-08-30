@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/13/32564902-0-image-a-2_1598789333645.jpg 
 title: Chief Secretary to Treasury Stephen Barclay says employees SHOULD return to offices next week 
 description: Stephen Barclay this morning said the Government was 'keen' for people to stop working from home where possible. 
-date: 2020-08-30-21-11-44 
+date: 2020-08-30-21-13-25 
 categories: [latest] 
 featured: true 
 --- 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575574-0-image-a-6_1598816550982.jpg 
 title: Jared Kushner visits the Western Wall as he says 'the stage is set' for more Middle East peace 
 description: Jared Kushner visited the Western Wall in Jerusalem on Sunday, where it appeared he had a private time for prayer, after declaring the 'stage is set' for more Middle East peace deals. 
-date: 2020-08-30-21-11-07 
+date: 2020-08-30-21-12-39 
 categories: [latest] 
 featured: true 
 --- 

@@ -26,7 +26,9 @@ class Markdown
         // create markdown
         $markdown = $this->generate($article);
 
-        file_put_contents($location, $markdown);
+				if (!file_exists($location)) {
+						file_put_contents($location, $markdown);
+				}
     }
 
     /**

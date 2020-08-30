@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/15/32568762-0-image-a-23_1598799584352.jpg 
 title: Up to 200 leather-clad sex fetish fans around the world cavort on annual S&M river cruise in Germany 
 description: Typically, 600 passengers would board the 'Torture Ship' in Germany, but no more than 250 people were allowed to take part this year amid the worldwide Covid-19 outbreak. 
-date: 2020-08-30-21-11-46 
+date: 2020-08-30-21-13-28 
 categories: [latest] 
 featured: true 
 --- 

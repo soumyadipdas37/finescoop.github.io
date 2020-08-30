@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/15/32567776-0-image-a-28_1598798211539.jpg 
 title: Prince Harry its impossible to find rugby balls in the US for Archie 
 description: The Duke of Sussex , 35, said he is 'loving' life in the states in a new clip released of a video call with the Rugby Football League. The royal spoke from his $14 million mansion in Santa Barbara. 
-date: 2020-08-30-21-11-13 
+date: 2020-08-30-21-12-52 
 categories: [latest] 
 featured: true 
 --- 

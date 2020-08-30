@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/15/32567990-0-image-a-6_1598797898707.jpg 
 title: Tenant staying in house rent-free amid eviction ban says he will be forced to live 'on the street' 
 description: Emma and Russell Burton, 41,  are living with her parents in France after the tenant at their Merseyside home stopped paying rent and refused to leave. 
-date: 2020-08-30-21-11-33 
+date: 2020-08-30-21-13-14 
 categories: [latest] 
 featured: true 
 --- 

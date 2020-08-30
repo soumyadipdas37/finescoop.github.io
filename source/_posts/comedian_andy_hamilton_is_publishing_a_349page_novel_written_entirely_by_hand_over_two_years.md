@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/13/32563926-0-image-a-2_1598789341616.jpg 
 title: Comedian Andy Hamilton is publishing a 349-page novel written entirely by HAND over two years 
 description: Andy Hamilton (pictured) estimates he handwrote 3,000 pages including the revisions and got through 43 Berol Italic pens. Longhand is due to be released on Thursday. 
-date: 2020-08-30-21-12-00 
+date: 2020-08-30-21-13-45 
 categories: [latest] 
 featured: true 
 --- 

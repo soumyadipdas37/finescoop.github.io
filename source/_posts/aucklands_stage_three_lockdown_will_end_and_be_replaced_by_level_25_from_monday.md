@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/09/32560110-0-image-a-12_1598776231021.jpg 
 title: Auckland's Stage Three lockdown will end and be replaced by 'level 2.5' from Monday 
 description: From 11.59pm on Sunday, restrictions in New Zealand's most populous city will be eased after two-and-a-half weeks to a Stage Two warning, like the rest of the nation. 
-date: 2020-08-30-21-11-37 
+date: 2020-08-30-21-13-17 
 categories: [latest] 
 featured: true 
 --- 
