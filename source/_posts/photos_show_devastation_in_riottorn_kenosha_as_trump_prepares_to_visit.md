@@ -1,10 +1,10 @@
 ---
 extends: _layouts.post
 section: content
-image: https://i.dailymail.co.uk/1s/2020/08/30/19/32574338-0-image-a-70_1598813374994.jpg 
+image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575160-0-image-a-75_1598815519161.jpg 
 title: Photos show devastation in riot-torn Kenosha as Trump prepares to visit 
 description: Stunning images show razed buildings, charred cars and debris-littered streets in Kenosha, Wisconsin, after a week of unrest following the police shooting of Jacob Blake. 
-date: 2020-03-02 
+date: 2020-08-30-19-31-08 
 categories: [latest] 
 featured: true 
 --- 

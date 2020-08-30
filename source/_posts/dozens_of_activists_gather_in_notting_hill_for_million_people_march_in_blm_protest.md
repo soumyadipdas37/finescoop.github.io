@@ -1,10 +1,10 @@
 ---
 extends: _layouts.post
 section: content
-image: https://i.dailymail.co.uk/1s/2020/08/30/14/32566306-0-image-a-181_1598793806284.jpg 
+image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575252-0-image-a-27_1598815460745.jpg 
 title: Dozens of activists gather in Notting Hill for Million People March in BLM protest 
 description: Dozens of Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration. 
-date: 2020-03-02 
+date: 2020-08-30-19-31-08 
 categories: [latest] 
 featured: true 
 --- 
@@ -26,7 +26,9 @@ A woman holds a sign reading 'The UK is not innocent' as hundreds marched from N
 
 Protesters taking part in the Million People March today in Hyde Park after walking from Notting Hill in west London
 
-Numbers on the Million People march started at just a few dozen but swelled to around 300 as demonstrators made their way down Bayswater Road.
+Pictured: Black Lives Matter protesters pass police officers as they march from Notting Hill to Hyde Park this afternoon
+
+ Numbers on the Million People March started at just a few dozen but swelled to around 300 as demonstrators made their way down Bayswater Road.
 
 The march stopped outside Hyde Park and broke into a rendition of Redemption Song by Bob Marley as demonstrators raised their fists.
 
@@ -46,7 +48,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Million People March gathers in Hyde Park
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Bystander films person being shot dead during Portland protests
 
@@ -56,15 +58,15 @@ Dozens of caravans parked on field for Wellingborough horse fair
 
 Russian war planes get unnervingly close to American B-52
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Private bullet plane revealed: Otto Aviation Group LLC
 
-Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Impressive duck flies 60mph on the motorway with traffic
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
+Trump caravan trucks drive through protesters in Portland
 
 The Million People March is protesting against systemic racism and is taking place in lieu of this year's Notting Hill carnival
 
@@ -88,7 +90,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Million People March gathers in Hyde Park
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Bystander films person being shot dead during Portland protests
 
@@ -98,15 +100,15 @@ Dozens of caravans parked on field for Wellingborough horse fair
 
 Russian war planes get unnervingly close to American B-52
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Private bullet plane revealed: Otto Aviation Group LLC
 
-Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Impressive duck flies 60mph on the motorway with traffic
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
+Trump caravan trucks drive through protesters in Portland
 
 Members of the Nation of Islam take part in the Million People anti-racism march in Notting Hill, west London this afternoon
 

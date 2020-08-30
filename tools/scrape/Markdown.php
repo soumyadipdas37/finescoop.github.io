@@ -44,7 +44,7 @@ class Markdown
             "image: {$article['image']} \n" .
             "title: {$article['title']} \n" .
             "description: {$article['description']} \n" .
-            "date: 2020-03-02 \n" .
+            "date: {$article['date']} \n" .
             "categories: [{$article['category']}] \n" .
             "featured: true \n" .
             "--- \n" .

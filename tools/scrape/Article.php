@@ -20,7 +20,7 @@ class Article
         $xpath   = new \DOMXPath($content);
 
         return [
-            'date'        => '2020-03-02',
+            'date'        => date("Y-m-d-H-i-s"),
             'category'    => $feed['category'],
             'title'       => (string) $this->safeString($item->{$feed['items']['title']}),
             'description' => (string) $this->safeString($item->{$feed['items']['description']}),
@@ -61,14 +61,14 @@ class Article
         // Search dom for the article div
         $query = "//*[@itemprop=\"articleBody\"]//p";
         $entry = $xpath->query($query);
-		$html = '';
+				$html = '';
 
-		// Return the article
-		foreach($entry as $p) {
-			$html .= $p->textContent . "\n\n";
-		}
+				// Return the article
+				foreach($entry as $p) {
+					$html .= $p->textContent . "\n\n";
+				}
 
-		return $html;
+				return $html;
     }
 
     /**

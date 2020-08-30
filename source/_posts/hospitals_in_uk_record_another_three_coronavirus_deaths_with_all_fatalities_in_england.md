@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32571302-0-image-a-4_1598805454491.jpg 
 title: Hospitals in UK record another three coronavirus deaths with all fatalities in England 
 description: Another 1,715 people have tested positive for coronavirus today. The last time Britain's daily case load was this high was on June 4, when 1,805 people were diagnosed in just 24 hours. 
-date: 2020-03-02 
+date: 2020-08-30-19-31-16 
 categories: [latest] 
 featured: true 
 --- 

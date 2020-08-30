@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32570910-0-image-a-27_1598804218749.jpg 
 title: Moment man 'in Patriot Prayer hat' is shot dead in Portland amid clashes with BLM and Trump fans 
 description: Disturbing video appears to show the moment an unidentified man was gunned down in Portland on Saturday night. Witnesses said the victim had been macing people prior to the shooting. 
-date: 2020-03-02 
+date: 2020-08-30-19-31-18 
 categories: [latest] 
 featured: true 
 --- 
@@ -72,7 +72,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Million People March gathers in Hyde Park
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Bystander films person being shot dead during Portland protests
 
@@ -82,15 +82,15 @@ Dozens of caravans parked on field for Wellingborough horse fair
 
 Russian war planes get unnervingly close to American B-52
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Private bullet plane revealed: Otto Aviation Group LLC
 
-Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Impressive duck flies 60mph on the motorway with traffic
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
+Trump caravan trucks drive through protesters in Portland
 
 Saturday marked the 95th night of unrest in Portland since the police killing of George Floyd in Minneapolis. 
 
@@ -144,7 +144,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Million People March gathers in Hyde Park
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Bystander films person being shot dead during Portland protests
 
@@ -154,15 +154,15 @@ Dozens of caravans parked on field for Wellingborough horse fair
 
 Russian war planes get unnervingly close to American B-52
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Private bullet plane revealed: Otto Aviation Group LLC
 
-Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Impressive duck flies 60mph on the motorway with traffic
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
+Trump caravan trucks drive through protesters in Portland
 
 Supporters of Donald Trump met in Clackamas town center on Saturday at 4pm, to drive around Portland
 
@@ -174,7 +174,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Million People March gathers in Hyde Park
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Bystander films person being shot dead during Portland protests
 
@@ -184,15 +184,15 @@ Dozens of caravans parked on field for Wellingborough horse fair
 
 Russian war planes get unnervingly close to American B-52
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Private bullet plane revealed: Otto Aviation Group LLC
 
-Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Impressive duck flies 60mph on the motorway with traffic
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
+Trump caravan trucks drive through protesters in Portland
 
 The Portland, Oregon, caravan was organized on Facebook, with 2,500 people intending to attend. Around 1,000 showed up
 
@@ -224,7 +224,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Million People March gathers in Hyde Park
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Bystander films person being shot dead during Portland protests
 
@@ -234,15 +234,15 @@ Dozens of caravans parked on field for Wellingborough horse fair
 
 Russian war planes get unnervingly close to American B-52
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Private bullet plane revealed: Otto Aviation Group LLC
 
-Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Impressive duck flies 60mph on the motorway with traffic
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
+Trump caravan trucks drive through protesters in Portland
 
 Counter-protesters and Black Lives Matter supporters confronted the Trump supporters in downtown Portland
 
@@ -308,7 +308,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Million People March gathers in Hyde Park
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Bystander films person being shot dead during Portland protests
 
@@ -318,15 +318,15 @@ Dozens of caravans parked on field for Wellingborough horse fair
 
 Russian war planes get unnervingly close to American B-52
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Private bullet plane revealed: Otto Aviation Group LLC
 
-Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+LeBron James pays tribute to Black Panther star Chadwick Boseman
 
 Impressive duck flies 60mph on the motorway with traffic
 
-LeBron James pays tribute to Black Panther star Chadwick Boseman
+Trump caravan trucks drive through protesters in Portland
 
 KENOSHA, WISCONSIN: A woman was arrested outside of the Kenosha County Courthouse in defiance of the city-wide curfew
 
