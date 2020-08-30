@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/08/32559676-0-image-a-24_1598774321697.jpg 
 title: Gavin Williamson says keeping children out of school risks 'huge dent in their future life chances' 
 description: In an open letter to parents, Gavin Williamson acknowledged that some may have concerns about their children attending school in England for the first time since March but insisted schools are safe. 
-date: 2020-08-30-21-08-03 
+date: 2020-08-30-21-09-28 
 categories: [latest] 
 featured: true 
 --- 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/14/32564926-0-image-a-10_1598792710963.jpg 
 title: Mass use of hand gels to control Covid risks creating superbug 'armageddon', researchers warn 
 description: Dr Andrew Kemp, of the University of Lincoln, has said that the overuse of alcohol-based hand gels during the pandemic will allow other bacteria and viruses on our hands to adapt and survive gel use 
-date: 2020-08-30-21-07-43 
+date: 2020-08-30-21-08-57 
 categories: [latest] 
 featured: true 
 --- 

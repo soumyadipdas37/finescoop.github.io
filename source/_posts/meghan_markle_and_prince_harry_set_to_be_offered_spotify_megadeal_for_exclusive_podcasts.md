@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/10/32560764-0-image-a-5_1598778198613.jpg 
 title: Meghan Markle and Prince Harry 'set to be offered Spotify megadeal for exclusive podcasts' 
 description: Insiders told The Mirror that the Duchess of Sussex, 39, who is currently living in Santa Barbara, would 'more or less able to name her price' to launch a podcast exclusively on Spotify. 
-date: 2020-08-30-21-08-01 
+date: 2020-08-30-21-09-26 
 categories: [latest] 
 featured: true 
 --- 

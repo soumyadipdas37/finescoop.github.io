@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/04/32526664-0-image-a-16_1598671478335.jpg 
 title: Queensland records 4 new covid-19 cases as top doctor warns people to get checked 
 description: Queensland has recorded four new coronavirus cases overnight with top health officials urging more than three million people to get tested immediately. 
-date: 2020-08-30-21-08-15 
+date: 2020-08-30-21-09-39 
 categories: [latest] 
 featured: true 
 --- 

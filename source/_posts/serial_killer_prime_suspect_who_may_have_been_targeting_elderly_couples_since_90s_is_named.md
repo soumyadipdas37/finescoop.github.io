@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/09/32560618-0-image-a-125_1598777139571.jpg 
 title: Serial killer 'prime suspect' who may have been targeting elderly couples since 90s is NAMED 
 description: A senior coroner's officer published a report claiming there were significant similarities between the deaths of couples across North West England between 1996 and 2011. 
-date: 2020-08-30-21-08-00 
+date: 2020-08-30-21-09-25 
 categories: [latest] 
 featured: true 
 --- 

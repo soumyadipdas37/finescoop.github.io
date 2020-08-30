@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/14/32566470-0-image-a-8_1598794271673.jpg 
 title: Russian Su-27 fighter jet cuts in front of US B-52 bomber in 'unsafe and unprofessional' intercept 
 description: The Pentagon released video of a Russian Su-27 fighter jet veering directly into the path of an American B-52 bomber as it conducted 'routine operations over the Black Sea on Friday morning. 
-date: 2020-08-30-21-07-52 
+date: 2020-08-30-21-09-08 
 categories: [latest] 
 featured: true 
 --- 

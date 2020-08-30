@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/14/32566578-0-image-a-20_1598794188756.jpg 
 title: Man is caught on camera 'attempting to rape' a woman, 25, on NYC subway platform  
 description: A man was caught on video pushing a 25-year-old woman to the ground on an Upper East Side subway platform and attempting to rape her in broad daylight in New York City, police say. 
-date: 2020-08-30-21-07-51 
+date: 2020-08-30-21-09-07 
 categories: [latest] 
 featured: true 
 --- 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/22/32547014-0-image-a-122_1598735247719.jpg 
 title: Top Tory Sir Robbie Gibb launches a TV rival to 'woke wet BBC' 
 description: Sir Robbie Gibb - who was a senior BBC executive before becoming Theresa May's director of communications at No 10 - is spearheading a drive to raise funds for GB News. 
-date: 2020-08-30-21-08-11 
+date: 2020-08-30-21-09-36 
 categories: [latest] 
 featured: true 
 --- 

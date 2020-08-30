@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575252-0-image-a-27_1598815460745.jpg 
 title: Dozens of activists gather in Notting Hill for Million People March in BLM protest 
 description: Dozens of Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration. 
-date: 2020-08-30-21-07-22 
+date: 2020-08-30-21-08-32 
 categories: [latest] 
 featured: true 
 --- 

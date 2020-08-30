@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569202-0-image-a-36_1598800730552.jpg 
 title: Hundreds of travellers descend on village for annual horse fair 
 description: Dozens of caravans were seen parked on a field for the Wellingborough Horse Fair near Wollaston, Northamptonshire. Some of the attendees were also seen dancing together. 
-date: 2020-08-30-21-07-38 
+date: 2020-08-30-21-08-51 
 categories: [latest] 
 featured: true 
 --- 
@@ -30,9 +30,9 @@ Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
-
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
@@ -62,9 +62,9 @@ Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
-
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
