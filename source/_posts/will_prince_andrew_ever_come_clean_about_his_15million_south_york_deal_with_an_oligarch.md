@@ -113,7 +113,7 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Trump caravan trucks drive through protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
-\'Illegal rave\' in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays \'ball bearings\' at BLM protesters in Portland
 Russian war planes get unnervingly close to American B-52
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
