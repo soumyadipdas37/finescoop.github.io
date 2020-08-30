@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/23/32549008-0-image-a-4_1598740761020.jpg 
 title: Final week of Eat Out To Help Out saw restaurant reservations 'double compared to last year' 
 description: The last week of the triumphant Eat Out To Help Out scheme led to a doubling in restaurant reservations compared to the same period last year, Treasury projections suggest. 
-date: 2020-08-30-19-50-29 
+date: 2020-08-30-20-52-20 
 categories: [latest] 
 featured: true 
 --- 

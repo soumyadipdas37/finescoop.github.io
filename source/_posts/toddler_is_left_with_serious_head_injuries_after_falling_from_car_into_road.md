@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/09/32560380-0-image-a-3_1598776416760.jpg 
 title: Toddler is left with serious head injuries after falling from car into road 
 description: Officers were called around 3pm yesterday to reports of an incident at the junction of Eastgate and the exit to Eastgate Retail Park, in Accrington, Lancashire. 
-date: 2020-08-30-19-50-18 
+date: 2020-08-30-20-52-03 
 categories: [latest] 
 featured: true 
 --- 

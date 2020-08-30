@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/24/21/32331784-0-image-a-49_1598300842030.jpg 
 title: How to naturally dye clothes - from the skins of avocados to water used to soak old copper coins 
 description: Online magazine MetDaan Fashion, based in Ireland, has compiled a list of DIY clothes-dyeing hacks that use foods including grape skins for a natural purple dye, and rosemary which turns garments yellow. 
-date: 2020-08-30-19-50-17 
+date: 2020-08-30-20-53-16 
 categories: [latest] 
 featured: true 
 --- 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575160-0-image-a-75_1598815519161.jpg 
 title: Photos show devastation in riot-torn Kenosha as Trump prepares to visit 
 description: Stunning images show razed buildings, charred cars and debris-littered streets in Kenosha, Wisconsin, after a week of unrest following the police shooting of Jacob Blake. 
-date: 2020-08-30-20-51-05 
+date: 2020-08-30-20-52-28 
 categories: [latest] 
 featured: true 
 --- 

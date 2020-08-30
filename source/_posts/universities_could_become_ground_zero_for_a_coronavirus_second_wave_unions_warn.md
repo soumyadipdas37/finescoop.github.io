@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/07/32557780-0-image-a-36_1598768880265.jpg 
 title: Universities could become ground zero for a coronavirus second wave, unions warn 
 description: The movement of an expected one million students around Britain as they return to universities could lead to institutions becoming 'the care homes of any second wave'. 
-date: 2020-08-30-19-50-16 
+date: 2020-08-30-20-53-15 
 categories: [latest] 
 featured: true 
 --- 

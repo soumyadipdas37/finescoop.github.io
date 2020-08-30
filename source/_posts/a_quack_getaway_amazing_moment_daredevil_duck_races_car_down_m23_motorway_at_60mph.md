@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32568872-0-image-a-24_1598799822139.jpg 
 title: A quack getaway! Amazing moment daredevil duck races car down M23 motorway at 60mph  
 description: A duck was seen joining the M23 near Gatwick Airport before dodging a black van and settling into the outside lane of the motorway, keeping pace with the flow of traffic at 60mph. 
-date: 2020-08-30-19-49-52 
+date: 2020-08-30-20-52-54 
 categories: [latest] 
 featured: true 
 --- 

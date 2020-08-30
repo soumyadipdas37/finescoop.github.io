@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/21/32545758-0-image-a-18_1598732717722.jpg 
 title: Extinction Rebellion demonstrations get underway across the country after group promised bedlam 
 description: Multiple demonstrations are getting underway across the country this weekend as environmental campaign group Extinction Rebellion gears up for a new 'uprising'. 
-date: 2020-08-30-19-50-27 
+date: 2020-08-30-20-52-17 
 categories: [latest] 
 featured: true 
 --- 

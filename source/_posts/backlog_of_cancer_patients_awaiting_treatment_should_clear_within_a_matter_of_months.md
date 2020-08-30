@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/00/32521918-0-image-a-20_1598658731729.jpg 
 title: Backlog of cancer patients awaiting treatment should clear 'within a matter of months' 
 description: Matt Hancock admitted that the number of cancer patients waiting longer than 62 days - the standard the Government wants to see -  increased 'substantially' amid lockdown. 
-date: 2020-08-30-19-50-30 
+date: 2020-08-30-20-52-23 
 categories: [latest] 
 featured: true 
 --- 
