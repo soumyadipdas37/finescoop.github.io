@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32567480-0-image-a-9_1598800107352.jpg 
 title: Violent drug cartel is using BOMB-equipped drones to assassinate enemies in Mexico 
 description: A Mexican drug cartel known as the Cártel de Jalisco Nueva Generación (CJNG) has been linked to a number of drone devices equipped with small explosives this year in Tepalcatepec, Michoacan. 
-date: 2020-08-30-19-32-47 
+date: 2020-08-30-19-40-58 
 categories: [latest] 
 featured: true 
 --- 

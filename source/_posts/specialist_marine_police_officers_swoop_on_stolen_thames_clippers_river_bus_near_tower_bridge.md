@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/23/32547388-0-image-a-145_1598740012340.jpg 
 title: Specialist marine police officers swoop on stolen Thames Clippers river bus near Tower Bridge 
 description: EXCLUSIVE Marine support units intercepted the Thames Clippers vessel after police received reports that a man had stolen a river bus from Trinity Buoy Wharf in Poplar, east London. 
-date: 2020-08-30-19-32-31 
+date: 2020-08-30-19-38-03 
 categories: [latest] 
 featured: true 
 --- 

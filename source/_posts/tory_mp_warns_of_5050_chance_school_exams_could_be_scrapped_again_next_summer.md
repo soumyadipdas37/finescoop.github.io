@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/11/32562846-0-image-a-20_1598784504157.jpg 
 title: Tory MP warns of 50/50 chance school exams could be scrapped again next summer 
 description: Robert Halfon, chairman of the education select committee, made the warning as the government faces continued criticism over its handling of exam results  throughout the pandemic. 
-date: 2020-08-30-19-33-15 
+date: 2020-08-30-19-41-19 
 categories: [latest] 
 featured: true 
 --- 

@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/00/32549920-0-image-a-3_1598742801898.jpg 
 title: Rescuers save windsurfer after resident spots him while looking through a telescope from house 
 description: A rescue operation was launched after the eagle-eyed resident, who was at home in Anstruther in Fife, dialled 999 and asked for the Coastguard. 
-date: 2020-08-30-19-32-26 
+date: 2020-08-30-19-38-00 
 categories: [latest] 
 featured: true 
 --- 

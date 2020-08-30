@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/22/32547886-0-image-a-59_1598737540081.jpg 
 title: Kate Middleton praises 'extraordinary' submissions for her community photography project 
 description: Kate Middleton, 38, has praised the 31,000 images submitted to her Hold  Still photography contest as 'extraordinary'. The Duchess of Cambridge joined a judging panel to select the top 100. 
-date: 2020-08-30-19-32-57 
+date: 2020-08-30-19-41-06 
 categories: [latest] 
 featured: true 
 --- 

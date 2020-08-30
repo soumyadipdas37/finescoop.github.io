@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32574796-0-image-a-9_1598814622251.jpg 
 title: RAF Typhoon jets scramble to intercept passenger jet that lands in Stansted after mid-air incident 
 description: Two RAF Typhoon jets were scrambled to escort a passenger jet flying into Stansted airport this evening. The jets were scrambled just after 7pm to fly alongside the plane. 
-date: 2020-08-30-19-32-38 
+date: 2020-08-30-19-41-46 
 categories: [latest] 
 featured: true 
 --- 
@@ -20,7 +20,7 @@ A spokesman for London Stansted Airport confirmed a plane had landed safely on t
 
 The matter is now thought to be in the hands of police.
 
-Both Typhoons circled over the airport several times, before leaving the scene and head towards Cheltenham to be refueled,  before returning to base in RAF Coningsby. 
+Both Typhoons circled over the airport several times, before leaving the scene and head towards Cheltenham to be refueled, before appearing to return towards base at RAF Coningsby.
 
 Flight radars spotted both jets flying down to the Essex airport from their base at RAF Coningsby in Lincolnshire
 

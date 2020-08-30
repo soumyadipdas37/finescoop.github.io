@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32571182-0-image-a-7_1598806327038.jpg 
 title: Brad Pitt, 56, braves the rain in Paris as he leaves hotel without girlfriend Nicole Poturalski, 27 
 description: Brad Pitt braved the Paris rain on Sunday, snapped heading to a waiting car. 
-date: 2020-08-30-19-32-49 
+date: 2020-08-30-19-41-00 
 categories: [latest] 
 featured: true 
 --- 

@@ -4,21 +4,19 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573206-0-image-a-33_1598813640772.jpg 
 title: Experts say US's coronavirus positivity rate is high because tests are 'too sensitive' 
 description: Health experts say COVID-19 testing should be more widespread and adjusted to a lower PCR cycle threshold to rule out people with 'relatively insignificant amounts' of the virus. 
-date: 2020-08-30-19-32-37 
+date: 2020-08-30-19-41-45 
 categories: [latest] 
 featured: true 
 --- 
-The coronavirus death rate may be low compared to high infection rate because standard tests are diagnosing huge numbers of people who may be carrying 'relatively insignificant' amounts of the virus, experts say.
+Up to 90 percent of people tested for COVID-19 in Massachusetts, New York and Nevada in July carried barely any traces of the virus and it could be because today's tests are 'too sensitive', experts say. 
 
-Health experts say PCR testing - the most widely used diagnostic test for COVID-19 in the US - should be adjusted to rule out people who have bare traces of the virus in their systems because they're likely not contagious. 
+Health experts say PCR testing - the most widely used diagnostic test for COVID-19 in the US - are too sensitive and need to be adjusted to rule out people who have insignificant amounts of the virus in their systems because they're likely not contagious. 
 
 Today the PCR test, which provides a yes or no answer if a patient is infected, doesn't say how much of the virus a patient has in their body.
 
 PCR tests analyze genetic matter from the virus in cycles and today's tests typically take 37 or 40 cycles, but experts say this is too high because it detects very small amounts of the virus that don't pose a risk.
 
-Doctors say fewer cycle thresholds, meaning the number of cycles needed to detect the virus, hone in on those with greater amounts of the virus who do pose risks. 
-
-Three sets of testing data that include cycle thresholds from COVID-19 tests compiled by officials in Massachusetts, New York and Nevada found that up to 90 percent of people tested positive carried barely any virus, according to the New York Times.
+Doctors say fewer cycle thresholds, meaning the number of cycles needed to detect the virus, hone in on those with greater amounts of the virus who do pose risks, according to the New York Times. 
 
 The coronavirus death rate may be low compared to high infection rate because standard tests are diagnosing huge numbers of people who may be carrying 'relatively insignificant' amounts of the virus, experts say
 

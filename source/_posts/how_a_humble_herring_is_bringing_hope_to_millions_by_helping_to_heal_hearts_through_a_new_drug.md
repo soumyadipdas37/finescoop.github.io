@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/01/32551788-0-image-a-65_1598747970217.jpg 
 title: How a humble herring is bringing hope to millions by helping to heal hearts through a new drug 
 description: Fresh data reveals that the arteries of those given a twice-daily capsule of Vascepa - a type of highly purified omega-3 fatty acid - became progressively clearer over time. 
-date: 2020-08-30-19-32-30 
+date: 2020-08-30-19-38-02 
 categories: [latest] 
 featured: true 
 --- 

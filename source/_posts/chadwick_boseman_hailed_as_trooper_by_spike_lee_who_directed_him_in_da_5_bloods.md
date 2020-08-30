@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/11/32562352-0-image-a-182_1598783097493.jpg 
 title: Chadwick Boseman hailed as 'trooper' by Spike Lee who directed him in Da 5 Bloods 
 description: Fans were shocked as they learned of the Black Panther star's death at the age of 43 on Friday night, following a secret four-year battle with colon cancer. 
-date: 2020-08-30-19-32-58 
+date: 2020-08-30-19-41-07 
 categories: [latest] 
 featured: true 
 --- 

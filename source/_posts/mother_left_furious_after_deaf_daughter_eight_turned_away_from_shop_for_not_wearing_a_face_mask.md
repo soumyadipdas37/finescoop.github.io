@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573910-0-image-a-36_1598811997167.jpg 
 title: Mother left furious after deaf daughter, eight, 'turned away' from shop for not wearing a face mask 
 description: Julie Muller, 41, and her daughter Sadie-Grace, were stopped at Cotswold Outdoor shop in Newcastle for not wearing a mask, but she is exempt because they communicate through lip reading. 
-date: 2020-08-30-19-32-43 
+date: 2020-08-30-19-41-53 
 categories: [latest] 
 featured: true 
 --- 

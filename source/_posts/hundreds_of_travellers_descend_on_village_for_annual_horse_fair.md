@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32569202-0-image-a-36_1598800730552.jpg 
 title: Hundreds of travellers descend on village for annual horse fair 
 description: Dozens of caravans were seen parked on a field for the Wellingborough Horse Fair near Wollaston, Northamptonshire. Some of the attendees were also seen dancing together. 
-date: 2020-08-30-19-32-53 
+date: 2020-08-30-19-41-03 
 categories: [latest] 
 featured: true 
 --- 
@@ -20,7 +20,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Million People March gathers in Hyde Park
+Black Panther star Chadwick Boseman dies after battle with cancer
 
 Bystander films person being shot dead during Portland protests
 
