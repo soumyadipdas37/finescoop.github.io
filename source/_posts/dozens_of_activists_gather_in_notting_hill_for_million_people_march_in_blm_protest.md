@@ -15,27 +15,30 @@ Despite organisers urging social distancing and mask wearing for the march today
 Dozens of Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration 
 Protesters outside Notting Hill tube station in west London. The Million People March is protesting against systemic racism and is taking place in lieu of this year's Notting Hill carnival
 Protesters are seen lying down outside Notting Hill tube station in west London for a demonstration 
+Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Trump caravan trucks drive through protesters in Portland
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 Black Panther star Chadwick Boseman dies after battle with cancer
-Windsurfer rescued after telescope user spotted him in difficulty
-'Illegal rave' in Banwen South Wales sees crowds dancing in field
+Russian war planes get unnervingly close to American B-52
 Private bullet plane revealed Otto Aviation Group LLC
+Windsurfer rescued after telescope user spotted him in difficulty
 French director colourises footage of a Victorian seaside
 Hordes of Trump fans drive into Portland and face off with BLM
 Kenosha shooting victim seen in video confronting armed men
-Boris Johnson and Dr Jenny Harries host back to school Q&A
-Organizer of pro-Trump Portland rally encourages concealed weapons
+Anti-lockdown protesters gather in Trafalgar Square
 The Million People March is protesting against systemic racism and is taking place in lieu of this year's Notting Hill carnival
 Protesters in Notting Hill in west London for an anti-racism demonstration. The carnival has been cancelled but replaced by demonstrators against systemic racism
 Numbers on the Million People march started at just a few dozen but swelled to around 300 as demonstrators made their way down Bayswater Road.
 The march stopped outside Hyde Park and broke into a rendition of Redemption Song by Bob Marley as demonstrators raised their fists.
 Organisers say the movement plans to push a Race Offenders Register, to prosecute those committing race offences. 
+ Sasha Johnson, activist and co-organiser of the Million People March, said she hoped the movement would 'empower the community'.
+'Our message is listen to us, hear our words. We want sustainable and tangible change,' she said.
+'We don't just want tokenistic promises, we don't want it to come from a hegemonic standpoint. We want it to be for the people.'
 It comes a day after a mass-gathering of Covid-19 conspiracy theorists who took to the streets of London yesterday to demonstrate against lockdown restrictions and vaccination programmes.
 More than 10,000 anti-lockdown protesters who believe coronavirus is a hoax gathered for the 'Unite for Freedom' rally which started at noon in the capital on Saturday. 
 Protesters in Notting Hill in west London for an anti-racism demonstration. One of the placards says 'White Silence = White Violence'
-Black Lives Matter protesters sit on the road in Notting Hill during the "Million People March" through central London today
+Black Lives Matter protesters sit on the road in Notting Hill during the 'Million People March' through central London today
 A group of protesters marching through central London today. Many of the protesters today could be seen wearing masks, but some did not, and social distancing was not always being complied with
 People hold up placards as they take part in the inaugural Million People March march from Notting Hill to Hyde Park in London today
 An anti-racism activist holds a placard as she takes part in a march in London today

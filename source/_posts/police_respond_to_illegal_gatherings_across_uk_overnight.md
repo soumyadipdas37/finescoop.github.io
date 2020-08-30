@@ -3,37 +3,36 @@ extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/13/32564608-0-image-a-24_1598790796856.jpg 
 title: Police respond to illegal gatherings across UK overnight 
-description: The man was hosting a street party in Leeds, West Yorkshire, when he was detained by police and, under the new rules, could face a fine of up to £10,000. 
+description: Up to 3,000 people travelled from across the UK to attend an illegal rave in Banwen, in Neath Port Talbot, with other illegal gatherings taking place all over the UK. 
 date: 2020-03-02 
 categories: [latest] 
 featured: true 
 --- 
-A DJ has become the first person to be arrested and fined for organising as police cracked down on illegal gatherings over the weekend.
+Up to 3,000 people travelled from across the UK to attend an illegal rave in Banwen, in Neath Port Talbot, police have revealed.
+It comes despite new laws targeting organisers of illegal gatherings, with fines of up to £10,000 for those arrested.
+Residents of the village of Banwen say they have been kept awake since 1am when crowds began to gather in a nearby forest, with some saying they felt like 'prisoners in their own home'.
+Meanwhile, a DJ became the first person to be arrested and fined for organising as police cracked down on illegal gatherings over the weekend.
 The man was hosting a street party in Leeds, West Yorkshire, when he was detained by police and, under the new rules, could face a fine of up to £10,000.
 It is unclear how much he has been fined for hosting the illegal party, where five others were also spoken to. 
 Officers were later called out to another house party in the Hyde Park area of the city, where residents around 50 people were flouting social distancing rules. 
 Police shut down several illegal gatherings last night after new lockdown rules were brought in across the UK ahead of the bank holiday weekend.
-Thousands of pounds worth of music equipment was seized by Essex Police ahead of an unlicensed music event and West Midlands Police said they received reports of 90 illegal gatherings. 
-A large rave that started in the early hours of Sunday morning in the village of Banwen in Neath, Port Talbot.
-South Wales Police said up to 3,000 people are thought to have travelled from across the UK to attend an illegal rave in Banwen, in Neath Port Talbot.  
-Residents of the village of Banwen say they have been kept awake since 1am when crowds began to gather in a nearby forest. 
+Thousands of pounds worth of music equipment was seized by Essex Police ahead of an unlicensed music event and West Midlands Police said they received reports of 90 illegal gatherings.  
 West Yorkshire Police said a man was arrested after DJing at a street party on Wepener Mount, Harehills
-Hundreds have left their cars and vans parked illegally, obstructing roads throughout the village.
+In South Wales, hundreds left their cars and vans parked illegally, obstructing roads throughout the village.
 One woman who attended the rave this morning said she'd driven all the way from London to take part.
+She said 'I've come from Lewisham in London and we travelled up following the party line and it's been absolutely bloody fantastic. Met nothing but lovely people here as always.
+'That's the thing about these events, everybody you meet is absolutely splendid and lovely and it's all good vibes. There's nothing bad to be said about these kinds of things to be honest.'
+However, one local said he feels like a 'prisoner' in his own home, as young people are 'obviously under the influence of drink and drugs' and could be seen sleeping on benches in the village early this morning.
 Chief Superintendent Simon Belcher said 'This type of illegal gathering is totally unacceptable and we are aware of the concerns it is causing for the local community.
 'I would like to again remind people of their obligations under the current coronavirus legislation and the overarching goal for everyone to take personal responsibility by following Welsh Government regulations to keep Wales safe.
+Police have broken up gatherings in Wales, Norfolk, Essex and Birmingham and seized thousands of pounds of music equipment
+Police officers arrive to break up a party in the Hyde Park area of Leeds last night as revellers flouted social distancing rules
+Residents of the village of Banwen say they have been kept awake since 1am when crowds began to gather in a nearby forest
 'We have a number of resources in attendance including the police helicopter and roads policing officers.
 'It has been estimated there are up to 3,000 people at the gathering who have apparently travelled from across the UK and we are looking at all pieces of legislation as to what action can be undertaken safely.
 'Unlawfully parked cars will be dealt with and people who continue, despite our advice, to try and attend this illegal event area being turned away.'
 Norfolk Police said officers are at the scene of an unlicensed music event at Thetford forest which started late on Saturday night.
 More than 500 people are in attendance with more than 100 vehicles on site in an isolated area of the forest, near to the English Heritage site Grimes Graves, the force said. 
-Police have broken up gatherings in Wales, Norfolk, Essex and Birmingham and seized thousands of pounds of music equipment
-Police officers arrive to break up a party in the Hyde Park area of Leeds last night as revellers flouted social distancing rules
-Residents of the village of Banwen say they have been kept awake since 1am when crowds began to gather in a nearby forest
-Speaking at the Banwen rave, a reveller said 'I've come from Lewisham in London and we travelled up following the party line and it's been absolutely bloody fantastic. Met nothing but lovely people here as always.
-'That's the thing about these events, everybody you meet is absolutely splendid and lovely and it's all good vibes. There's nothing bad to be said about these kinds of things to be honest.'
-However, one local said he feels like a 'prisoner' in his own home, as young people are 'obviously under the influence of drink and drugs' and could be seen sleeping on benches in the village early this morning.
-South Wales Police have confirmed they are aware of the incident and have been in attendance.
 Assistant Chief Constable Nick Davison, who is leading the Norfolk Police operation, said it was 'extremely disappointing' to see such events taking place amid the pandemic.
 He said 'We've deployed a number of resources to the scene including the drone unit, dogs, the National Police Air Service helicopter and specially-trained public order officers who are experienced in dealing with such events.
 'Following assessments, it's clear this is a well-established and planned event which is due to go on until tomorrow.
