@@ -56,16 +56,13 @@ Video from the scene showed organisers label the Government 'terrorists who are 
 One man says: 'This is a political agenda to commit mass genocide on the population. That is their agenda.' 
 
 
-Bystander films man attempting to rape woman on subway platform
-
-
 Girl swept up in the air by kite during Taiwan's festival
 
 
+Bystander films man attempting to rape woman on subway platform
+
+
 Million People March gathers in Hyde Park
-
-
-Bystander films person being shot dead during Portland protests
 
 
 Shocking moment Russian Su-27 crosses in front of US B-52
@@ -90,6 +87,9 @@ MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 
 Impressive duck flies 60mph on the motorway with traffic
+
+
+Hordes of Trump fans drive into Portland and face off with BLM
 
 
 Jeremy Corbyn's brother Piers was yesterday arrested at a mass-gathering of Covid-19 conspiracy theorists who took to the streets of London to demonstrate against lockdown restrictions and vaccination programmes
@@ -146,16 +146,13 @@ A Union Jack is flown behind a police line at the Unite for Freedom protest outs
 A protester is pushed back by mask-wearing police at the Unite for Freedom protest in Trafalgar Square on Saturday
 
 
-Bystander films man attempting to rape woman on subway platform
-
-
 Girl swept up in the air by kite during Taiwan's festival
 
 
+Bystander films man attempting to rape woman on subway platform
+
+
 Million People March gathers in Hyde Park
-
-
-Bystander films person being shot dead during Portland protests
 
 
 Shocking moment Russian Su-27 crosses in front of US B-52
@@ -180,6 +177,9 @@ MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 
 Impressive duck flies 60mph on the motorway with traffic
+
+
+Hordes of Trump fans drive into Portland and face off with BLM
 
 
 Anti-mask protesters participate in the Unite for Freedom demonstration outside Downing Street on Saturday. Participants are calling for a return to 'normal'
@@ -239,16 +239,13 @@ The demonstration featured speakers and lecturers talking about their campaign t
 The gathering in Trafalgar Square is one of several demonstrations taking place across the world with others in Berlin
 
 
-Bystander films man attempting to rape woman on subway platform
-
-
 Girl swept up in the air by kite during Taiwan's festival
 
 
+Bystander films man attempting to rape woman on subway platform
+
+
 Million People March gathers in Hyde Park
-
-
-Bystander films person being shot dead during Portland protests
 
 
 Shocking moment Russian Su-27 crosses in front of US B-52
@@ -273,6 +270,9 @@ MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 
 Impressive duck flies 60mph on the motorway with traffic
+
+
+Hordes of Trump fans drive into Portland and face off with BLM
 
 
 David Icke is the notorious conspiracy theorist who often makes headlines for his controversial comments.
@@ -440,16 +440,13 @@ The Met published an open letter to organisers of mass demonstrations this weeke
 Groups of protesters could be heard asking police why they were wearing masks at the demonstration in London
 
 
-Bystander films man attempting to rape woman on subway platform
-
-
 Girl swept up in the air by kite during Taiwan's festival
 
 
+Bystander films man attempting to rape woman on subway platform
+
+
 Million People March gathers in Hyde Park
-
-
-Bystander films person being shot dead during Portland protests
 
 
 Shocking moment Russian Su-27 crosses in front of US B-52
@@ -474,6 +471,9 @@ MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 
 Impressive duck flies 60mph on the motorway with traffic
+
+
+Hordes of Trump fans drive into Portland and face off with BLM
 
 
 Anti-mask protesters are seen at the Unite for Freedom protest in Trafalgar Square, London, on Saturday
@@ -578,16 +578,13 @@ Here a group is pictured chanting as they take part in the protests against coro
 A demonstrator gestures in front of German riot police during Saturday's demonstration by coronavirus sceptics in Berlin
 
 
-Bystander films man attempting to rape woman on subway platform
-
-
 Girl swept up in the air by kite during Taiwan's festival
 
 
+Bystander films man attempting to rape woman on subway platform
+
+
 Million People March gathers in Hyde Park
-
-
-Bystander films person being shot dead during Portland protests
 
 
 Shocking moment Russian Su-27 crosses in front of US B-52
@@ -612,6 +609,9 @@ MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 
 Impressive duck flies 60mph on the motorway with traffic
+
+
+Hordes of Trump fans drive into Portland and face off with BLM
 
 
 Thousands gathered around the Victory Column in Berlin as they protested against restrictions. Germany recorded 1,500 new cases yesterday as fears of a second wave of the virus increase

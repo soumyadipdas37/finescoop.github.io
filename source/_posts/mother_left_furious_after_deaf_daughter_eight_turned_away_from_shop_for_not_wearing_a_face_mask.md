@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-image: https://i.dailymail.co.uk/1s/2020/08/30/18/32571876-0-image-a-29_1598807954361.jpg 
+image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573910-0-image-a-36_1598811997167.jpg 
 title: Mother left furious after deaf daughter, eight, 'turned away' from shop for not wearing a face mask 
 description: Julie Muller, 41, and her daughter Sadie-Grace, were stopped at Cotswold Outdoor shop in Newcastle for not wearing a mask, but she is exempt because they communicate through lip reading. 
 date: 2020-03-02 
@@ -29,10 +29,10 @@ But the employee allegedly said they needed 'paper proof' according to The Sun.�
 According to government guidelines 'if you are  providing assistance to someone who relies on lip-reading' then you do not need to wear a face mask in shops.
 
 
-Children under the age of 11 and people with physical or mental illness are also exempt from wearing face coverings.  
-
-
  The mother-of-three was then asked for proof of the disability and showed the worker the hearing implants on her daughter's head
+
+
+Children under the age of 11 and people with physical or mental illness are also exempt from wearing face coverings.  
 
 
 Ms Muller and her daughter were eventually let into the shop after initially being refused, but warned they wouldn't be served without a mask. 
@@ -42,6 +42,9 @@ Cotswold Outdoor claimed the mother and daughter were 'welcomed' inside but conf
 
 
 She has made a complaint and has vowed to 'never set foot' back in the store. 
+
+
+Cotswold Outdoor shop in Newcastle, pictured, claimed the mother and daughter were 'welcomed' inside but confirmed staff couldn't provide 'close-contact services' 
 
 
 Ms Muller added: 'What was heartbreaking was Sadie asked her dad, 'Am I not allowed in the shops because I'm deaf?'

@@ -20,16 +20,13 @@ Around 200 people are expected at the event over the bank holiday weekend despit
 The horse fair has been allowed to go ahead in spite of calls for it be shut down over fears of the spread of Covid-19 and the county being on the verge of local lockdown.
 
 
-Bystander films man attempting to rape woman on subway platform
-
-
 Girl swept up in the air by kite during Taiwan's festival
 
 
+Bystander films man attempting to rape woman on subway platform
+
+
 Million People March gathers in Hyde Park
-
-
-Bystander films person being shot dead during Portland protests
 
 
 Shocking moment Russian Su-27 crosses in front of US B-52
@@ -54,6 +51,9 @@ MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 
 Impressive duck flies 60mph on the motorway with traffic
+
+
+Hordes of Trump fans drive into Portland and face off with BLM
 
 
 Hundreds of travellers crowded to Wollaston, Northamptonshire, for the annual horse fair despite coronavirus fears
@@ -68,16 +68,13 @@ Above are a group enjoying the annual horse fair in the field. Local businesses 
 Locals have raised concerns about coronavirus infections being brought to the area by the show
 
 
-Bystander films man attempting to rape woman on subway platform
-
-
 Girl swept up in the air by kite during Taiwan's festival
 
 
+Bystander films man attempting to rape woman on subway platform
+
+
 Million People March gathers in Hyde Park
-
-
-Bystander films person being shot dead during Portland protests
 
 
 Shocking moment Russian Su-27 crosses in front of US B-52
@@ -102,6 +99,9 @@ MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
 
 
 Impressive duck flies 60mph on the motorway with traffic
+
+
+Hordes of Trump fans drive into Portland and face off with BLM
 
 
 Businesses and pubs in nearby villages have closed their doors while hundreds of travellers enjoy themselves at the site - which features a beer tent, food and disco.
