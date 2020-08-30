@@ -25,12 +25,12 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 
 
@@ -110,12 +110,12 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Officials confirmed eight boroughs across the North of England, including Trafford, will be released from lockdown next week. Pictured, Altrincham&#039;s George Street - Altrincham is a town in the borough of Trafford
 Lancashire&rsquo;s director of public health Dr Sakthi Karunanithi confirmed the news that Burnley (pictured) and Hyndburn would be removed from lockdown but warned residents that the lifting of additional restrictions &#039;should not lead to complacency&#039;
@@ -123,13 +123,13 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
+Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 
 WHAT IS R0?

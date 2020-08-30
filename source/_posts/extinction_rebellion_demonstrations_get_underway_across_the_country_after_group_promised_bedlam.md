@@ -20,13 +20,13 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
-Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
 MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Three women were arrested in Brighton following a day of environmental protests organised by Extinction Rebellion
 The protesters scaled the West Beach cafe on the seafront and were escorted down by specialist officers&nbsp;
@@ -47,8 +47,8 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
-Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside

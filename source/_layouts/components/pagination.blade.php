@@ -2,26 +2,27 @@
 	<nav class="flex text-base my-8 px-2 md:px-0 pagination">
 		@if ($previous = $previousPage)
 			<a
-				href="{{ $page->baseUrl }}/{{ $previous }}"
+				href="{{ $page->baseUrl }}{{ $pagination->first }}"
+				title="First Page"
+				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
+			>first</a>
+			<a
 				title="Previous Page"
 				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
-			>&LeftArrow;</a>
+				href="{{ $page->baseUrl }}{{ $previous }}">&LeftArrow; previous</a>
 		@endif
-
-{{--		@foreach ($pages as $pageNumber => $path)--}}
-{{--			<a--}}
-{{--				href="{{ $page->baseUrl }}/{{ $path }}"--}}
-{{--				title="Go to Page {{ $pageNumber }}"--}}
-{{--				class="bg-gray-200 hover:bg-gray-400 text-blue-700 rounded mr-3 px-5 py-3 {{ $currentPage == $pageNumber ? 'text-blue-600' : '' }}"--}}
-{{--			>{{ $pageNumber }}</a>--}}
-{{--		@endforeach--}}
 
 		@if ($next = $nextPage)
 			<a
 				href="{{ $page->baseUrl }}/{{ $next }}"
 				title="Next Page"
 				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
-			>&RightArrow;</a>
+			>&RightArrow; next</a>
+			<a
+				href="{{ $page->baseUrl }}/{{ $pagination->last }}"
+				title="Last Page"
+				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
+			>&RightArrow;&RightArrow; last</a>
 		@endif
 	</nav>
 @endif

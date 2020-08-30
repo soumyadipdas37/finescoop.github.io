@@ -29,12 +29,12 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Jeremy Corbyn&#039;s brother Piers was yesterday arrested at a mass-gathering of Covid-19 conspiracy theorists who took to the streets of London to demonstrate against lockdown restrictions and vaccination programmes
 The former Labour leader&#039;s older brother was filmed being taken away from Trafalgar Square by a gaggle of mask-wearing police officers who hauled him into a van
@@ -57,14 +57,14 @@ A protester is pushed back by mask-wearing police at the Unite for Freedom prote
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
-Black Panther star Chadwick Boseman dies after battle with cancer
+Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Anti-mask protesters participate in the Unite for Freedom demonstration outside Downing Street on Saturday. Participants are calling for a return to &#039;normal&#039;
 Signs reading &#039;masks are muzzles&#039; and &#039;new normal = new fascism&#039; were brandished by protesters during the demonstration&nbsp;on Saturday
@@ -90,12 +90,12 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 David Icke is the notorious conspiracy theorist who often makes headlines for his controversial comments.
 Born in 1952, the 68-year-old former professional footballer has written more than 20 books and once tried his hand at punditry and sports reporting.
@@ -155,14 +155,14 @@ Groups of protesters could be heard asking police why they were wearing masks at
 Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
-Black Panther star Chadwick Boseman dies after battle with cancer
+Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Anti-mask protesters are seen at the Unite for Freedom protest in Trafalgar Square, London,&nbsp;on Saturday
 Protesters gathered in a bid to urge the Government to ease the lockdown restrictions and abandon their emergency powers
@@ -203,12 +203,12 @@ Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
 Boris Johnson and Dr Jenny Harries host back to school Q&amp;A
-Anti-lockdown protesters gather in Trafalgar Square
-Police turn up at quarantine breaking house party in Leeds
+Hordes of Trump fans drive into Portland and face off with BLM
 Cop KICKS man in the BACK as he stands with his hands on his head
 Thousands gathered around the Victory Column in Berlin as they protested against restrictions. Germany recorded 1,500 new cases yesterday as fears of a second wave of the virus increase
 A demonstrator bellow as supporters through a megaphone as he calls for an end to coronavirus restrictions

@@ -8,8 +8,8 @@ date: 2020-03-02
 categories: [latest] 
 featured: true 
 --- 
-Up to 300 Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration.
-The Million People March is protesting against systemic racism and is taking place in lieu of this year&#039;s Notting Hill carnival. Demonstrators lay down in the road outside Notting Hill tube station, blocking oncoming traffic.&nbsp;
+Around 300 Black Lives Matter protesters marched through the streets of London today and blocked traffic outside Notting Hill tube station by lying down in the road.&nbsp;
+The Million People March is protesting against systemic racism and is taking place in lieu of this year&#039;s Notting Hill carnival.&nbsp;
 Protesters chanted &#039;whose streets, our streets&#039; and &#039;this is what democracy looks like&#039; and held placards as they began moving down to Hyde Park.&nbsp;
 Despite organisers urging social distancing and mask wearing for the march today, a number of demonstrators have been pictured close together or not wearing a face covering.&nbsp;
 Dozens of Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration&nbsp;
@@ -19,8 +19,8 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
-Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
@@ -42,8 +42,8 @@ Bystander films man attempting to rape woman on subway platform
 Shocking moment Russian Su-27 crosses in front of US B-52
 Russian war planes get unnervingly close to American B-52
 Black Panther star Chadwick Boseman dies after battle with cancer
-Trump caravan trucks drive through protesters in Portland
 &#039;Illegal rave&#039; in Banwen South Wales sees crowds dancing in field
+MAGA caravan sprays &#039;ball bearings&#039; at BLM protesters in Portland
 Windsurfer rescued after telescope user spotted him in difficulty
 Private bullet plane revealed Otto Aviation Group LLC
 French director colourises footage of a Victorian seaside
