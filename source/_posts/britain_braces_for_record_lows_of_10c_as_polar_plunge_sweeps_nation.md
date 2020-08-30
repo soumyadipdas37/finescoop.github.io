@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/15/32568296-0-image-a-3_1598798504656.jpg 
 title: Britain braces for record lows of 10C as 'polar plunge' sweeps nation 
 description: Families were seen enjoying beaches and campsites in Dorset despite the dipping temperatures. A 500-mile wide polar front has hit the UK, causing the mercury to plummet. 
-date: 2020-08-30-21-09-07 
+date: 2020-08-30-21-10-28 
 categories: [latest] 
 featured: true 
 --- 
@@ -98,9 +98,9 @@ Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
 
-Dozens of caravans parked on field for Wellingborough horse fair
-
 'Illegal rave' in Banwen South Wales sees crowds dancing in field
+
+Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 

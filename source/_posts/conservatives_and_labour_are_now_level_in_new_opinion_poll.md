@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/02/32552408-0-image-a-95_1598749550406.jpg 
 title: Conservatives and Labour are now LEVEL in new opinion poll 
 description: The snapshot survey marks the first time the Conservatives have not been ahead of Sir Keir Starmer's Labour Party in an Opinium survey for 13 months. 
-date: 2020-08-30-21-09-42 
+date: 2020-08-30-21-10-51 
 categories: [latest] 
 featured: true 
 --- 

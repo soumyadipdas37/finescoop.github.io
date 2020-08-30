@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32573628-0-image-a-2_1598810676792.jpg 
 title: Tens of thousands of protesters gather in capital of Belarus for fourth week of daily demos 
 description: At least 100,000 rallied in Minsk on Sunday to demand the resignation of Lukashenko - the fourth week of protests since his dubious re-election on August 9. 
-date: 2020-08-30-21-08-44 
+date: 2020-08-30-21-10-07 
 categories: [latest] 
 featured: true 
 --- 

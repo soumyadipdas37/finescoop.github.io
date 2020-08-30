@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/18/32573392-0-image-a-3_1598809857913.jpg 
 title: ALL passengers on board TUI flight from Zante to Cardiff are told to self-isolate 
 description: Passengers who were on TUI flight 6215 from Zante to Cardiff on Tuesday are now being considered as 'close contacts' of those who tested positive for COVID-19. 
-date: 2020-08-30-21-08-47 
+date: 2020-08-30-21-10-10 
 categories: [latest] 
 featured: true 
 --- 

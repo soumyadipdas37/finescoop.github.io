@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/08/32558846-0-image-a-10_1598772190061.jpg 
 title: Prince William and Harry 'wouldn't have fallen out' if Princess Diana was alive says bodyguard 
 description: The Duke of Cambridge, 38, and Duke of Sussex, 35, 'wouldn't have fallen out so badly' if Princess Diana was alive, her former protection officer Ken Wharfe told Vanity Fair's Katie Nicholl. 
-date: 2020-08-30-21-09-29 
+date: 2020-08-30-21-10-39 
 categories: [latest] 
 featured: true 
 --- 

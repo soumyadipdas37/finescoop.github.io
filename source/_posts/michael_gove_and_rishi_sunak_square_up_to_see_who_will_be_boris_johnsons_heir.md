@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/29/23/32548324-0-image-a-28_1598738687357.jpg 
 title: Michael Gove and Rishi Sunak square up to see who will be Boris Johnson's heir 
 description: Friends of Michael Gove, the Cabinet Office Minister, say they expect him to run for the party leadership in 2023, despite the formidable threat posed by Chancellor Rishi Sunak. 
-date: 2020-08-30-21-08-59 
+date: 2020-08-30-21-10-21 
 categories: [latest] 
 featured: true 
 --- 

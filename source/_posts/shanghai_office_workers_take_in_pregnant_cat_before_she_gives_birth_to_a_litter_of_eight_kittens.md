@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/24/21/32330346-0-image-a-105_1598300521253.jpg 
 title: Shanghai office workers take in pregnant cat before she gives birth to a litter of eight kittens 
 description: Employees of design consultancy Holmes & Marchant took in the cat after she was seen meowing at people who walked past their building in Shanghai, Bored Panda reported. 
-date: 2020-08-30-21-09-37 
+date: 2020-08-30-21-10-46 
 categories: [latest] 
 featured: true 
 --- 

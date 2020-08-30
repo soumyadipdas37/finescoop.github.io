@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/12/32563558-0-image-a-23_1598785877339.jpg 
 title: Global coronavirus cases hits 25 million as India sets grim record with 78,761 
 description: The US leads the count with 5.9 million cases, according to John Hopkins University, followed by Brazil with 3.8 million and India with 3.5 million. Actual number is thought to be significantly higher. 
-date: 2020-08-30-21-08-59 
+date: 2020-08-30-21-10-20 
 categories: [latest] 
 featured: true 
 --- 

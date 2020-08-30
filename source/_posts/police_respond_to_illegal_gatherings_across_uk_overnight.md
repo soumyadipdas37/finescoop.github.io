@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/13/32564608-0-image-a-24_1598790796856.jpg 
 title: Police respond to illegal gatherings across UK overnight 
 description: Up to 3,000 people travelled from across the UK to attend an illegal rave in Banwen, in Neath Port Talbot, with other illegal gatherings taking place all over the UK. 
-date: 2020-08-30-21-09-04 
+date: 2020-08-30-21-10-24 
 categories: [latest] 
 featured: true 
 --- 

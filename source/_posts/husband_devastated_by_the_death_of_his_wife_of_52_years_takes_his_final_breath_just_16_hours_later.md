@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/16/32568826-0-image-a-64_1598800115233.jpg 
 title: Husband devastated by the death of his wife of 52 years takes his final breath just 16 hours later 
 description: Paul Worsley suffered a fatal heart attack the day after he said goodbye to his wife of 52 years, Delma, when she died from complications following surgery in New Zealand. 
-date: 2020-08-30-21-09-00 
+date: 2020-08-30-21-10-21 
 categories: [latest] 
 featured: true 
 --- 

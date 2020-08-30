@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575252-0-image-a-27_1598815460745.jpg 
 title: Dozens of activists gather in Notting Hill for Million People March in BLM protest 
 description: Dozens of Black Lives Matter protesters have gathered outside Notting Hill tube station in west London for a demonstration. 
-date: 2020-08-30-21-08-32 
+date: 2020-08-30-21-09-55 
 categories: [latest] 
 featured: true 
 --- 
@@ -48,9 +48,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Thousands evacuated as wildfire ravages Andalusia
-
-Million People March gathers in Hyde Park
+Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
@@ -60,9 +58,11 @@ Russian war planes get unnervingly close to American B-52
 
 Dozens of caravans parked on field for Wellingborough horse fair
 
-'Illegal rave' in Banwen South Wales sees crowds dancing in field
-
 Private bullet plane revealed: Otto Aviation Group LLC
+
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+Trump caravan trucks drive through protesters in Portland
 
 Impressive duck flies 60mph on the motorway with traffic
 
@@ -90,9 +90,7 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Thousands evacuated as wildfire ravages Andalusia
-
-Million People March gathers in Hyde Park
+Bystander films person being shot dead during Portland protests
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
@@ -102,9 +100,11 @@ Russian war planes get unnervingly close to American B-52
 
 Dozens of caravans parked on field for Wellingborough horse fair
 
-'Illegal rave' in Banwen South Wales sees crowds dancing in field
-
 Private bullet plane revealed: Otto Aviation Group LLC
+
+MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
+
+Trump caravan trucks drive through protesters in Portland
 
 Impressive duck flies 60mph on the motorway with traffic
 

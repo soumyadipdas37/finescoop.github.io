@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/19/32574392-0-image-a-19_1598813343964.jpg 
 title: Couple celebrates 60th anniversary with a photo shoot in their original wedding attire in Nebraska 
 description: Marvin and Lucille Stone celebrated their 60th anniversary by putting on their original wedding attire and posing for a special photo shoot in Kearney, Nebraska. The wedding dress was handcrafted. 
-date: 2020-08-30-21-08-36 
+date: 2020-08-30-21-10-01 
 categories: [latest] 
 featured: true 
 --- 

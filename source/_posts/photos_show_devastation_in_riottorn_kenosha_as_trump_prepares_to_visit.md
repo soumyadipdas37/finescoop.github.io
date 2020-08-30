@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575160-0-image-a-75_1598815519161.jpg 
 title: Photos show devastation in riot-torn Kenosha as Trump prepares to visit 
 description: Stunning images show razed buildings, charred cars and debris-littered streets in Kenosha, Wisconsin, after a week of unrest following the police shooting of Jacob Blake. 
-date: 2020-08-30-21-08-30 
+date: 2020-08-30-21-09-51 
 categories: [latest] 
 featured: true 
 --- 
@@ -144,7 +144,9 @@ Girl swept up in the air by kite during Taiwan's festival
 
 Bystander films man attempting to rape woman on subway platform
 
-Bystander films person being shot dead during Portland protests
+Thousands evacuated as wildfire ravages Andalusia
+
+Million People March gathers in Hyde Park
 
 Shocking moment Russian Su-27 crosses in front of US B-52
 
@@ -152,15 +154,13 @@ Black Panther star Chadwick Boseman dies after battle with cancer
 
 Russian war planes get unnervingly close to American B-52
 
+'Illegal rave' in Banwen South Wales sees crowds dancing in field
+
 Dozens of caravans parked on field for Wellingborough horse fair
 
 Private bullet plane revealed: Otto Aviation Group LLC
 
-MAGA caravan sprays 'ball bearings' at BLM protesters in Portland
-
 Impressive duck flies 60mph on the motorway with traffic
-
-Trump caravan trucks drive through protesters in Portland
 
 LeBron James pays tribute to Black Panther star Chadwick Boseman
 

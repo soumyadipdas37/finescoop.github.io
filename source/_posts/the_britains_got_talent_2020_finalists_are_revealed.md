@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/20/32575764-0-image-a-27_1598817182510.jpg 
 title: The Britain's Got Talent 2020 finalists are revealed! 
 description: The final 40 Britain's Got Talent acts have been unveiled, after viewers were forced to wait an unusually lengthy four months to find out who was through to the 2020 semi-finals. 
-date: 2020-08-30-21-08-29 
+date: 2020-08-30-21-09-52 
 categories: [latest] 
 featured: true 
 --- 

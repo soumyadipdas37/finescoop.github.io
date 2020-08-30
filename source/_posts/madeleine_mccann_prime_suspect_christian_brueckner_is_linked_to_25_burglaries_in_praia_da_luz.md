@@ -4,7 +4,7 @@ section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32571180-0-image-a-6_1598805070582.jpg 
 title: Madeleine McCann prime suspect Christian Brueckner 'is linked to 25 burglaries' in Praia da Luz 
 description: Christian Brueckner, the prime suspect in the disappearance of Madeleine McCann, was linked to more than two dozen burglaries on holiday homes in the resort of Praia da Luz. 
-date: 2020-08-30-21-08-52 
+date: 2020-08-30-21-10-15 
 categories: [latest] 
 featured: true 
 --- 
