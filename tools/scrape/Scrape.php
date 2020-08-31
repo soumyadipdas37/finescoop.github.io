@@ -92,10 +92,9 @@ class Scrape
 
 												$this->markdown->save($article);
 										}
+										$output = shell_exec('git add .; git commit -m \'articles\'; git push origin HEAD');
 								}
             }
-
-            $output = shell_exec('git add .; git commit -m \'articles\'; git push origin HEAD');
 				}
 
     }
