@@ -2,6 +2,7 @@
 
 namespace Tools\Scrape;
 
+use function array_push;
 use function get_class;
 use function get_resource_type;
 use function simplexml_load_file;
@@ -73,16 +74,18 @@ class Scrape
             		// loop through each website's RSS feed
 								foreach($feed['uri'] as $url) {
 										// Get the rss feed
-										$rss = simplexml_load_file($url);
+										$rss = simplexml_load_file($url['link']);
 
 										foreach ($rss->{$feed['items']['channel']}
 																 ->{$feed['items']['item']}
 														 as $item) {
 
 												// So I know what article I am on
-												print "Generating article: " . trim($item->{$feed['items']['title']}) . "\n";
+												print "[{$url['category']}] Generating article: " . trim($item->{$feed['items']['title']}) . "\n";
 
-												exit(var_dump($feed));
+												// Add the category to the feed
+												$feed['category'] = $url['category'];
+
 												// Build the article array
 												$article = $this->article->build($item, $feed);
 
