@@ -5,12 +5,14 @@
 				href="{{ $page->baseUrl }}{{ $pagination->first }}"
 				title="First Page"
 				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
-			>&LeftArrow;&LeftArrow; first</a>
+			>&LeftArrow; &LeftArrow; first</a>
 			<a
 				title="Previous Page"
 				class="bg-gray-200 hover:bg-gray-400 rounded mr-3 px-5 py-3"
 				href="{{ $page->baseUrl }}{{ $previous }}">&LeftArrow; previous</a>
 		@endif
+
+		<span>Page {{ $pagination->first }} / {{ $pagination->last }}</span>
 
 		@if ($next = $nextPage)
 			<a
