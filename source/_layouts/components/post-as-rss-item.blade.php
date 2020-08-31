@@ -2,13 +2,11 @@
     <id>{{ $entry->getUrl() }}</id>
     <link type="text/html" rel="alternate" href="{{ $entry->getUrl() }}" />
     <title>{{ $entry->title }}</title>
-
-    <?php
+    <?ph
         $time = DateTime::createFromFormat('Y-m-d-H-i-s', $entry->date);
     ?>
-
-    <published>{{ date(DATE_ATOM, $time) }}</published>
-    <updated>{{ date(DATE_ATOM, $time) }}</updated>
+    <published>{{ $time->format(DateTime::ATM) }}</published>
+    <updated>{{ $time->format(DateTime::ATOM) }}</updated>
     <author>
         <name>{{ $entry->author }}</name>
     </author>
