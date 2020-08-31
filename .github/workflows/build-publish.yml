@@ -10,10 +10,8 @@ jobs:
             -   uses: actions/checkout@v2
             -   name: Install Composer Dependencies
                 run: composer install --no-ansi --no-interaction --no-scripts --no-suggest --no-progress --prefer-dist
-            -   name: delete cache
-                run: rm -rf node_modules && npm cache clear
             -   name: Install NPM Dependencies
-                run: npm install
+                run: npm install --cache /tmp/empty-cache
             -   name: Build Site
                 run: npm run production
             -   name: Create CNAME File
