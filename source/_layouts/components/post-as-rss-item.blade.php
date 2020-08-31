@@ -1,8 +1,8 @@
 <entry>
     <id>{{ $entry->getUrl() }}</id>
     <link type="text/html" rel="alternate" href="{{ $entry->getUrl() }}" />
-    <title>{{ $entry->title }}</title>
-    <?ph
+    <title>{{ $entry->title }}</title>p
+    <?php
         $time = DateTime::createFromFormat('Y-m-d-H-i-s', $entry->date);
     ?>
     <published>{{ $time->format(DateTime::ATM) }}</published>
