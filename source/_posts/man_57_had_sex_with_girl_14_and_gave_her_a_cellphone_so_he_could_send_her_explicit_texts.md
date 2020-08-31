@@ -8,14 +8,6 @@ date: 2020-08-31-20-13-15
 categories: [latest, world] 
 featured: true 
 --- 
-By Daily Mail Reporter 
-
- Published:  21:12, 30 October 2012   |  Updated:  00:13, 31 October 2012   
-
- 2
-
-View  comments
-
 Francisco Alcala gave his 14-year-old victim a cell phone
 
 A 57-year-old man is accused of having a sexual relationship with a 14-year-old girl, which was discovered after her father found 'questionable' text messages on a strange cell phone. 

@@ -8,14 +8,6 @@ date: 2020-08-31-20-13-07
 categories: [latest, world] 
 featured: true 
 --- 
-By Daily Mail Reporter 
-
- Published:  23:12, 2 November 2012   |  Updated:  23:51, 2 November 2012   
-
- 87
-
-View  comments
-
 Disgraced former International Monetary Fund chief Dominique Strauss-Kahn has been spotted with his new girlfriend at the Wailing Wall in Jerusalem.
 
 Myriam Aouffir, 43, is a high-profile press officer for French television.

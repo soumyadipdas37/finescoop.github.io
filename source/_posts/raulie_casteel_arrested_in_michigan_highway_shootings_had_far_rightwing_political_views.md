@@ -8,32 +8,6 @@ date: 2020-08-31-20-12-56
 categories: [latest, world] 
 featured: true 
 --- 
- 
-
-By Graham Smith for MailOnline and Michael Zennie 
-
- Published:  23:39, 7 November 2012   |  Updated:  00:10, 8 November 2012   
-
-
-
-
-
-View  comments
-
-
-
-
-
-View  comments
-
-
-
-View  comments
-
-
-
-View  comments
-
 Plea: Raulie Casteel, 43, has pleaded not guilty to eight counts of attempted murder on Friday after two dozens cars were shot on a Michigan highway
 
 The man accused of terrifying suburban Detroit, Michigan, for two weeks by shooting at two dozen cars on the highway ranted about far-right-wing politics for months before the attacks. 

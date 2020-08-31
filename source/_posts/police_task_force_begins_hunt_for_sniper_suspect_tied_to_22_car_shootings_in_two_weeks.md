@@ -8,24 +8,6 @@ date: 2020-08-31-20-12-44
 categories: [latest, world] 
 featured: true 
 --- 
- 
-
-•       Police are pursuing a male sniper suspect for nearly two dozen cars
-
-shootings in Michigan that began October 16
-
-•       More than 100 local officers, sheriff's deputies, state troopers and
-
-federal agents are involved in the investigation
-
-•       Investigators and state police are pulling over local drivers and
-
-questioning them for details
-
-By Daily Mail Reporter 
-
- Published:  21:39, 31 October 2012   |  Updated:  05:27, 9 May 2013   
-
 Police are hunting a sniper in Michigan tied to 22 car shootings in two weeks, which have caused one injury so far.
 
 A task force of investigators has started questioning drivers in four Michigan counties in hopes of catching a man suspected of shooting at other highway motorists head-on. Police investigators are searching for anything out of the norm during their traffic stops in Oakland, Livingston, Ingham and Shiawassee counties.

@@ -8,12 +8,6 @@ date: 2020-08-31-20-13-15
 categories: [latest, world] 
 featured: true 
 --- 
-By Daily Mail Reporter 
-
- Published:  21:48, 30 October 2012   |  Updated:  00:20, 31 October 2012   
-
- 
-
 Hurricane Sandy may have seemed uniquely damaging to those caught in its path, but some have suggested that global warming could bring even more devastating storms to the U.S. in coming years. 
 
 New York governor Andrew Cuomo and mayor Michael Bloomberg both pointed to climate change as the culprit for Sandy's ravages as they addressed the scale of the destruction on Tuesday morning. 

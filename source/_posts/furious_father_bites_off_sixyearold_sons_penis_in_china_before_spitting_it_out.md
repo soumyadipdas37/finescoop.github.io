@@ -8,18 +8,6 @@ date: 2020-08-31-20-13-18
 categories: [latest, world] 
 featured: true 
 --- 
-
-
- Published:  12:41, 11 March 2012   |  Updated:  15:18, 11 March 2012   
-
- 
-
- 91
-
-View  comments
-
-
-
 Passers-by were left horrified when a 'mentally-ill' father bit off his six-year-old son's penis and spat it out. 
 
 Witnesses in Shenzhen, in the Guangdong province of China, said the 32-year-old father was walking with his naked son and four-year-old daughter on the street when he commanded the boy to lick his penis.

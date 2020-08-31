@@ -8,14 +8,6 @@ date: 2020-08-31-20-12-49
 categories: [latest, world] 
 featured: true 
 --- 
-By James Black 
-
- Published:  11:10, 28 December 2012   |  Updated:  11:16, 28 December 2012   
-
-
-
-View  comments
-
 A cattle ranch in Texas has revealed the key ingredient behind its premium beef. The secret is none other than good old fashioned beer.
 
 The Texas T Kobe ranch in Wallis, Texas, adds beer to the hay that its cows feed on. The ranch claims the yeast in the double IPA helps the cows digestion system and improves the flavour and texture of the beef. 

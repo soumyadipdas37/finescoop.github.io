@@ -8,14 +8,6 @@ date: 2020-08-31-20-13-17
 categories: [latest, world] 
 featured: true 
 --- 
-By Daily Mail Reporter 
-
- Published:  11:37, 31 March 2012   |  Updated:  15:02, 31 March 2012   
-
- 16
-
-View  comments
-
 Nine people have been killed, and at least 70 wounded, in a series of bomb attacks at a shopping area in Thailand.
 
 The devices were hidden inside motorbikes and cars and detonated by mobile phones.

@@ -8,10 +8,6 @@ date: 2020-08-31-20-13-09
 categories: [latest, world] 
 featured: true 
 --- 
-By Michael Zennie 
-
- Published:  00:51, 1 November 2012   |  Updated:  10:12, 1 November 2012   
-
 Facebook's market value was under attack from its own employees on Wednesday as they dumped millions of shares they held in the company.
 
 The social networking giant ended the day down 3.79 percent after 99million shares changed hands.

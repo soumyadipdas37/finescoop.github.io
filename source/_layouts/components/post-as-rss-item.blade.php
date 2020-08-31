@@ -2,8 +2,14 @@
     <id>{{ $entry->getUrl() }}</id>
     <link type="text/html" rel="alternate" href="{{ $entry->getUrl() }}" />
     <title>{{ $entry->title }}</title>
-    <published>{{ date(DATE_ATOM, $entry->date) }}</published>
-    <updated>{{ date(DATE_ATOM, $entry->date) }}</updated>
+
+    <?php
+        $customDate = explode("-", $entry->date);
+        $date = "{$customDate[0]}-{$customDate[1]}-{$customDate[2]} {$customDate[3]}:{$customDate[4]}:{$customDate[5]}";
+    ?>
+
+    <published>{{ date(DATE_ATOM, $date) }}</published>
+    <updated>{{ date(DATE_ATOM, $date) }}</updated>
     <author>
         <name>{{ $entry->author }}</name>
     </author>

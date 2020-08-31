@@ -8,14 +8,6 @@ date: 2020-08-31-20-13-16
 categories: [latest, world] 
 featured: true 
 --- 
-By Richard Shears for MailOnline 
-
- Published:  13:22, 30 October 2012   |  Updated:  19:56, 30 October 2012   
-
- 77
-
-View  comments
-
 The young wife of North Korea’s leader has made her first public appearance in two months, bringing to an end what might have been a period of ‘home detention’ for being too carefree.
 
 Ri Sol-ju had been photographed earlier this year smiling and strolling about in a casual manner when accompanying her husband Kim Jong-un, the newly appointed leader of the secretive Stalinist state.

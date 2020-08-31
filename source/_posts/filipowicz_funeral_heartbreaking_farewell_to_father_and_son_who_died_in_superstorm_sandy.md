@@ -8,17 +8,6 @@ date: 2020-08-31-20-12-58
 categories: [latest, world] 
 featured: true 
 --- 
-By Daniel Bates 
-
- Published:  03:39, 6 November 2012   |  Updated:  16:12, 6 November 2012   
-
- 
-
-
-
-View  comments
-
-
 
 A tragic father and son who died side-by-side as the fierce floodwaters of Superstorm Sandy rushed into their home were buried together on Monday in an emotional funeral.
 

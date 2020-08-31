@@ -8,18 +8,6 @@ date: 2020-08-31-20-13-09
 categories: [latest, world] 
 featured: true 
 --- 
-By Daily Mail Reporter 
-
- Published:  01:09, 1 November 2012   |  Updated:  10:19, 1 November 2012   
-
- 
-
-
-
-View  comments
-
-
-
 What do a child molester, murderer and predator have in common? 
 
 Democratic Rep David Cicilline, according to House Republicans who this week released a TV ad in Rhode Island linking them. 
