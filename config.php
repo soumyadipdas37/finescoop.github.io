@@ -7,7 +7,7 @@ return [
     'production' => false,
     'siteName' => 'FineScoop',
     'siteDescription' => 'Breaking news',
-
+		'perPage' => 20,
     // collections
     'collections' => [
         'posts' => [
