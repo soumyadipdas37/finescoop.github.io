@@ -82,7 +82,7 @@ class Scrape
 														 as $item) {
 
 												// So I know what article I am on
-												print "[{$url['category']}] Generating article: " . trim($item->{$feed['items']['title']}) . "\n";
+												print "[{$url['category']}]: " . trim($item->{$feed['items']['title']}) . "\n";
 
 												// Add the category to the feed
 												$feed['category'] = $url['category'];
