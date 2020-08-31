@@ -40,11 +40,11 @@
 				<li
 					class="
 						hover:text-indigo-dark hover:cursor-pointer transition-normal ml-1 border-l border-primary pl-4
-						{{ $page->isActive($category) ? 'active text-blue-600' : '' }}
+						{{ $page->isActive(strtolower($category)) ? 'active text-blue-600' : '' }}
 					"
 					style="opacity: 1; transform: translateY(0px);"
 				>
-					<a href="/categories/{{ $category }}">
+					<a href="/categories/{{ strtolower($category) }}">
 						{{ ucwords($category) }}
 					</a>
 				</li>

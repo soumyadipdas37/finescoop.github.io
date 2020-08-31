@@ -8,7 +8,7 @@
 					@foreach($page->categories as $category)
 						<li class="mt-2">
 							<a
-								href="/categories/{{ $category }}"
+								href="/categories/{{ strtolower($category) }}"
 							   	class="hover:underline text-secondary hover:text-orange-500 text-sm"
 							>
 								{{ ucwords($category) }}
