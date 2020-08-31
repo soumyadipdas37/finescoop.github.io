@@ -5,7 +5,7 @@
 
     <?php
         $customDate = explode("-", $entry->date);
-        $date = "{$customDate[0]}-{$customDate[1]}-{$customDate[2]} {$customDate[3]}:{$customDate[4]}:{$customDate[5]}";
+        $date = "{$customDate[0]}-{$customDate[1]}-{$customDate[2]}";
     ?>
 
     <published>{{ date(DATE_ATOM, $date) }}</published>
