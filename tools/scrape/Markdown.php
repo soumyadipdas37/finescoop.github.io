@@ -47,7 +47,7 @@ class Markdown
             "title: {$article['title']} \n" .
             "description: {$article['description']} \n" .
             "date: {$article['date']} \n" .
-            "categories: [{$article['category']}] \n" .
+            "categories: [latest, {$article['category']}] \n" .
             "featured: true \n" .
             "--- \n" .
             "{$article['body']}";

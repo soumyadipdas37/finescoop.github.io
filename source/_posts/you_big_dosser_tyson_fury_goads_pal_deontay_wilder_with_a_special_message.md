@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/30/17/32571764-0-image-a-14_1598806744131.jpg 
-title: 'You big dosser!' Tyson Fury goads 'pal' Deontay Wilder with 'a special message' 
+title: You big dosser! Tyson Fury goads pal Deontay Wilder with a special message
 description: The 'Gypsy King', who holds the WBC heavyweight belt, filmed himself repeating the phrase 'You Big Dosser!' as he awaits his trilogy fight with the American. 
 date: 2020-08-31-19-47-45 
 categories: [sports] 

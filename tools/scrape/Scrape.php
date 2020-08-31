@@ -35,6 +35,7 @@ class Scrape
 								[ 'category' => 'business', 'link' => 'https://www.dailymail.co.uk/money/index.rss' ],
 								[ 'category' => 'tv', 'link' => 'https://www.dailymail.co.uk/tvshowbiz/index.rss' ],
 								[ 'category' => 'world', 'link' => 'https://www.dailymail.co.uk/news/worldnews/index.rss' ],
+								[ 'category' => 'coronavirus', 'link' => 'https://www.dailymail.co.uk/news/coronavirus/index.rss' ],
 						]
 				],
     ];
