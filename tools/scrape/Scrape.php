@@ -4,6 +4,9 @@ namespace Tools\Scrape;
 
 use function get_class;
 use function get_resource_type;
+use function simplexml_load_file;
+use function trim;
+use function var_dump;
 
 class Scrape
 {
@@ -14,18 +17,25 @@ class Scrape
      */
     public $feeds = [
         [
-            'uri'      => 'https://www.dailymail.co.uk/articles.rss',
             'image'    => '//meta[@property=\'og:image\']',
             'content'  => '//*[@id=\'js-article-text\']/div[2]',
-            'category' => 'latest',
             'items'    => [
                 'channel'     => 'channel',
                 'item'        => 'item',
                 'link'        => 'link',
                 'title'       => 'title',
                 'description' => 'description',
-            ]
-        ],
+            ],
+						'uri' => [
+								[ 'category' => 'latest', 'link' => 'https://www.dailymail.co.uk/articles.rss' ],
+								[ 'category' => 'sports', 'link' => 'https://www.dailymail.co.uk/sport/index.rss' ],
+								[ 'category' => 'health', 'link' => 'https://www.dailymail.co.uk/health/index.rss' ],
+								[ 'category' => 'science', 'link' => 'https://www.dailymail.co.uk/sciencetech/index.rss' ],
+								[ 'category' => 'business', 'link' => 'https://www.dailymail.co.uk/money/index.rss' ],
+								[ 'category' => 'tv', 'link' => 'https://www.dailymail.co.uk/tvshowbiz/index.rss' ],
+								[ 'category' => 'world', 'link' => 'https://www.dailymail.co.uk/news/worldnews/index.rss' ],
+						]
+				],
     ];
 
     /**
@@ -60,21 +70,25 @@ class Scrape
             // Loop through rss feeds
             foreach ($this->feeds as $feed) {
 
-                // Get the rss feed
-                $rss = simplexml_load_file($feed['uri']);
+            		// loop through each website's RSS feed
+								foreach($feed['uri'] as $url) {
+										// Get the rss feed
+										$rss = simplexml_load_file($url);
 
-                foreach ($rss->{$feed['items']['channel']}
-                             ->{$feed['items']['item']}
-                         as $item) {
+										foreach ($rss->{$feed['items']['channel']}
+																 ->{$feed['items']['item']}
+														 as $item) {
 
-                    // So I know what article I am on
-                    print "Generating article: " . trim($item->{$feed['items']['title']}) . "\n";
+												// So I know what article I am on
+												print "Generating article: " . trim($item->{$feed['items']['title']}) . "\n";
 
-                    // Build the article array
-                    $article = $this->article->build($item, $feed);
+												exit(var_dump($feed));
+												// Build the article array
+												$article = $this->article->build($item, $feed);
 
-                    $this->markdown->save($article);
-                }
+												$this->markdown->save($article);
+										}
+								}
             }
 
             $output = shell_exec('git add .; git commit -m \'articles\'; git push origin HEAD');

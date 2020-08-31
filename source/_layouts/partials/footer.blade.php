@@ -5,7 +5,7 @@
 			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left mb-4 md:mb-0">
 				<h5 class="uppercase mb-2 font-bold">Categories</h5>
 				<ul class="mb-4">
-					@foreach($page->categories as $category)
+					@foreach($page->allcategories as $category)
 						<li class="mt-2">
 							<a
 								href="/categories/{{ strtolower($category) }}"

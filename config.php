@@ -3,11 +3,11 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => 'http://finescoop.com',
+    'baseUrl' => '',
     'production' => false,
     'siteName' => 'FineScoop',
     'siteDescription' => 'Breaking news',
-		'categories' => [
+		'allcategories' => [
 				'Latest',
 				'Business',
 				'Coronavirus',
@@ -24,7 +24,7 @@ return [
     'collections' => [
         'posts' => [
             'sort' => '-date',
-            'path' => '/articles/{-title}',
+            'path' => '/articles/{-category}/{-title}',
         ],
         'categories' => [
             'path' => '/categories/{filename}',

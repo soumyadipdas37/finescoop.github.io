@@ -5,7 +5,7 @@
 			<strong>last 24 hours</strong>
 		</h3>
 		<div class="flex flex-wrap -ml-2 justify-start items-center">
-			@foreach($posts->take(6) as $post)
+			@foreach($posts->take(12) as $post)
 				<a
 					href="{{ $post->getUrl() }}"
 					class="w-1/6 lg:w-1/5 max-w-tiny shadow-md block m-2 transition-normal hover:brighter"
@@ -23,7 +23,7 @@
 		<h3 class="text-indigo-dark font-normal">
 			New Articles
 		</h3>
-		@foreach($posts->take(6) as $post)
+		@foreach($posts->take(12) as $post)
 			<a href="{{ $post->getUrl() }}">
 				<div class="flex items-start mt-2">
 					<img

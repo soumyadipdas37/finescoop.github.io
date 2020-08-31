@@ -12,7 +12,7 @@
 				href="{{ $page->baseUrl }}{{ $previous }}">&LeftArrow; previous</a>
 		@endif
 
-		<span class="items-center flex mr-2 text-sm">
+		<span class="items-center flex mr-2 text-sm font-bold">
 			Page {{ $pagination->currentPage }} / {{ $pagination->totalPages }}
 		</span>
 

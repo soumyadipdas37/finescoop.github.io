@@ -9,6 +9,10 @@
 
 @section('body')
 
+    @foreach ($posts->pluck('category')->unique() as $category)
+        <a class="btn btn-primary-outline btn-sm m-xs-l-2 text-uppercase" href="{{ $page->baseUrl }}/categories/{{ $category }}">{{ $category }}</a>
+    @endforeach
+
     <!-- Breadcrumbs !-->
     @component('_layouts.partials.breadcrumb')
         @slot('breadcrumb')
