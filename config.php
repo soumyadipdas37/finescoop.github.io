@@ -4,7 +4,7 @@ use Illuminate\Support\Str;
 
 return [
     'baseUrl' => 'http://finescoop.com',
-    'production' => true,
+    'production' => false,
     'siteName' => 'FineScoop',
     'siteDescription' => 'Breaking news',
 		'allcategories' => [
@@ -24,7 +24,7 @@ return [
     'collections' => [
         'posts' => [
             'sort' => '-date',
-            'path' => '/articles/{-category}/{-title}',
+            'path' => '/articles/{-title}',
         ],
         'categories' => [
             'path' => '/categories/{filename}',
