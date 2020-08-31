@@ -5,7 +5,7 @@
     <?php
         $time = DateTime::createFromFormat('Y-m-d-H-i-s', $entry->date);
     ?>
-    <published>{{ $time->format(DateTime::ATM) }}</published>
+    <published>{{ $time->format(DateTime::ATOM) }}</published>
     <updated>{{ $time->format(DateTime::ATOM) }}</updated>
     <author>
         <name>{{ $entry->author }}</name>
