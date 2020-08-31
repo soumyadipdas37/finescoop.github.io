@@ -4,12 +4,11 @@
     <title>{{ $entry->title }}</title>
 
     <?php
-        $customDate = explode("-", $entry->date);
-        $date = "{$customDate[0]}-{$customDate[1]}-{$customDate[2]}";
+        $time = DateTime::createFromFormat('Y-m-d-H-i-s', $entry->date);
     ?>
 
-    <published>{{ date(DATE_ATOM, $date) }}</published>
-    <updated>{{ date(DATE_ATOM, $date) }}</updated>
+    <published>{{ date(DATE_ATOM, $time) }}</published>
+    <updated>{{ date(DATE_ATOM, $time) }}</updated>
     <author>
         <name>{{ $entry->author }}</name>
     </author>
