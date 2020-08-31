@@ -36,9 +36,9 @@ class Scrape
 								[ 'category' => 'tv', 'link' => 'https://www.dailymail.co.uk/tvshowbiz/index.rss' ],
 								[ 'category' => 'world', 'link' => 'https://www.dailymail.co.uk/news/worldnews/index.rss' ],
 								[ 'category' => 'travel', 'link' => 'https://www.dailymail.co.uk/travel/index.rss' ],
-								[ 'category' => 'fema', 'link' => 'https://www.dailymail.co.uk/news/coronavirus/index.rss' ],
-								[ 'category' => 'coronavirus', 'link' => 'https://www.dailymail.co.uk/news/coronavirus/index.rss' ],
-								[ 'category' => 'coronavirus', 'link' => 'https://www.dailymail.co.uk/news/coronavirus/index.rss' ],
+								[ 'category' => 'female', 'link' => 'https://www.dailymail.co.uk/femail/index.rss' ],
+								[ 'category' => 'news', 'link' => 'https://www.dailymail.co.uk/news/index.rss' ],
+								[ 'category' => 'usa', 'link' => 'https://www.dailymail.co.uk/ushome/index.rss' ],
 						]
 				],
     ];
