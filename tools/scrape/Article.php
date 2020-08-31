@@ -2,8 +2,11 @@
 
 namespace Tools\Scrape;
 
+use Mockery\Exception;
 use function date;
 use function date_default_timezone_set;
+use function file_get_contents;
+use function libxml_use_internal_errors;
 use function var_dump;
 
 class Article
@@ -46,13 +49,19 @@ class Article
         // Remove whitespace
         $uri = trim($uri);
 
-        // Get the html and load it to dom
-        $html = file_get_contents($uri);
-        $doc  = new \DOMDocument();
-        libxml_use_internal_errors(true);
-        $doc->loadHTML($html);
+        // Create the document
+				$doc  = new \DOMDocument();
 
-        return $doc;
+        // Get the html and load it to dom
+				try {
+						$html = file_get_contents($uri);
+						libxml_use_internal_errors(true);
+						$doc->loadHTML($html);
+
+						return $doc;
+				} catch (Exception $e) {
+						return $doc;
+				}
     }
 
 

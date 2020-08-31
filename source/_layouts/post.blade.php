@@ -1,6 +1,5 @@
 @extends('_layouts.master')
 
-<!-- Article Meta !-->
 @push('meta')
     <meta property="og:title" content="{{ $page->title }}" />
     <meta property="og:type" content="article" />
@@ -11,9 +10,7 @@
     <meta name="twitter:site" content="@finescoop" />
     <meta name="twitter:creator" content="@finescoop" />
 @endpush
-<!-- // Article Meta !-->
 
-<!-- Article Header !-->
 @push('header')
     @component('_layouts.partials.header', [
         'image' => $page->image,
@@ -22,8 +19,6 @@
     ])
     @endcomponent
 @endpush
-<!-- // Article Header !-->
-
 
 @section('body')
 
