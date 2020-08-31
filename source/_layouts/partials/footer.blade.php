@@ -5,14 +5,7 @@
 			<div class="w-full sm:w-1/2 lg:w-1/4 text-center md:text-left mb-4 md:mb-0">
 				<h5 class="uppercase mb-2 font-bold">Categories</h5>
 				<ul class="mb-4">
-					@foreach([
-						'coronavirus',
-						'latest',
-						'science',
-						'sports',
-						'tv',
-						'world'
-					] as $category)
+					@foreach($page->categories as $category)
 						<li class="mt-2">
 							<a
 								href="/categories/{{ $category }}"

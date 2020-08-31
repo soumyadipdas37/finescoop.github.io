@@ -7,6 +7,18 @@ return [
     'production' => false,
     'siteName' => 'FineScoop',
     'siteDescription' => 'Breaking news',
+		'categories' => [
+				'Latest',
+				'Business',
+				'Coronavirus',
+				'Health',
+				'Lifestyle',
+				'Politics',
+				'Science',
+				'Sports',
+				'TV',
+				'World',
+		],
 		'perPage' => 20,
     // collections
     'collections' => [
