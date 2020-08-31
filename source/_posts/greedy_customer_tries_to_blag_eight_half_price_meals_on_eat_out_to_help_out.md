@@ -2,8 +2,8 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/08/31/12/32599718-0-image-a-17_1598873664432.jpg 
-title: 'Greedy' customer tries to blag EIGHT half price meals on Eat Out To Help Out 
-description: Waiters at Eglinton Diner and Fish Fry in Saltcoats, North Ayrshire, reacted with 'disbelief' when the man asked for one meal to eat in and seven to take away on the scheme. 
+title: Greedy customer tries to blag EIGHT half price meals on Eat Out To Help Out 
+description: Waiters at Eglinton Diner and Fish Fry in Saltcoats, North Ayrshire, reacted with disbelief when the man asked for one meal to eat in and seven to take away on the scheme. 
 date: 2020-08-31-19-46-12 
 categories: [latest] 
 featured: true 
