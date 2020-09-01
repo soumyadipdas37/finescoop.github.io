@@ -5,7 +5,7 @@ on:
         -
             cron: "*/15 * * * *"
 jobs:
-    build-site:
+    generate-articles:
         runs-on: ubuntu-latest
         steps:
             -
