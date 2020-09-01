@@ -2,6 +2,7 @@
 
 namespace Tools\Scrape;
 
+use function file_exists;
 use function file_put_contents;
 use function var_dump;
 
@@ -13,6 +14,22 @@ class Markdown
      * @var string
      */
     private $location = __DIR__ . '/../../source/_posts/';
+
+		/**
+		 * Check if the article exists
+		 * @param string $title
+		 * @return string
+		 */
+    public function articleExists(string $title): string
+		{
+				$location = "{$this->location}/{$this->name($title)}.md";
+
+				if (file_exists($location)) {
+						return true;
+				}
+
+				return false;
+		}
 
     /**
      * Save the article as a markdown
@@ -26,7 +43,7 @@ class Markdown
         // create markdown
         $markdown = $this->generate($article);
 
-				if (!file_exists($location)) {
+        if(!$this->articleExists($article['title'])) {
 						file_put_contents($location, $markdown);
 				}
     }

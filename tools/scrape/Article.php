@@ -105,9 +105,8 @@ class Article
      * @param string $string
      * @return string
      */
-    private function safeString(string $string)
+    public function safeString(string $string)
     {
-//				return str_replace([':', "'", '"', '*'], '', trim($string));
 				return str_replace([':', '*', "'", '"', "\r\n", "\r", "\n"], '', trim($string));
     }
 }

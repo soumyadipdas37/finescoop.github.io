@@ -85,18 +85,22 @@ class Scrape
 														 ->{$feed['items']['item']}
 												 as $item) {
 
-										// So I know what article I am on
-										print "[{$url['category']}]: " . trim($item->{$feed['items']['title']}) . "\n";
-
 										// Add the category to the feed
 										$feed['category'] = $url['category'];
 
-										// Build the article array
-										$article = $this->article->build($item, $feed);
+										// Make sure it doesn't already exist
+										$title = $this->article->safeString($item->{$feed['items']['title']});
+										if(!$this->markdown->articleExists($title)) {
+												// Build the article array
+												$article = $this->article->build($item, $feed);
 
-										$this->markdown->save($article);
+												// So I know what article I am on
+												print "[{$url['category']}]: " . trim($item->{$feed['items']['title']}) . "\n";
+
+												$this->markdown->save($article);
+										}
 								}
-								$output = shell_exec('git add .; git commit -m \'articles\'; git push origin HEAD');
+//								$output = shell_exec('git add .; git commit -m \'articles\'; git push origin HEAD');
 						}
 				}
     }
