@@ -68,38 +68,37 @@ class Scrape
         $this->feed     = new Feed();
     }
 
+		/**
+		 * Run the scraper
+		 */
     public function parseRssFeed()
     {
-        while (true) {
+				// Loop through rss feeds
+				foreach ($this->feeds as $feed) {
 
-            // Loop through rss feeds
-            foreach ($this->feeds as $feed) {
+						// loop through each website's RSS feed
+						foreach($feed['uri'] as $url) {
+								// Get the rss feed
+								$rss = simplexml_load_file($url['link']);
 
-            		// loop through each website's RSS feed
-								foreach($feed['uri'] as $url) {
-										// Get the rss feed
-										$rss = simplexml_load_file($url['link']);
+								foreach ($rss->{$feed['items']['channel']}
+														 ->{$feed['items']['item']}
+												 as $item) {
 
-										foreach ($rss->{$feed['items']['channel']}
-																 ->{$feed['items']['item']}
-														 as $item) {
+										// So I know what article I am on
+										print "[{$url['category']}]: " . trim($item->{$feed['items']['title']}) . "\n";
 
-												// So I know what article I am on
-												print "[{$url['category']}]: " . trim($item->{$feed['items']['title']}) . "\n";
+										// Add the category to the feed
+										$feed['category'] = $url['category'];
 
-												// Add the category to the feed
-												$feed['category'] = $url['category'];
+										// Build the article array
+										$article = $this->article->build($item, $feed);
 
-												// Build the article array
-												$article = $this->article->build($item, $feed);
-
-												$this->markdown->save($article);
-										}
-										$output = shell_exec('git add .; git commit -m \'articles\'; git push origin HEAD');
+										$this->markdown->save($article);
 								}
-            }
+								$output = shell_exec('git add .; git commit -m \'articles\'; git push origin HEAD');
+						}
 				}
-
     }
 }
 
