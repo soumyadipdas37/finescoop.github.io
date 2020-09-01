@@ -10,7 +10,7 @@ use function getenv;
 use function str_replace;
 use function var_dump;
 
-class PostExample
+class Post
 {
 		/**
 		 * Post constructor.
