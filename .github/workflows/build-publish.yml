@@ -5,7 +5,7 @@ on:
             - development
 jobs:
     build-site:
-        runs-on: self-hosted
+        runs-on: ubuntu-latest
         steps:
             -   uses: actions/checkout@v2
             -   name: Install Composer Dependencies
