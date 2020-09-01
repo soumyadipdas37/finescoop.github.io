@@ -1,37 +1,28 @@
-name: dGenerate Article"
+name: "Generate Article"
 on:
     schedule:
-        -
-            cron: "*/15 * * * *"
+        - cron: "*/15 * * * *"
 jobs:
     generate-articles:
         runs-on: ubuntu-latest
         steps:
-            -
-                uses: actions/checkout@v2
-            -
-                name: "Checkout Development"
+            -   uses: actions/checkout@v2
+            -   name: "Checkout Development"
                 run: "git checkout development"
-            -
-                name: "Install Composer Dependencies"
+            -   name: "Install Composer Dependencies"
                 run: "composer install --no-ansi --no-interaction --no-scripts --no-suggest --no-progress --prefer-dist"
-            -
-                name: "Update Composer Dependencies"
+            -   name: "Update Composer Dependencies"
                 run: "composer update"
-            -
-                name: "Run Article Generator"
+            -   name: "Run Article Generator"
                 run: "php ./tools/scrape/Scrape.php"
-            -
-                name: "Stage Files"
+            -   name: "Stage Files"
                 run: "git add -f ."
-            -
-                name: "Commit files"
+            -   name: "Commit files"
                 run: |
                     git config --local user.email "actions@github.com"
                     git config --local user.name "GitHub Actions"
                     git commit -m "Generate Articles"
-            -
-                name: Publish
+            -   name: Publish
                 run: |-
                     git push -f origin development:development
                     git branch -D development
