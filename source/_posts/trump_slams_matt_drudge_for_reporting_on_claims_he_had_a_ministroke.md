@@ -1,0 +1,122 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/01/23/32665062-0-image-a-12_1599000073144.jpg 
+title: Trump slams Matt Drudge for reporting on claims he had a mini-stroke 
+description: President Trump slammed Matt Drudge for the Drudge Report leading with the presidents denial he had a mini-stroke that links to a video where Trump is purportedly dragging his leg. 
+date: 2020-09-01-23-52-16 
+categories: [latest, news] 
+featured: true 
+--- 
+President Donald Trump slammed Matt Drudge for his website, the Drudge Report, leading with the story of how the president denied he had a 'mini-stroke' that links readers to a video where Trump is purportedly dragging his right leg. 
+
+'Drudge didn't support me in 2016, and I hear he doesn't support me now. Maybe that's why he is doing poorly,' Trump tweeted Tuesday evening. 'His Fake News report on Mini-Strokes is incorrect. Possibly thinking about himself, of the other party's "candidate,"' Trump wrote. 
+
+Trump's comments on Drudge came after his campaign demanded that CNN fire Democratic pundit Joe Lockhart, who served as White House press secretary under President Bill Clinton, for floating in a tweet that Trump was covering up a stroke. 
+
+'CNN should fire Joe Lockhart, a lifetime failure who thought it was a great idea for fellow loser Michael Dukakis to put on that stupid helmet, for knowingly pushing a conspiracy theory about President Trump's health,' a campaign statement read. 
+
+It went on to say Lockhart 'single-handedly sank the John Kerry campaign' and now he’s doing the same to Joe Biden from a distance.
+
+'If another CNN employee said similar things about Barack Obama they’d be fired immediately, so the same standard should be applied here,' the campaign said. 'That is, of course, unless CNN is complicit in the smear campaign in order to level the playing field against Joe Biden, somebody who truly has lost a step.'   
+
+President Donald Trump slammed Matt Drudge for the Drudge Report leading with a story on his denial that he had a series of mini strokes 
+
+President Trump tweeted that Matt Drudge is doing 'poorly' and called his 'Fake News' report on mini strokes to be 'incorrect' and possibly about 'the other party's candidate,' taking a veiled swipe at Democratic nominee Joe Biden
+
+The Drudge Report homepage linked to a video that allegedly showed President Trump dragging his right leg
+
+The right-leaning Matt Drudge was in the crosshairs of President Trump Tuesday, after the Drudge Report linked to a video purportedly showing Trump dragging his right foot 
+
+Also on Tuesday, the Trump campaign called on Democratic pundit Joe Lockhart (pictured), President Bill Clinton's former press secretary, to be fired by CNN for floating that Trump was hiding that he suffered a stroke 
+
+New York Times author Michael Schmidt noted his book, which examines the November 2019 Walter Reed trip, does not mention 'mini-strokes'
+
+Former Bill Clinton press secretary Joe Lockhart tweeted the unproven theory that Trump had suffered a stroke
+
+Author Don Winslow tweeted Trump slurring his words and claimed to have whistleblower sources tell him Trump suffered 'mini-strokes'
+
+A transient ischemic attack (or, TIA) involves a temporary lack of blood flow to the brain, which causes momentary dizziness, confusion, tingling, and numbness in the arms.
+
+You should call 911 if you suspect you are suffering a TIA.
+
+Symptoms include: 
+
+Lockhart's tweet had gotten little attention among mainstream reporters until the president brought up those claims Tuesday morning.  
+
+'It never ends! Now they are trying to say that your favorite President, me, went to Walter Reed Medical Center, having suffered a series of mini-strokes. Never happened to THIS candidate - FAKE NEWS. Perhaps they are referring to another candidate from another Party!' Trump wrote – making the suggested that Biden had suffered a stroke without offering evidence. 
+
+A new book offered explosive revalations that Vice President Mike Pence was on standby during the president's unscheduled 2019 trip to Walter Reed National Military Medical Center, which the White House said at the time was because Trump had a 'free weekend.' 
+
+Pence has since denied that he was ever on-call.  
+
+As the book's author, New York Times reporter Michael Schmidt noted online, his book's dive into the Walter Reed trip included nothing about mini-strokes. 
+
+After setting off new rounds of speculation by bringing up the issue, Trump directed the White House physician to release a statement stating that he had never been treated for a 'cerebrovascular accident.'  
+
+'President Donald J Trump has asked that I, Dr. Sean Conley, Physician to the President, address the recent public comments regarding his health,' said Dr. Sean P. Conley, physician to the president, in a statement released by the White House.  
+
+'I can confirm that President Trump has not experienced nor been evaluated for a cerebrovascular accident (stroke), transient ischemic attack (mini stroke), or any acute cardiovascular emergencies, as have been incorrectly reported in the media.'
+
+He continued: 'The President remains healthy and I have no concerns about his ability to maintain the rigorous schedule ahead of him. As stated in my last report, I expect him to remain fit to execute the duties of the Presidency.'
+
+On Monday Lockhart had tweeted, 'Did @realDonaldTrump have a stroke which he is hiding from the American public?'
+
+On August 1, crime author Don Winslow tweeted out a video clip of Trump repeatedly slurring his words during a December 2017 speech on Israel. 
+
+Winslow claimed to have heard from 'whistleblowers' inside the Trump administration about the president's health.
+
+'I've received three communications saying that during his term Trump has suffered a 'series' of 'mini-strokes,' Winslow wrote.
+
+'Let us rethink old assumptions and open our hearts and minds to possible and possibilities,' Trump says in the clip, flubbing a prepared line. He even slurred his closing line when he said 'God Bless the United States.'
+
+Then-White House press secretary Sarah Sanders said at the time when questioned about Trump's performance: 'The president’s throat was dry, nothing more than that.' 
+
+Winslow tweeted Tuesday afternoon following Trump's denial: 'More than a dozen Secret Service agents are aware of Donald Trump's medical condition and mini-strokes.'        
+
+Trump was seen on video during a July video of his trip to a laboratory in North Carolina dragging his right foot while touring the facility. 
+
+This was the video that the Drudge Report shared.  
+
+In January, Trump could be seen shuffling his feet as he moved to his right while clapping at the March for Live in Washington, D.C. 
+
+In November 2019, the president made an unannounced trip to the hospital for 'quick exam and labs' as part of his annual physical exam out of anticipation of a 'very busy 2020,' the White House said at the time.
+
+But the surprise nature of the trip lead to questions about the president's medical condition.
+
+And in Michael Schmidt's 'Donald Trump v. the United States,' out on Tuesday, the author writes Pence was on standby if the president had to undergo a procedure that would have required anesthesia.
+
+It is the job of the vice president to assume executive powers should the president be incapacitated in some way, according to the 25th amendment to the Constitution.
+
+Schmidt writes, according to a New York Times review of his book: The White House wanted Mike Pence 'on standby to take over the powers of the presidency temporarily if Trump had to undergo a procedure that would have required him to be anesthetized.' 
+
+Pence obviously never had to step in.  
+
+The last time a vice president took such a step was Dick Cheney in July 2007 when George W. Bush underwent a colonoscopy and was under sedation.
+
+In a statement at the time of Trump's hospital visit, then-White House press secretary Stephanie Grisham said that Trump had undergone a 'quick exam and labs' and that he 'remains healthy and energetic without complaints.' 
+
+She also said that the president had taken advantage of a 'free weekend' in Washington to 'begin portions of his routine annual physical exam.' 
+
+The White House had Vice President Mike Pence on stand by in November last year when President Donald Trump made an unplanned visit to Walter Reed National Military Medical Center
+
+President Trump in route to Walter Reed on Saturday, November 16, 2019, for a visit the White House said was part of his routine physical 
+
+Whenever the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that he is unable to discharge the powers and duties of his office, and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Vice President as Acting President. 
+
+But Trump's trip raised so many questions about the then 73-year-old's health that the White House released a memo a few days later denying 'speculation' that he had been treated for a medical emergency.  
+
+Dr. Sean Conley, the president's personal physician, wrote that Trump's 'interim checkup' had been 'routine,' and was only kept secret because of 'scheduling uncertainties.'
+
+'Despite some speculation, the President has not had any chest pain, nor was he evaluated or treated for any urgent or acute issues,' Conley wrote in the memo. 'Specifically, he did not undergo any specialized cardiac or neurologic evaluations.'
+
+The full results of the president's physical were released in June and he was reported to be 'healthy.' 
+
+Schmidt's book, meanwhile, 'tells the dramatic, high-stakes story of those who felt compelled to confront and try to contain the most powerful man in the world as he shredded norms and sought to expand his power,' according to its Amazon.com description.
+
+It is the latest in a spat of books to come about the Trump administration, including Bob Woodward's upcoming book 'Rage' and Michael Cohen's upcoming 'Disloyalty.' 
+
+There are also recently published books from Mary Trump, about her uncle's upbringing, and former National Security Adviser John Bolton about his White House tenure.  Even the first lady has not been immune. Stephanie Winston Wolkoff's memoir about her work with Melania Trump, the two were long time friends, comes out Tuesday.  
+
+The last time a vice president took over for a president was Dick Cheney in July 2007 when George W. Bush underwent a colonoscopy and was under sedation
+
