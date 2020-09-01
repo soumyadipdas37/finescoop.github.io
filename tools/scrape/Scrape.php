@@ -41,6 +41,20 @@ class Scrape
 								[ 'category' => 'usa', 'link' => 'https://www.dailymail.co.uk/ushome/index.rss' ],
 						]
 				],
+				[
+						'image'    => '//meta[@property=\'og:image\']',
+						'content'  => '//*[@id="main-content"]/div/div/div/div[1]/article',
+						'items'    => [
+								'channel'     => 'channel',
+								'item'        => 'item',
+								'link'        => 'link',
+								'title'       => 'title',
+								'description' => 'description',
+						],
+						'uri' => [
+								[ 'category' => 'politics', 'link' => 'http://feeds.bbci.co.uk/news/video_and_audio/politics/rss.xml' ],
+						]
+				],
     ];
 
     /**
