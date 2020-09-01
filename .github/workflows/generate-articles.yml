@@ -1,4 +1,4 @@
-name: "Generate Article"
+name: dGenerate Article"
 on:
     schedule:
         -
