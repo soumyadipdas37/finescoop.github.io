@@ -1,4 +1,3 @@
----
 name: "Generate Article"
 on:
     schedule:
