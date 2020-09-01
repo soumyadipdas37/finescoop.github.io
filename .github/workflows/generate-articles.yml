@@ -7,6 +7,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             -   uses: actions/checkout@v2
+            -   name: Checkout Development
+                run: git checkout development
             -   name: Install Composer Dependencies
                 run: composer install --no-ansi --no-interaction --no-scripts --no-suggest --no-progress --prefer-dist
             -   name: Update Composer Dependencies
@@ -22,6 +24,5 @@ jobs:
                     git commit -m "Generate Articles"
             -   name: Publish
                 run: |
-                    git subtree split --prefix build_production -b master
-                    git push -f origin master:master
-                    git branch -D master
+                    git push -f origin development:development
+                    git branch -D development
