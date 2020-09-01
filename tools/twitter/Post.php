@@ -12,36 +12,25 @@ use function var_dump;
 
 class PostExample
 {
-    /**
-     * @var string
-     */
-    private $API_KEY = "";
-
-    /**
-     * @var string
-     */
-    private $API_SECRET = "";
-
-    /**
-     * @var string
-     */
-    private $ACCESS_TOKEN = "";
-
-    /**
-     * @var string
-     */
-    private $ACCESS_TOKEN_SECRET = "";
-
-    /**
-     * Post constructor.
-     */
-    public function __construct()
-    {
+		/**
+		 * Post constructor.
+		 *
+		 * @param \Tools\Twitter\string $TWITTER_API_KEY
+		 * @param \Tools\Twitter\string $TWITTER_API_SECRET
+		 * @param \Tools\Twitter\string $TWITTER_ACCESS_TOKEN
+		 * @param \Tools\Twitter\string $TWITTER_ACCESS_TOKEN_SECRET
+		 */
+    public function __construct(
+    		string $TWITTER_API_KEY,
+				string $TWITTER_API_SECRET,
+				string $TWITTER_ACCESS_TOKEN,
+				string $TWITTER_ACCESS_TOKEN_SECRET
+		) {
         $this->connection = new TwitterOAuth(
-            $this->API_KEY,
-            $this->API_SECRET,
-            $this->ACCESS_TOKEN,
-            $this->ACCESS_TOKEN_SECRET
+            $TWITTER_API_KEY,
+            $TWITTER_API_SECRET,
+            $TWITTER_ACCESS_TOKEN,
+            $TWITTER_ACCESS_TOKEN_SECRET
         );
     }
 
