@@ -59,7 +59,7 @@ class Article
 						$doc->loadHTML($html);
 
 						return $doc;
-				} catch (Exception $e) {
+				} catch (\Exception $e) {
 						return $doc;
 				}
     }
