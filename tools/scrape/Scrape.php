@@ -43,7 +43,7 @@ class Scrape
 				],
 				[
 						'image'    => '//meta[@property=\'og:image\']',
-						'content'  => '//*[@id="main-content"]/div/div/div/div[1]/article',
+						'content'  => '//article',
 						'items'    => [
 								'channel'     => 'channel',
 								'item'        => 'item',
