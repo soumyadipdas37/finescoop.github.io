@@ -27,9 +27,18 @@ class Find
     /**
      * Find constructor.
      */
-    public function __construct()
-    {
-        $this->post = new Post;
+    public function __construct(
+				string $TWITTER_API_KEY,
+				string $TWITTER_API_SECRET,
+				string $TWITTER_ACCESS_TOKEN,
+				string $TWITTER_ACCESS_TOKEN_SECRET
+		) {
+        $this->post = new Post(
+						$TWITTER_API_KEY,
+						$TWITTER_API_SECRET,
+						$TWITTER_ACCESS_TOKEN,
+						$TWITTER_ACCESS_TOKEN_SECRET
+				);
     }
 
     /**
@@ -111,4 +120,4 @@ class Find
 // Autoload scrape classes
 require __DIR__ . '/../../vendor/autoload.php';
 
-(new Find)->run();
+(new Find($argv[1], $argv[2], $argv[3], $argv[4]))->run();
