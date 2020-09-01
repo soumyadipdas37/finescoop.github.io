@@ -21,4 +21,3 @@ jobs:
             -   name: Publish
                 run: |-
                     git push -f origin development:development
-                    git branch -D development
