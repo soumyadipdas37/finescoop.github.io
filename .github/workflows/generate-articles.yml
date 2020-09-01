@@ -1,4 +1,9 @@
 ---
+name: "Generate Article"
+on:
+    schedule:
+        -
+            cron: "*/15 * * * *"
 jobs:
     build-site:
         runs-on: ubuntu-latest
@@ -31,8 +36,3 @@ jobs:
                 run: |-
                     git push -f origin development:development
                     git branch -D development
-name: "Generate Article"
-on:
-    schedule:
-        -
-            cron: "*/15 * * * *"
