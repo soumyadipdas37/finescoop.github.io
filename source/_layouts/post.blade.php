@@ -59,5 +59,7 @@
                 </a>
             @endif
         </div>
+        
+        <div class="fb-comments" data-href="http://finescoop.com" data-numposts="10" data-width=""></div>
     </nav>
 @endsection
