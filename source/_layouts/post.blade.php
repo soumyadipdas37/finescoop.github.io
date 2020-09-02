@@ -59,11 +59,11 @@
                 </a>
             @endif
         </div>
-        <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0&appId=612047886170325&autoLogAppEvents=1" nonce="5vbmW42u"></script>
-        
-        <div class="w-full mx-3">
-            <div class="fb-comments" data-href="http://finescoop.com" data-numposts="10" data-width=""></div>
-        </div>
     </nav>
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0&appId=612047886170325&autoLogAppEvents=1" nonce="5vbmW42u"></script>
+
+    <div class="w-full mx-3">
+        <div class="fb-comments" data-href="http://finescoop.com" data-numposts="10" data-width=""></div>
+    </div>
 @endsection
