@@ -1,0 +1,110 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/02/17/32698556-0-image-a-26_1599062726630.jpg 
+title: State regulators investigate bar that promoted betting pool on Chicago and New York City shootings 
+description: The Cliffton in Patchogue, New York, was criticized for its repugnant betting pool on Labor Day weekend shootings and is now being investigated for illegal gambling activity on the premises. 
+date: 2020-09-02-17-23-05 
+categories: [latest, news] 
+featured: true 
+--- 
+Authorities are investigating a Long Island bar for a 'sickening' Instagram post that appeared to show it was taking bets on whether Chicago or New York City would see more shootings over Labor Day weekend.
+
+The Cliffton, a bar in Patchogue, New York, shared photos of a Super Bowl-style paper grid hung in the bar with patrons placing bets on the number of shootings in the two cities, Newsday reported Tuesday. 
+
+The winner would take home an unspecified cash prize.
+
+The pool has been condemned as 'repugnant' and the bar is now under investigation as it may also have broken state gambling laws.   
+
+The Cliffton in Patchogue, New York, was criticized for its 'repugnant' betting pool on Labor Day weekend shootings. It also refused a task force inspection on coronavirus rules this week
+
+'Let the shooting sprees begin!': Patrons could buy four boxes, each of which had a designated number corresponding to how many fatal shootings would take place in each city
+
+The betting is 'not only sickening, but also appears illegal under the Alcoholic Beverage Control law,' the State Liquor Authority said in a statement to the newspaper.
+
+The state's alcohol and beverage law prohibits gambling at establishments with a liquor license, with few exceptions.  
+
+The Cliffton's Instagram page is private but Newsday reported the images were posted last week. Social media users also screenshot the post and shared the details.  
+
+The caption of the post read, 'Let the shooting sprees begin!' 
+
+Patrons could buy four boxes, each of which had a designated number corresponding to how many fatal shootings would take place in each city, and how many would happen in total. 
+
+Images show the boxes filled with names as they pitted the city's mayors against each other.  
+
+The rules were shown in a separate image, stating the dates and times by which Labor Day weekend was being defined. It added that official shooting figures would be obtained via the New York Times and the Chicago Tribune. 
+
+'These reports are repugnant and those responsible for this gambling pool should be ashamed,' Rich Azzopardi, a spokesman for New York Governor Andrew Cuomo, said to the newspaper.
+
+Julia Arredondo, a spokeswoman for NYC Mayor Bill de Blasio, called it 'unfathomable that anyone could find joy in the pain of others. 
+
+'While they laugh about the violence our communities are experiencing, we’ll keep doing the work to rebuild and recover,' she added. 
+
+The post laid out the rules of the pool but the bar may have broken state gambling laws. New York alcohol and beverage law prohibits gambling at establishments with a liquor license
+
+The bar's Instagram page is now private but any social media users screenshot the images
+
+The Long Island bar also refused to let representatives of the state's multi-agency task force carry out an inspection this week, which the agency says is itself grounds to revoke the bar's liquor license.
+
+The task force focuses on bars that are in breach of coronavirus regulations.
+
+According to the New York Daily News, inspectors calling to The Cliffton noticed people inside but were barred from entering themselves.
+
+The agency said the refusal was 'a blatant violation of the law, which alone constitutes grounds for their liquor license to be revoked. This establishment will be charged for the violation we have already observed and can expect to hear from us again'.
+
+Brian Neal, owner of The Cliffton, did not return a request for comment from the newspaper.
+
+'All it does is raise the angst and anger of others,' Patchogue Mayor Paul Pontieri said. 
+
+'To be buying a box to see how many people die is something I cannot fathom. It´s not who we are as a community.'
+
+He added that the pool showed a 'disdain' for human life and was rooted in racism, Newsday reports.  
+
+The news of the betting pool came just a day after Cuomo on Monday ordered the state Division of Human Rights to investigate the display of a Confederate flag in the village.
+
+The flag is reported to have been hung from a Brookhaven Fire Department truck during a parade for an ill firefighter. 
+
+'I don't want the community to be framed like this,' Pontieri said. 'But there's no answer for stupid people or people who don't have respect for others.'
+
+Suffolk County Police said the department is also investigating.  
+
+The bar's betting pool pitted Democratic mayors Bill de Blasio in NYC, pictured left, and Lori Lightfoot in Chicago, pictured right, against each other for a top tally of shootings
+
+Patchogue Chamber of Commerce is considering removing The Cliffton as a member. 
+
+This is not the first time the bar has found itself at the center of controversy. Newsday states it was also criticized last year for a post that ridiculed a transgender patron. 
+
+'Just two dudes.... chilling at the Cliffton,' the image read, showing a man and woman chatting in the bar, followed by the comment 'should we tell him, or let him find out by himself?'
+
+The bar owner apologized after protests.  
+
+Cities across the country have seen a surge in shootings over the summer, but the spike defies easy explanation. 
+
+The increase in violence likely represents a mix of factors, including record unemployment levels, the death toll from the coronavirus pandemic, stay-at-home orders, intense stress and the weather.
+
+New York City, in particular, has seen a startling uptick in crime this year.
+
+There was a 162 per cent increase in the number of shooting victims and a 166 per cent increase in the number of shooting incidents during the four-week period that ended on August 23 compared to the same period last year, police data shows. 
+
+During the four-week period ending on August 23, the city recorded 48 homicides - a 50 per cent increase from the 32 homicides that were recorded during the same period last year.
+
+Between January 1 and August 23, the city recorded 280 homicides - a 35 per cent increase from 208 homicides that were recorded during the same period of 2019. 
+
+In July, murders were up 58.8 percent when compared to the same month last year. Shootings were up a staggering 177 per cent.
+
+The uptick in crime comes as protests have unfolded across the country denouncing police brutality and seeking to defund police departments.  
+
+ New York City announced it will slash the police budget by $1billion in July. The department budget was almost $6billion for the 2020 fiscal year.   
+
+Chicago has also been rocked by a dramatic spike in violent crime in recent months.
+
+Stark CPD data reveals murders have rocketed 52 percent from 333 between January 1 and August 30 2019 to 505 for the same period this year.
+
+A staggering 2,152 shootings have taken place so far in 2020 - 739 more than the 1,413 that had taken place by this time last year.
+
+The city recorded a bloody weekend this week, with 54 shot including 10 fatally.
+
+President Donald Trump has harshly criticized NYC and Chicago's Democratic mayors and called on them to return law and order to the streets as he threatened to send in federal troops. 
+
+Both mayors have pushed back against Trump's threats.  
+
