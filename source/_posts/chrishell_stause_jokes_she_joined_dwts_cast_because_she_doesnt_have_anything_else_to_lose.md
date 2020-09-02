@@ -1,0 +1,46 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/02/23/32710234-0-image-a-99_1599085892878.jpg 
+title: Chrishell Stause jokes she joined DWTS cast because she doesnt have anything else to lose 
+description: It has been a crazy journey and I would have never imagined this is where I would end up, she told ET. Im hoping this will be a new chapter, something positive. 
+date: 2020-09-03-00-18-53 
+categories: [latest, tv] 
+featured: true 
+--- 
+After ending the latest season of Selling Sunset heartbroken over the end of her marriage to Justin Hartley, Chrishell Stause is looking forward to a fresh start. 
+
+While discussing her new gig on Dancing With The Stars, the 39-year-old reality star admitted she is brimming with excitement and nerves about the opportunity.  
+
+'It has been a crazy journey and I would have never imagined this is where I would end up,' the former soap opera actress told ET on Wednesday. 'I'm hoping this will be a new chapter, something positive.'
+
+Next chapter: While discussing her new gig on Dancing With The Stars, Chrishell Stause admitted she was brimming with excitement and nerves
+
+She added: 'An experience I can kinda throw myself into and just kind of learn a new skill and have fun at the same time. I have no dance experience, so it's going to at least be a laugh for all of us.'
+
+Additionally, she admitted to wanting to 'change the narrative' from her headline-making split with Hartley and feud with her Selling Sunset costar Christine Quinn. 
+
+In July, she also revealed the heartbreaking news that her mother passed away after a battle with lung cancer, after losing her father to the same cancer last April.  
+
+'It has been a crazy journey and I would have never imagined this is where I would end up,' the former soap opera actress told ET on Wednesday
+
+Moving forward: She admitted to wanting to 'change the narrative' from her headline-making split with Hartley and long-lasting feud with costar Christine Quinn (seen in 2017)
+
+'So much has been said that there's nothing else I want to say about [the divorce], and I think that's a really good place to be,' she said of her turbulent year. 'I want to be in a place where everybody just moves on. I'm excited to move past that chapter and onto the next.'
+
+The realtor also joked: 'I've already fallen flat on my face in front of America already, so I really got that out of the way.' 
+
+''I don't have anything else to lose, so it's only going up from here!' she concluded. 
+
+Cheeky: The realtor also joked: ' I've already fallen flat on my face in front of America already, so I really got that out of the way'
+
+''I don't have anything else to lose, so it's only going up from here!' she said of joining ABC's long-running dance competition show
+
+On her Instagram, Stause also spoke directly to her 1.5 million Instagram followers about her rehearsals and feeling so 'excited.'
+
+'I've only ever danced with my girlfriends,' she exclaimed, while gushing about her 'patient' partner, who has not been revealed yet.  
+
+'You guys, I can show you!' she said on her Instagram Story, while recording a video of the dance studio. 'Peep my new kicks, not the most stylish of looks, but here we go!'  
+
+Grateful for every moment: In July, she also revealed that her mother died after a battle with lung cancer, after losing her father to the same cancer last April
+
