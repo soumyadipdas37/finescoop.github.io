@@ -42,8 +42,8 @@
 
     <body>
         <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0" nonce="YZFvQD6Y"></script>
-
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0&appId=612047886170325&autoLogAppEvents=1" nonce="5vbmW42u"></script>
+        
         <div class="theme-light bg-primary text-dark font-body">
 
             <!--Nav-->
