@@ -60,6 +60,8 @@
             @endif
         </div>
         
-        <div class="fb-comments" data-href="http://finescoop.com" data-numposts="10" data-width=""></div>
+        <div class="w-full mx-3">
+            <div class="fb-comments" data-href="http://finescoop.com" data-numposts="10" data-width=""></div>
+        </div>
     </nav>
 @endsection
