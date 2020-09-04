@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 image: https://i.dailymail.co.uk/1s/2020/09/04/15/32780864-0-image-a-2_1599230747589.jpg 
-title: #StandWithSophie hashtag goes viral after Texas girl, 9, claims she is being sexually abused 
+title: StandWithSophie hashtag goes viral after Texas girl, 9, claims she is being sexually abused 
 description: Sophie, 9, is seen in a viral video posted by her biological father claiming her mothers fiancé sexually assaults her while her mother watches. She and her brothers are at the center of custody battle. 
 date: 2020-09-04-16-07-03 
 categories: [latest, news] 
