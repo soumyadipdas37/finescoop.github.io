@@ -27,7 +27,7 @@ return [
     'collections' => [
         'posts' => [
             'sort' => '-date',
-            'path' => '/articles/{-title}',
+            'path' => '/articles/{filename}',
         ],
         'categories' => [
             'path' => '/categories/{filename}',
