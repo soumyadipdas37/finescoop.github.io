@@ -1,6 +1,7 @@
 @extends('_layouts.master')
 
 @push('meta')
+    <link rel="canonical" href="{{ $page->getUrl() }}" />
     <meta property="og:title" content="{{ $page->title }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
