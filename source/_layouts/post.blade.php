@@ -1,6 +1,8 @@
 @extends('_layouts.master')
 
 @push('meta')
+    <meta name="description" content="{{ $page->title }}">
+    <meta name="keywords" content="{{ $page->title }}">
     <link rel="canonical" href="{{ $page->getUrl() }}" />
     <meta property="og:title" content="{{ $page->title }}" />
     <meta property="og:type" content="article" />
