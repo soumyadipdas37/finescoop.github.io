@@ -1,0 +1,48 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/07/12/32872350-0-image-a-25_1599477243904.jpg 
+title: Manchester United want three more signings with Jadon Sancho their priority 
+description: So far this summer, Manchester United have only signed midfielder Donny van de Beek from Ajax. They are reportedly hopeful though of securing three more players before the transfer deadline day. 
+date: 2020-09-07-12-19-05 
+categories: [latest, sports] 
+featured: true 
+--- 
+Manchester United reportedly want to bring in up to three more signings before the transfer window shuts.
+
+The Red Devils have long been chasing Borussia Dortmund's Jadon Sancho who remains their priority signing.
+
+Manchester Evening News (MEN) have reported that the club want three more signings before October 5, but are open to potentially signing a left-back, a centre-back and a centre-forward.
+
+England star Jadon Sancho is still a key target for Manchester United to secure this summer 
+
+Bournemouth youngster David Brooks is seen as a possible alternative signing to Sancho
+
+Ole Gunnar Solskjaer's side are still keen on signing Sancho despite missing a deadline to secure the English winger, who the Germans value at £108m. 
+
+It has previously been reported that discussions between the two parties are ongoing, albeit slowly, and United will not negotiate a fee with until a deal has been reached with the 20-year-old's representatives.
+
+They are said to be looking at a number of alternatives though if they can't get their man. 
+
+The MEN state that David Brooks of Bournemouth has been 'under consideration by United' for more than a year, but deemed him too expensive last season with the Championship side then valuing him at £50m.
+
+United could also pursue Douglas Costa from Juventus on a one-year loan deal as a stop-gap until next summer.
+
+A left back is not a priority signing for them but the MEN say that United have been impressed by Vitaliy Mykolenko of Dynamo Kiev.
+
+The 21-year-old is regular for the Ukrainian side and also broken into the national team.
+
+United are also monitoring Real Madrid left-back Sergio Reguillon who impressed on-loan at Sevilla against the Red Devils in the Europa League last season.
+
+Donny van de Beek remains Manchester United's only signing so far this transfer window
+
+Up front Manchester United will have to look for a striker, especially with Odion Ighalo set to return to China in January.
+
+And at centre-back United will look to get rid of Phil Jones, Chris Smalling and Marcus Rojo and try and get a replacement.
+
+United have been linked with Dayot Upamecano, though the 21-year-old Frenchman just signed a new deal this summer. 
+
+Manchester United have made just the one signing so far this summer, with Donny van de Beek arriving from Ajax for £40m.   
+
+Solskjaer will hope for a few more signings to help his side close the gap to Liverpool and Manchester City at the top of the table. 
+
