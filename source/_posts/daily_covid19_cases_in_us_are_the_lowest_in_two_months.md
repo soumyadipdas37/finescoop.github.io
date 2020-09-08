@@ -1,0 +1,112 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/08/14/32914350-0-image-a-17_1599572484529.jpg 
+title: Daily COVID-19 cases in US are the lowest in two months 
+description: Daily coronavirus cases across the United States are averaging at just over 40,000 per day - a toll not seen since the last week of June. 
+date: 2020-09-08-14-44-28 
+categories: [latest, news] 
+featured: true 
+--- 
+The number of new coronavirus cases per day across the United States are the lowest they have been in more than two months - as health officials warn that large crowds over the Labor Day holiday weekend could potentially spark a surge in COVID-19 cases in the coming days.
+
+Daily coronavirus cases across the country are averaging at just over 40,000 per day - a toll not seen since the last week of June. 
+
+The US recorded just over 24,000 new cases on Monday, which is also the lowest in more than two months. That toll could be a result of a weekend-delay in reporting given there is a similar decline each week.   
+
+Cases are currently declining nationally after plateauing for the last week two weeks following the initial steep decline in July. 
+
+The US now has more than 6.3 million confirmed coronavirus cases. 
+
+Daily coronavirus cases across the country are averaging at just over 40,000 per day - a toll not seen since the last week of June. The US recorded just over 24,000 new cases on Monday, which is also the lowest in more than two months. That toll could be a result of a weekend-delay in reporting given there is a similar decline each week
+
+Deaths from the virus have more than doubled over the summer to nearly 190,000. 
+
+The US added 267 fatalities to its death toll on Monday, which is the lowest since early July. That toll could also be a result of a delay in weekend reporting.  
+
+The average number of daily deaths is now at just over 800, which is down from the peak 2,000 fatalities per day back in April. 
+
+While cases and deaths have been declining nationally for several weeks, health officials said they feared the Labor Day holiday weekend could cause a spike like the one that followed Memorial Day.
+
+The US had about 1.6 million confirmed COVID-19 cases around Memorial Day before backyard parties and other gatherings contributed to a summertime surge.
+
+The current average number of daily cases is double the number ahead of the Memorial Day weekend back in May. 
+
+Many health experts partly blame the July spike on social gatherings held around Memorial Day.  
+
+The average number of daily deaths is now at just over 800, which is down from the peak 2,000 fatalities per day back in April. The US added 267 fatalities to its death toll on Monday, which is the lowest since early July. That toll could also be a result of a delay in weekend reporting
+
+
+
+Coronavirus cases are rising in 22 states, according to a Reuters analysis - a worrisome trend on the Labor Day holiday weekend traditionally filled with family gatherings and parties to mark the end of summer.
+
+As little as three weeks ago, cases were increasing in only three states, Hawaii, Illinois and South Dakota, according to an analysis comparing cases for the two-week period of August 8-22 with the past two weeks. 
+
+Most of the 22 states where cases are now rising are in the less-populated parts of the Midwest and South.  
+
+On a percentage basis, South Dakota had the biggest increase over the past two weeks at 126 percent, reporting over 3,700 new cases. 
+
+Health officials have linked some of the rise to hundreds of thousands of motorcyclists who descended on Sturgis, South Dakota, for an annual rally in August.
+
+Cases are also rising rapidly in Iowa, with 13,600 new infections in the past two weeks, and North Dakota, with 3,600 new cases in the same period.
+
+The increases are masked nationwide by decreasing new infections in the most populous states of California, Florida and Texas. 
+
+In California, cases fell by 39,000 over the past two weeks compared with the prior two weeks. 
+
+That is compared to a 37,000 case increase in the 22 states in the same period. 
+
+South Dakota has had the biggest increase in cases over the past two weeks at 126 percent, reporting over 3,700 new cases. Health officials have linked some of the rise to hundreds of thousands of motorcyclists who descended on Sturgis, South Dakota, for an annual rally in August 
+
+Cases are also rising rapidly in Iowa, with 13,600 new infections in the past two weeks. Some have been linked to the reopening of college campuses across the state
+
+North Dakota has also seen a spike in new cases in the last two weeks with 3,600 new infections reported
+
+Dr Anthony Fauci has said that it is crucial that the outbreak be contained before the cold weather sets in, when influenza cases are likely to spike alongside COVID-19 and more people begin to move indoors, increasing the risk of contagion. 
+
+As a result of the warnings, many big Labor Day gatherings were canceled across the US amid the pandemic.
+
+Downtown Atlanta was quiet as the 85,000 or so people who come dressed as their favorite superheroes or sci-fi characters for the annual Dragon Con convention met online instead. 
+
+Huge football stadiums at places like Ohio State and the University of Texas sat empty. 
+
+Many Labor Day parades marking the unofficial end of summer were called off and masks were usually required at the few that went on. 
+
+'Please, please do not make the same mistakes we all made on Memorial Day weekend. Wear your masks, watch your distance and wash your hands,' Dr Raul Pino, state health director in Orange County, Florida, had said.  
+
+In New Orleans, which had one of the largest outbreaks outside of New York City this spring, city officials reminded residents that COVID-19 doesn't take a holiday after they received 36 calls about large gatherings and 46 calls about businesses not following safety rules on Friday and Saturday.
+
+'This is not who we are, and this is not how we - as a community - get back to where we want to be,' the city said.
+
+SANTA MONICA, CALIFORNIA: People gather on the beach on the second day of the Labor Day weekend amid a heatwave in Santa Monica, California on Sunday
+
+SAN FRANCISCO, CALIFORNIA: Many big Labor Day gatherings were canceled across the US and health authorities pleaded with people to keep their distance from others so as not to cause another coronavirus surge like the one that followed Memorial Day
+
+ATLANTA, GEORGIA: Rapper Future attends The Biggest Labor Day Takeover at Compound on Saturday in Atlanta 
+
+LOUISVILLE, KENTUCKY: Security personnel talk with a crowd that gathered on the porch of a house across from Churchill Downs before the 146th running of the Kentucky Derby on Satursday
+
+ATLANTIC CITY, NEW JERSEY: People wearing masks wait in line at the Steel Pier on Saturday
+
+In South Carolina, which was a hot spot of contagion over the summer before cases started to decline in early August, 8,000 fans, including Gov Henry McMaster, were allowed to attend the NASCAR race at the Darlington Raceway on Sunday. 
+
+State officials approved a socially distant attendance plan at the track, which can hold 47,000 people.  
+
+It was the biggest gathering in the state since the outbreak started six months ago. Many rows and seats were kept empty to keep groups of fans apart, and people were asked to wear masks.
+
+In New York City, police raided an illegal bar in Brooklyn and found nearly 300 people inside, according to Fox 5. Sheriff's deputies broke up the gathering at the bar on 61 Street in Borough Park at 2am on Sunday. 
+
+Authorities said around 281 people were found inside, including one child. Police said the bar had its liquor license revoked in 2019. 
+
+In Arkansas, bars were reportedly busier than usual, but most of the people coming in for the Labor Day weekend were not college students as officials initially feared. 
+
+Dickson Street Pub manager, Kendall Byrd, told 4029TV: 'They're not breaking any of the guidelines that we're asking them to follow. Everyone has been wearing masks, they are super polite.'
+
+Meanwhile in Las Vegas, there have been reports of people not social distancing while out and enjoying the holiday weekend.  
+
+'The tourists that are coming into town and are staying not six feet away from each other, but social distancing six inches away from each other,' Brian Slipock, the owner of Jackson's Bar and Grill, told KTNV.
+
+Rick Pollock, the owner of Edge of Town Bar and Grille, told the station that he's worried that the large holiday crowds will hurt small businesses in the long run. 
+
+'The common-sense side of it doesn't seem right that there's thousands of people on Fremont Street or a hotel pool, and that's okay,' Pollock said. 'We're handcuffed and it's devastating, another shutdown and I don't think most of us are going to make it, honestly.'
+
