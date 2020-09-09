@@ -33,6 +33,22 @@
                 {{ $page->title }}
             </span>
         @endslot
+        @slot('social')
+            <div class="flex">
+                <a
+                    href="https://www.facebook.com/sharer/sharer.php?display=page&u={{ $page->getUrl() }}&redirect_uri={{ $page->getUrl() }}"
+                    target="_blank"
+                >
+                    <i class="mdi mdi-facebook text-3xl"></i>
+                </a>
+                <a
+                    href="http://www.twitter.com/share?url={{ $page->getUrl() }}"
+					target="_blank"
+				>
+                    <i class="mdi mdi-twitter text-3xl"></i>
+                </a>
+            </div>
+        @endslot
     @endcomponent
     <!-- // Breadcrumbs !-->
 
