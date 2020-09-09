@@ -56,7 +56,7 @@
 
                 <div class="flex flex-col lg:flex-row">
                     @include('_layouts.partials.sidebar')
-                    <div class="w-full lg:w-3/5 flex flex-1 flex-col lg:px-6 pt-2 lg:pt-10" id="content">
+                    <div class="w-full lg:w-3/5 flex flex-1 flex-col lg:px-6 pt-4" id="content">
                         @yield('body')
                     </div>
                     @include('_layouts.partials.related')
