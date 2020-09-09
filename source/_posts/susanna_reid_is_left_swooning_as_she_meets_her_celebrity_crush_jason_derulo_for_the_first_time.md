@@ -1,0 +1,54 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/09/10/32955382-0-image-a-36_1599642611897.jpg 
+title: Susanna Reid is left swooning as she meets her celebrity crush Jason Derulo for the first time 
+description: The TV presenter, 49, was teased by her co-host Piers Morgan as she couldnt contain her excitement when Jason, 30, joined them via video link. 
+date: 2020-09-09-10-24-40 
+categories: [latest, tv] 
+featured: true 
+--- 
+Susanna Reid was left swooning on Tuesday's episode of Good Morning Britain as she met her celebrity crush Jason Derulo for the first time. 
+
+The TV presenter, 49, was teased by her co-host Piers Morgan as she couldn't contain her excitement when Jason, 30, joined them via video link. 
+
+Piers told the singer: 'I’ve never seen her more trembling with excitement as she is this morning.' 
+
+Crush: Susanna Reid, 49, was left swooning on Tuesday's episode of Good Morning Britain as she met her celebrity crush Jason Derulo, 30, for the first time
+
+Jason was clearly pleased with Susanna's affections as he purred: 'Hey Susanna, how you doing?'
+
+Piers joked: 'Immediately, she’s putty in your hands.'
+
+Jason laughed and Susanna said: 'It's great to see you Jason,' before she admitted she was disappointed not to get a glimpse of his mansion as he was sitting in front of a black curtain.
+
+The conversation moved to TikTok, with Piers and Susanna asking the Savage Love singer if he was concerned the app could be shut down by President Trump over privacy concerns.
+
+Interview: Susanna was teased by her co-host Piers Morgan as she couldn't contain her excitement when Jason joined them via video link.
+
+Susanna said: 'I'm obsessed with Tiktok, way too much time, Savage Love is all over TikTok - everyone’s done the video. but many people don’t know what it is, apart from president trump wants it banned. can you explain?'
+
+Jason replied: 'TikTok is wonderful, platform for diff people to thrive depending on what interests are you can thrive, if you like dancing, art, cooking do that. 
+
+'Anything can go viral if it's entertaining or insightful enough. and the algorithm can guess what you like as you move through.'
+
+Susanna asked: 'Thoughts on it being banned?'
+
+Chuffed: Piers told the singer: 'I’ve never seen her more trembling with excitement as she is this morning'
+
+Interview: Jason was clearly pleased with Susanna's affections as he purred: 'Hey Susanna, how you doing?'
+
+Disappointed: Susanna said: 'It's great to see you Jason,' before she admitted she was disappointed not to get a glimpse of his mansion as he was sitting in front of a black curtain
+
+Jason replied: 'I'm not going to get all political, but I think a lot of people would be upset and sad that its going. I don't think TikToks going, its embedded in so many cultures around the world, i can’t see it going.'
+
+Changing topics, Piers asked: 'How’s LA? I’ve a house there but haven’t been able to get there because of corona.'
+
+Jason poked fun at Piers' second home remark, saying: 'Isn’t this how rich people talk? (joking) Taking about our second homes we've not been able to get too... 
+
+He added: 'It's been good for losing weight, sit outside for 30 seconds and you’ll come back slimmer.'
+
+Pier responded: 'I need to get back to my house then by the sounds of it!' 
+
+Social media: Asked if he's worried about President Trump banning TikTok, Jason said: 'I don't think TikToks going, its embedded in so many cultures around the world, i can’t see it going'
+
