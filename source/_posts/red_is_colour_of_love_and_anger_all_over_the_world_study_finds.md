@@ -1,0 +1,72 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/10/16/33015978-0-image-a-49_1599751234009.jpg 
+title: Red is colour of love and anger all over the world, study finds 
+description: Researchers from the Johannes Gutenberg University surveyed 4,598 people from 40 countries for their views on the link between different emotions and colours. 
+date: 2020-09-10-16-30-37 
+categories: [latest, science] 
+featured: true 
+--- 
+Red represents both love and anger throughout most of the world, according to a new study into how different cultures perceive the link between emotion and colour. 
+
+Researchers from the Johannes Gutenberg University surveyed 4,598 people from 40 countries for their views on the link between different emotions and colours.
+
+They found some differences between nations - for example people in countries with less sunlight associate yellow more closely with joy than residents of sunnier places.
+
+Despite a few differences, the authors say their survey - the largest of its kind - revealed that colour-emotion associations are 'surprisingly similar' worldwide. 
+
+Cultures geographically further apart were more likely to have notable differences in the way they linked colour and emotion, the authors found. 
+
+Red represents both love and anger throughout most of the world, according to a new study into how different cultures perceive the link between emotion and colour.
+
+This graph shows the likelihood of a colour being linked to an emotion - for example grey and black are commonly linked to sadness and fear whereas red is linked to love and anger
+
+Many of us 'see red,' 'feel blue,' or 'turn green with envy,' and the German team wanted to find out whether these are 'fundamental feelings' to all of humanity. 
+
+Most colours had no very strong emotion attached, rather a range of emotions that depend on culture.
+
+Some colours had universal emotions: 
+
+Dr Daniel Oberfeld-Twistel, involved in the study, said it allowed them to gather a comprehensive overview of the links between emotion and colour. 
+
+Participants were asked to fill out an online questionnaire, which involved assigning up to 20 emotions to twelve different colour terms as part of the survey. 
+
+They were also asked to specify the intensity with which they associated the colour term with the emotion. 
+
+The researchers then calculated the national averages for the data and compared these with the worldwide average. 
+
+'This revealed a significant global consensus,' summarised Oberfeld-Twistel.
+
+'Throughout the world the colour of red is the only colour that is strongly associated with both a positive feeling - love - and a negative feeling - anger,' he said.
+
+The one colour that had very little emotion impact on the people involved in the study was brown, according to the authors. 
+
+The scientists also noted some national peculiarities. For example, the colour of white is much more closely associated with sadness in China than it is in other countries, and the same applies to purple in Greece. 
+
+'This may be because in China white clothing is worn at funerals and the color dark purple is used in the Greek Orthodox Church during periods of mourning,' explained Oberfeld-Twistel. 
+
+In addition to such cultural peculiarities, the climate may also play a role, the team found, suggesting the emotions linked to yellow depend on the level of sunlight.
+
+According to the findings from another of the team's studies, yellow tends to be more closely associated with the emotion of joy in countries that see less sunshine, while the association is weaker in areas that have greater exposure to it.
+
+According to Oberfeld-Twistel, it is currently difficult to say exactly what the causes for global similarities and differences are. 
+
+'There is a range of possible influencing factors: language, culture, religion, climate, the history of human development, the human perceptual system.' 
+
+They found some differences between nations - for example people in countries with less sunlight associate yellow more closely with joy than residents of sunnier places
+
+Volunteers were asked to link emotion to colour. When it came to red the majority linked it to both love and anger over other emotions
+
+Many fundamental questions about the mechanisms of colour-emotion associations have yet to be clarified, he continued. 
+
+By using an in-depth analysis that included the use of a machine learning approach, the scientists have already discovered that the differences between individual nations are greater the more they are geographically separated.
+
+The gap between colour-emotion links also widens the greater the differences between the languages spoken between two cultures.
+
+'This study highlights robust universal colour-emotion associations, further modulated by linguistic and geographic factors,' the team wrote. 
+
+'These results pose further theoretical and empirical questions about the affective properties of colour and may inform practice in applied domains, such as well-being and design.'
+
+The findings have been published in the journal Psychological Science. 
+
