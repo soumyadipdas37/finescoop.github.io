@@ -1,0 +1,50 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/12/00/33075976-0-image-a-124_1599867425080.jpg 
+title: Jose Mourinho fires a warning to Tottenham transfer targets as he seeks added firepower 
+description: Mourinho is eager to bring in an extra forward before the closure of the transfer window, but some players, such as Red Bull Salzburgs Patson Daka, have turned down the chance to join Tottenham. 
+date: 2020-09-12-00-46-18 
+categories: [latest, sports] 
+featured: true 
+--- 
+Tottenham manager Jose Mourinho has stated that he doesn't want to sign a striker who is afraid of competing with the likes of Harry Kane and Son Heung-min. 
+
+Mourinho is eager to bring in an extra forward before the closure of the transfer window, but some players, such as Red Bull Salzburg's Patson Daka, have turned down the chance to join Tottenham.
+
+Despite Tottenham's need for additional attacking firepower, Mourinho is adamant that any prospective new signing must have the right attitude. 
+
+Tottenham manager Jose Mourinho has sent a major warning to the club's transfer targets
+
+Mourinho says he doesn't want to sign players who are afraid to compete with Harry Kane
+
+As reported by The Mirror, Mourinho said: 'The point is not me convincing the striker is the striker convincing me.
+
+'And if the striker is afraid to come to Tottenham, and the striker is afraid of competition then I don't want a striker.
+
+'If he says I don't want to go because I don't want to be in a squad where we have Harry Kane, Son, Lamela, Lucas Moura then, goodbye.'
+
+Mourinho is confident that Tottenham will be able to bring in a striker. 
+
+'Yes, I want, I need a striker. The club know that I want a striker and they want a striker. Are we going to get one? I believe so. For the balance of the squad, we need it.
+
+'Are we going to get one? I believe so, I honestly believe so.'
+
+Patson Daka of Red Bull Salzburg is one of the strikers that has turned Tottenham down
+
+Tottenham are also set to miss out of the signing of Arkadiusz Milik, who is valued at £27.6m
+
+Mourinho has criticised a fixture schedule that could see his side play nine game s in 22 days
+
+
+
+Tottenham look to set to miss out on the signing of Arkadiusz Milik as they aren't willing to pay Napoli's asking price of £27.6m. 
+
+Meanwhile, Mourinho is fuming about a fixture schedule that could see Tottenham play nine games in the first 22 days.
+
+Mourinho demanded to know who devised the plan – which he branded 'not human' - and threatened to send his youth team out in the Carabao Cup.
+
+'If I think too much about it I will get depressed,' said Spurs boss. 'I want to go into every match with a smile, but I asked my boys which of them thinks they can play all these nine matches for 90 minutes and nobody told me, "I can".
+
+'So we all are very, very aware that it is impossible to do it. It is not human. In the end, we end up asking who are the illuminated people making these decisions? I would like to know because in this moment they hide.'
+
