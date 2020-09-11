@@ -1,0 +1,72 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/11/15/33058366-0-image-a-26_1599833845553.jpg 
+title: Jeff Stelling says women will struggle to appear on his Soccer Saturday show 
+description: Sky Sports recently sacked regulars Matt Le Tissier, Charlie Nicholas and Phil Thompson and have a new revamped line-up. Regular host Stelling will still be joined by Paul Merson. 
+date: 2020-09-11-15-29-12 
+categories: [latest, sports] 
+featured: true 
+--- 
+Soccer Saturday host Jeff Stelling has admitted that it will be difficult for women to appear on the show.
+
+Sky Sports last month sacked regulars Matt Le Tissier, Charlie Nicholas and Phil Thompson and have a new revamped line-up.
+
+Regular host Stelling will still be joined by Paul Merson and Chris Kamara, as well as new additions of Sue Smith, Clinton Morrison, Alan McInally and Glen Johnson.
+
+Sky Sports' Jeff Stelling has admitted that it will be difficult for women to appear on the show
+
+Former Doncaster and England footballer Sue Smith will be on Soccer Saturday this season
+
+Sky Sports commentator Bianca Westwood has been commentating on the show for years
+
+Former Arsenal and England player Alex Scott has received abuse whilst as a pundit
+
+Adebayo Akinfenwa, Tim Sherwood, Robbie Fowler and Joleon Lescott will also be part of the show this season.
+
+When Stelling was asked by the Guardian whether women would struggle on the show he said: 'Oh God, yes. The response on social media is horrendous. Whether it be Sue Smith or Alex Scott the criticism is horrendous and totally unjustified. 
+
+'When we had Soccer Specials, some of the women who'd come in had been very reluctant. 
+
+Jeff Stelling (front left) with (back L-R) Charlie Nicolas, Phil Thompson, Matt Le Tissier, Paul Merson and Tony Cottee (front-right)
+
+Matt Le Tissier was last month axed from his role on Sky Sports' Soccer Saturday show
+
+Like Le Tissier, Charlie Nicholas also received the chop from Sky ahead of next season
+
+'They knew what the response would be, regardless of how good they were. There's this blinkered idea – 'It's a woman, what can she know about football?'  
+
+“Twenty years ago I was also sceptical. But my view has changed and obviously we’ve had very good reporters like Michelle Owen, Bianca Westwood and Jacqui Oatley. They’re really experienced.' 
+
+Stelling was also asked whether he considered resigning after his 'best mates' were sacked. 
+
+'It would be honest to say that. Yes, of course. Whether I want to effectively start again is another question,' Stelling said.
+
+Long-serving pundit and former Liverpool captain Phil Thompson has also left the show
+
+'We've done it with the first team we had – Bestie [George Best], Marshy [Rodney Marsh], Frank [McLintock] and Clive [Allen] and then we built another team [with his three sacked friends and Paul Merson]. I'm 65. I've had a fantastic run.'
+
+The presenter was stunned to be told of Sky’s decision to axe the Soccer Saturday veterans, which came out of the blue as all three had one year left on their contracts. 
+
+Stelling’s contract is understood to contain a lengthy notice period so he may start the season presenting the show unless he reaches an agreement with Sky Sports. 
+
+The outspoken Tim Sherwood will also soon be joining the popular weekend show
+
+Roving reporter Chris Kamara also opened up about the reshuffle. 'Obviously I'm gutted, absolutely gutted,' he said of the decision to sack the trio. 'And I know they are,' Kamara, 62, told Sportsmail. 'We were such a good team and it was all going well.
+
+'Decisions were made, we don't have any say in those. Whoever made them has done it and the boys accept it.
+
+'I can honestly say they are the best fellas you could ever wish to meet. They are top-drawer and it's been a great time to have worked with them over the past 15 years or so.'
+
+Former Arsenal man Merson also reportedly considered quitting Soccer Saturday after his pals were sacked.
+
+Glen Johnson (centre) will also form part of a new-look show following a summer shake-up
+
+Merson is the last man remaining from the four regular pundits on Sky Sports' results show.
+
+As reported by The Times, former Arsenal and Aston Villa star Merson considered leaving the programme after discovering the news. 
+
+There was another notable departure from Sky when Scott Minto, the former Chelsea and West Ham defender who has presented coverage of the EFL, Spanish football and the Carabao Cup, was also dismissed in the same week after 13 years with the broadcaster. 
+
+Charismatic Wycombe Wanderers star Adebayo Akinfenwa is also set for Soccer Saturday
+
