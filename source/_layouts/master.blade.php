@@ -15,8 +15,8 @@
 	<link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg?v=yy4L6R3MP3" color="#5bbad5">
 	<link rel="shortcut icon" href="/assets/images/favicon.ico?v=yy4L6R3MP3">
 	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-config" content="/assets/images/browserconfig.xml?v=yy4L6R3MP3">
 	<meta name="theme-color" content="#ffffff">
-	<link rel="manifest" href="/manifest.json">
         <link href="/feed/feed.atom" type="application/atom+xml" rel="alternate" title="{{ $page->siteName }} Atom Feed">
         <!--begin::Fonts -->
         <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
