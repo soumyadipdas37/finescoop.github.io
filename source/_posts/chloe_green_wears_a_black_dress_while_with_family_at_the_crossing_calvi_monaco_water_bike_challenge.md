@@ -1,0 +1,56 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/12/17/33096318-0-image-a-4_1599926761209.jpg 
+title: Chloe Green wears a black dress while with family at the Crossing Calvi Monaco Water Bike Challenge 
+description: The heiress, 29, and her mother, 71, were on hand to share their support for Chloes brother Brandon who appeared to have taken part in the race in Corsica, France, on Saturday. 
+date: 2020-09-12-17-47-27 
+categories: [latest, tv] 
+featured: true 
+--- 
+Chloe Green was seen enjoying The Crossing Calvi Monaco Water Bike Challenge with her mother Lady Tina and brother in Corsica, France, on Saturday.
+
+The heiress, 29, and her mother, 71, were on hand to share their support for Chloe's brother Brandon who appeared to have taken part in the race.
+
+Putting on a stylish display for the family's sun-soaked day out, Chloe slipped into a chic black summer dress that had ruched detailing.
+
+Family outing: Chloe Green looked stylish in a black dress as she and mother Tina supported her brother Brandon (centre) at the Crossing Calvi Monaco Water Bike Challenge on Saturday
+
+Chloe stepped out in a pair of white sandals, and accessorised with an ankle bracelet and an array of necklaces.
+
+She pulled her blonde locks back into a loose bun, and used a  light palette of make-up to embrace her natural beauty for the occasion. 
+
+Tina, meanwhile, looked effortlessly chic in a blush pink sarong that she wore over her waist and teamed with a white swimsuit.
+
+She completed the look by wearing a colourful kimono jacket, while she shielded her eyes with a pair of stylish shades. 
+
+Chic: Chloe pulled her blonde locks back into a loose bun, and used a light palette of make-up to embrace her natural beauty for the occasion
+
+Summer ready: Tina, meanwhile, looked effortlessly chic in a blush pink sarong that she wore over her waist and teamed with a white swimsuit
+
+Earlier this summer, Chloe - who split from Jeremy last year - confirmed her new romance with yacht broker Manuele Thiella, as they smooched on her father Phillip's mega-yacht. 
+
+The former Made In Chelsea star was pictured passionately kissing Manuele on board her father's £118 million vessel in the South of France. 
+
+It won't have been Manuele's first voyage as he's the CEO of company Royal Yacht Brokers, which boasts clients such as Madonna, Chrissy Teigen and Alicia Vikander.
+
+Seeing them off: Chloe and Tina saw Brandon off at the start of the bike challenge
+
+The businessman has been dating Chloe since 2019 with the pair even spending the festive period together alongside Chloe's mum Tina, 70, and other 'best friends and family.' 
+
+At the time, a source said: 'Chloe has known Manuele for months and they have always been very close friends.   
+
+'They have a lot in common; they're both parents and are from similar worlds, Chloe is very happy with him. He's very much been accepted into her family.'  
+
+A case of the ex: Chloe split from ex-fiancé Jeremy Meeks in June 2019, following a two-year romance. The couple share son Jayden, two
+
+The couple celebrated Chloe's birthday together in March, with Manuele pictured smiling alongside the heiress and her brother Brandon, 27.  
+
+Chloe split from ex-fiancé Jeremy in June 2019, following a two-year romance. The couple share a two-year-old son, Jayden, while Manuele has a daughter from a previous relationship with a former partner.
+
+After her split from hot felon Jeremy, Chloe briefly dated Italian polo captain Rommy Gianni, who she was also spotted kissing on board her dad's super yacht. 
+
+Chloe was photographed in Sardina with Rommy last August – just two months after reports of her split from Jeremy.
+
+Off the market: Earlier this summer, Chloe - who split from Jeremy last year - confirmed her new romance with yacht broker Manuele Thiella (pictured in June)
+
