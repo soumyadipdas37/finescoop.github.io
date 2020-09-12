@@ -1,0 +1,122 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/11/14/33056772-0-image-a-130_1599831231055.jpg 
+title: Can Jack Wilshere salvage his career as West Ham move the cancel his contract? 
+description: Itll be 12 years to the day this Sunday since a 16-year-old Jack Wilshere made his Arsenal debut with the world at his feet. It hasnt quite gone according to plan since that day. 
+date: 2020-09-12-14-18-43 
+categories: [latest, sports] 
+featured: true 
+--- 
+It'll be 12 years to the day this Sunday since Jack Wilshere - 16 years of age but far from baby-faced - entered the consciousness of the football-watching public.
+
+Arsenal were coasting to victory against Blackburn Rovers at Ewood Park. Three goals ahead, it was the perfect opportunity for Arsene Wenger to introduce English football's latest wonderkid.
+
+Wilshere duly became Arsenal's youngest-ever league debutant when he replaced Robin van Persie with six minutes left on the clock. It seemed the teenager had the world at his feet.
+
+Jack Wilshere's days as a West Ham player appear to be numbered ahead of the new season 
+
+Manager David Moyes (left) is desperate to raise extra funds to use in the transfer market
+
+We all know what happened next. Wilshere never came close to fulfilling his enormous potential or scaling heights within the game as everyone expected him to.
+
+It's the classic football story of 'what might have been', the sorry saga of dreams wrecked by chronic bad luck with injuries, of false dawns of form and fitness, and the odd indiscretion along the way.
+
+Back then, we all hoped that Wilshere would be in the prime of his career at 28. Instead it looks increasingly likely the midfielder will be searching for a new club.
+
+Wilshere has 10 months left to run on his West Ham contract but finds himself in discussions to cancel it by mutual consent.
+
+The Hammers want to put his £100,000-a-week wages to better use by allowing manager David Moyes to bring in some new signings before the window shuts.
+
+Wilshere has been brutally honest about how his two years at West Ham - after joining on a free from Arsenal in June 2018 - have fallen substantially short of expectations.
+
+Wilshere featured in West Ham's 2-1 pre-season victory over Brentford last month
+
+The midfielder has grafted hard in pre-season but looks like he'll need another club 
+
+
+
+Joined July 9, 2018
+
+Matches: 18 Starts: 8
+
+Minutes: 747
+
+Goals: 1 Assists: 1
+
+'It hasn't worked out for me, I'll be honest. It hasn't gone the way I wanted it to, I've missed too much football, I haven't played enough games,' he told Stadium Astro.
+
+'I want to get back on track, get my career back on track, get playing games week-in, week-out and start to feel like a footballer again.'
+
+He's played just 18 matches and 747 minutes for West Ham over those two years. One goal and one assist has been the scant reward for yet more months lost to injury.
+
+Ankle surgery sidelined Wilshere for the majority of the 2018-19 campaign before groin problems ruled him out for most of last season.
+
+Even a return to fitness post-restart resulted in a mere 35 minutes. It was abundantly clear he was surplus to Moyes's plans and the developments over his exit plan confirmed it.
+
+'Work hard in silence and be ready for whatever happens next,' Wilshere wrote cryptically on Instagram on Thursday alongside a picture of himself smiling at the training ground.
+
+Wilshere burst onto the scene as a 16-year-old at Arsenal back at the start of 2008-09
+
+He was tipped to become a club legend at Arsenal and described as England's great hope 
+
+But Wilshere's progress was hampered by a succession of injuries throughout his career
+
+But what will happen next? Wilshere speaks about needing game time but, realistically given a career that has featured 16 different injury setbacks, what Premier League club will take a gamble on him?
+
+Leaving Arsenal for West Ham two years ago seemed a no-brainer but things haven't really moved on.
+
+Wilshere may well have to drop down a league to the Championship to secure that run of games he desires - and that will mean a chunky wage cut.
+
+There have been whispers of interest from Major League Soccer in the United States but surely it's a little too soon for that.
+
+Wherever Wilshere ends up - and there's certain to be plenty of interest - he's long overdue a change in his injury misfortune.
+
+The midfielder announced himself with a brilliant display against Barcelona back in 2011
+
+Wilshere made his England debut in August, 2010, and won 34 caps for his country 
+
+Wilshere came off the bench as England were humiliated at Euro 2016 by Iceland
+
+There have been so many patches of form when it looks as though Wilshere's game is gathering momentum again, only for another injury to bring a shuddering halt.
+
+Even a year ago, Wilshere was enjoying a run of games for the Hammers. He started in midfield alongside Declan Rice against Manchester City on the opening day of the season, came off the bench in a win over Manchester United.
+
+Against Newport County in the second round of the Carabao Cup, Wilshere ran the show and scored. Yes, it was only Newport but it pointed to brighter things.
+
+Then the groin injury struck - a new problem, as it happens, in his extensive collection - and that was another half-season sitting in the stands.
+
+As his time with West Ham draws to a close, the only thing Wilshere has in common with that 16-year-old hopeful is that they both wore No 19.
+
+Wilshere scores against Newport in the Carabao Cup a year ago but injury strife loomed again
+
+Sitting out most of the season with a groin injury, Wilshere only returned to action in June
+
+Wenger summed up his career by saying 'he's only been stopped by a series of injuries.'
+
+The Barcelona icon Xavi, who knew a thing or two about running a midfield, once said of him: 'If he can overcome injuries, he can go on and be one of the best midfield players in the world.'
+
+Sadly, that 'if' has loomed over the career of a player who was still 16 when he scored his first Arsenal goal in the League Cup against Sheffield United and made his England debut at 18.
+
+He subsequently went to the 2014 World Cup and was excellent in Euro 2016 qualifying.
+
+Wilshere came on for Eric Dier at half-time during that humiliating exit to Iceland after Roy Hodgson controversially picked him following an injury-plagued season of just three Arsenal appearances.
+
+The midfielder scored the Premier League Goal of the Season against Norwich in 2013-14
+
+It's actually remarkable given his injury absences that Wilshere won 34 England caps but club highlights have been few and far between.
+
+He finished off that dazzling one-touch move against Norwich in October 2013, winning Match of the Day's Goal of the Season competition.
+
+It's also often forgotten that he won the following season's award for a 'rocket' of a finish against West Brom, to quote John Motson.
+
+In total, Wilshere has suffered 16 separate injury problems during the course of his career
+
+But the next spell on the sidelines was never too far around the corner and such breathtaking moments were swamped by misery and frustration.
+
+Each time, Wilshere had to pass 'Go' in his career once more and here we are once again.
+
+Getting out of West Ham and to a club - any club - that can offer a reliable run of games when Wilshere is fit and available - as the first choice in midfield - is essential.
+
+He has now recovered from his groin injury and has a full pre-season under his belt. It is to be hoped someone recognises the positive moments from Wilshere's past and offers him a fresh opportunity for the future.
+
