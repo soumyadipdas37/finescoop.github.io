@@ -1,0 +1,62 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/12/15/33094432-0-image-a-229_1599922286653.jpg 
+title: Gemma Collins wows fans with her rapping skills as she performs rendition of Craig David tune 
+description: The former TOWIE star, 39, took to the stage at Events City in Manchester where she was hosting a drive-in Bingo event to belt out the catchy hit Woman Trouble. 
+date: 2020-09-12-15-54-00 
+categories: [latest, tv] 
+featured: true 
+--- 
+She's made no secret of her powerful singing voice and West End ambitions.
+
+And Gemma Collins wowed fans with her singing skills on Thursday night as she performed a rendition of Craig David's tune Woman Trouble.
+
+The former TOWIE star, 39, took to the stage at Events City in Manchester where she was hosting a drive-in Bingo event to belt out the catchy hit. 
+
+Commanding attention: Gemma Collins wowed fans with her rapping skills on Thursday night as she performed a rendition of Craig David's tune Woman Trouble
+
+Showing off her slimmed-down frame, Gemma donned a black bardot jumper dress, black leggings and matching sliders as she danced and larked around in front of the crowd.
+
+Taking to Instagram to explain how much she had enjoyed the evening she wrote: 'I have always been a GARAGE GIRL! This is how weeeee DO .... tonight I have had the time of my life with this lot @officialeast17 and @playojo car park bingo, thank you so much for the fun.
+
+'It's moments like this that take me back to the Romford girl who loved garage and partying .... I'm still the same. It's been so nice to let my hair down. I've been working 24/7 non stop however nights like tonight really make it all worth it such fun!' 
+
+Performer: The former TOWIE star, 39, took to the stage at Events City in Manchester where she was hosting a drive-in Bingo event to belt out the catchy hit
+
+Work it: Showing off her slimmed-down frame, Gemma donned a black bardot jumper dress, black leggings and matching sliders as she danced and larked around in front of the crowd
+
+The TV personality stole the show as she hosted the one-off event the mark the launch of PlayOJO's bingo offer, calling out the numbers before her Craig David performance.
+
+Gemma appeared in great spirits as she took the helm at the three-hour gathering, which saw over 150 socially distanced vehicles pack into the outdoor space.  
+
+At one point, she event jumped on the DJ decks as she was determined to give the attendees a great show. 
+
+Dream come true: Taking to Instagram to explain how much she had enjoyed the evening she wrote: 'I have always been a GARAGE GIRL!'
+
+Taking to the stage: The self-professed diva was in good company at the event as 90s legend Mr. Motivator and boyband East 17 were on hand to entertain the crowds
+
+Ambition: Gemma explained in an Instagram post that she 'had the time of her life' at the bingo event
+
+And the self-professed diva was in good company at the event as 90s legend Mr. Motivator and boyband East 17 were on hand to entertain the crowds. 
+
+Meanwhile, Gemma showed off her three stone weight loss as she promoted her new plus size range with InTheStyle in an Instagram post on Tuesday.
+
+The Diva Forever star shared a slew of stylish snaps on social media, and she looked sensational in a long-sleeved black floral dress. 
+
+In her element: The TV star stole the show as she hosted the one-off event the mark the launch of PlayOJO's bingo offer
+
+New job? Gemma appeared in great spirits as she took the helm at the three-hour gathering, which saw over 150 socially distanced vehicles pack into the outdoor space
+
+In a second snap Gemma showed off her slimmed down figure in a leopard print dress that was cinched at the waist.
+
+While she opted for a more casual look for the third snap, as she teamed a black shirt with distressed denim jeans while posing at a chic hotel.
+
+Gushing about the 'huge success' of her previous endeavours with the label, Gemma wrote in the caption: '2 days to go babyyyy GC X @inthestylecurve I’ve got my first proper clothing range dropping after the huge success of the memayyyy range!! 
+
+'It launches on Thursday 6pm on the @inthestyle app!! Exclusive sizes 16-28 ladies and it’s amazing!! Perfect prints and shapes for autumn!' 
+
+Fun times: At one point, she event jumped on the DJ decks as she was determined to give the attendees a great show
+
+Stunning: Meanwhile, Gemma showed off her three stone weight loss as she promoted her new plus size range with InTheStyle in an Instagram post on Tuesday
+
