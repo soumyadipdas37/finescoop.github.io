@@ -1,0 +1,90 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/14/00/33139566-0-image-a-22_1600038729131.jpg 
+title: Pregnant Anna Heinrich enjoys Byron Bay babymoon with Tim Robards at The Farm 
+description: Anna Heinrich and Tim Robards are due to welcome a little girl into the world in early November 2020. And it appears the couple are enjoying an extended babymoon in Byron Bay. 
+date: 2020-09-14-00-18-54 
+categories: [latest, tv] 
+featured: true 
+--- 
+Anna Heinrich and Tim Robards are due to welcome a little girl into the world in early November 2020.
+
+And it appears the couple are currently enjoying an extended babymoon in New South Wales' laid-back coastal town of Byron Bay.
+
+Pregnant Anna, 33, was seen with her hunky husband Tim, 37, on Friday at local hipster hot spot, The Farm.
+
+Byron Bay babymoon: Pregnant Anna Heinrich (right) looked radiant in a loose-fitting white top on Friday as she visited The Farm with husband Tim Robards (left)
+
+Anna looked effortlessly radiant on the day in a loose white button-up blouse that covered her growing bump.
+
+Despite the warmer temperatures, Anna wore a thin camel-hued coat and ripped denim jeans for the outing.
+
+She placed her blonde hair up in a messy ponytail and shielded her eyes with a pair of stylish round-lens shades.
+
+Meanwhile, Tim showed off his bulging biceps in a blue T-shirt, which he paired with navy shorts and crisp-white sneakers.
+
+Effortlessly chic! Anna was positively glowing on the day in a white button-up blouse that covered her growing bump
+
+Covering up: Despite the warmer temperatures, Anna wore a thin camel-hued coat and ripped denim jeans for the outing
+
+Looking good: Tim showed off his bulging biceps in a blue T-shirt, which he paired with navy shorts and crisp-white sneakers
+
+Looking as loved-up as ever, Tim kept a protective arm over his pregnant wife as he walked the grounds of the sprawling venue.
+
+The couples' extended stay in Byron Bay sparked rumours they may have temporarily moved to the town frequented and favoured by Hollywood's megastars. 
+
+However, a caption on Anna's Instagram in August suggested the relocation was temporary and purely a much-needed holiday for the pair.
+
+'Getting out of Sydney is a luxury these days and I’m certainly not taking it for granted. Good to finally spend time with my hubby,' she wrote at the time. 
+
+Daily Mail Australia has contacted Tim Robards and Anna Heinrich for comment.
+
+Relaxed: Anna placed her blonde hair up in a messy ponytail and shielded her eyes with a pair of stylish round-lens shades
+
+Cute: Looking as loved-up as ever, Tim kept a protective arm over his pregnant wife as he walked the grounds of the sprawling venue
+
+Tim and Anna were joined on the outing by Anna's sister Andrea and former Bachelor star friend Lisa Hyde, plus their families.
+
+Anna's sister Andrea welcomed son Oliver in December, and the little boy was being carried around the property by his father, Andrea's fiance Tynan Diaz. 
+
+Meanwhile, Lisa Hyde, who starred on the 2014 season of The Bachelor with Blake Garvey, was there with her adorable daughter Myja-Jae.
+
+Born in July 2019, the youngster looked cute as a button with her hair in a pink hair-tie. 
+
+Family outing: Tim and Anna were joined on the outing by Anna's sister Andrea, her fiance Tynan Diaz, and their son Oliver
+
+Reality TV friends: Despite appearing on separate seasons of The Bachelor Anna was also joined by friend Lisa Hyde (right) - who starred on the 2014 season with Blake Garvey
+
+Mummy and me: Bachelor star Lisa Hyde balanced her adorable daughter Myja-Jae on her hip during the outing
+
+Next big role - fatherhood! Tim recently left his acting role on Neighbours, which films in Melbourne, after two years of playing wealthy businessman Pierce Greyson in the soap
+
+'My responsibilities as a husband and father have to take precedence': Tim announced his 'gut-wrenching decision to depart Neighbours' in August
+
+Tim recently left his acting role on Neighbours, which films in Melbourne, after two years of playing wealthy businessman Pierce Greyson in the soap. 
+
+The former Bachelor was originally scheduled to film his final scenes in September.
+
+However, due to COVID-19 travel restrictions, the 37-year-old wrapped four weeks early so he could return to Sydney to be with pregnant wife Anna.
+
+Tim's filming requirements for Neighbours forced him and Bondi-based lawyer Anna into a long-distance relationship. 
+
+After spending most of Anna's pregnancy in Melbourne, where Neighbours is filmed, Tim said in August he had finally been forced to choose between his career and his responsibilities as an expectant father. 
+
+'I made the gut-wrenching decision to depart Neighbours early as my responsibilities as a husband and father have to take precedence,' he said.
+
+It's unclear if Tim hopes to return to acting after their baby is born. 
+
+On the move? The couples' extended stay in Byron Bay sparked rumours they may have temporarily moved to the town frequented and favoured by Hollywood's megastars
+
+Soon-to-be parents! Tim and Anna's little girl is due in November 2020
+
+Tim and Anna's little girl is due in November 2020, but at the beginning of the year Anna told The Daily Telegraph that they don't plan on stopping at just one child.
+
+'It has always been on our mind but we are getting older, not that we are old but we want to have hopefully more than one kid,' Anna said.
+
+'It is something we are both very keen on.'
+
+'It is something we are both very keen on': Anna told The Daily Telegraph  earlier this year that the couple don't plan on stopping at just one child
+
