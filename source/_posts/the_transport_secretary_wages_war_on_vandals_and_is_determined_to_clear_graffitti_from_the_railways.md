@@ -1,0 +1,52 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/15/00/33183830-0-image-a-60_1600125507073.jpg 
+title: The Transport Secretary wages war on vandals and is determined to clear graffitti from the railways 
+description: The Transport Secretary Grant Shapps is determined to tackle vandalism and has pledged to clear graffitti from roads and railways, as he he backs the Great British September Clean 
+date: 2020-09-15-01-56-08 
+categories: [latest, news] 
+featured: true 
+--- 
+ The writing could be on the wall for graffiti – or at least it will be if Grant Shapps gets his way.
+
+The Transport Secretary has pledged to end the blight of spray-painted messages defacing roads and railways as he backs the Great British September Clean.
+
+Network Rail already spends millions each year on a cleaning blitz and anti-graffiti measures.
+
+But Mr Shapps says more needs to be done.
+
+In a letter to the rail network company's chief executive Andrew Haines yesterday, he called for long-term plans to rectify the issue including a review of response times to tackling vandalism.
+
+Grant Shapps backs the Great British September Clean and wants no more graffitti on roads and railways
+
+Graffiti on the railway can be unsightly, makes passengers feel unsafe and, if not dealt with quickly, can lead to further crime, Mr Shapps said.
+
+Vandals often put their lives in danger trying to 'tag' difficult to reach areas, and can cause significant delays for passengers.
+
+'Britain's railways have a long and distinguished history and as a national asset are worthy of pride,' he wrote. 'I want us as a nation, particularly as we continue our focus on improving developing our national infrastructure as we recover from Covid-19, to feel proud by ensuring that they are maintained to a high standard.
+
+'The blight of graffiti, however, can have an impact on the confidence of passengers as they return to safely using the railway.
+
+'I will be pleased to take part in the launch of further action against graffiti in the future.'
+
+Earlier this year Network Rail allocated an additional £1 million towards a graffiti blitz on top of its annual £3.5million of anti-vandalism measures. Highways England has also undertaken a lockdown clean-up, removing 33 per cent more graffiti along roads compared to the same time last year.
+
+The Transport Secretary says 'more needs to be done' while painting over graffitti in London
+
+Yesterday Mr Shapps visited London Bridge to see anti-graffiti measures put in place.
+
+He also commended the Great British September Clean – organised by environmental charity Keep Britain Tidy and backed by the Daily Mail – which has entered its second week. 'I want to thank the Daily Mail for their continued campaigning in support of The Great British September Clean, encouraging this country to tackle littering and take pride in our public spaces,' he said.
+
+'People deserve roads and railways that are not blighted by graffiti and vandalism, and I want to back this brilliant campaign with a renewed effort to preserve the integrity of our transport network.
+
+'With extra investment to remove graffiti from our roads and railways, we are doubling our efforts to fight this issue and keep Britain tidy.' The campaign, which has also been backed by the likes of Boris Johnson and the National Trust, got off to a fantastic start this weekend with people up and down the country joining the fight on litter.
+
+'People deserve roads and railways that are not blighted by graffiti and vandalism' Mr Shapps said
+
+Richard McIlwain, deputy chief executive of Keep Britain Tidy, said: 'We would encourage everyone to do their bit to help clean up the country and, during the Great British September Clean, ridding our transport network of the graffiti would be a positive step towards creating a better environment for everyone. Places that are covered in graffiti, particularly low-grade tagging, signal to the community at large that an area is unloved and uncared for and leads to increases in other environmental crimes such as littering and fly-tipping.
+
+'We would urge everyone who is responsible for looking after our transport network to keep it graffiti and litter-free.'
+
+ The Great British September Clean runs until September 27. For more information, or to pledge to take part, visit: keepbritaintidy.org/gbseptemberclean
+
