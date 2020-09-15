@@ -1,0 +1,52 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/15/04/33190468-0-image-a-59_1600141999719.jpg 
+title: MAFS star Jonethen Musulin reveals how romance with new girlfriend was EIGHT YEARS in the making 
+description: Married At First Sights 2020 groom Jonethen Musulin debuted his new girlfriend - Lilli Newman - this week on social media.  
+date: 2020-09-15-05-02-03 
+categories: [latest, tv] 
+featured: true 
+--- 
+Married At First Sight's 2020 groom Jonethen Musulin debuted his new girlfriend - Lilli Newman - this week on social media. 
+
+And the former reality TV star is grateful to have found his 'perfect match' - this time without the help of MAFS' resident relationship 'experts'.   
+
+Speaking to Daily Mail Australia on Tuesday, Jonethen said of Lilli: 'She's beautiful, funny, what more could I want - she's the perfect match for me.'
+
+Scroll down for video 
+
+EXCLUSIVE 'She's my perfect match': MAFS star Jonethen Musulin has revealed how his romance with new girlfriend Lilli Newman was EIGHT YEARS in the making
+
+The 28-year-old rose to fame earlier this year as a groom on MAFS. He was 'married' to Connie Crayden, but the couple chose to leave the social experiment single when they filmed their final vows last December.  
+
+'I didn’t think I could laugh so much with my partner,' Jonethen said of finding love after reality TV with someone he gels with. 
+
+The Queensland-based FIFO worker claimed their romance had been almost a decade in the making.
+
+'We’ve been basically inseparable': The Queensland-based FIFO worker boasted about how beautiful and funny Lilli is to Daily Mail Australia
+
+'Lilli has always worked away': It's believed Lilli works internationally as a dancer and performer, often on cruise ships
+
+'We’ve known each other for about eight years, but Lilli has always worked away,' he said of his professional dancer girlfriend.
+
+However, Jonethen said she returned home amid the coronavirus pandemic, which gave him the opportunity to court her.  
+
+'It gave me the chance to finally take her on a date, eight years in the making. The date went amazing, and since then we’ve been basically inseparable,' he said.
+
+Shortly after making his new relationship Instagram official on Sunday, many of his former co-stars commented congratulatory messages.
+
+KC Osborne commented 'Y’all are a bit cute', Ivan Sarakula wrote 'Big statement', while Steve Burley simply showed his support with three heart emojis.   
+
+Rise to fame: Jonethen (right) appeared on Married At First Sight's seventh season in 2020, where he wed stranger Connie Crayden (left) 
+
+Saying goodbye: The couple separated during their final vows, after weeks of Connie being the only one to vote stay at the commitment ceremonies 
+
+Jonethen and MAFS 'ex-wife' Connie called it quits at their final vows after weeks of Connie being the only one to vote stay at the commitment ceremonies.
+
+She delivered an empowering speech about self-love, and thanked her 'husband' for helping her to become a strong, confident woman.
+
+During a March appearance on Today Extra, Connie confessed she had 'called it quits on the friendship' a few months after filming their final vows in December. 
+
+Done: During a March appearance on Today Extra, Connie confessed she had 'called it quits on the friendship' with Jonethen a few months after filming their final vows in December
+
