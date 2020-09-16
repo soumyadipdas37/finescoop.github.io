@@ -1,0 +1,48 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/16/01/33233146-0-image-a-26_1600217414123.jpg 
+title: Australians can check nearby petrol prices on an app to hunt for cheapest deals 
+description: The premise is that a driver could check the map before filling up, and would be able to drive to the cheapest petrol station rather than the closest. 
+date: 2020-09-16-02-30-30 
+categories: [latest, news] 
+featured: true 
+--- 
+Australian motorists will soon have access to apps which will allow them to search for the cheapest petrol stations in real time.
+
+South Australians and Tasmanians will now reap the benefits of new legislation which requires petrol stations to report fuel prices to customers online.
+
+Consumers will be able to log into the app and check fuel prices in their local area, which could potentially save hundreds of dollars a year.
+
+Drivers will be able to check the map before filling up, and will be able to drive to the cheapest petrol station rather than the closest. 
+
+The premise is that a driver could check the map before filling up, and would be able to drive to the cheapest petrol station rather than the closest
+
+Motorists in New South Wales, Western Australia, the Northern Territory and Queensland have already had access to the state-based apps, but Victoria and the Australian Capital Territory are yet to agree to the service.
+
+'Sorry to kick Dan when he's down... Come on Dan, lets get on board,' Joel Gibson from Nine Saver told Today on Wednesday morning.
+
+'It's a fantastic idea, it's happening already in NSW, the NT, Queensland is doing a trial... the hold out now is Victoria.' 
+
+According to the ACCC, fuel price transparency and giving consumers the opportunity to bargain hunt could save up to $275million annually.
+
+In Sydney, a motorist could expect to save at least $343 per year, while the figure for Melburnians could be closer to $148.
+
+Consumers will be able to log into the app and check fuel prices in their local area, which could potentially save hundreds of dollars a year
+
+'Sorry to kick Dan when he's down... Come on Dan, lets get on board,' Joel Gibson from Nine Saver told Today on Wednesday morning after revealing that Victoria is yet to agree to the service
+
+The apps have previously shown examples of a price difference up to 50c per litre in some cases
+
+Brisbane drivers could expect to pocket an additional $229, those in Perth are expected to save $211 and those living in Adelaide will save $159. 
+
+These figures could change depending on the price difference between different petrol stations within a person's vicinity.
+
+The apps have previously shown examples of a price difference up to 50c per litre in some cases.
+
+The South Australian government reportedly agreed to get on board with the development after the Productivity Commission determined it could save consumers at least $5million annually within the state. 
+
+Griffith University, in Queensland, estimates the saves in southeast Queensland alone are about $14million.   
+
+Brisbane drivers could expect to pocket an additional $229 while Perth's savings would be $211 and Adelaide's $159
+
