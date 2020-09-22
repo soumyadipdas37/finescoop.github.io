@@ -1,0 +1,48 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/22/23/33500302-0-image-a-17_1600812791779.jpg 
+title: Charli XCX displays her toned pins in activewear shorts after massage treatment in Los Feliz 
+description: The Fancy hitmaker, 28, displayed her svelte frame in Nike running shorts and a hoodie after getting a massage in Los Feliz on Tuesday. 
+date: 2020-09-23-00-36-32 
+categories: [latest, tv] 
+featured: true 
+--- 
+She has been spending the coronavirus pandemic with her boyfriend, Huck Kwong, by her side.
+
+But Charli XCX took a moment for herself on Tuesday as she was seen departing Massage Envy in Los Feliz. 
+
+The Fancy hitmaker, 28, displayed her svelte frame after indulging in an afternoon of self-care as she headed back to her vehicle in the Los Angeles carpark. 
+
+Solo outing: Charli XCX took a moment for herself on Tuesday as she was seen departing Massage Envy in Los Feliz
+
+Charli wore a pair of Nike shorts which she paired with a black hoodie with the name of the hip hop group, Beastie Boys, etched on the front.
+
+She sported a pair of spotless white trainers and a matching face mask as she prioritised safety. 
+
+The songstress added a splash of colour with fashionable orange shades and she styled her raven tresses in a sleek bun. 
+
+Charli displayed her porcelain complexion as she decided to go makeup-free and was spotted with patches on her neck, most likely from her treatment. 
+
+Slender pins: The Fancy hitmaker, 28, displayed her svelte frame after indulging in an afternoon of self-care as she headed back to her vehicle in the Los Angeles carpark
+
+Earlier this month, it was revealed that the recording artist obtained a temporary restraining order against an allegedly obsessed fan who broke into her Los Angeles home and got naked.
+
+The English singer claimed the Wisconsin man tried to visit her twice, and during his second trip stripped down, jumped in her hot tub and strolled around her bedroom, according to an article by TMZ.
+
+Charli, in her filing seeking the court order, claimed the man has sent her hundreds of disturbing messages on social media.  
+
+Cut a casual figure: Charli wore a pair of Nike shorts which she paired with a black hoodie with the name of the hip hop group, Beastie Boys, etched on the front
+
+Protected: She sported a pair of spotless trainers and a matching white face mask as she prioritised safety
+
+He allegedly went to her Los Angeles home on August 24 and 25 with security footage capturing him on video.
+
+Charli was not at home when the man allegedly broke in, according to court documents.  
+
+The temporary restraining order requires the man to stay at least 100 yards away from the singer, her car, her job and her home.
+
+The court-ordered protection was granted as Charli put her 1920s home in the Hollywood Hills area of Los Angeles up for sale.
+
+Scary! Earlier this month, it was revealed that Charli obtained a temporary restraining order against an allegedly obsessed fan who broke into her LA home and got naked 
+
