@@ -1,0 +1,52 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/23/16/33534084-0-image-a-70_1600876093835.jpg 
+title: Prince William and Kate Middleton appoint Zeinab Badawi as Royal Foundation director 
+description: The Duke and Duchess of Cambridge, both 38, have appointed BBC Sudanese-British broadcaster Zeinab Badawi, 61, as a director for their Royal Foundation today. 
+date: 2020-09-23-17-02-25 
+categories: [latest, latest] 
+featured: true 
+--- 
+The Duke and Duchess of Cambridge have appointed BBC broadcaster Zeinab Badawi as a director for their Royal Foundation.
+
+Prince William and Kate Middleton, both 38, selected the Sudanese-British broadcaster, 61, who is an Oxford University graduate and has spent years working for the BBC, to join the team heading up their organisation. 
+
+Projects that Zeinab will likely oversee include the couple's Royal Foundation Covid-19 Response Fund, which was launched in July 2020 and helps a range of projects, from ensuring all emergency workers have access to individual grief trauma from Hospice UK, to helping early years charity Best Beginnings support an extra 20,000 new mothers.   
+
+According to the Court Circular, the presenter met with the Duchess yesterday at Kensington Palace, with royal reporter Rebecca English confirming news of the appointment on Twitter this afternoon.
+
+The Duke and Duchess of Cambridge, both 38, have appointed BBC broadcaster Zeinab Badawi as a director of their Royal Foundation
+
+She studied Philosophy, Politics and Economics at Oxford University and obtained a Masters Degree (with distinction) in Middle East History and Anthropology from SOAS 
+
+She has also been named several times in Powerlist as one of Britain’s top 100 most influential members of the black community and has been named as one of the Top 50 Most Influential Members of the African Diaspora.
+
+The broadcaster is a trustee of BBC Media Action (the charitable broadcasting company's charity), as well as the Chair of the Royal African Society, of which the Duke of Cambridge is patron.
+
+She was the first presenter of the ITV Morning News, and co-presented Channel 4 News with Jon Snow from 1989 to 1998, before joining BBC News. 
+
+The Sudanese-British broadcaster, who is an Oxford University graduate and has spent years working for the BBC, has been chosen by the royals to join the team heading up their organisation
+
+The news comes as it emerged Simon Case, who was Prince William's private secretary, has resigned as a trustee of the foundation. 
+
+Simon spent almost two years working as Prince William's right-hand man before temporarily moving to Downing Street earlier this year to assist with the coronavirus response. 
+
+Earlier this month he was confirmed as the youngest head of the civil service in living memory. 
+
+It comes as news emerged that Simon Case, who was Prince William's private secretary, has resigned as a trustee of the foundation
+
+The appointment of the 41-year-old, who officially started on September 9 and said he was 'honoured', represented the latest stage in the Government's dramatic shake-up of Whitehall. 
+
+Last July the Cambridges announced their former communications secretary Jason Knauf would become the chief executive of the organisation, when Lorraine Heggessey stood down in the autumn. 
+
+The Royal Foundation became the 'principle charitable vehicle for The Duke and Duchess of Cambridge' from October 1, after the Duke and Duchess of Sussex broke away from the foundation last year.  
+
+The Royal Foundation was set up by William and Harry in 2009 to run all their charitable campaigns and ventures, with Kate joining in 2011 and Meghan joining in 2018, before she and Prince Harry split last year 
+
+The Foundation had an income of £7.83million in 2018, on top of £9million in 2017.
+
+The Royal Foundation was set up by William and Harry in 2009 to run all their charitable campaigns and ventures, and joined by Kate when she became Duchess of Cambridge in 2011.
+
+The Foundation focuses on issues such as helping young people, wildlife conservation, cyberbullying and supporting the military. 
+
