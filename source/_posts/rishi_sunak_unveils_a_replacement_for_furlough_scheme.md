@@ -1,0 +1,206 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/09/24/22/33590746-0-image-a-39_1600982381816.jpg 
+title: Rishi Sunak unveils a replacement for furlough scheme 
+description: Chancellor Rishi Sunak said the Jobs Support Scheme (JSS), a form of wage subsidy, would be brought in after furlough is wound down at the end of next month - and last until May. 
+date: 2020-09-24-22-44-59 
+categories: [latest, news] 
+featured: true 
+--- 
+Rishi Sunak yesterday unveiled his plan to replace furlough with a scheme to top up workers' wages – only for businesses to warn it would not prevent major job losses.
+
+The Chancellor said the Jobs Support Scheme (JSS), a form of wage subsidy, would be brought in after furlough is wound down at the end of next month – and last until May.
+
+It could benefit millions, but is far less generous than the furlough scheme – with the state's contribution falling from 80 per cent of a worker's wages to a maximum of just 22 per cent.
+
+And it leaves employers potentially having to hand over more than half of their employees' pay – though they may only be working a third of their hours.
+
+
+
+The CBI last night welcomed the scheme as a 'bold step' that would help to reduce the 'scarring effect' of unnecessary job losses on the economy. 
+
+Small businesses will have more time to pay back Government-backed loans in a 'pay as you grow' scheme, the Chancellor announced yesterday.
+
+Companies which have taken a coronavirus 'bounce-back' loan will be given several more years to pay them off, and be able to defer their tax bills.
+
+Rishi Sunak said these companies would have the right to pause repayments for up to six months without it affecting their credit rating. 
+
+'Right now, businesses need every extra pound to protect jobs, rather than repaying loans and tax deferrals,' he told MPs.
+
+Almost 1.3 million companies have borrowed £38 billion through the bounce-back loan scheme since May, giving some a vital lifeline as business dried up.
+
+ These firms will now be given ten years to pay off the loans of up to £50,000, an increase from the former six-year terms. 
+
+
+
+But other business groups and bosses warned that it was nowhere near enough to prevent a wave of redundancies this autumn when furlough ends.
+
+The Treasury believes take-up will be anything between two and five million people. At the top end, the scheme could cost £9billion over six months.
+
+The Institute for Fiscal Studies (IFS) also warned it was 'significantly less generous' than furlough which has cost around £6billion a month, compared with the £300million cost of this scheme if one million workers take it up.
+
+Yesterday, Mr Sunak told MPs the furlough scheme could not continue indefinitely, and that he could not commit to saving every job – indicating that many would lose theirs once the JSS comes in.
+
+The Chancellor said the JSS would 'directly support the wages of people in work, giving businesses that face depressed demand the option of keeping employees in a job on shorter hours, rather than making them redundant'.
+
+In his statement, Mr Sunak said the economy was likely 'to undergo a more permanent adjustment,' adding: 'The sources of our economic growth and the kinds of jobs we create, will adapt and evolve to the new normal.'
+
+But Jane Pendlebury, head of the Hospitality Professionals Association, said: 'The latest measures, whilst offering support, don't really go far enough given the fact the industry genuinely is on its knees.
+
+'While we're pleased to see the implementation of the Job Support Scheme... it still won't prevent major job losses.'
+
+Unlike the furlough scheme, which protected all jobs, the JSS will only prop up 'viable' ones – meaning staff must work at least a third of their hours to qualify.
+
+A worker doing a third of their hours will be paid for these by their employer as usual. 
+
+Carol Stewart, 62, will no longer face being sacked by her son under the Chancellor's Job Support Scheme
+
+On top of that, they will receive two-thirds of the remainder of their wages.
+
+Half of this top-up payment will be paid by the employer, and the other half by the Government.
+
+Overall, it means the person receives almost 78 per cent of their original wage, with 55.5 per cent coming from the employer and 22.2 per cent from the state. These percentages change if a person works more hours.
+
+The arts sector faces a 'grim future' of unprecedented redundancies, despite the new job support scheme, Tory MPs have warned.
+
+The sector has been one of the worst hit by the pandemic, with all live performances stopped.
+
+Nearly half of all workers in the arts have been furloughed, and many could lose their jobs at the end of the scheme next month. 
+
+Last night, the chairman of the digital, culture, media and sport select committee, Julian Knight, welcomed the new scheme, but added: 'It still leaves many hundreds of thousands of workers in events, arts and cultural parts of the economy with a grim future.
+
+'The job support scheme may not be able to stop unprecedented redundancies and many organisations from facing extinction.'
+
+
+
+For example, those working half their hours will receive 83 per cent of their wage, with the Government committing 17 per cent.
+
+All firms with 250 employees or fewer will be eligible for the wage support concept, which starts in November and runs for six months, but larger businesses will have to prove their profits have been hit by the pandemic.
+
+The payment will be based on an employee's normal salary, with the Government contribution capped at £697.92 per month.
+
+After three months, the Government can increase the minimum number of hours that must be worked to qualify. 
+
+Eligible employees must have been on the payroll since at least September 23.
+
+However, Treasury rules say workers cannot be made redundant or put on notice while a Jobs Support Scheme grant is being claimed on their behalf.
+
+As with the furlough scheme, employers will be reimbursed by the Government after the work has been done.
+
+Employers who keep furloughed staff on to take advantage of the scheme will also receive the £1,000 job retention bonus.
+
+Dame Carolyn Fairbairn, director general of the CBI, said: 'These bold steps from the Treasury will save hundreds of thousands of viable jobs this winter.'
+
+But Paul Johnson, director of the Institute for Fiscal Studies, said: 'When the furlough scheme expires that is likely to translate into sharply rising unemployment.'
+
+Yesterday the Bank of England's chief economist, Andy Haldane, told ITV Tonight that 'long-term scars' could be left on the economy if people remained unemployed for too long because of the pandemic. 
+
+Thanks, Rishi, but this is nowhere near enough
+
+By Miles Dilworth Money Mail Reporter
+
+Peter Hall Peter Hall, 72, who runs Farlam Hall Country House Hotel in Brampton, Cumbria, with his wife Bb, 67
+
+A luxury hotel manager said the Chancellor's VAT break is 'nowhere near enough' to make up for new restrictions on the hospitality sector.
+
+Peter Hall, 72, who runs Farlam Hall Country House Hotel in Brampton, Cumbria, with his wife Bb, 67, praised Rishi Sunak for his generosity.
+
+Mr Hall said the VAT cut from 20 per cent to 5, which began in July, had allowed the hotel to offer 'better deals than ever before'.
+
+He welcomed yesterday's news that the break would be extended until March 31. But he said Boris Johnson had 'effectively cancelled Christmas' by imposing limits on numbers and a 10pm curfew.
+
+And under the Chancellor's Job Support Scheme, Carol Stewart no longer faces being sacked by her son.
+
+Mrs Stewart, 62, who works at travel goods company OneNine5, furloughed by son Alex, 31, in March – and faced potential redundancy when the scheme ends in October.
+
+Mrs Stewart, of Garstang, Lancashire, said she felt 'edgy' about her job security before yesterday.
+
+But the plan to subsidise the pay of staff working fewer hours than normal means she will be able to return to work.
+
+So just how on earth do we pay the bill? Rishi Sunak now finds himself trying to pull off a difficult balancing act, writes RUTH SUNDERLAND
+
+The plunge back into lockdown has left the Chancellor with a near-impossible task.
+
+Previous rescue packages were based on the hope that by now, we would be emerging from the Covid crisis and going back to normal.
+
+Instead, Rishi Sunak finds himself trying to pull off a fiendishly difficult balancing act.
+
+His aim is to wean businesses off the hugely expensive furlough scheme, which has kept many afloat artificially and has been supporting 'zombie' jobs.
+
+He has to stem the tide of taxpayers' money flowing out of the coffers and fend off the worst peacetime budget crisis in modern history.
+
+At the same time, he wants to protect jobs that are viable, given some short-term aid.
+
+Chancellor Rishi Sunak with Frances O'Grady, General Secretary of the TUC and Dame Carolyn Julie Fairbairn, Director General of the CBI 
+
+So what are the measures, will they work and the all-important question: how on earth will we pay the bill?
+
+National debt stands at £2trillion and counting so it is testament to Mr Sunak's competence and sangfroid that he injected a note of optimism that we can thrive if we just learn to live with the virus.
+
+The centrepiece of the winter economic plan is the Job Support Scheme. Billed as the successor to furlough, it aims to prop up firms facing a drop in demand due to the virus.
+
+It also ends the undesirable element of furlough whereby millions of employees were paid by the taxpayer to do nothing. 
+
+The new scheme is much less generous. For a start, no-one will be paid to remain totally idle: it is only available for staff putting in at least a third of their normal hours.
+
+Employers will pay full wages as normal when staff are at their posts. They will also pay a third of the bill when people are not working, with the Government paying another third.
+
+Unfortunately, it leaves employers far worse off than under furlough and in the invidious position of having to pay staff wages for time off when they aren't producing anything.
+
+The scheme is meant to be temporary and it certainly could not be sustained long-term.
+
+Shelling out wages in return for zero productivity would torpedo any bottom line.
+
+A recently closed House of Fraser store on Richmond High Street in London
+
+Employees, too, are out of pocket unless their company pays the remaining third of their normal salary. 
+
+Yes, it is better than having no job at all, but it also means reduced spending power and confidence, which will hold back the economic recovery.
+
+And it may not be possible to tell the difference between a 'viable' and an 'unviable' job. It seems inevitable that, as with furlough, many firms will sign up for the support and end up having to sack people anyway. 
+
+In already highly stressed sectors, such as retail and hospitality, there have to be severe doubts over whether firms will feel they can afford to participate.
+
+Many businesses have already started redundancy consultations and it is doubtful whether this will be enough to make them relent.
+
+The Chancellor did not provide costings for the Job Support Scheme but it is plain it is vastly less generous than furlough.
+
+The subsidy equates to around 22 per cent of an employee's salary if they are only working a third of normal hours, compared to 80 per cent under the furlough scheme when it was first deployed.
+
+That is a big extra cost to employers. Put it another way, independent economists estimate the bill for the new measure could add up to around £3billion, which sounds a lot but is a mere fraction of the £35billion so far for furlough. 
+
+The self-employed will also see their help taper off in the coming months.
+
+The Chancellor did not provide costings for the Job Support Scheme but it is plain it is vastly less generous than furlough
+
+Measures include an extension of the temporary VAT cut for hospitality and tourism to the end of March next year, which is welcome and will help cashflow.
+
+Businesses that have taken on subsidised emergency borrowings are being given longer to pay them back.
+
+The length of these loans has been extended from six years to ten, which will dramatically cut monthly repayments.
+
+The sting in the tail is that firms will be burdened with debt for longer, which means they have less scope to invest in future and will act as a drag on the economy in years to come.
+
+None of this is to say the Chancellor has done the wrong thing. He was right to launch a huge lifeboat for the economy in the spring and he is right to extend a further helping hand now.
+
+Painful as it may be, businesses and individuals do need to be weaned off the ultra-generous schemes that have been provided thus far.
+
+Some will inevitably go to the wall, which is awful for those concerned. But the Chancellor is not in the business of illusory magic money trees: he wants to help firms with strong roots and real prospects to grow.
+
+He cannot countenance writing blank cheques until a vaccine arrives, if it ever does.
+
+The public finances are already shot to smithereens.
+
+Government borrowing is already forecast to hit £300billion this year and following the announcements yesterday, some economists are predicting it could rise as high as £370billion.
+
+One small consolation is that we are fortunate we went into this with strong public finances.
+
+And the surge in borrowing, though the bald numbers look alarming, is actually not an imminent problem. Interest rates are low, our national credit rating is good and the Bank of England can carry on printing money.
+
+Ominously, however, Mr Sunak intimated he will be making 'difficult decisions' in the future, in other words, tax rises and spending cuts.
+
+But we cannot tax a battered economy back to health. Nor will taking an axe to Government spending, desirable though it may be for other reasons, create a burst of prosperity.
+
+We need to grow our way out of trouble. That means learning to live with the virus, opening up the economy and conquering our fear.  
+
