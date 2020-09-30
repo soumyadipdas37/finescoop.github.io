@@ -20,7 +20,7 @@
 		"@type": "ImageObject",
 		"url": "{{ $page->image ?? '/assets/images/breaking.jpg' }}",
 		"height": "382",
-		"width":"636"
+		"width": "636"
 	},
 	"author": {
 		"@type": "Person",
@@ -29,11 +29,11 @@
 	"mainEntityOfPage": {
 		"@type": "WebPage", 
 		"@id": "{{ $page->getUrl() }",
-		"name":"{{ $page->description }}"
+		"name": "{{ $page->description }}"
 	},
 	"publisher": {
-		"@type":"Organization", 
-		"name":"Finescoop",
+		"@type": "Organization", 
+		"name": "Finescoop",
 		"logo": {
 			"@type": "ImageObject",
 			"url": "http://finescoop.com/assets/images/logo.svg",
