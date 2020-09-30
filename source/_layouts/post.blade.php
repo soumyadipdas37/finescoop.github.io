@@ -12,6 +12,41 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@finescoop" />
     <meta name="twitter:creator" content="@finescoop" />
+    <script type="application/ld+json">
+    {
+  	"@context": "https://schema.org",
+	"dateModified": "2020-09-30T01:30:56+0100",
+	"image": {
+		"@type": "ImageObject",
+		"url": "{{ $page->image ?? '/assets/images/breaking.jpg' }}",
+		"height": "382",
+		"width":"636"
+	},
+	"author": {
+		"@type": "Person",
+		"name": "By Finescoop"
+	},
+	"mainEntityOfPage": {
+		"@type": "WebPage", 
+		"@id": "{{ $page->getUrl() }",
+		"name":"{{ $page->description }}"
+	},
+	"publisher": {
+		"@type":"Organization", 
+		"name":"Finescoop",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "http://finescoop.com/assets/images/logo.svg",
+			"width": "350",
+			"height": "60"
+		}
+	},
+	"datePublished": "2020-09-30T00:38:14+0100",
+	"@type": "NewsArticle", 
+	"description": "{{ $page->description }}",
+	"headline": "{{ $page->title }}"
+}
+</script>
 @endpush
 
 @push('header')
