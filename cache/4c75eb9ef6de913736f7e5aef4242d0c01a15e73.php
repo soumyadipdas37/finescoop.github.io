@@ -1,0 +1,105 @@
+<?php $__env->startSection('content'); ?><p>Sometimes the best things in life are right under your nose.</p>
+
+<p>And that's the case with Northern France, that bit Britons normally fly over or zoom past on the Eurostar on their way to Paris or Provence. Here Jane Knight uncovers the very best that the region has to offer, from brilliant beaches to delightful towns and eye-popping cathedrals... but remember, the FCO may well warn against travelling there for leisure in the very near future.</p>
+
+<p>Bayeux and the D-Day beaches</p>
+
+<p>Honfleur is 'particularly charming', writes The Mail on Sunday's Jane Knight. Pictured is a shop in the old town </p>
+
+<p>The Bayeux Tapestry might be coming to England in 2022 – for the first time in 950 years – but why wait, when you can see it in the cobbled half-timbered town of the same name that is sprinkled with appealing wine cellar/bistros such as Le Volet Qui Penche? Tick off the embroidered 230ft story of William the Conqueror’s invasion of England in 1066 then visit his birthplace in the Chateau de Falaise and his tomb in the Abbaye aux Hommes in Caen.</p>
+
+<p>Bayeux’s Musee Memorial de la Bataille de Normandie is a good place to start understanding a different invasion – the Allied offensive along Normandy’s beaches to liberate France, which started on June 6, 1944.</p>
+
+<p>The price that was paid can be seen at Bayeux’s Commonwealth cemetery and at Omaha Beach, where the American cemetery is home to 9,400 white marble crosses.</p>
+
+<p>The beaches of Omaha, Utah, Sword, Gold and Juno are now the haunts of sunseekers, although the marks of war are still visible. At Arromanches-les-Bains you can see the huge concrete blocks remaining from the Mulberry harbours which were towed across from Britain ahead of the invasion.</p>
+
+<p>For coastal chic, head east of Caen to Deauville to see its boardwalk and beach huts bearing the names of Hollywood A-listers. Honfleur, with its much-painted colourful harbour, is particularly charming.</p>
+
+<p>Don’t miss: This is calvados country, with plenty of local producers to visit. See the distillation process in the 16th Century Chateau du Breuil, where the cider passes in a long overland pipe into two huge alembics (stills). Breuil is near Pont-l’Eveque, of cheese fame.</p>
+
+<p>Stay: In Bayeux, Hotel Particulier Poppa has four simple but pleasant rooms and a private garden, with B&amp;B doubles from €90 a night (hotel-poppa.com). On the coast, Chateau la Cheneviere is set in exquisite gardens, with doubles from €286 a night (lacheneviere.com). In Honfleur, try the immaculate Relais &amp; Chateau La Ferme Saint Simeon, in a restored 17th Century inn, with doubles from €250 a night (fermesaintsimeon.fr).</p>
+
+<p>Saint-Malo and Mont-Saint-Michel</p>
+
+<p>Spectacular citadel: The imposing Mont-Saint-Michel with its massive ramparts</p>
+
+<p>Of all the Channel ferry ports, Saint-Malo is THE one to linger in. Its ramparts, built to fend off pirates and invaders, make a scenic walk, it has a maze of medieval streets and beautiful sandy beaches. Don’t forget the crepes and oysters you can feast on everywhere, washed down with cider.</p>
+
+<p>In the bay, the pretty islands of Petit Be and Grand Be can be reached at low tide. Take the ferry across the estuary to the elegant seaside resort of Dinard.</p>
+
+<p>Thirty minutes south lies Dinan, with cobbled streets and half-timbered houses. It is also the base for Le Boat if you want to take a three-night break on the water (leboat.co.uk). The big hitter in the bay is Mont-Saint-Michel, with a 350-step climb to reach the abbey. Refuel at La Mere Poulard, which specialises in fluffy omelettes made in a copper pan, or return to the mainland to La Ferme St Michel for lamb pre-sale – a dish made from lambs raised on the salty grass around the bay.</p>
+
+<p>Don’t miss: The oyster capital of Cancale has a daily market plus great views of the bay. At Cherrueix you can take the Train Marin on a two-hour tour to see mussel farmers at work.</p>
+
+<p>Stay: Hotel du Colombier, built by a manager of the East India Company, makes a great base, in peaceful countryside just ten minutes from St Malo. Its double rooms are from €172 a night (saintmalohotelcolombier.com). Alternatively, the 18th Century Chateau de Chantore has views of Mont-Saint-Michel from its gardens and B&amp;B doubles from €180 a night (chateaudechantore.com).</p>
+
+<p>Countryside and Camembert in the Orne</p>
+
+<p>The giant Percheron horses, which you can see at the national equestrian stud of Haras du Pin</p>
+
+<p>About 90 minutes from Caen is the heart of the Perche regional park, an area full of green spaces for hiking, biking and riding as well as interesting antique shops (try Belleme for some good finds).</p>
+
+<p>There are plenty of foodie forays in the area, too, starting with pretty Mortagne-au-Perche, home of boudin noir – the French take on black pudding. At Hotel du Tribunal they serve it in a crumble with cranberries and cassis. Or drive north to the Orne and the village of Camembert. In nearby Vimoutiers, a museum recounts the story of Marie Harel, who developed the famous cheese with the help of a priest she sheltered from Brie during the revolution. You can tuck into roast camembert in Le Soleil D’Or on the square.</p>
+
+<p>Don’t miss: The Perche is horse country, home to the massive Percheron breed, which you can see at the national equestrian stud of Haras du Pin. Every Thursday in summer there is an outdoor show of horses to music, or you can explore the grounds on an e-bike.</p>
+
+<p>Stay: In the heart of the Perche, the nature reserve of Domaine des Butineuses has three bubble tents on the edge of a group of ponds. B&amp;B doubles cost from €150 a night (domainedesbutineuses.fr). Or in Mortagne-au-Perche, Maison Maleyrand is a charming B&amp;B with Louis XV period features, wood-panelled rooms and the old city ramparts running through its garden. B&amp;B doubles from €135 a night (maisonmaleyrand.com).</p>
+
+<p>History and sealife near Calais</p>
+
+<p>A child pictured inside Boulogne-sur-Mer’s Nausicaa aquarium, which is a must-visit attraction </p>
+
+<p>There are plenty of sandy stretches along the coast, of which chic Le Touquet, with its enormous villas in pine forests, is probably the best known</p>
+
+<p>Beyond the concrete and Carrefours of Calais lies possibly France’s most under-rated area, bursting with history, seaside resorts and even a marshland nature reserve.</p>
+
+<p>Start at Azincourt (Agincourt), site of the famous battle in 1415, where the French lost dramatically to the English army, and where they graciously explain why, at the excellent museum.</p>
+
+<p>More recently, Eperlecques’s menacing concrete blockhaus is the base from which Hitler planned to launch deadly V2 rockets. After it was bombed, operations moved to La Coupole just outside St Omer If you can see only one, Eperlecques is better.</p>
+
+<p>Don’t forget the beach: there are plenty of sandy stretches along the coast, of which Le Touquet, with its enormous villas in pine forests, is probably the best known. My pick, though, is Wimereux, with its blue-and-white beach huts and rock pools that are ideal for shrimping.</p>
+
+<p>It’s close to Boulogne-sur-Mer, with its Nausicaa sea aquarium and superb Philippe Olivier cheese shop, and not too far from the quaint fishing village of Audresselles, which has delicious fresh seafood restaurants – on the square, try Retour des Flobards.</p>
+
+<p>Don’t miss: Explore by boat the 430 miles (700km) of waterways in St Omer’s cultivated Audomarois marshland. Spot some of the 200 bird species as you wend your way through what is the country’s cauliflower garden.</p>
+
+<p>Stay: Montreuil-sur-Mer is home to a 16th Century citadel, cobbled streets that inspired Victor Hugo to write Les Miserables and the Chateau de Montreuil (chateaudemontreuil.com), with gourmet restaurant and rooms from €248 (£224) a night. At Wimereux, the Hotel Atlantic has a seafood restaurant and modern seaview rooms with doubles from €140 a night (atlantic-delpierre.com).   </p>
+
+<p>You can’t visit Roscoff without seeing the museum dedicated to the ‘Onion Johnnies’</p>
+
+<p>Onions and islands near Roscoff</p>
+
+<p>You can’t visit Roscoff without seeing the museum dedicated to the ‘Onion Johnnies’ – the bicycle riding, beret wearing Frenchmen who started crossing the Channel in the 19th Century to sell their wares to British households.</p>
+
+<p>Pictures of them are on show at the excellent Creperie de la Poste, which makes a good pit stop, or try the pretty harbour for fresh seafood.</p>
+
+<p>From here, it’s a 15-minute ferry ride to Ile de Batz where you can stroll from the port village to the Georges Delaselle subtropical gardens and the white-sand beaches in the north.</p>
+
+<p>The fortress Chateau du Taureau near Ile Louet can also be visited by boat – keep an eye open for puffins and terns as some islets are part of an ornithology reserve.</p>
+
+<p>Swing west to Plouescat, with its beaches, dunes and granite blocks, or go east across the Bay of Morlaix to the Pink Granite Coast. Visit Carentec at low tide so you can walk to the island of Callot.</p>
+
+<p>Don’t miss: The Cairn de Barnenez just outside Morlaix is Europe’s biggest megalithic burial ground and predates Egypt’s pyramids. The 250ft mound has 11 tombs.</p>
+
+<p>Stay: In Roscoff, the Hotel le Brittany &amp; Spa has a Michelin-starred restaurant as well as a swish spa which has therapies using local seaweed. Doubles in August cost €143 a night (hotel-brittany.com)</p>
+
+<p>Bucketloads of bubbles in Champagne</p>
+
+<p>Magnificent: Pictured is Reims cathedral, where 33 kings of France have been crowned </p>
+
+<p>It’s worth the two-and-a-half hour drive from the Channel Tunnel to the heart of champagne country around Reims and Epernay for a truly decadent break.</p>
+
+<p>Start with a snifter of history in the magnificent Reims cathedral, where 33 kings of France have been crowned, before focusing on the fizz.</p>
+
+<p>Among the big champagne houses with amazing cellar galleries are Pommery, with massive underground chalk reliefs, and Mumm, with 14 miles of cellars.</p>
+
+<p>Soak up the alcohol with steak and chips at Bistro des Anges near Reims cathedral.</p>
+
+<p>There are plenty of picturesque villages in the area, including Hautvillers, where Dom Perignon is buried in the abbey in which he worked as the cellarer. Here, the restaurant/shop Au 36 not only serves lunches of local specialities but also sells champagne at the price you would pay if you bought it directly from the producer.</p>
+
+<p>Don’t miss: In Epernay, with its famous Avenue de Champagne, one of the most innovative champagne houses is Leclerc Briant. Some of its bottles are taken to a secret offshore location and left in the sea for 15 months to give the flavour an added depth.</p>
+
+<p>Stay: For a luxury stay, you can’t do better than Royal Champagne, in rolling vineyards just outside Epernay. B&amp;B doubles are from £454 a night (royalchampagne.com). Or family-run Voirin Jumel in Cramant has pleasant (albeit small) B&amp;B rooms from €54 a night (champagne-voirin-jumel.com).</p>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.post', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>

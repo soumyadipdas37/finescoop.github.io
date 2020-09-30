@@ -1,0 +1,3 @@
+<?php $__env->startSection('content'); ?><p>Our story (Mail Online 24 October) about a toddler being accidentally pricked by dirty needles in a New York hospital wrongly suggested the girl might have to wait six months for a HIV test when modern tests can give an accurate diagnoses from a month after potential infection. There has never been a case of a person being infected with HIV from a discarded needle and HIV.  Also HIV is no longer a 'death sentence' as new treatments mean that people diagnosed with HIV nowadays, if treated early, can expect a near normal life expectancy. </p>
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('_layouts.post', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
