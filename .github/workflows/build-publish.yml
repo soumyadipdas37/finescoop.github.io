@@ -30,3 +30,5 @@ jobs:
                     git subtree split --prefix build_production -b master
                     git push -f origin master:master
                     git branch -D master
+            -    name: Save cache
+                 run: git add -f cache; git commit -m 'update cache'; git push
