@@ -15,7 +15,7 @@ jobs:
             -   name: Install NPM Dependencies
                 run: npm install --cache /tmp/empty-cache
             -   name: Build Site
-                run: npm run production
+                run: ./vendor/bin/jigsaw build -c -v production
             -   name: Create CNAME File
                 run: echo "finescoop.com" >> build_production/CNAME
             -   name: Stage Files
