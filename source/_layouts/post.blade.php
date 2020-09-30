@@ -28,7 +28,7 @@
 	},
 	"mainEntityOfPage": {
 		"@type": "WebPage", 
-		"@id": "{{ $page->getUrl() }",
+		"@id": "{{ $page->getUrl() }}",
 		"name": "{{ $page->description }}"
 	},
 	"publisher": {
