@@ -5,6 +5,7 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => 'http://finescoop.com',
     'production' => false,
+    'cache' => true,
     'siteName' => 'FineScoop',
     'siteDescription' => 'Breaking news',
 		'allcategories' => [
