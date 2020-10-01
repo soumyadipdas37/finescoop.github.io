@@ -1,3 +1,3 @@
-# Newsie
+#Newsie
 
 Automated build process 
