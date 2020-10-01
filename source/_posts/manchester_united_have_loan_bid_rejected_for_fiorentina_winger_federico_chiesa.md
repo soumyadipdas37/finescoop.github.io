@@ -1,0 +1,36 @@
+---
+extends: _layouts.post
+section: content
+image: https://i.dailymail.co.uk/1s/2020/10/01/01/33836452-0-image-a-10_1601511003559.jpg 
+title: Manchester United have loan bid REJECTED for Fiorentina winger Federico Chiesa 
+description: The Old Trafford club still harbour hopes of finalising a deal for Sancho before the transfer window slams shut, however Dortmund have remained steadfast in their valuation of £108million. 
+date: 2020-10-01-01-59-09 
+categories: [latest, sports] 
+featured: true 
+--- 
+Manchester United have had a loan enquiry rejected for Italian winger Federico Chiesa, after the Red Devils failed to make any progress in landing Borussia Dortmund's Jadon Sancho, according to The Telegraph.
+
+The Old Trafford club still harbour hopes of finalising a deal for Sancho before the transfer window slams shut, however Dortmund have remained steadfast in their valuation of £108million for the England star. 
+
+With just five days of the transfer window remaining, United are looking at alternative options on loan. 
+
+Manchester United are reportedly interested in Italian international winger Federico Chiesa
+
+Red Devils are also interested in Ousmane Dembele as another alternative to Jadon Sancho
+
+Serie A side Fiorentina are not interested in loaning out Chiesa - the 22-year-old is wanted by Juventus who are willing to pay around £45m to secure his services permanently.
+
+Watford's Senegalese winger Ismaila Sarr is also only available for a permanent deal with the Hornets having no interest in loaning him out. 
+
+Ole Gunnar Solsjkaer's side retain an interest in taking Barcelona's Ousmane Dembele on a season's loan, however manager Ronald Koeman wants the Frenchman to remain at the Nou Camp.  
+
+Manchester United cruised into the Carabao Cup quarter finals with a comfortable 3-0 win at Brighton on Wednesday night.
+
+Manchester United ran out comfortable 3-0 winners at the Amex in Carabao Cup fourth round
+
+The draw for the next round will take place on October 1, following the conclusion of Liverpool's game against Arsenal. 
+
+Goals from Scott McTominay, Juan Mata and Paul Pogba ensured the encounter was far more comfortable than the Premier League game between the two sides on Saturday.
+
+Brighton hit the woodwork a record five times and United had to rely on a last-gasp penalty from Bruno Fernandes to claim the points at the Amex.  
+
